@@ -1,0 +1,27 @@
+footer {
+  margin: 2rem 0 1rem 0;
+  padding: 1rem 0; 
+}
+
+footer p {
+  margin: 0;
+}
+
+.dropdown-item i {
+  float: right;
+  margin: 2px 0;
+}
+
+.nav-link:hover,
+.dropdown-item:hover {
+  background-color: #343642 !important;
+}
+
+.dropdown-toggle::after {
+  display: none;
+}
+
+.hero-lead a {
+  display: inline-block;
+  margin: 0 auto 0 auto;
+}

@@ -1,0 +1,11 @@
+# Font style metadata
+name = "EMSTONE"
+
+# Optional Google font URL
+google_fonts = "Noto+Sans+KR:400,700|Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "Noto Sans KR, Montserrat"
+body_font = "Noto Sans KR, Roboto"
+nav_font = "Noto Sans KR, Roboto"
+mono_font = "Roboto Mono"

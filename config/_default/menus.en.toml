@@ -1,0 +1,133 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  identifier = "products"
+  name = "Products"
+  url = "products/"
+  weight = 10
+
+[[main]]
+  identifier = "solutions"
+  name = "Solutions"
+  url = "solutions/"
+  weight = 20
+
+[[main]]
+  identifier = "showcase"
+  name = "Showcase"
+  url = "showcase/"
+  weight = 30
+
+[[main]]
+  identifier = "support"
+  name = "Support"
+  url = "support/"
+  weight = 40
+
+[[main]]
+  identifier = "company"
+  name = "Company"
+  url = "company/"
+  weight = 50
+
+#
+# Products
+#
+[[main]]
+  parent = "products"
+  name = "NVR"
+  url = "products/nvr/"
+  weight = 10
+
+[[main]]
+  parent = "products"
+  name = "CMS Station"
+  url = "products/cms/"
+  weight = 20
+
+[[main]]
+  parent = "products"
+  name = "NDS Display Server"
+  url = "products/nds/"
+  weight = 30
+
+[[main]]
+  parent = "products"
+  name = "IP Camera"
+  url = "products/camera/"
+  weight = 40
+
+[[main]]
+  parent = "products"
+  name = "Etc"
+  url = "products/etc/"
+  weight = 50
+
+#
+# Solutions
+#
+[[main]]
+  parent = "solutions"
+  name = "IP Video Wall"
+  url = "solutions/ip-wall/"
+  weight = 10
+
+#
+# Support
+#
+[[main]]
+  parent = "support"
+  name = "Marketing Data"
+  url = "support/#catalog"
+  weight = 10
+
+[[main]]
+  parent = "support"
+  name = "FAQ"
+  url = "support/#faq"
+  weight = 20
+
+[[main]]
+  parent = "support"
+  name = "Tutorials"
+  url = "support/#tutorials"
+  weight = 30
+
+[[main]]
+  parent = "support"
+  name = "YouTube Channel"
+  url = "https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg"
+  post = "<i class='fas fa-external-link-alt' aria-hidden='true'></i>"
+  weight = 70
+
+[[main]]
+  parent = "support"
+  name = "Software"
+  url = "http://nvrsw.com/"
+  post = "<i class='fas fa-external-link-alt' aria-hidden='true'></i>"
+  weight = 80
+
+[[main]]
+  parent = "support"
+  name = "Projects"
+  url = "https://hub.nvrsw.com/"
+  post = "<i class='fas fa-external-link-alt' aria-hidden='true'></i>"
+  weight = 90
+
+#
+# About
+#
+[[main]]
+  parent = "company"
+  name = "About"
+  url = "company/"
+  weight = 10
+
+[[main]]
+  parent = "company"
+  name = "Contact"
+  url = "company/#contact"
+  weight = 30

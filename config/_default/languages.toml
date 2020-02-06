@@ -1,0 +1,29 @@
+# Languages
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
+
+[ko]
+  languageCode = "ko-KR"
+  languageName = "한국어"
+  title = "EMSTONE"
+  baseurl = "http://emstone.co.kr/"
+  contentDir = "content/ko"
+  weight = 1
+  [ko.params]
+    company_email = "sales@emstone.com"
+    company_phone = "1600-5978"
+    company_fax = "02-6675-3699"
+    company_address = "[08381] 서울 구로구 디지털로 29길 38, 에이스테크노타워 3차 309호"
+
+[en]
+  languageCode = "en-us"
+  languageName = "English"
+  title = "EMSTONE"
+  baseurl = "http://emstone.com/"
+  contentDir = "content/en"
+  weight = 2
+  [en.params]
+    company_email = "sales@emstone.com"
+    company_phone = "+82-2-6675-3690"
+    company_fax = "+82-2-6675-3699"
+    company_address = "Ace Techno Tower Ⅲ #309, Digital-ro 29-gil 38, Guro-gu, Seoul, Korea"
