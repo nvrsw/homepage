@@ -17,7 +17,7 @@ hero_media = "youtube-dark.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "#222222"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"

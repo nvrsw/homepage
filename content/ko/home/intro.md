@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "빠르고 쉽고 안정적인 보안 솔루션"
+title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "intro-screenshot.png"
@@ -17,7 +17,7 @@ hero_media = "intro-screenshot.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "#222222"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
@@ -33,23 +33,11 @@ hero_media = "intro-screenshot.png"
   # Text color (true=light or false=dark).
   text_color_light = true
 
-# Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
-# [cta]
-#   url = "https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg"
-#   label = "YouTube 채널 바로가기"
-#   icon_pack = "fas"
-#   icon = "link"
-#   
-# [cta_alt]
-#   url = "https://sourcethemes.com/academic/"
-#   label = "View Documentation"
-# 
-# # Note. An optional note to show underneath the links.
-# [cta_note]
-#   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
-
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["30px", "0", "30px", "0"]
 +++
 
-사고를 예방하기 위해 고민하는 보안전문 기업, 엠스톤은 고객의 생명과 가족을 지키기 위해 최선을 다하겠습니다.
+**빠르고 쉬운 안정적인 보안 솔루션**
+
+사고를 예방하기 위해 고민하는 영상 보안 전문 기업, 엠스톤은 고객의 생명과 가족을 지키기 위해 최선을 다하겠습니다.
