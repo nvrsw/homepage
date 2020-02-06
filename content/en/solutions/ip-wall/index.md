@@ -1,5 +1,5 @@
 ---
-title: IP 비디오 월
+title: IP Video Wall
 subtitle: "IP Video Wall"
 
 # View.

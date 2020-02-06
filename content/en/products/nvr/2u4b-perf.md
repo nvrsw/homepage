@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "퍼포먼스 2U 4Bay NVR"
+title: "Performance 2U 4Bay NVR"
 subtitle: ""
 summary: ""
 authors: []

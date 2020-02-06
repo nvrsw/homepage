@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = ""
-  content = "KINTEX 보안전시회 2019<br><a href='/showcase/secon2019/'>![](/img/top-secon2019.png)</a>"
+  content = "KINTEX SECON 2019<br><a href='/showcase/secon2019/'>![](/img/top-secon2019.png)</a>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -39,7 +39,7 @@ height = ""
 
 [[item]]
   title = ""
-  content = "엘리베이터 이상 음원 감지<br><a href='/showcase/secon2019/'>![](/img/top-audio.png)</a>"
+  content = "Elevator Anomaly Sound Detection<br><a href='/showcase/secon2019/'>![](/img/top-audio.png)</a>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -50,7 +50,7 @@ height = ""
 
 [[item]]
   title = ""
-  content = "CMS 박스<br><a href='/showcase/secon2019/'>![](/img/top-cmsbox.png)</a>"
+  content = "CMS Box<br><a href='/showcase/secon2019/'>![](/img/top-cmsbox.png)</a>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -61,7 +61,7 @@ height = ""
 
 [[item]]
   title = ""
-  content = "EM-IHE IR 카메라<br><a href='/showcase/secon2019/'>![](/img/top-ir.png)</a>"
+  content = "EM-IHE IR Camera<br><a href='/showcase/secon2019/'>![](/img/top-ir.png)</a>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).

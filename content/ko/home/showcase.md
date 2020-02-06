@@ -59,10 +59,10 @@ subtitle = "아파트, 관공서, 군부대 등 다양한 환경에 적용한 �
   image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true  
+  text_color_light = true
   
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
  
  # CSS class.
