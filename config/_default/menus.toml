@@ -100,21 +100,21 @@
   parent = "support"
   name = "YouTube 채널"
   url = "https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg"
-  post = "<i class='fas fa-external-link-alt' aria-hidden='true'></i>"
+  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
   weight = 70
 
 [[main]]
   parent = "support"
   name = "소프트웨어"
   url = "http://nvrsw.com/"
-  post = "<i class='fas fa-external-link-alt' aria-hidden='true'></i>"
+  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
   weight = 80
 
 [[main]]
   parent = "support"
   name = "프로젝트"
   url = "https://hub.nvrsw.com/"
-  post = "<i class='fas fa-external-link-alt' aria-hidden='true'></i>"
+  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
   weight = 90
 
 #
