@@ -17,56 +17,56 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = ""
-  content = "KINTEX 보안전시회 2019<br><a href='/showcase/secon2019/'>![](/img/top-secon2019.png)</a>"
+  content = "KINTEX SECON 2019<br><a href='/showcase/secon2019/'>![](/img/slider-secon2019.png)</a>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "top-secon2019.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider-secon2019.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
-  content = "4U 8Bay NVR<br><a href='/showcase/secon2019/'>![](/img/top-4u8b.png)</a>"
+  content = "4U 8Bay NVR<br><a href='/products/nvr/'>![](/img/slider-4u8b.png)</a>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "top-4u8b.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider-4u8b.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
-  content = "엘리베이터 이상 음원 감지<br><a href='/showcase/secon2019/'>![](/img/top-audio.png)</a>"
+  content = "Elevator Anomaly Sound Detection<br><a href='/solutions/anomaly-sound/'>![](/img/slider-sound.png)</a>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "top-audio.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider-sound.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
-  content = "CMS 박스<br><a href='/showcase/secon2019/'>![](/img/top-cmsbox.png)</a>"
+  content = "CMS Box<br><a href='/products/cms/'>![](/img/slider-cmsbox.png)</a>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "top-cmsbox.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider-cmsbox.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = ""
-  content = "EM-IHE IR 카메라<br><a href='/showcase/secon2019/'>![](/img/top-ir.png)</a>"
+  content = "EM-IHE IR Camera<br><a href='/products/camera/'>![](/img/slider-ir.png)</a>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "top-ir.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider-ir.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 +++
