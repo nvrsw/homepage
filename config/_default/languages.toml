@@ -5,7 +5,7 @@
 [ko]
   languageCode = "ko-KR"
   languageName = "한국어"
-  title = "EMSTONE"
+  title = "엠스톤"
   baseurl = "http://emstone.co.kr/"
   contentDir = "content/ko"
   weight = 1
