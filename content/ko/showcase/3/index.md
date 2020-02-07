@@ -5,11 +5,11 @@ title: "삼척 자연생태 공원 - 두루미 보호"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "LPR", "Elevator", "PoEAMP", "Wall", "NDS", "CMS", "NVR" ]
+tags: [ "NVR" ]
 categories: [ "site" ]
 date: 2019-01-04
 draft: false
-slug: samchek-jayeon-saengtae-park
+#slug: samchek-jayeon-saengtae-park
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -43,4 +43,3 @@ image:
 
 뒤에 있는 돌산이 너무나 멋지네요!
 
-&nbsp;

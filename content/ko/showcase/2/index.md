@@ -9,7 +9,7 @@ tags: [ "LPR", "Elevator", "PoEAMP", "Wall", "NDS", "CMS", "NVR" ]
 categories: [ "site" ]
 date: 2018-12-18
 draft: false
-slug: sanbon-baekdu-apt-lpr
+#slug: sanbon-baekdu-apt-lpr
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
