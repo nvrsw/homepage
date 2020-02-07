@@ -5,7 +5,7 @@ title: "삼척 청솔2차 아파트 - 최초의 하이브리드 설치"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "RFTC", "CMS", "NVR" ]
+tags: [ "RFTC", "LPR", "CMS", "HVR" ]
 categories: [ "site" ]
 date: 2019-01-05
 draft: false
@@ -20,7 +20,7 @@ image:
   preview_only: false
 ---
 
-강릉지사에서 처음으로 설치한 현장을 소개해드립니다.
+강릉지사에서 처음으로 설치한 현장을 소개합니다.
 
 설치에 고생하신 강릉지사 대표님 외 임직원 여러분께 감사 말씀 드립니다.
 
@@ -35,20 +35,29 @@ image:
 - 원격 감시
   - CMS STATION H (듀얼 모니터 사용)
 
-{{< figure src="a27d24_fcbfdd3643fc420f97e058a07c52950b_mv2_d_2268_4032_s_2.jpg" >}}
-{{< figure src="a27d24_f70c3a805ab94609b236b29aa46f9f82_mv2_d_4032_2268_s_2.jpg" >}}
-{{< figure src="a27d24_c12af63dd1b04ca493f0aa966e104e97_mv2_d_4032_2268_s_2.jpg" >}}
-{{< figure src="a27d24_7e78d144f85643d4aabc6b6427863239_mv2_d_4032_2268_s_2.jpg" >}}
-{{< figure src="a27d24_38c0e77af4f74b37a8329ece6ba5690d_mv2_d_4032_2268_s_2.jpg" >}}
-{{< figure src="a27d24_ab8f500a74d34921a9fa36b554460f2f_mv2_d_4032_2268_s_2.jpg" >}}
-{{< figure src="a27d24_779cc3462a854eee8d0e4be16d865e22_mv2_d_4032_2268_s_2.jpg" >}}
+{{< figure src="a27d24_fcbfdd3643fc420f97e058a07c52950b_mv2_d_2268_4032_s_2.jpg"
+           lightbox-group="a" >}}
+{{< figure src="a27d24_f70c3a805ab94609b236b29aa46f9f82_mv2_d_4032_2268_s_2.jpg"
+           lightbox-group="a" >}}
+{{< figure src="a27d24_c12af63dd1b04ca493f0aa966e104e97_mv2_d_4032_2268_s_2.jpg"
+           lightbox-group="a" >}}
+{{< figure src="a27d24_7e78d144f85643d4aabc6b6427863239_mv2_d_4032_2268_s_2.jpg"
+           lightbox-group="a" >}}
+{{< figure src="a27d24_38c0e77af4f74b37a8329ece6ba5690d_mv2_d_4032_2268_s_2.jpg"
+           lightbox-group="a" >}}
+{{< figure src="a27d24_ab8f500a74d34921a9fa36b554460f2f_mv2_d_4032_2268_s_2.jpg"
+           lightbox-group="a" >}}
+{{< figure src="a27d24_779cc3462a854eee8d0e4be16d865e22_mv2_d_4032_2268_s_2.jpg"
+           lightbox-group="a" >}}
 
 ## 핫스왑 하드디스크 설치
 
 이제 하드디스크 설치하도록 하겠습니다.
 
-{{< figure src="a27d24_f9fec1a9b9844fab90e8e75ee5496c4e_mv2_d_4032_2268_s_2.jpg" >}}
-{{< figure src="a27d24_17c286e9eddd4022a1ead6a3f0863cc2_mv2_d_4032_2268_s_2.jpg" >}}
+{{< figure src="a27d24_f9fec1a9b9844fab90e8e75ee5496c4e_mv2_d_4032_2268_s_2.jpg"
+           lightbox-group="a" >}}
+{{< figure src="a27d24_17c286e9eddd4022a1ead6a3f0863cc2_mv2_d_4032_2268_s_2.jpg"
+           lightbox-group="a" >}}
 
 {{< youtube w4GyAnyUoqk >}}
 
@@ -56,7 +65,8 @@ image:
 
 이제 라디오 주파수를 찾아서 입력해 줍니다 삼척은 88.5Mhz가 수신이 잘되는군요.
 
-{{< figure src="a27d24_aeb0b7c1a9f24171a7c0774a22cf35ff_mv2_d_4032_2268_s_2.jpg" >}}
+{{< figure src="a27d24_aeb0b7c1a9f24171a7c0774a22cf35ff_mv2_d_4032_2268_s_2.jpg"
+           lightbox-group="a" >}}
 
 RFTC 안테나 확장선 설정:
 {{< youtube 8bFDEc_v4Ew >}}
@@ -74,7 +84,8 @@ RFTC 동기화 테스트 - 라디오 시보 동기화:
 
 테스트 과정이 아니며 이미 많은 현장에 사용하고 있는 기능임을 알려드립니다.
 
-{{< figure src="a27d24_e01543fa10364598abf1eeaa5678689c_mv2_d_4032_2268_s_2.jpg" >}}
+{{< figure src="a27d24_e01543fa10364598abf1eeaa5678689c_mv2_d_4032_2268_s_2.jpg"
+           lightbox-group="a" >}}
 
 주간 방향성 차번 추출 영상:
 {{< youtube 30qo0-l_EgA >}}
@@ -84,7 +95,9 @@ RFTC 동기화 테스트 - 라디오 시보 동기화:
 
 설치가 잘 마무리 되었습니다.
 
-{{< figure src="a27d24_296d3f34fbc04d7983ceb4c6cfe7400f_mv2_d_4032_2268_s_2.jpg" >}}
-{{< figure src="a27d24_426685f8e57e4b9d9a8c3c0efc2ecbdc_mv2_d_3264_1836_s_2.jpg" >}}
+{{< figure src="a27d24_296d3f34fbc04d7983ceb4c6cfe7400f_mv2_d_4032_2268_s_2.jpg"
+           lightbox-group="a" >}}
+{{< figure src="a27d24_426685f8e57e4b9d9a8c3c0efc2ecbdc_mv2_d_3264_1836_s_2.jpg"
+           lightbox-group="a" >}}
 
 새로운 시스템을 과감히 도입해주신 관리소장님께 감사 인사 드립니다.
