@@ -9,8 +9,7 @@ subtitle: "Solutions"
 view: 3
 
 # Optional header image (relative to `static/img/` folder).
-cascade:
-  toc: true
-  header:
-    image: "header.jpg"
+# cascade:
+#   header:
+#     image: "header.jpg"
 ---

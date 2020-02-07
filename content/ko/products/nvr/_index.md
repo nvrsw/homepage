@@ -9,9 +9,9 @@ subtitle: "Network Video Recorder"
 view: 3
 
 # Optional header image (relative to `static/img/` folder).
-cascade:
-  header:
-    image: "header.jpg"
+# cascade:
+#   header:
+#     image: "header.jpg"
 ---
 
 Network Video Recorder
