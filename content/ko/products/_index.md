@@ -1,5 +1,5 @@
 ---
-title: 제품
+title:
 
 # View.
 #   1 = List
@@ -8,7 +8,10 @@ title: 제품
 view: 3
 
 # Optional header image (relative to `static/img/` folder).
-# cascade:
-#   header:
-#     image: "header.jpg"
+cascade:
+  header:
+    image: "product-header.jpg"
+    caption: "제품"
 ---
+
+&nbsp;

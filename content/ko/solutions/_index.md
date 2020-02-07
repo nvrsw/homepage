@@ -1,6 +1,5 @@
 ---
-title: 솔루션
-subtitle: "Solutions"
+title:
 
 # View.
 #   1 = List
@@ -9,7 +8,10 @@ subtitle: "Solutions"
 view: 3
 
 # Optional header image (relative to `static/img/` folder).
-# cascade:
-#   header:
-#     image: "header.jpg"
+cascade:
+  header:
+    image: "solution-header.jpg"
+    caption: "솔루션"
 ---
+
+&nbsp;
