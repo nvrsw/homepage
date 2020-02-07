@@ -15,7 +15,7 @@ slug: nvr-elevator-crt-integration
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "엘리베이터 CRT 서버 화면"
   focal_point: ""
   preview_only: false
 ---
@@ -24,7 +24,6 @@ image:
 
 NVR 엘리베이터 연동 방법과 이를 활용한 검색 시의 장점에 관한 내용을 공유합니다.
 
-{{< figure src="a27d24_559311fbb92d4acd8f8abc52ac4b5463_mv2.jpg" >}}
 {{< figure src="a27d24_3e66d42d9b004dc0bc76b881d41cbe58_mv2.jpg" >}}
 
 CRT 서버로부터 전송되는 데이터를 DB화 및 디스플레이 화면에 OSD로 표출하는 방식입니다.

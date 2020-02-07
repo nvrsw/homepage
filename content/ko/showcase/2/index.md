@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "산본백두극동아파트 - 방향성 차번 추출"
+title: "산본 백두극동 아파트 - 방향성 차번 추출"
 subtitle: ""
 summary: ""
 authors: [ "sfcop" ]
-tags: [ "NVR", "차량번호인식", "LPR", "ANPR" ]
+tags: [ "LPR", "Elevator", "PoEAMP", "Wall", "NDS", "CMS", "NVR" ]
 categories: [ "site" ]
 date: 2018-12-18
 draft: false
@@ -15,12 +15,10 @@ slug: sanbon-baekdu-apt-lpr
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "차량번호 식별용 카메라 : 한화테크윈 XNO-6090RH(200만화소) 적용"
   focal_point: ""
   preview_only: false
 ---
-
-안녕하세요, 엠스톤 정승호입니다.
 
 장비내역:
 
@@ -60,5 +58,3 @@ image:
   - 담당 유재훈 부장 010-5150-4539 (james0475@naver.com)
 - 장비/솔루션 : 엠스톤 경기남부(주)
   - 담당 정승호 지사장 010-7654-6704 (sfcop@emstone.com)
-
-감사합니다.
