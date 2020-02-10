@@ -17,7 +17,7 @@ draft: false
 image:
   caption: "신형 비상벨 V2"
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true
 ---
 
 아마도 2015년 초창기 비상벨을 생각하기 시작해서 지금의 비상벨까지 온듯합니다.
@@ -26,7 +26,8 @@ image:
 
 비상벨 제작과 연동에 도움 주신 많은 분들께 감사드립니다.
 
-{{< figure src="a27d24_c166c56ecb384fec9eac00b88b70ef71_mv2_d_4032_2268_s_2.jpg" >}}
+{{< figure src="featured.jpg" lightbox-group="a" >}}
+{{< figure src="a27d24_c166c56ecb384fec9eac00b88b70ef71_mv2_d_4032_2268_s_2.jpg" lightbox-group="a" >}}
 
 비상벨 리모컨입니다. 구형보다 배터리 성능과 연동되는 거리가 대폭 향상되었습니다.
 
