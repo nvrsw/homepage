@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "EOC 열화상 카메라 연동 기능"
+title: "EOC 열화상 카메라 연동"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
