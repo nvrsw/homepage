@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "시공사례"
-subtitle = "아파트, 관공서, 군부대 등 다양한 환경에 적용한 설치 / 시공사례"
+subtitle = "다양한 환경에 적용한 설치 / 시공사례를 확인하세요."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
