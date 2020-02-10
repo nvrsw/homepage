@@ -4,7 +4,7 @@
 title: "전라도 광주 롯데 아울렛 - 하이브리드 NVR"
 subtitle: ""
 summary: ""
-authors: [ "emsr" ]
+authors: [ "msbae" ]
 tags: [ "HybridNVR" ]
 categories: [ "site" ]
 date: 2019-01-31
