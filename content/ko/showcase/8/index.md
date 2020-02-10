@@ -17,7 +17,7 @@ draft: false
 image:
   caption: "EOC 열화상 카메라"
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true
 ---
 
 2019년 상반기 신규 카메라 라인업에 도입될 EOC 카메라 관련하여 연동 기능을 소개합니다. 설계 및 영업활동에 참조하시기 바랍니다.
