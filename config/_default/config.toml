@@ -75,3 +75,28 @@ date = ["date", ":git", "publishDate", "lastmod" ]
 lastmod = ["lastmod", "date", ":git", "publishDate"]
 publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]
+
+[deployment]
+order = [".jpg$", ".png$"]
+
+[[deployment.targets]]
+name = "emstone.nvrsw.com"
+URL = "s3://emstone.nvrsw.com?region=ap-northeast-2"
+
+# [[deployment.matchers]] configure behavior for files that match the Pattern.
+# Samples:
+
+[[deployment.matchers]]
+#  Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
