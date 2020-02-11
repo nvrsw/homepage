@@ -158,7 +158,7 @@ sharing = true
 link_authors = false
 
 # Show author profile on each page? (true/false)
-profile = false
+profile = true
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.

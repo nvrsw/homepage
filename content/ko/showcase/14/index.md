@@ -4,7 +4,7 @@
 title: "안양 석수 럭키 아파트"
 subtitle: ""
 summary: ""
-authors: [ "emsr" ]
+authors: [ "jishin" ]
 tags: [ "VSLS", "Wall", "NDS", "CMS", "NVR" ]
 categories: [ "site" ]
 date: 2019-04-21
@@ -15,7 +15,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "남산타운 아파트 스카이뷰"
+  caption: "안양 석수 럭키 아파트"
   focal_point: ""
   preview_only: true
 ---
