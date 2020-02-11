@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = "(주)엠스톤"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Fast, Easy and Reliable NVR systems made in Korea"
+description = "NVR, DVR, Camera, NDS, IP Wall systems made in Korea"
 
 ############################
 ## Site Features
