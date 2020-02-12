@@ -5,7 +5,7 @@ title: "NVR 로그인의 패러다임을 바꾸다 - 지문 로그인"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "FingerprintLogin" ]
+tags: [ "Fingerprint" ]
 categories: [ "howto" ]
 date: 2019-02-27
 draft: false
