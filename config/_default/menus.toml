@@ -39,29 +39,29 @@
   url = "products/nvr/"
   weight = 10
 
-[[main]]
-  parent = "products"
-  name = "CMS 스테이션"
-  url = "products/cms/"
-  weight = 20
-
-[[main]]
-  parent = "products"
-  name = "NDS 디스플레이 서버"
-  url = "products/nds/"
-  weight = 30
-
-[[main]]
-  parent = "products"
-  name = "IP 카메라"
-  url = "products/camera/"
-  weight = 40
-
-[[main]]
-  parent = "products"
-  name = "기타"
-  url = "products/etc/"
-  weight = 50
+#[[main]]
+#  parent = "products"
+#  name = "CMS 스테이션"
+#  url = "products/cms/"
+#  weight = 20
+#
+#[[main]]
+#  parent = "products"
+#  name = "NDS 디스플레이 서버"
+#  url = "products/nds/"
+#  weight = 30
+#
+#[[main]]
+#  parent = "products"
+#  name = "IP 카메라"
+#  url = "products/camera/"
+#  weight = 40
+#
+#[[main]]
+#  parent = "products"
+#  name = "기타"
+#  url = "products/etc/"
+#  weight = 50
 
 [[main]]
   parent = "solutions"
@@ -81,23 +81,23 @@
   url = "solutions/failover/"
   weight = 30
 
-[[main]]
-  parent = "support"
-  name = "마케팅 자료"
-  url = "support/#catalog"
-  weight = 10
-
-[[main]]
-  parent = "support"
-  name = "자주 묻는 질문"
-  url = "support/#faq"
-  weight = 20
-
-[[main]]
-  parent = "support"
-  name = "튜토리얼"
-  url = "support/#tutorials"
-  weight = 30
+#[[main]]
+#  parent = "support"
+#  name = "마케팅 자료"
+#  url = "support/#catalog"
+#  weight = 10
+#
+#[[main]]
+#  parent = "support"
+#  name = "자주 묻는 질문"
+#  url = "support/#faq"
+#  weight = 20
+#
+#[[main]]
+#  parent = "support"
+#  name = "튜토리얼"
+#  url = "support/#tutorials"
+#  weight = 30
 
 [[main]]
   parent = "support"

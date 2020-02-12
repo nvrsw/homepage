@@ -14,7 +14,6 @@ cascade:
     caption: "고객지원"
 ---
 
-- [튜토리얼](tutorials/)
 - [YouTube 채널](https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg)
 - [소프트웨어](http://nvrsw.com/)
 - [프로젝트](https://hub.nvrsw.com/)
