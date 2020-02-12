@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [ "jishin" ]
 tags: [ "VSLS", "Wall", "NDS", "CMS", "NVR" ]
-categories: [ "site" ]
+categories: [ "sites" ]
 date: 2019-04-21
 draft: false
 #slug: jeonrado-gwangju-ltter-outlet

@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [ "emsr" ]
 tags: [ "Wall", "LPR", "Elevator", "EmergencyBell", "Fire", "NDS", "CMS", "NVR" ]
-categories: [ "site" ]
+categories: [ "sites" ]
 date: 2019-02-08
 draft: false
 #slug: jeonrado-gwangju-ltter-outlet

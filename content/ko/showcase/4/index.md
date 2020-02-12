@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [ "emsr" ]
 tags: [ "RFTC", "LPR", "CMS", "HybridNVR" ]
-categories: [ "site" ]
+categories: [ "sites" ]
 date: 2019-01-05
 draft: false
 #slug: samchek-cheongsol-apt

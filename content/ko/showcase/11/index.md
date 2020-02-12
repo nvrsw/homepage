@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [ "emsr" ]
 tags: [ "SECON" ]
-categories: [ "site" ]
+categories: [ "sites" ]
 date: 2019-04-01
 draft: false
 slug: secon2019

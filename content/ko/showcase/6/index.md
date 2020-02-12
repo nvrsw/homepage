@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [ "msbae" ]
 tags: [ "HybridNVR" ]
-categories: [ "site" ]
+categories: [ "sites" ]
 date: 2019-01-31
 draft: false
 #slug: jeonrado-gwangju-ltter-outlet

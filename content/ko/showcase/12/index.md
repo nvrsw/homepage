@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [ "emsr" ]
 tags: [ "CMS", "NVR" ]
-categories: [ "site" ]
+categories: [ "sites" ]
 date: 2019-04-14
 draft: false
 #slug: jeonrado-gwangju-ltter-outlet

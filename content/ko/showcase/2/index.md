@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [ "sfcop" ]
 tags: [ "LPR", "Elevator", "PoEAMP", "Wall", "NDS", "CMS", "NVR" ]
-categories: [ "site" ]
+categories: [ "sites" ]
 date: 2018-12-18
 draft: false
 #slug: sanbon-baekdu-apt-lpr

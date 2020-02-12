@@ -2,6 +2,12 @@
 title: IP 비디오 월 시스템
 subtitle: "IP Video Wall System"
 summary: "CCTV 통합 관제 시설, 도로 / 철도 / 항공과 같은 교통 운송 관계 시설, 금융기관 전산센터 등 영상 관제 / 제어가 필요한 모든 현장에 적용 가능한 솔루션입니다."
+authors: [ "" ]
+tags: [ "Wall", "NDS", "CMS", "NVR" ]
+categories: [ "solutions" ]
+#date: 2020-02-12
+draft: false
+#slug: ip-video-wall
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
