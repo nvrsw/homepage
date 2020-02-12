@@ -88,15 +88,11 @@ URL = "s3://emstone.nvrsw.com?region=ap-northeast-2"
 
 [[deployment.matchers]]
 #  Cache static assets for 1 year.
-pattern = "^.+\\.(js|css|svg|ttf)$"
-cacheControl = "max-age=31536000, no-transform, public"
+pattern = "^.+\\.(js|css|svg|ttf|html|xml|json)$"
+#cacheControl = "max-age=31536000, no-transform, public"
 gzip = true
 
 [[deployment.matchers]]
 pattern = "^.+\\.(png|jpg)$"
-cacheControl = "max-age=31536000, no-transform, public"
+#cacheControl = "max-age=31536000, no-transform, public"
 gzip = false
-
-[[deployment.matchers]]
-pattern = "^.+\\.(html|xml|json)$"
-gzip = true
