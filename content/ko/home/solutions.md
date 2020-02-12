@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "솔루션"
-subtitle = "IP 비디오 월 / 화재 연기 감지 / 차량 번호 인식 / 비상벨 / 엘리베이터 / 이상음원 등"
+subtitle = "생활안전을 위한 영상 감시 솔루션"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

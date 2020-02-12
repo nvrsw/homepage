@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Solutions"
-subtitle = "IP Video Wall / Fire Smoke Detection / License Plate Recognition / Emergency Bell / Elevator Anomaly Sound Detection"
+subtitle = "Video Surveillance Solutions for Life Safety"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

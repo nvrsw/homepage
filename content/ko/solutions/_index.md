@@ -1,6 +1,6 @@
 ---
 title: "생활안전을 위한 영상 감시 솔루션"
-subtitle: "Video Surveillance for Life Safety"
+subtitle: "Video Surveillance Solutions for Life Safety"
 
 # View.
 #   1 = List
@@ -12,7 +12,7 @@ view: 3
 cascade:
   header:
     image: "solution-header.jpg"
-    caption: "VSLS Solution"
+    caption: "솔루션"
 ---
 
 &nbsp;

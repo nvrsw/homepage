@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Showcase"
-subtitle = "Installation / Construction Cases for Various Environments such as Apartments, Government Offices, Military Forces"
+subtitle = "Check the installation / construction examples applied to various environments."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
