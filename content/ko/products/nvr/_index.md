@@ -13,5 +13,3 @@ view: 3
 #   header:
 #     image: "header.jpg"
 ---
-
-Network Video Recorder
