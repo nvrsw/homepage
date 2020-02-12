@@ -1,5 +1,5 @@
 ---
-title: NVR
+title: "NVR"
 subtitle: "Network Video Recorder"
 
 # View.

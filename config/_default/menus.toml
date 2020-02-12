@@ -73,7 +73,13 @@
   parent = "solutions"
   name = "지문 인증"
   url = "solutions/fingerprint/"
-  weight = 10
+  weight = 20
+
+[[main]]
+  parent = "solutions"
+  name = "NVR 장애 대응"
+  url = "solutions/failover/"
+  weight = 30
 
 [[main]]
   parent = "support"

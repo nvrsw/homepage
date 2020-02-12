@@ -72,10 +72,24 @@ table {
   display: table;
 }
 
+table > tbody > tr > td {
+  vertical-align: middle;
+}
+
 figcaption {
   font-size: 0.8rem;
   font-weight: 700;
 }
+
+/*
+figcaption::before {
+  content: '[ ';
+}
+
+figcaption::after {
+  content: ' ]';
+}
+*/
 
 .badge::before {
   content: '#';
