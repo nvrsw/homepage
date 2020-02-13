@@ -3,7 +3,7 @@ title: "안전 입출차 솔루션"
 subtitle: "Safety Solution for Entry Vehicles"
 summary: "주차장, 터널 등을 진입 시 경사 및 조도의 차이로 정차된 차량, 바닥의 장애물 등의 위험요소를 인지하기 어려운 점을 보완하여 내부의 영상 및 안전 상황을 전달하여 안전한 입출차를 유도하는 솔루션입니다."
 authors: [ "" ]
-tags: [ "SafeEntryVehicle" ]
+tags: [ "SafeEntryVehicle", "NDS" ]
 categories: [ "solutions" ]
 #date: 2020-02-12
 draft: false
@@ -30,12 +30,12 @@ image:
 필수 장비 | 적용 가능 모델 / 제조사
 --------- | --------------
 녹화기 | NVR 전체 제품<br>eHybrid NVR 모든 제품
-CMS (옵션) | CMS-Station H
 카메라 | EM-IHV(PIR2812Z)<br>EM-IHI(IR2812Z)
 디스플레이 서버 | EM-NDS-Solo
+CMS (옵션) | CMS-Station H
 
 ## 사용 사례
 
-{{< figure src="nds-solo-diagram.jpg" caption="안전 입출차 시스템" lightbox-group="a" >}}
+{{< figure src="nds-solo-diagram.jpg" caption="안전 입출차 솔루션" lightbox-group="a" >}}
 
 {{< figure src="featured.jpg" caption="경고 화면" lightbox-group="a" >}}

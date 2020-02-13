@@ -30,8 +30,8 @@ LPR 주차관제 시스템 및 LPR 기능이 내장된 카메라와 연동하여
 필수 장비 | 적용 가능 모델 / 제조사
 --------- | --------------
 녹화기 | NVR 전체 제품<br>eHybrid NVR 모든 제품
-CMS (옵션) | CMS-Station H
 LPR 시스템<br>카메라(LPR 기능 내장) | 넥스파시스템 (Nexpa)<br>다래파크텍 (Darae Parktech)<br>라이크텍 (Like tech)<br>비트컴버스<br>비엔인더스트리 (BN Industry)<br>실리콘 브릿지 (Silicon Bridge)<br>아마노 (Amano) \*<br>인팩비전 (Inpeg Vision)<br>자우텍 (Jaoo Tek)<br>한맥아이피에스 (Hanmec IPS)
+CMS (옵션) | CMS-Station H
 
 \* 표기 제조사는 NVR 차량번호 추출 솔루션과 연계 가능한 LPR 시스템입니다.
 
