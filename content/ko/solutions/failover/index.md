@@ -15,20 +15,29 @@ draft: false
 image:
   caption: "Failover 서버"
   focal_point: "Top"
-  preview_only: false
+  preview_only: true
 ---
 
-{{< toc >}}
-
-## 소개
-
 예기치 않은 시스템의 결함이나 외부 공격에 의한 영상 데이터 손실을 방지하기 위한 NVR 장애 대응 솔루션입니다.
+
+<div class="container">
+<div class="row align-items-center">
+<div class="px-0 col-12 col-sm-4">
+
+{{< figure src="featured.png" caption="Failover 서버" lightbox-group="a" >}}
+
+</div>
+<div class="px-0 col-12 col-sm-8">
 
 - 최대 256대의 NVR / 스트리밍 서버 동시 감시 가능
 - 감시 대상 장비의 장애(Fail) 발생 시 자동 절체
 - 장애 장비 복구 시 기본 감시 모드로 자동 전환
 - CMS / IP 월 등의 구성 시스템과 연동 지원
 - NVR 1:1 장애 대응 외 고급 모드 지원
+
+</div>
+</div>
+</div>
 
 ## 장비 구성
 

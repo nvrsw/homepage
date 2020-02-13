@@ -52,7 +52,7 @@
   {{ end }}
 {{end}}
 
-<div class="article-container pt-3">
+<div class="article-container py-3">
   <h1>{{ $title }}</h1>
 
   {{ with $page.Params.subtitle }}
@@ -78,7 +78,7 @@
   {{ if $page.IsNode }}
     {{ $ctnr = "universal-wrapper" }}
   {{end}}
-<div class="{{$ctnr}} pt-3">
+<div class="{{$ctnr}} py-3">
   <h1>{{ $title }}</h1>
 
   {{ with $page.Params.subtitle }}

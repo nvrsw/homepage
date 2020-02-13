@@ -62,6 +62,10 @@ h2.toc {
   border-left: 1px solid #eeeeee;
 }
 
+#TableOfContents {
+  margin-bottom: 1.5rem;
+}
+
 article,
 .home-section,
 .wg-hero {
@@ -100,10 +104,7 @@ figcaption::after {
   content: '#';
 }
 
-li {
-  margin-bottom: 0.5em;
-}
-
-.nav li {
-  margin-bottom: 0;
+.px-0 figure {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }

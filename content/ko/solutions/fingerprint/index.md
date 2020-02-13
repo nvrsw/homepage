@@ -15,20 +15,29 @@ draft: false
 image:
   caption: "지문 마우스"
   focal_point: "Center"
-  preview_only: false
+  preview_only: true
 ---
 
-{{< toc >}}
-
-## 소개
-
 위조 및 도용이 불가능한 사용자 고유의 생체 정보를 활용하여 등록된 관리자 외 비인가자의 영상 조회, 영상 백업, 시스템 구성 변경 등을 원천적으로 차단하는 사용자 인증 솔루션입니다.
+
+<div class="container">
+<div class="row align-items-center">
+<div class="px-0 col-12 col-sm-8">
 
 - 0.0001%의 낮은 오인식율
 - 빠르고 정확한 지문 인증 알고리즘 (NBIS)
 - 관리에 소요되는 인력 및 비용 절감 효과
 - NVR / CMS 인증 기능 지원
-- 저장된 인식 정보는 안전하게 암호화되어 보관
+- 인식 정보는 안전하게 암호화되어 보관
+
+</div>
+<div class="px-0 col-12 col-sm-4">
+
+{{< figure src="featured.png" caption="지문 마우스" lightbox-group="a" >}}
+
+</div>
+</div>
+</div>
 
 ## 지문 마우스 사양
 
