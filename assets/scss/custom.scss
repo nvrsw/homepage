@@ -69,6 +69,10 @@ article,
   animation-delay: unset;
 }
 
+a {
+  transition: none;
+}
+
 table {
   display: table;
 }
@@ -94,4 +98,12 @@ figcaption::after {
 
 .badge::before {
   content: '#';
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+.nav li {
+  margin-bottom: 0;
 }
