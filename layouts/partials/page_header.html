@@ -16,14 +16,11 @@
 
 {{/* Header image */}}
 {{ if .Params.header.image }}
-<div class="article-header">
-  {{ $img_src := urls.Parse .Params.header.image }}
-  {{ if $img_src.Scheme }}
-  <img src="{{ .Params.header.image }}" class="article-banner" alt="">
-  {{ else }}
-  <img src="{{ (printf "/img/%s" .Params.header.image) | relURL }}" class="article-banner" alt="">
-  {{ end }}
 
+  {{/* See Hugo note on linking assets in styles: https://github.com/gohugoio/hugoThemes#common-permalink-issues */}}
+  {{ $style := printf "background-image: url('%s');" (printf "/img/%s" .Params.header.image)  | absURL }}
+
+<div class="article-header" {{with $style}}style="{{. | safeCSS}}"{{end}}>
   {{ with .Params.header.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
 </div>
 {{end}}

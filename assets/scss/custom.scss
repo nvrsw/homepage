@@ -24,7 +24,9 @@ footer p {
 .article-header {
   position: relative;
   overflow: hidden;
-  max-height: 10rem;
+  background-size: cover;
+  background-position: center;
+  height: 10rem;
 }
 
 .article-header>.article-header-caption {
