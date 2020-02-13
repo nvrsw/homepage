@@ -62,6 +62,11 @@ h2.toc {
   border-left: 1px solid #eeeeee;
 }
 
+.article-title {
+  padding-left: 0.6rem;
+  border-left: 6px solid #eeb300;
+}
+
 #TableOfContents {
   margin-bottom: 1.5rem;
 }
@@ -102,9 +107,4 @@ figcaption::after {
 
 .badge::before {
   content: '#';
-}
-
-.px-0 figure {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
 }
