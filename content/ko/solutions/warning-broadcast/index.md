@@ -3,7 +3,7 @@ title: "경고 방송 시스템"
 subtitle: "Warning Broadcast System"
 summary: "놀이터, 휴계시설 및 사각지대에 경고 방송 시스템을 설치하여 침입, 무단 사용 등 위험 상황 발생 시 경고 방송을 송출하여 안전하고 신속한 대응이 가능한 솔루션입니다."
 authors: [ "" ]
-tags: [ "WarningBroadcast" ]
+tags: [ "Broadcast" ]
 categories: [ "solutions" ]
 #date: 2020-02-12
 draft: false
