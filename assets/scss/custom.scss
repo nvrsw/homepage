@@ -110,3 +110,13 @@ figcaption::after {
 .badge::before {
   content: '#';
 }
+
+.media.stream-item {
+  align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+  .media.stream-item img {
+    max-width: 120px;
+  }
+}
