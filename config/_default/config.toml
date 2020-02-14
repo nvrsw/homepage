@@ -96,3 +96,16 @@ gzip = true
 pattern = "^.+\\.(png|jpg|svg|ico)$"
 cacheControl = "max-age=86400, no-transform, public"
 gzip = false
+
+[related]
+threshold = 80
+includeNewer = true
+toLower = true
+
+[[related.indices]]
+name = "tags"
+weight = 100
+
+[[related.indices]]
+name = "keywords"
+weight = 50

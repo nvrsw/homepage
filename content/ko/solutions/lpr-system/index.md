@@ -25,7 +25,7 @@ LPR 주차관제 시스템 및 LPR 기능이 내장된 카메라와 연동하여
 - 설정된 차량번호에 따른 영상 팝업, 알람 등 이벤트 동작 가능
 - NVR 차량번호 추출 솔루션과 연계하여 NVR에서 추출된 차량번호, 입출차 정보 및 영상정보를 LPR 시스템에 제공 가능
 
-div class="container">
+<div class="container">
 <div class="row">
 <div class="col-12 col-sm-6 pl-0">
 
