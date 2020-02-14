@@ -26,21 +26,25 @@ image:
 - CMS / IP 월 등의 구성 시스템과 연동 지원
 - NVR 1:1 장애 대응 외 고급 모드 지원
 
-## 장비 구성
-
 <div class="container">
-<div class="row align-items-center">
-<div class="col-12 col-sm-8">
+<div class="row">
+<div class="col-12 col-sm-6 pl-0">
 
-필수 장비 | 적용 가능 모델
---------- | --------------
-Failover 서버 | EM-F64T2<br>EM-F128T2
-녹화기 / 스트리밍 서버 | NVR 전체 제품<br>eHybrid NVR 모든 제품
+## 구성에 필요한 장비
+
+|
+:-: | ---
+**필수장비** | Failover 서버<br>녹화기(NVR / Hybrid NVR)
 
 </div>
-<div class="col-12 col-sm-4">
+<div class="col-12 col-sm-6 pl-0">
 
-{{< figure src="featured.png" caption="Failover 서버" class="my-0" lightbox-group="a" >}}
+## 적용 가능 제품
+
+|
+:-: | ---
+**Failover 서버** | EM-F64T2<br>EM-F128T2
+**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
 
 </div>
 </div>

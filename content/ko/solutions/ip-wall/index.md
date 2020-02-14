@@ -28,13 +28,30 @@ IP 비디오 월 시스템은 CCTV 통합 관제 시설, 도로 / 철도 / 항�
 - 여러 사용자가 동시에 비디오월 시스템 제어 가능
 - 검색창을 Wall 모니터에 표출하여 검색 가능
 
-## 장비 구성
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 pl-0">
 
-필수 장비 | 적용 가능 모델
---------- | --------------
-녹화기 / 스트리밍 서버 | NVR / Hybrid NVR 모든 제품
-디스플레이 서버 | EM-NDS-04
-월 제어기 | CMS-Station H
+## 구성에 필요한 장비
+
+|
+:-: | ---
+**필수장비** | 녹화기(NVR / Hybrid NVR)<br>디스플레이 서버<br>월 컨트롤 서버
+
+</div>
+<div class="col-12 col-sm-6 pl-0">
+
+## 적용 가능 제품
+
+|
+:-: | ---
+**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**디스플레이 서버** | EM-NDS-04
+**월 컨트롤 서버** | CMS-Station H
+
+</div>
+</div>
+</div>
 
 ## 기존 시스템과 차이점
 

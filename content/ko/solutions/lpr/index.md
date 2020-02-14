@@ -25,13 +25,31 @@ NVR에 입력되는 영상을 실시간으로 분석하여 차량번호를 추�
 - 설정된 차량번호에 따른 영상 팝업, 알람 등 이벤트 동작 가능
 - 간편하고 직관적인 설정 및 검색 방법
 
-## 장비 구성
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 pl-0">
 
-필수 장비 | 적용 가능 모델
---------- | --------------
-녹화기 | NVR 전체 제품<br>eHybrid NVR 모든 제품
-카메라 (차량번호식별) | EM-IHI(IR2812Z)<br>EM-IHI(IR0550Z)<br>EM-IHI(IR5151Z)<br>EM-IHP(IR12x)<br>EM-IHP(IR12xP)
-CMS (옵션) | CMS-Station H
+## 구성에 필요한 장비
+
+|
+:-: | ---
+**필수장비** | 녹화기(NVR / Hybrid NVR)<br>카메라(차량번호 식별))
+**선택장비** | CMS
+
+</div>
+<div class="col-12 col-sm-6 pl-0">
+
+## 적용 가능 제품
+
+|
+:-: | ---
+**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**카메라** | EM-IHI(IR2812Z)<br>EM-IHI(IR0550Z)<br>EM-IHI(IR5151Z)<br>EM-IHP(IR12x)<br>EM-IHP(IR12xP)
+**CMS** | CMS-Station H
+
+</div>
+</div>
+</div>
 
 ## 동작 화면
 

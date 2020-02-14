@@ -25,14 +25,32 @@ image:
 - 경광등 / 사이렌 등 외부 장비 연동 가능
 - 중앙관제실 및 분산된 다수의 관제 장소에 동시에 상황 전달 가능
 
-## 장비 구성
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 pl-0">
 
-필수 장비 | 적용 가능 모델 / 제조사
---------- | --------------
-녹화기 | NVR 전체 제품<br>eHybrid NVR 모든 제품
-카메라 | EM-IHV(PIR2812Z)<br>EM-IHI(IR2812Z)
-디스플레이 서버 | EM-NDS-Solo
-CMS (옵션) | CMS-Station H
+## 구성에 필요한 장비
+
+|
+:-: | ---
+**필수장비** | 녹화기(NVR / Hybrid NVR)<br>카메라(PIR 센서)<br>CMS<br>디스플레이 서버<br>모니터
+**선택장비** | 경광등(별도 구매)<br>사이렌(별도 구매)
+
+</div>
+<div class="col-12 col-sm-6 pl-0">
+
+## 적용 가능 제품
+
+|
+:-: | ---
+**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**카메라** | EM-IHV(PIR2812Z)<br>EM-IHI(PIR2812Z)
+**CMS** | CMS-Station H
+**디스플레이 서버** | EM-NDS-Solo
+
+</div>
+</div>
+</div>
 
 ## 사용 사례
 

@@ -25,13 +25,44 @@ LPR 주차관제 시스템 및 LPR 기능이 내장된 카메라와 연동하여
 - 설정된 차량번호에 따른 영상 팝업, 알람 등 이벤트 동작 가능
 - NVR 차량번호 추출 솔루션과 연계하여 NVR에서 추출된 차량번호, 입출차 정보 및 영상정보를 LPR 시스템에 제공 가능
 
-## 장비 구성
+div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 pl-0">
 
-필수 장비 | 적용 가능 모델 / 제조사
---------- | --------------
-녹화기 | NVR 전체 제품<br>eHybrid NVR 모든 제품
-LPR 시스템<br>카메라(LPR 기능 내장) | 넥스파시스템 (Nexpa)<br>다래파크텍 (Darae Parktech)<br>라이크텍 (Like tech)<br>비트컴버스<br>비엔인더스트리 (BN Industry)<br>실리콘 브릿지 (Silicon Bridge)<br>아마노 (Amano) \*<br>인팩비전 (Inpeg Vision)<br>자우텍 (Jaoo Tek)<br>한맥아이피에스 (Hanmec IPS)
-CMS (옵션) | CMS-Station H
+## 구성에 필요한 장비
+
+|
+:-: | ---
+**필수장비** | 녹화기(NVR / Hybrid NVR)
+**선택장비** | CMS
+**외부장비** | LPR 시스템<br>카메라(LPR 기능 내장)
+
+</div>
+<div class="col-12 col-sm-6 pl-0">
+
+## 적용 가능 제품
+
+|
+:-: | ---
+**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**CMS** | CMS-Station H
+
+</div>
+</div>
+</div>
+
+## 연동 LPR 시스템 제조사
+
+- 넥스파시스템 (Nexpa)
+- 다래파크텍 (Darae Parktech)
+- 라이크텍 (Like tech)
+- 비트컴버스
+- 비엔인더스트리 (BN Industry)
+- 실리콘 브릿지 (Silicon Bridge)
+- 아마노 (Amano) \*
+- 인팩비전 (Inpeg Vision)
+- 자우텍 (Jaoo Tek)
+- 한맥아이피에스 (Hanmec IPS)
 
 \* 표기 제조사는 NVR 차량번호 추출 솔루션과 연계 가능한 LPR 시스템입니다.
 

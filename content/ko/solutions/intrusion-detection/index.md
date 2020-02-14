@@ -26,13 +26,31 @@ image:
 - 중앙 관제실 및 분산된 다수의 관제 장소에 동시에 상황 전달 가능
 - 관제 장소별로 다른 조건으로 이벤트 알림 설정 가능
 
-## 장비 구성
+<div class="container">
+<div class="row">
+<div class="col-12 col-sm-6 pl-0">
 
-필수 장비 | 적용 가능 모델 / 제조사
---------- | --------------
-녹화기 | NVR 전체 제품<br>eHybrid NVR 모든 제품
-PIR 센서 카메라 | EM-IHD(PIR2812Z)
-CMS (옵션) | CMS-Station H
+## 구성에 필요한 장비
+
+|
+:-: | ---
+**필수장비** | 녹화기(NVR / Hybrid NVR)<br>카메라(PIR 센서)
+**선택장비** | CMS
+
+</div>
+<div class="col-12 col-sm-6 pl-0">
+
+## 적용 가능 제품
+
+|
+:-: | ---
+**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**카메라** | EM-IHD(PIR2812Z)
+**CMS** | CMS-Station H
+
+</div>
+</div>
+</div>
 
 ## 사용 사례
 
