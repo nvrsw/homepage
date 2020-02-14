@@ -5,7 +5,7 @@ title: "오산 원동 대림2차 아파트 NVR + IP 월"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "Wall", "LPR", "Elevator", "EmergencyCall", "Fire", "NDS", "CMS", "NVR" ]
+tags: [ "Wall", "LPR", "Elevator", "EmergencyCall", "Fire", "WarningBroadcast" ]
 categories: [ "sites" ]
 date: 2019-02-08
 draft: false
@@ -39,7 +39,7 @@ image:
 - 방향성 차번 추출
 - LPR 연동
 - 기계실/전기실 화재 연기 감지
-- 엘리베이터 이상음원 감지,
+- 엘리베이터 이상음원 감지
 - IP WALL 모니터링
 
 ---

@@ -5,7 +5,7 @@ title: "엘리베이터 CRT 연동"
 subtitle: ""
 summary: "엘리베이터 연동 방법과 이를 활용한 검색 시의 장점에 관한 내용을 공유합니다."
 authors: [ "emsr" ]
-tags: [ "NVR", "Elevator", "CRT" ]
+tags: [ "Elevator" ]
 categories: [ "howto" ]
 date: 2018-12-13
 draft: false

@@ -5,7 +5,7 @@ title: "안양 석수 럭키 아파트"
 subtitle: ""
 summary: ""
 authors: [ "jishin" ]
-tags: [ "VSLS", "Wall", "NDS", "CMS", "NVR" ]
+tags: [ "LPR", "Wall" ]
 categories: [ "sites" ]
 date: 2019-04-21
 draft: false

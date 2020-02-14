@@ -5,7 +5,7 @@ title: "IP 월 E-MAP 제어"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "E-Map", "Wall", "NDS", "NTS", "CMS", "NVR" ]
+tags: [ "Wall" ]
 categories: [ "howto" ]
 date: 2019-01-11
 draft: false
@@ -30,7 +30,7 @@ CMS E-MAP을 IP 비디오 월과 운용하는 방법을 설명한 동영상을 �
 - NDS (Network Display Server)
 - NTS (Network Transfer Server)
 - CMS (ON Notebook PC)
-- DID Monitor (samsung)
+- DID Monitor (Samsung)
 
 노트북의 네트워크는 회사 내부 와이파이를 사용하여 제어하였습니다.
 

@@ -3,7 +3,7 @@ title: "열화상 카메라 솔루션"
 subtitle: "Thermal Imaging Camera Solution"
 summary: "발전소, 공장, 건물 등의 전기 설비, 배관설비 같은 온도 관리가 필요한 장소에 설치하여 설비의 원활한 운영과 화재 예방 및 조기 진화가 가능한 솔루션입니다."
 authors: [ "" ]
-tags: [ "ThermalImagingCamera" ]
+tags: [ "Thermal" ]
 categories: [ "solutions" ]
 #date: 2020-02-12
 draft: false

@@ -5,7 +5,7 @@ title: "청북 이안 아파트"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "VSLS", "Wall", "NDS", "CMS", "NVR" ]
+tags: [ "LPR", "Wall", "Elevator", "AbnormalSound", "Fire" ]
 categories: [ "sites" ]
 date: 2019-04-15
 draft: false
