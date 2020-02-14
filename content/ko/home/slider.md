@@ -39,7 +39,7 @@ height = ""
 
 [[item]]
   title = ""
-  content = "엘리베이터 이상 음원 감지<br><a href='/solutions/anomaly-sound/'>![](/img/slider-sound.png)</a>"
+  content = "엘리베이터 이상음원 감지<br><a href='/solutions/anomaly-sound/'>![](/img/slider-sound.png)</a>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
