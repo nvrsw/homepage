@@ -17,6 +17,7 @@ image:
   focal_point: "Top"
   preview_only: true
 ---
+
 옥상, 시설물 출입구 등 관리자를 제외한 사람의 접근에 대한 감시가 필요한 장소에 설치하여 접근의 실시간 확인 및 출입자의 신원 확인이 가능한 솔루션입니다.
 
 - PIR(Pyroelectric IR) 센서를 이용한 신뢰도 높은 감지율
