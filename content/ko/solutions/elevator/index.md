@@ -67,18 +67,18 @@ image:
 
 ## 사용 사례
 
-{{< figure src="featured.png" caption="엘리베이터 CRT 시스템 연동 화면" lightbox-group="a" >}}
+{{< figure src="featured.jpg" caption="엘리베이터 CRT 시스템 연동 화면" lightbox-group="a" >}}
 
 <div class="container">
 <div class="row align-items-end">
 <div class="col-12 col-sm-6">
 
-{{< figure src="elevator-search.png" caption="엘리베이터 CRT 시스템 연동 정보 검색 화면" lightbox-group="a" >}}
+{{< figure src="elevator-search.jpg" caption="엘리베이터 CRT 시스템 연동 정보 검색 화면" lightbox-group="a" >}}
 
 </div>
 <div class="col-12 col-sm-6">
 
-{{< figure src="elevator-setting.png" caption="엘리베이터 CRT 시스템 연동 설정 화면" lightbox-group="a" >}}
+{{< figure src="elevator-setting.jpg" caption="엘리베이터 CRT 시스템 연동 설정 화면" lightbox-group="a" >}}
 
 </div>
 </div>
