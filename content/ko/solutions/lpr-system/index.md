@@ -3,7 +3,7 @@ title: "LPR 시스템 연동"
 subtitle: "Interworking with LPR System"
 summary: "LPR 주차관제 시스템 및 LPR 기능이 내장된 카메라와 연동하여 차량번호와 입출차 정보를 전달받아 화면 표출, 영상 저장과 차량번호, 입출차 정보의 저장을 동시에 진행하며 영상과 함께 검색이 가능한 솔루션입니다."
 authors: [ "" ]
-tags: [ "LPR" ]
+tags: [ "lpr" ]
 categories: [ "solutions" ]
 #date: 2020-02-12
 draft: false

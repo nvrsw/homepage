@@ -5,7 +5,7 @@ title: "EOC 열화상 카메라 연동"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "Thermal" ]
+tags: [ "thermal" ]
 categories: [ "howto" ]
 date: 2019-02-10
 draft: false

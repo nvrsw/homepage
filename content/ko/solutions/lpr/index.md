@@ -3,7 +3,7 @@ title: "차량번호 추출"
 subtitle: "License Plate Recognition"
 summary: "NVR에 입력되는 영상을 실시간으로 분석하여 차량번호를 추출하는 솔루션입니다."
 authors: [ "" ]
-tags: [ "LPR" ]
+tags: [ "lpr" ]
 categories: [ "solutions" ]
 #date: 2020-02-12
 draft: false

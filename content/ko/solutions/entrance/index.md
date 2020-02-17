@@ -3,7 +3,7 @@ title: "안전 입출차 솔루션"
 subtitle: "Safety Solution for Entry Vehicles"
 summary: "주차장, 터널 등을 진입 시 경사 및 조도의 차이로 정차된 차량, 바닥의 장애물 등의 위험요소를 인지하기 어려운 점을 보완하여 내부의 영상 및 안전 상황을 전달하여 안전한 입출차를 유도하는 솔루션입니다."
 authors: [ "" ]
-tags: [ "Entrance", "NDS" ]
+tags: [ "entrance", "nds" ]
 categories: [ "solutions" ]
 #date: 2020-02-12
 draft: false

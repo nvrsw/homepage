@@ -3,7 +3,7 @@ title: "비상벨 시스템"
 subtitle: "Emergency Call System"
 summary: "지하 주차장 및 사각지대에 비상벨 시스템을 구축하여 위급상황 발생 시 신속한 구조요청 및 대응이 가능한 솔루션입니다."
 authors: [ "" ]
-tags: [ "Emergency" ]
+tags: [ "emergency" ]
 categories: [ "solutions" ]
 #date: 2020-02-12
 draft: false

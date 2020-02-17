@@ -3,7 +3,7 @@ title: "NVR 장애 대응 시스템"
 subtitle: "Smart Failover System"
 summary: "예기치 않은 시스템의 결함이나 외부 공격에 의한 영상 데이터 손실을 방지하기 위한 NVR 장애 대응 솔루션입니다."
 authors: [ "" ]
-tags: [ "Failover" ]
+tags: [ "failover" ]
 categories: [ "solutions" ]
 #date: 2020-02-12
 draft: false

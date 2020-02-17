@@ -5,7 +5,7 @@ title: "청북 이안 아파트"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "LPR", "Wall", "Elevator", "Sound", "Fire" ]
+tags: [ "lpr", "wall", "elevator", "sound", "fire" ]
 categories: [ "sites" ]
 date: 2019-04-15
 draft: false

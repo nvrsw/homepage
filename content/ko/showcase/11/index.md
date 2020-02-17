@@ -5,7 +5,7 @@ title: "SECON2019 세계 보안 전시회"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "SECON" ]
+tags: [ "secon" ]
 categories: [ "sites" ]
 date: 2019-04-01
 draft: false

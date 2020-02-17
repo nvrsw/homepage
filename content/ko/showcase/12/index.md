@@ -5,7 +5,7 @@ title: "남산타운 아파트"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "LPR", "Broadcast", "Emergency" ]
+tags: [ "lpr", "broadcast", "emergency" ]
 categories: [ "sites" ]
 date: 2019-04-14
 draft: false

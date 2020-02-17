@@ -5,7 +5,7 @@ title: "NDS Solo - 무엇에 쓰는 물건일까요?"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "Wall", "NDS" ]
+tags: [ "wall", "nds" ]
 categories: [ "howto" ]
 date: 2019-07-07
 draft: false
