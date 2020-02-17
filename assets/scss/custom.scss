@@ -88,6 +88,11 @@ table {
   display: table;
 }
 
+th {
+  white-space: nowrap;
+}
+
+table > tbody > tr > th,
 table > tbody > tr > td {
   vertical-align: middle;
 }
