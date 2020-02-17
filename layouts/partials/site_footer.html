@@ -1,28 +1,17 @@
 <footer class="site-footer">
-  {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
-  <p class="powered-by">
-    {{ with site.GetPage "privacy.md" }}
-      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-    {{ end }}
-    {{ with site.GetPage "terms.md" }}
-      {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
-      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-    {{ end }}
+  <p>
+    <a href="/company/">{{ site.Params.company_name }}</a>
+    {{ with site.Params.company_branches }} | <a href="/company/#branches">{{ . }}</a>{{ end }}
+    {{ with site.Params.company_contact }} | <a href="/company/#contact">{{ . }}</a>{{ end }}
   </p>
-  {{ end }}
-
-  <p class="powered-by">
-    {{ site.Params.company_address }} | TEL: {{ site.Params.company_phone }} | {{ site.Params.company_email }}<br>
-    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} {{ end }}
-
-    {{ if not (in (slice "docs" "updates") .Type) }}
-    <span class="d-none float-right" aria-hidden="true">
-      <a href="#" class="back-to-top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
-    {{ end }}
+  <p>
+    <a href="https://hub.nvrsw.com/" target="_blank">EMSTONE HUB</a>
+    |
+    <a href="http://nvrsw.com/" target="_blank">NVR SOFTWARE</a>
+    |
+    <a href="https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg" target="_blank">YOUTUBE</a>
+  </p>
+  <p>
+    {{ with site.Copyright }} {{ replace . "{year}" now.Year | markdownify }} {{ end }}
   </p>
 </footer>

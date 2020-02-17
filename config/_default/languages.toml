@@ -10,6 +10,9 @@
   contentDir = "content/ko"
   weight = 1
   [ko.params]
+    company_name = "(주)엠스톤"
+    company_branches = "전국지사"
+    company_contact = "연락처"
     company_email = "sales@emstone.com"
     company_phone = "1600-5978"
     company_fax = "02-6675-3699"
@@ -23,6 +26,9 @@
   contentDir = "content/en"
   weight = 2
   [en.params]
+    company_name = "About"
+    company_branches = ""
+    company_contact = "Contact"
     company_email = "sales@emstone.com"
     company_phone = "+82-2-6675-3690"
     company_fax = "+82-2-6675-3699"

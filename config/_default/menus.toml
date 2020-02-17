@@ -33,12 +33,12 @@
   url = "company/"
   weight = 50
 
-[[main]]
-  parent = "products"
-  name = "NVR"
-  url = "products/nvr/"
-  weight = 10
-
+#[[main]]
+#  parent = "products"
+#  name = "NVR"
+#  url = "products/nvr/"
+#  weight = 10
+#
 #[[main]]
 #  parent = "products"
 #  name = "CMS 스테이션"
@@ -62,25 +62,25 @@
 #  name = "기타"
 #  url = "products/etc/"
 #  weight = 50
-
-[[main]]
-  parent = "solutions"
-  name = "IP 비디오 월"
-  url = "solutions/ip-wall/"
-  weight = 10
-
-[[main]]
-  parent = "solutions"
-  name = "지문 인증"
-  url = "solutions/fingerprint/"
-  weight = 20
-
-[[main]]
-  parent = "solutions"
-  name = "NVR 장애 대응"
-  url = "solutions/failover/"
-  weight = 30
-
+#
+#[[main]]
+#  parent = "solutions"
+#  name = "IP 비디오 월"
+#  url = "solutions/wall/"
+#  weight = 10
+#
+#[[main]]
+#  parent = "solutions"
+#  name = "지문 인증"
+#  url = "solutions/fingerprint/"
+#  weight = 20
+#
+#[[main]]
+#  parent = "solutions"
+#  name = "NVR 장애 대응"
+#  url = "solutions/failover/"
+#  weight = 30
+#
 #[[main]]
 #  parent = "support"
 #  name = "마케팅 자료"
@@ -98,48 +98,48 @@
 #  name = "튜토리얼"
 #  url = "support/#tutorials"
 #  weight = 30
-
-[[main]]
-  parent = "support"
-  name = "YouTube 채널"
-  url = "https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg"
-  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
-  weight = 70
-
-[[main]]
-  parent = "support"
-  name = "소프트웨어"
-  url = "http://nvrsw.com/"
-  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
-  weight = 80
-
-[[main]]
-  parent = "support"
-  name = "프로젝트"
-  url = "https://hub.nvrsw.com/"
-  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
-  weight = 90
-
-[[main]]
-  parent = "company"
-  name = "엠스톤 소개"
-  url = "company/"
-  weight = 10
-
-[[main]]
-  parent = "company"
-  name = "연혁"
-  url = "company/#history"
-  weight = 20
-
-[[main]]
-  parent = "company"
-  name = "연락처"
-  url = "company/#contact"
-  weight = 30
-
-[[main]]
-  parent = "company"
-  name = "전국 지사"
-  url = "company/#branches"
-  weight = 40
+#
+#[[main]]
+#  parent = "support"
+#  name = "YouTube 채널"
+#  url = "https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg"
+#  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
+#  weight = 70
+#
+#[[main]]
+#  parent = "support"
+#  name = "소프트웨어"
+#  url = "http://nvrsw.com/"
+#  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
+#  weight = 80
+#
+#[[main]]
+#  parent = "support"
+#  name = "프로젝트"
+#  url = "https://hub.nvrsw.com/"
+#  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
+#  weight = 90
+#
+#[[main]]
+#  parent = "company"
+#  name = "엠스톤 소개"
+#  url = "company/"
+#  weight = 10
+#
+#[[main]]
+#  parent = "company"
+#  name = "연혁"
+#  url = "company/#history"
+#  weight = 20
+#
+#[[main]]
+#  parent = "company"
+#  name = "연락처"
+#  url = "company/#contact"
+#  weight = 30
+#
+#[[main]]
+#  parent = "company"
+#  name = "전국 지사"
+#  url = "company/#branches"
+#  weight = 40
