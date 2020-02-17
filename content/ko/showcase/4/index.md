@@ -5,7 +5,7 @@ title: "삼척 청솔2차 아파트 - 최초의 하이브리드 설치"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "rftc", "lpr", "hybrid" ]
+tags: [ "rftc", "lpr" ]
 categories: [ "sites" ]
 date: 2019-01-05
 draft: false

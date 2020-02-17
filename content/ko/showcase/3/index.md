@@ -5,7 +5,7 @@ title: "삼척 자연생태 공원 - 두루미 보호"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "nvr" ]
+tags: [ ]
 categories: [ "sites" ]
 date: 2019-01-04
 draft: false
