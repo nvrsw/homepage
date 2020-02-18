@@ -20,6 +20,10 @@ image:
 
 {{< figure src="featured.png">}}
 
+<div class="container">
+<div class="row align-items-top">
+<div class="col-12 col-sm-8 pl-0">
+
 ## 특징
 
 - HDD 최대 4개 장착 (레이드 구성 불가능)
@@ -40,9 +44,16 @@ image:
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
 - 모델 라인업 : 16 / 25 / 36 / 49 / 64 CH
 
+</div>
+<div class="col-12 col-sm-4 pl-0">
+
 ## 외관도
 
 {{< figure src="2u4b-drawing.png" >}}
+
+</div>
+</div>
+</div>
 
 ## 개별 사양
 
