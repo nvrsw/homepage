@@ -92,9 +92,51 @@ th {
   white-space: nowrap;
 }
 
+table > thead > tr > th,
 table > tbody > tr > th,
-table > tbody > tr > td {
+table > tfoot > tr > th,
+table > thead > tr > td,
+table > tbody > tr > td,
+table > tfoot > tr > td {
   vertical-align: middle;
+  padding: 0.5rem 0.40rem;
+  line-height: 1.2rem;
+}
+
+table > thead > tr > th,
+table > tbody > tr > th,
+table > tfoot > tr > th,
+table > tbody > tr:nth-child(odd) > th,
+table > tbody > tr:hover > th
+{
+  font-weight: 500;
+}
+
+table.spec {
+  border: 1px solid #ddd;
+}
+
+table.spec > thead > tr > th,
+table.spec > tbody > tr > th,
+table.spec > tfoot > tr > th,
+table.spec > thead > tr > td,
+table.spec > tbody > tr > td,
+table.spec > tfoot > tr > td {
+  border: 1px solid #ddd;
+}
+
+table.spec > thead > tr > th,
+table.spec > tbody > tr > th,
+table.spec > tfoot > tr > th,
+table.spec > tbody > tr:nth-child(odd) > th,
+table.spec > tbody > tr:hover > th
+{
+  color: #000000;
+  background-color: #f8f8f8;
+}
+
+table.spec > tbody > tr:nth-child(odd) > td {
+  background-color: inherit;
 }
 
 .article-style > figure {

@@ -39,7 +39,7 @@ image:
 
 ## 특징
 
-- HDD 최대 4개 장착 (레이드 구성 불가능)
+- HDD 최대 4개 장착 (RAID 구성 불가능)
 - 추가 옵션 적용 가능 (LAN, DI/DO)
 - 높은 신뢰도의 64비트 리눅스(Linux) 기반 디지털 비디오 녹화기
 - 고효율 **H.265 / H.264** 압축방식을 통하여 선명한 화질의 영상
@@ -71,7 +71,7 @@ image:
 ## 개별 사양
 
 <div style="overflow-x: auto">
-<table>
+<table class="spec">
 <thead>
 <tr>
 <th colspan="2">모델명</th>
@@ -123,10 +123,10 @@ image:
 <th>라이브</th>
 <th>성능</th>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(2CH/120fps)<br>8M(4CH/180fps)<br>5M(6CH/300fps)<br>1080P(16CH/750fps)</td>
-<td>12M(2CH/180fps)<br>8M(4CH/270fps)<br>5M(6CH/420fps)<br>1080P(16CH/1080fps)</td>
-<td>12M(2CH/240fps)<br>8M(4CH/360fps)<br>5M(6CH/570fps)<br>1080P(16CH/1470fps)</td>
-<td>12M(2CH/300fps)<br>8M(4CH/480fps)<br>5M(6CH/750fps)<br>1080P(16CH/1920fps)</td>
+<td>12M(4CH/120fps)<br>8M(6CH/180fps)<br>5M(10CH/300fps)<br>1080P(25CH/750fps)</td>
+<td>12M(6CH/180fps)<br>8M(9CH/270fps)<br>5M(14CH/420fps)<br>1080P(36CH/1080fps)</td>
+<td>12M(8CH/240fps)<br>8M(12CH/360fps)<br>5M(19CH/570fps)<br>1080P(49CH/1470fps)</td>
+<td>12M(10CH/300fps)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)</td>
 </tr>
 <tr>
 <th rowspan="3">녹화</th>
@@ -135,7 +135,7 @@ image:
 </tr>
 <tr>
 <th>성능</th>
-<td colspan="5">최대 500Mbps CIF~12MP</td>
+<td colspan="5">최대 500Mbps<br>CIF~12MP</td>
 </tr>
 <tr>
 <th>압축방식</th>
@@ -149,10 +149,10 @@ image:
 <tr>
 <th>성능</th>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(2CH/120fps)<br>8M(4CH/180fps)<br>5M(6CH/300fps)<br>1080P(16CH/750fps)</td>
-<td>12M(2CH/180fps)<br>8M(4CH/270fps)<br>5M(6CH/420fps)<br>1080P(16CH/1080fps)</td>
-<td>12M(2CH/240fps)<br>8M(4CH/360fps)<br>5M(6CH/570fps)<br>1080P(16CH/1470fps)</td>
-<td>12M(2CH/300fps)<br>8M(4CH/480fps)<br>5M(6CH/750fps)<br>1080P(16CH/1920fps)</td>
+<td>12M(4CH/120fps)<br>8M(6CH/180fps)<br>5M(10CH/300fps)<br>1080P(25CH/750fps)</td>
+<td>12M(6CH/180fps)<br>8M(9CH/270fps)<br>5M(14CH/420fps)<br>1080P(36CH/1080fps)</td>
+<td>12M(8CH/240fps)<br>8M(12CH/360fps)<br>5M(19CH/570fps)<br>1080P(49CH/1470fps)</td>
+<td>12M(10CH/300fps)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)</td>
 </tr>
 <tr>
 <th>재생 제어</th>
@@ -165,7 +165,7 @@ image:
 ## 공통 사양
 
 <div style="overflow-x: auto">
-<table>
+<table class="spec">
 <tbody>
 <tr>
 <th rowspan="2">IP 카메라</th>
@@ -187,15 +187,15 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>3.5" HDD 최대 8개 장착가능 (12TB HDD 인식, 최대 용량 96TB)</td>
+<td>3.5" HDD 최대 4개 장착가능 (12TB HDD 인식, 최대 용량 48TB)</td>
 </tr>
 <tr>
 <th>RAID(옵션)</th>
-<td>0 / 1 / 5 / 6</td>
+<td>미지원</td>
 </tr>
 <tr>
 <th>Hot Swap</th>
-<td>지원 (RAID 사용시)</td>
+<td>Hot Plug 지원</td>
 </tr>
 <tr>
 <th>외장 스토리지</th>

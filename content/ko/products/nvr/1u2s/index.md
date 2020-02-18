@@ -56,7 +56,7 @@ image:
 ## 개별 사양
 
 <div style="overflow-x: auto">
-<table>
+<table class="spec">
 <thead>
 <tr>
 <th colspan="2">모델명</th>
@@ -96,7 +96,7 @@ image:
 <tr>
 <th>라이브</th>
 <th>성능</th>
-<td>12M(-CH/-fps)<br>8M(1CH/30fps)<br>5M(2CH/60fps)<br>1080P(4CH/120fps)</td>
+<td>12M(1CH/15fps)<br>8M(1CH/30fps)<br>5M(2CH/60fps)<br>1080P(4CH/120fps)</td>
 <td>12M(1CH/30fps)<br>8M(2CH/60fps)<br>5M(4CH/120fps)<br>1080P(9CH/270fps)</td>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
 </tr>
@@ -107,7 +107,7 @@ image:
 </tr>
 <tr>
 <th>성능</th>
-<td colspan="3">최대 500Mbps CIF~12MP</td>
+<td colspan="3">최대 500Mbps<br>CIF~12MP</td>
 </tr>
 <tr>
 <th>압축방식</th>
@@ -120,7 +120,7 @@ image:
 </tr>
 <tr>
 <th>성능</th>
-<td>12M(-CH/-fps)<br>8M(1CH/30fps)<br>5M(2CH/60fps)<br>1080P(4CH/120fps)</td>
+<td>12M(1CH/15fps)<br>8M(1CH/30fps)<br>5M(2CH/60fps)<br>1080P(4CH/120fps)</td>
 <td>12M(1CH/30fps)<br>8M(2CH/60fps)<br>5M(4CH/120fps)<br>1080P(9CH/270fps)</td>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
 </tr>
@@ -135,7 +135,7 @@ image:
 ## 공통 사양
 
 <div style="overflow-x: auto">
-<table>
+<table class="spec">
 <tbody>
 <tr>
 <th rowspan="2">IP 카메라</th>
