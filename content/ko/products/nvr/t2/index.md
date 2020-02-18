@@ -18,20 +18,7 @@ image:
   preview_only: true
 ---
 
-<div class="container">
-<div class="row align-items-center">
-<div class="col-sm">
-
-{{< figure src="featured.png" lightbox-group="a" >}}
-
-</div>
-<div class="col-sm">
-
-{{< figure src="t2-side.png" lightbox-group="a" >}}
-
-</div>
-</div>
-</div>
+{{< figure src="featured.png" lightbox-group="a" width="450px" >}}
 
 <div class="container">
 <div class="row align-items-top">
