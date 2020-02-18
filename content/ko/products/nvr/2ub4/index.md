@@ -18,7 +18,20 @@ image:
   preview_only: true
 ---
 
-{{< figure src="featured.png">}}
+<div class="container">
+<div class="row align-items-center">
+<div class="col-sm">
+
+{{< figure src="featured.png" lightbox-group="a" >}}
+
+</div>
+<div class="col-sm">
+
+{{< figure src="2u4b-side.png" lightbox-group="a" >}}
+
+</div>
+</div>
+</div>
 
 <div class="container">
 <div class="row align-items-top">
@@ -49,7 +62,7 @@ image:
 
 ## 외관도
 
-{{< figure src="2u4b-drawing.png" >}}
+{{< figure src="2u4b-drawing.png" lightbox-group="a" >}}
 
 </div>
 </div>

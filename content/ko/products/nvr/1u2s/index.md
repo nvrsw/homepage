@@ -18,7 +18,7 @@ image:
   preview_only: true
 ---
 
-{{< figure src="featured.png">}}
+{{< figure src="featured.png" lightbox-group="a" width="450px" >}}
 
 <div class="container">
 <div class="row align-items-top">
@@ -47,7 +47,7 @@ image:
 
 ## 외관도
 
-{{< figure src="1u2s-drawing.png" >}}
+{{< figure src="1u2s-drawing.png" lightbox-group="a"  >}}
 
 </div>
 </div>
