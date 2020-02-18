@@ -44,8 +44,8 @@
   {{ $image := $featured.Fit "2560x2560" }}
 {{else}}
   {{ $image_container = "article-container" }}
-  {{ if gt $featured.Width 720 }}
-    {{ $image = $featured.Resize "720x" }}
+  {{ if gt $featured.Width 960 }}
+    {{ $image = $featured.Resize "960x" }}
   {{ end }}
 {{end}}
 
