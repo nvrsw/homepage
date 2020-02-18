@@ -1,7 +1,7 @@
 ---
 title: "1U 2S Essential Series"
-subtitle: "1U 2Bay 스토리지 형식의 PC 기반 NVR"
-summary: "1U 2Bay 스토리지 형식의 PC 기반 NVR"
+subtitle: "1U 2Bay Storage Type PC based NVR"
+summary: "1U 2Bay Storage Type PC based NVR"
 authors: [ "" ]
 tags: [ "" ]
 categories: [ "nvr" ]

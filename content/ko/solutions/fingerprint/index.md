@@ -32,23 +32,25 @@ image:
 <div class="row align-items-center">
 <div class="col-12 col-sm-8">
 
-|
---- | ---
-Model | FM1000H
-Fingerprint Sensor | Optical
-Resolution | 500dpi / 256gray
-Window Size | 16 x 18.8 mm
-Fingerprint Image Size | 280 x 320 pixels
-Interface | USB 1.1 Full Speed / USB 2.0 Full Speed Compatible
-FAR(False Acceptance Rate) |  ≤0.0001%
-FRR(False Rejection Rate) | ≤1%
-Authentication Speed | ≥0.2 secs
-Template Size | 480 Bytes
-Fingerprint Rotation Range | 0 ̊ ~ 360 ̊
-Matching Security Level | 3 Levels
-Operating Temp / Humidity | 0°C ~ 40°C / 0% ~ 90%
-Dimension | 68(W) x 120(H) x 41(D) mm
-Weight | Approx. 145g
+<table class="spec">
+<tbody>
+<tr><th>Model</th><td>FM1000HM</td></tr>
+<tr><th>Fingerprint Sensor</th><td>OpticalM</td></tr>
+<tr><th>Resolution</th><td>500dpi / 256grayM</td></tr>
+<tr><th>Window Size</th><td>16 x 18.8 mmM</td></tr>
+<tr><th>Fingerprint Image Size</th><td>280 x 320 pixelsM</td></tr>
+<tr><th>Interface</th><td>USB 1.1 Full Speed / USB 2.0 Full Speed CompatibleM</td></tr>
+<tr><th>FAR(False Acceptance Rate)</th><td> ≤0.0001%M</td></tr>
+<tr><th>FRR(False Rejection Rate)</th><td>≤1%M</td></tr>
+<tr><th>Authentication Speed</th><td>≥0.2 secsM</td></tr>
+<tr><th>Template Size</th><td>480 BytesM</td></tr>
+<tr><th>Fingerprint Rotation Range</th><td>0 ̊ ~ 360 ̊M</td></tr>
+<tr><th>Matching Security Level</th><td>3 LevelsM</td></tr>
+<tr><th>Operating Temp / Humidity</th><td>0°C ~ 40°C / 0% ~ 90%M</td></tr>
+<tr><th>Dimension</th><td>68(W) x 120(H) x 41(D) mmM</td></tr>
+<tr><th>Weight</th><td>Approx. 145gM</td></tr>
+</tbody>
+</table>
 
 </div>
 <div class="col-12 col-sm-4">

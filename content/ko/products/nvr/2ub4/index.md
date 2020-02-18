@@ -1,7 +1,7 @@
 ---
 title: "2U B4 Performance Series"
-subtitle: "2U 4Bay 스토리지 형식의 PC 기반 NVR"
-summary: "2U 4Bay 스토리지 형식의 PC 기반 NVR"
+subtitle: "2U 4Bay Storage Type PC based NVR"
+summary: "2U 4Bay Storage Type PC based NVR"
 authors: [ "" ]
 tags: [ "" ]
 categories: [ "nvr" ]
