@@ -1,7 +1,7 @@
 ---
-title: "지원되는 IP 카메라 목록"
-subtitle: "Supported IP Cameras"
-summary: "Supported IP Cameras"
+title: "네트워크 IP 카메라 지원 목록"
+subtitle: "Supported Network IP Cameras"
+summary: "엠스톤 NVR이 지원하는 네트워크 IP 카메라 제조사 목록입니다."
 authors: [ "" ]
 tags: [ "" ]
 categories: [ "nvr" ]
@@ -20,13 +20,15 @@ image:
   preview_only: true
 ---
 
-## 지원되는 IP 카메라 목록
+엠스톤 NVR이 지원하는 네트워크 IP 카메라 제조사 목록입니다.
 
-NVR 2.9 버전에서 지원하는 네트워크 IP 카메라 목록입니다.
+## 네트워크 IP 카메라 목록
+
+제조사, 양방향 오디오(A/O), 테스트한 모델과 펌웨어 버전 순으로 표기
 
 Vendor |   A/O   | Models / Firmwares
 ------ | :-----: | ------------------
-ONVIF | ✓ | 아래 **테스트한 ONVIF IP 카메라 목록** 참고
+ONVIF | ✓ | **ONVIF IP 카메라 테스트 목록** 참고
 RTSP |  |
 EMSTONE |  | NVR 전제품
 3R |  | 3R DVR DRA 0.7.3.3
@@ -121,9 +123,7 @@ VIVOTEK |  | FD8169A/0100f
 WellCam |  | IPC70307/v2.1.0.1.10.17
 Zenosys |  | MEGA-IPCAM/v1.0.49
 
-**A/O** 는 '오디오 출력'(Audio Output)을 의미합니다.
-
-## 테스트한 ONVIF IP 카메라 목록
+## ONVIF IP 카메라 테스트 목록
 
 - ANTKR 2 EM-IHV(IR2812Z)/HS16_SW00_V0.0.1.13a
 - Asoni CAM6691FIR/vC1.0.10_As.1
