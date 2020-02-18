@@ -30,9 +30,7 @@ image:
 
 Vendor |   A/O   | Models / Firmwares
 ------ | :-----: | ------------------
-**ONVIF** | ✓ | [ONVIF IP 카메라 테스트 목록](#onvif-ip-카메라-테스트-목록) 참고
-**RTSP** |  |
-**EMSTONE** |  | NVR 전제품
+**ONVIF / RTSP** | ✓ | [ONVIF IP 카메라 테스트 목록](#onvif-ip-카메라-테스트-목록) 참고
 **3R** |  | 3R DVR DRA 0.7.3.3
 **AMK** |  | AMK DVR v20131104
 **ANTKR** | ✓ | VCS2/AS65_ALL001_V1.01.00, DV-IHE(N2812)/XE45_SW00V0.0.2.00
