@@ -1,7 +1,7 @@
 ---
-title: "2U B4 Performance Series"
-subtitle: "2U 4Bay Storage Type PC based NVR"
-summary: "2U 4Bay Storage Type PC based NVR"
+title: "4U B24 Performance Series"
+subtitle: "4U 24Bay Storage Type PC based NVR"
+summary: "4U 24Bay Storage Type PC based NVR"
 authors: [ "" ]
 tags: [ "" ]
 categories: [ "nvr" ]
@@ -27,7 +27,7 @@ image:
 </div>
 <div class="col-sm">
 
-{{< figure src="2ub4-side.png" lightbox-group="a" >}}
+{{< figure src="4ub24-side.png" lightbox-group="a" >}}
 
 </div>
 </div>
@@ -39,7 +39,7 @@ image:
 
 ## 특징
 
-- HDD 최대 4개 장착 (RAID 구성 불가능)
+- HDD 최대 24개 장착 (RAID 0/1/5 기본 장착)
 - 추가 옵션 적용 가능 (LAN, DI/DO)
 - 높은 신뢰도의 64비트 리눅스(Linux) 기반 디지털 비디오 녹화기
 - 고효율 **H.265 / H.264** 압축방식을 통하여 선명한 화질의 영상
@@ -53,16 +53,16 @@ image:
 - **생체 정보**를 이용한 사용자 인증 지원
 - Failover 지원 : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
 - 양방향 음성 기능 지원
-- 최대 48TB의 넉넉한 자체 저장 공간
+- 최대 288TB의 넉넉한 자체 저장 공간
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
-- 모델 라인업 : 16, 25, 36, 49, 64 CH
+- 모델 라인업 : 36, 64F, 81H, 100H, 128H CH
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
 
 ## 외관도
 
-{{< figure src="2ub4-drawing.png" lightbox-group="a" >}}
+{{< figure src="4ub24-drawing.png" lightbox-group="a" >}}
 
 </div>
 </div>
@@ -75,36 +75,28 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-16B4</th>
-<th>EM-25B4</th>
-<th>EM-36B4</th>
-<th>EM-49B4</th>
-<th>EM-64B4</th>
+<th>EM-36B24</th>
+<th>EM-64B24F</th>
+<th>EM-81B24H</th>
+<th>EM-100B24H</th>
+<th>EM-128B24H</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th>영상입력</th>
 <th>IP 카메라</th>
-<td>16CH</td>
-<td>25CH</td>
-<td>36CH</td>
-<td>49CH</td>
-<td>64CH</td>
+<td>36CH</td><td>64CH</td><td>81CH</td><td>100CH</td><td>128CH</td>
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td colspan="2">Dual Core 1.0GHz or Higher</td>
-<td>i3 3.0GHz or Higher</td>
-<td colspan="2">QuadCore 2.5GHz or Higher</td>
+<td>Dual Core 1.0GHz or Higher</td>
+<td colspan="4">QuadCore 2.5GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>DDR3/4 8GB</td>
-<td>DDR3/4 12GB</td>
 <td>DDR3/4 16GB</td>
-<td>DDR3/4 24GB</td>
-<td>DDR3/4 32GB</td>
+<td colspan="4">DDR3/4 32GB</td>
 </tr>
 <tr>
 <th rowspan="2">디스플레이</th>
@@ -113,20 +105,20 @@ image:
 </tr>
 <tr>
 <th>분할화면</th>
-<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16</td>
-<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25</td>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36</td>
-<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49</td>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64</td>
+<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64 / 81</td>
+<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64 / 81 / 100</td>
+<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64 / 81 / 100 / 121 / 128</td>
 </tr>
 <tr>
 <th>라이브</th>
 <th>성능</th>
-<td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(4CH/120fps)<br>8M(6CH/180fps)<br>5M(10CH/300fps)<br>1080P(25CH/750fps)</td>
-<td>12M(6CH/180fps)<br>8M(9CH/270fps)<br>5M(14CH/420fps)<br>1080P(36CH/1080fps)</td>
-<td>12M(8CH/240fps)<br>8M(12CH/360fps)<br>5M(19CH/570fps)<br>1080P(49CH/1470fps)</td>
-<td>12M(10CH/300fps)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)</td>
+<td>12M(6CH/180fsp)<br>8M(9CH/270fps)<br>5M(14CH/420fps)<br>1080P(36CH/1080fps)</td>
+<td>12M(10CH/300fsp)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)</td>
+<td>12M(6CH/180fsp)<br>8M(10CH/300fps)<br>5M(16CH/480fps)<br>1080P(40CH/1200fps)<br>720P(81CH/2430fps)</td>
+<td>12M(8CH/240fsp)<br>8M(12CH/360fps)<br>5M(20CH/600fps)<br>1080P(50CH/1500fps)<br>720P(100CH/3000fps)</td>
+<td>12M(10CH/300fsp)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)<br>720P(128CH/3840fps)</td>
 </tr>
 <tr>
 <th rowspan="3">녹화</th>
@@ -148,11 +140,11 @@ image:
 </tr>
 <tr>
 <th>성능</th>
-<td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(4CH/120fps)<br>8M(6CH/180fps)<br>5M(10CH/300fps)<br>1080P(25CH/750fps)</td>
-<td>12M(6CH/180fps)<br>8M(9CH/270fps)<br>5M(14CH/420fps)<br>1080P(36CH/1080fps)</td>
-<td>12M(8CH/240fps)<br>8M(12CH/360fps)<br>5M(19CH/570fps)<br>1080P(49CH/1470fps)</td>
-<td>12M(10CH/300fps)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)</td>
+<td>12M(6CH/180fsp)<br>8M(9CH/270fps)<br>5M(14CH/420fps)<br>1080P(36CH/1080fps)</td>
+<td>12M(10CH/300fsp)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)</td>
+<td>12M(6CH/180fsp)<br>8M(10CH/300fps)<br>5M(16CH/480fps)<br>1080P(40CH/1200fps)<br>720P(81CH/2430fps)</td>
+<td>12M(8CH/240fsp)<br>8M(12CH/360fps)<br>5M(20CH/600fps)<br>1080P(50CH/1500fps)<br>720P(100CH/3000fps)</td>
+<td>12M(10CH/300fsp)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)<br>720P(128CH/3840fps)</td>
 </tr>
 <tr>
 <th>재생 제어</th>
@@ -187,15 +179,15 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>3.5" HDD 최대 4개 장착가능 (12TB HDD 인식, 최대 용량 48TB)</td>
+<td>3.5" HDD 최대 24개 장착가능 (12TB HDD 인식, 최대 용량 288TB), RAID 사용시 Enterprise Level HDD 사용 필수</td>
 </tr>
 <tr>
 <th>RAID(옵션)</th>
-<td>미지원</td>
+<td>0 / 1 / 5 / 6 / 50 / 60 (기본장착)</td>
 </tr>
 <tr>
 <th>Hot Swap</th>
-<td>Hot Plug 지원</td>
+<td>지원</td>
 </tr>
 <tr>
 <th>외장 스토리지</th>
@@ -276,15 +268,15 @@ image:
 </tr>
 <tr>
 <th colspan="2">사용전원 / 소비전력</th>
-<td>DC12V 5A Adapter (AC100 ~ 240V 50/60Hz)<br>DC12V 10A Adapter (AC100 ~ 240V 50/60Hz)</td>
+<td>100~240VAC, 50/60Hz, 400W, Dual Redundant Power</td>
 </tr>
 <tr>
 <th colspan="2">크기(W x H x D)</th>
-<td>482(W) Ⅹ 88.4(H) Ⅹ 400(D)mm</td>
+<td>481(W) Ⅹ 176.4(H) Ⅹ 550(D)mm</td>
 </tr>
 <tr>
 <th colspan="2">중량</th>
-<td>9kg (HDD 미장착시)</td>
+<td>20.5kg (HDD 미장착시)</td>
 </tr>
 </tbody>
 </table>
