@@ -42,7 +42,7 @@ image:
 - HDD 최대 8개 장착 (RAID 0/1/5, RAID 0/1/5/6 옵션 가능)
 - 추가 옵션 적용 가능 (LAN, DI/DO)
 - 높은 신뢰도의 64비트 리눅스(Linux) 기반 디지털 비디오 녹화기
-- 고효율 **H.265 / H.264** 압축방식을 통하여 선명한 화질의 영상
+- 고효율 H.265 / H.264 압축방식을 통하여 선명한 화질의 영상
 - **AHD / TVI / CVI** 및 12M / 8M / 5M / 2M / 1.3M 등 **모든 해상도 지원**
 - DOM-SSD 사용으로 빠르고 안정적인 시스템 운영
 - ONVIF / RTSP 표준 프로토콜 지원
@@ -98,7 +98,7 @@ image:
 <tr>
 <th rowspan="2">디스플레이</th>
 <th>모니터 출력</th>
-<td colspan="5">1xHDMI / 1xVGA</td>
+<td colspan="2">1xHDMI / 1xVGA</td>
 </tr>
 <tr>
 <th>분할화면</th>
