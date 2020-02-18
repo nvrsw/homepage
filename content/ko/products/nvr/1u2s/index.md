@@ -3,7 +3,7 @@ title: "1U 2S Essential Series"
 subtitle: "1U 2Bay 스토리지 형식의 PC 기반 NVR"
 summary: "1U 2Bay 스토리지 형식의 PC 기반 NVR"
 authors: [ "" ]
-tags: [ "nvr" ]
+tags: [ "" ]
 categories: [ "nvr" ]
 #date: 2020-02-12
 draft: false
@@ -246,7 +246,7 @@ image:
 <td>2.54kg (HDD 미장착시)</td>
 </tr>
 </tbody>
-<table>
+</table>
 </div>
 
 ※ KVM 스위치 사용 시 USB 타입의 제품을 사용해야 합니다. (PS/2 타입 사용 불가)<br>
