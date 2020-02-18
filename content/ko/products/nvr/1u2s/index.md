@@ -47,7 +47,7 @@ image:
 
 ## 외관도
 
-{{< figure src="1u2s-drawing.png" lightbox-group="a"  >}}
+{{< figure src="1u2s-drawing.png" lightbox-group="a" >}}
 
 </div>
 </div>

@@ -27,7 +27,7 @@ image:
 </div>
 <div class="col-sm">
 
-{{< figure src="2u4b-side.png" lightbox-group="a" >}}
+{{< figure src="2ub4-side.png" lightbox-group="a" >}}
 
 </div>
 </div>
@@ -62,7 +62,7 @@ image:
 
 ## 외관도
 
-{{< figure src="2u4b-drawing.png" lightbox-group="a" >}}
+{{< figure src="2ub4-drawing.png" lightbox-group="a" >}}
 
 </div>
 </div>
