@@ -179,3 +179,14 @@ ul, ol {
 .article-container {
   max-width: 1000px;
 }
+
+b, strong {
+  font-weight: 500;
+  text-decoration: dotted underline #d1121c 2px;
+  text-underline-offset: 0.25em;
+}
+
+td b,
+td strong {
+  text-decoration: inherit;
+}

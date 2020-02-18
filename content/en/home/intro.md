@@ -38,6 +38,6 @@ hero_media = "intro-screenshot.jpg"
   padding = ["30px", "0", "30px", "0"]
 +++
 
-**Fast, Easy and Reliable NVR Systems**
+# Fast, Easy and Reliable NVR Systems
 
 EMSTONE, the video security company that struggles to prevent accidents, will do its best to protect customers' lives and their families.
