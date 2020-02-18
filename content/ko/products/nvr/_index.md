@@ -7,7 +7,7 @@ summary: "Network Video Recorder / Hybrid NVR / Failover Server"
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+view: 3
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,5 +35,3 @@ image:
 </div>
 </div>
 </div>
-
-&nbsp;

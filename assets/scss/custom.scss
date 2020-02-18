@@ -190,3 +190,24 @@ td b,
 td strong {
   border-bottom: inherit;
 }
+
+.card-simple {
+  box-shadow: inherit;
+  border-radius: inherit;
+  border: 0;
+  border-top: 1px solid rgba(0,0,0,.09);
+  margin: 0;
+  padding: 20px 20px;
+}
+
+.card-simple:first-of-type {
+  border-top: 1px solid rgba(0,0,0,.09);
+}
+
+.card-simple .article-style p {
+  margin-bottom: 0;
+}
+
+.card-simple img {
+  margin: 2rem 0 1rem 0;
+}
