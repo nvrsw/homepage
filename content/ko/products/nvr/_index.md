@@ -1,7 +1,7 @@
 ---
-title: "NVR / Hybrid NVR"
-subtitle: "Network Video Recorder"
-summary: "Network Video Recorder"
+title: "NVR"
+subtitle: "Network Video Recorder / Hybrid NVR / Failover Server"
+summary: "Network Video Recorder / Hybrid NVR / Failover Server"
 
 # View.
 #   1 = List
