@@ -1,7 +1,7 @@
 ---
-title: "EM-IQE QHD 하우징 카메라"
-subtitle: "5MP Housing Type Network IP Camera Series"
-summary: "5MP Housing Type Network IP Camera Series"
+title: "EM-IHE FullHD 하우징 카메라"
+subtitle: "2MP Housing Type Network IP Camera Series"
+summary: "2MP Housing Type Network IP Camera Series"
 authors: [ "" ]
 tags: [ "" ]
 categories: [ "camera" ]
@@ -22,12 +22,12 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="em-iqe-case.png" lightbox-group="a" caption="EM-IQE(N2812Z)" >}}
+{{< figure src="featured.png" lightbox-group="a" caption="EM-IHE(N2812Z)" >}}
 
 </div>
 <div class="col-sm-6">
 
-{{< figure src="featured.png" lightbox-group="a" caption="EM-IQE(IR2812Z) / EM-IQE(IR0550Z)" >}}
+{{< figure src="em-ihe-case.png" lightbox-group="a" caption="EM-IHE(IR2812Z) / EM-IHE(IR0550Z)" >}}
 
 </div>
 </div>
@@ -35,15 +35,15 @@ image:
 
 ## 특징
 
-- **QHD** 5 메가 픽셀 2560x1920p@30fps
+- **FullHD** 2 메가 픽셀 1920x1080p@30fps
 - SONY Progressive CMOS Sensor
 - **PoE**(Power over Ethernet) 지원
 - ONVIF / RTSP 표준 프로토콜 지원 (**ONVIF Profile S**)
-- 높은 효율의 H.265, H.264 압축 방식을 통한 선명한 화질 구현
+- 높은 효율의 H.264 압축 방식을 통한 선명한 화질 구현
 
 ## 외관도
 
-{{< figure src="em-iqe-drawing.png" lightbox-group="a" caption="EM-IQE(N2812Z) / EM-IQE(IR2812Z) / EM-IQE(IR0550Z)" >}}
+{{< figure src="em-ihe-drawing.png" lightbox-group="a" caption="EM-IHE(N2812Z) / EM-IHE(IR2812Z) / EM-IHE(IR0550Z)" >}}
 
 ## 사양
 
@@ -52,9 +52,9 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-IQE(N2812Z)</th>
-<th>EM-IQE(IR2812Z)</th>
-<th>EM-IQE(IR0550Z)</th>
+<th>EM-IHE(N2812Z)</th>
+<th>EM-IHE(IR2812Z)</th>
+<th>EM-IHE(IR0550Z)</th>
 </tr>
 </thead>
 <tbody>
@@ -98,11 +98,11 @@ image:
 <tr>
 <th rowspan="4">Video</th>
 <th>Compress<br>Format</th>
-<td colspan="3">H.265 / H.264 / MJPEG</td>
+<td colspan="3">H.264 / MJPEG</td>
 </tr>
 <tr>
 <th>Resolution</th>
-<td colspan="3">2560x1920 / 2560x1600 / 2560x1440 / 2048x1536 / 1600x1200 / 1920×1080 / 1280×1024 / 1280×960 / 1280×720 / 1024x768 / 854x480 / 640×480 / 640x360 / 320×240</td>
+<td colspan="3">1920×1080 / 1280×1024 / 1280×960 / 1280×720 / 640×480 / 320×240</td>
 </tr>
 <tr>
 <th>Max.<br>Frame Rate</th>
