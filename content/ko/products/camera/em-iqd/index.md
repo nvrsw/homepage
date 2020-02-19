@@ -233,7 +233,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">Operating Temp / Humidity</th>
-<td colspan="4">-10℃~+40℃ / 0% ~ 90%</td>
+<td colspan="4">-10℃ ~ +40℃ / 0% ~ 90%</td>
 </tr>
 <tr>
 <th colspan="2">Dimension</th>
