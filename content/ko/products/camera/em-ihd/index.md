@@ -1,7 +1,7 @@
 ---
-title: "EM-IQD QHD 돔 카메라"
-subtitle: "5MP 돔 타입 네트워크 IP 카메라"
-summary: "5MP 돔 타입 네트워크 IP 카메라"
+title: "EM-IHD FullHD 돔 카메라"
+subtitle: "2MP 돔 타입 네트워크 IP 카메라"
+summary: "2MP 돔 타입 네트워크 IP 카메라"
 authors: [ "" ]
 tags: [ "" ]
 categories: [ "camera" ]
@@ -22,12 +22,12 @@ image:
 <div class="row align-items-center">
 <div class="col-sm">
 
-{{< figure src="em-iqd-case.png" lightbox-group="a" caption="EM-IQD(F21) / EM-IQD(F28)" >}}
+{{< figure src="featured.png" lightbox-group="a" caption="EM-IHD(F21) / EM-IHD(F28)" >}}
 
 </div>
 <div class="col-sm">
 
-{{< figure src="featured.png" lightbox-group="a" caption="EM-IQD(IRF36) / EM-IQD(IR2812Z)" >}}
+{{< figure src="em-ihd-case.png" lightbox-group="a" caption="EM-IHD(IRF36) / EM-IHD(IR2812Z)" >}}
 
 </div>
 </div>
@@ -35,7 +35,7 @@ image:
 
 ## 특징
 
-- **QHD** 5 메가 픽셀 2560x1920p@30fps
+- **FullHD** 2 메가 픽셀 1920x1080p@30fps
 - SONY Progressive CMOS Sensor
 - **PoE**(Power over Ethernet) 지원
 - ONVIF / RTSP 표준 프로토콜 지원 (**ONVIF Profile S**)
@@ -48,12 +48,12 @@ image:
 <div class="row align-items-center">
 <div class="col-sm pl-0">
 
-{{< figure src="em-iqd-drawing.png" lightbox-group="a" caption="EM-IQD(F21) / EM-IQD(F28)" >}}
+{{< figure src="em-ihd-drawing.png" lightbox-group="a" caption="EM-IHD(F21) / EM-IHD(F28)" >}}
 
 </div>
 <div class="col-sm pl-0">
 
-{{< figure src="em-iqd-drawing-ir.png" lightbox-group="a" caption="EM-IQD(IRF36) / EM-IQD(IR2812Z)" >}}
+{{< figure src="em-ihd-drawing-ir.png" lightbox-group="a" caption="EM-IHD(IRF36) / EM-IHD(IR2812Z)" >}}
 
 </div>
 </div>
@@ -66,10 +66,10 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-IQD(F21)</th>
-<th>EM-IQD(F28)</th>
-<th>EM-IQD(IRF36)</th>
-<th>EM-IQD(IR2812Z)</th>
+<th>EM-IHD(F21)</th>
+<th>EM-IHD(F28)</th>
+<th>EM-IHD(IRF36)</th>
+<th>EM-IHD(IR2812Z)</th>
 </tr>
 </thead>
 <tbody>
@@ -96,7 +96,7 @@ image:
 <tr>
 <th rowspan="5">Image</th>
 <th>Image Sensor</th>
-<td colspan="4">Sony Starvis 5.69MP Image Sensor</td>
+<td colspan="4">Sony Starvis 2MP Image Sensor</td>
 </tr>
 <tr>
 <th>Size</th>
@@ -117,11 +117,11 @@ image:
 <tr>
 <th rowspan="4">Video</th>
 <th>Compress<br>Format</th>
-<td colspan="4">H.265 / H.264 / MJPEG </td>
+<td colspan="4">H.264 / MJPEG </td>
 </tr>
 <tr>
 <th>Resolution</th>
-<td colspan="4">2560x1920 / 2560x1600 / 2560x1440 / 2048x1536 / 1600x1200 / 1920×1080 / 1280×1024 / 1280×960 / 1280×720 / 1024x768 / 854x480 / 640×480 / 640x360 / 320×240</td>
+<td colspan="4">1920×1080 / 1280×1024 / 1280×960 / 1280×720 / 640×480 / 320×240</td>
 </tr>
 <tr>
 <th>Max.<br>Frame Rate</th>
