@@ -1,7 +1,7 @@
 ---
 title: "NVR"
-subtitle: "Network Video Recorder / Hybrid NVR / Failover Server"
-summary: "Network Video Recorder / Hybrid NVR / Failover Server"
+subtitle: "Network Digital Video Recorder / Hybrid NVR / Failover 서버"
+summary: "네트워크 디지털 영상 녹화기 / Hybrid NVR / Failover 서버"
 
 # View.
 #   1 = List
@@ -22,7 +22,7 @@ image:
 <div class="row align-items-center">
 <div class="col-12 col-sm-6 pl-0">
 
-{{< figure src="featured.jpg" caption="" >}}
+{{< figure src="nvr-screenshot.jpg" caption="NVR 화면" >}}
 
 </div>
 <div class="col-12 col-sm-6 pl-0">
