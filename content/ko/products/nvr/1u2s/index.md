@@ -18,7 +18,15 @@ image:
   preview_only: true
 ---
 
-{{< figure src="featured.png" lightbox-group="a" width="450px" >}}
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-sm-6">
+
+{{< figure src="featured.png" lightbox-group="a" >}}
+
+</div>
+</div>
+</div>
 
 <div class="container">
 <div class="row align-items-top">

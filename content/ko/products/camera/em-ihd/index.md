@@ -1,7 +1,7 @@
 ---
 title: "EM-IHD FullHD 돔 카메라"
-subtitle: "2MP 돔 타입 네트워크 IP 카메라"
-summary: "2MP 돔 타입 네트워크 IP 카메라"
+subtitle: "2MP Dome Type Network IP Camera Series"
+summary: "2MP Dome Type Network IP Camera Series"
 authors: [ "" ]
 tags: [ "" ]
 categories: [ "camera" ]
@@ -19,13 +19,13 @@ image:
 ---
 
 <div class="container">
-<div class="row align-items-center">
-<div class="col-sm">
+<div class="row justify-content-center align-items-center">
+<div class="col-sm-6">
 
 {{< figure src="featured.png" lightbox-group="a" caption="EM-IHD(F21) / EM-IHD(F28)" >}}
 
 </div>
-<div class="col-sm">
+<div class="col-sm-6">
 
 {{< figure src="em-ihd-case.png" lightbox-group="a" caption="EM-IHD(IRF36) / EM-IHD(IR2812Z)" >}}
 
@@ -39,19 +39,18 @@ image:
 - SONY Progressive CMOS Sensor
 - **PoE**(Power over Ethernet) 지원
 - ONVIF / RTSP 표준 프로토콜 지원 (**ONVIF Profile S**)
-- 높은 호율의 H.265, H.264 압축 방식을 통한 선명한 화질 구현
 - **이상음원 감지** 기능 (F21, F28 모델)
 
 ## 외관도
 
 <div class="container">
-<div class="row align-items-center">
-<div class="col-sm pl-0">
+<div class="row justify-content-center align-items-center">
+<div class="col-sm-6">
 
 {{< figure src="em-ihd-drawing.png" lightbox-group="a" caption="EM-IHD(F21) / EM-IHD(F28)" >}}
 
 </div>
-<div class="col-sm pl-0">
+<div class="col-sm-6">
 
 {{< figure src="em-ihd-drawing-ir.png" lightbox-group="a" caption="EM-IHD(IRF36) / EM-IHD(IR2812Z)" >}}
 
@@ -125,11 +124,11 @@ image:
 </tr>
 <tr>
 <th>Max.<br>Frame Rate</th>
-<td colspan="4">30fps @ All Resolution</td>
+<td colspan="4">30fps @ All Resolutions</td>
 </tr>
 <tr>
 <th>Streaming</th>
-<td colspan="4">Triple Stream (Stream1,2,3) / RTP/RTSP, UnicastRTP, Multicast RTP</td>
+<td colspan="4">Triple Stream (Stream 1,2,3), RTP/RTSP, UnicastRTP, Multicast RTP</td>
 </tr>
 <tr>
 <th colspan="2">Sound Detection</th>
