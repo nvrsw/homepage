@@ -181,7 +181,7 @@ image:
 <tr>
 <th rowspan="4">Network</th>
 <th>Interface</th>
-<td colspan="2">RJ45 10/100 Base-T PoE</td>
+<td colspan="2">RJ45 10/100 Base-T</td>
 </tr>
 <tr>
 <th>Protocol</th>
