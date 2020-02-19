@@ -11,6 +11,11 @@ footer p {
   display: none;
 }
 
+a.nav-link:hover,
+a.dropdown-item:hover {
+  background-color: #404040 !important;
+}
+
 .hero-lead a {
   display: inline-block;
   margin: 0 auto 0 auto;

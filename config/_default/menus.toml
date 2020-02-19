@@ -152,26 +152,26 @@
 #  url = "support/#tutorials"
 #  weight = 30
 #
-[[main]]
-  parent = "company"
-  name = "YouTube 채널"
-  url = "https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg"
-  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
-  weight = 70
-
-[[main]]
-  parent = "company"
-  name = "소프트웨어"
-  url = "http://nvrsw.com/"
-  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
-  weight = 80
-
-[[main]]
-  parent = "company"
-  name = "프로젝트"
-  url = "https://hub.nvrsw.com/"
-  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
-  weight = 90
+#[[main]]
+#  parent = "company"
+#  name = "YouTube 채널"
+#  url = "https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg"
+#  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
+#  weight = 70
+#
+#[[main]]
+#  parent = "company"
+#  name = "소프트웨어"
+#  url = "http://nvrsw.com/"
+#  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
+#  weight = 80
+#
+#[[main]]
+#  parent = "company"
+#  name = "프로젝트"
+#  url = "https://hub.nvrsw.com/"
+#  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
+#  weight = 90
 
 [[main]]
   parent = "company"
