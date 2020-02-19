@@ -5,9 +5,8 @@ summary: "LPR 주차관제 시스템 및 LPR 기능이 내장된 카메라와 �
 authors: [ "" ]
 tags: [ "lpr" ]
 categories: [ "solutions" ]
-#date: 2020-02-12
 draft: false
-#slug: ip-video-wall
+weight: 65
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -5,9 +5,8 @@ summary: "비상벨 시스템과 연동하여 위급상황 발생 시 해당 지
 authors: [ "" ]
 tags: [ "emergency" ]
 categories: [ "solutions" ]
-#date: 2020-02-12
 draft: false
-#slug: ip-video-wall
+weight: 125
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

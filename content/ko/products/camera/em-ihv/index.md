@@ -5,9 +5,7 @@ summary: "2MP Bullet Type Network IP Camera Series"
 authors: [ "" ]
 tags: [ "" ]
 categories: [ "camera" ]
-#date: 2020-02-12
 draft: false
-#slug: ip-video-wall
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

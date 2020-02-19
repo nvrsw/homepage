@@ -5,9 +5,7 @@ summary: "2Bay Storage Type Failover Server"
 authors: [ "" ]
 tags: [ "" ]
 categories: [ "nvr" ]
-#date: 2020-02-12
 draft: false
-#slug: ip-video-wall
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

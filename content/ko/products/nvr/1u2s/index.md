@@ -5,9 +5,7 @@ summary: "1U 2Bay Storage Type PC based NVR"
 authors: [ "" ]
 tags: [ "" ]
 categories: [ "nvr" ]
-#date: 2020-02-12
 draft: false
-#slug: ip-video-wall
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

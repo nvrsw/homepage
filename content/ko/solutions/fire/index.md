@@ -5,9 +5,8 @@ summary: "카메라 영상을 실시간으로 분석하여 화염 및 연기를 
 authors: [ "" ]
 tags: [ "fire" ]
 categories: [ "solutions" ]
-#date: 2020-02-12
 draft: false
-#slug: ip-video-wall
+weight: 90
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

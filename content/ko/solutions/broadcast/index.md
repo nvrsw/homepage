@@ -1,13 +1,12 @@
 ---
-title: "경고 방송 시스템"
-subtitle: "Warning Broadcast System"
+title: "경고 방송"
+subtitle: "Warning Broadcast"
 summary: "놀이터, 휴계시설 및 사각지대에 경고 방송 시스템을 설치하여 침입, 무단 사용 등 위험 상황 발생 시 경고 방송을 송출하여 안전하고 신속한 대응이 가능한 솔루션입니다."
 authors: [ "" ]
 tags: [ "broadcast" ]
 categories: [ "solutions" ]
-#date: 2020-02-12
 draft: false
-#slug: ip-video-wall
+weight: 110
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

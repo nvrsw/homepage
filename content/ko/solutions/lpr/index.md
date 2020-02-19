@@ -5,9 +5,8 @@ summary: "NVR에 입력되는 영상을 실시간으로 분석하여 차량번�
 authors: [ "" ]
 tags: [ "lpr" ]
 categories: [ "solutions" ]
-#date: 2020-02-12
 draft: false
-#slug: ip-video-wall
+weight: 60
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

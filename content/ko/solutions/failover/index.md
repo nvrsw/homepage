@@ -1,19 +1,18 @@
 ---
-title: "NVR 장애 대응 시스템"
-subtitle: "Smart Failover System"
+title: "NVR 장애 대응"
+subtitle: "Smart NVR Failover"
 summary: "예기치 않은 시스템의 결함이나 외부 공격에 의한 영상 데이터 손실을 방지하기 위한 NVR 장애 대응 솔루션입니다."
 authors: [ "" ]
 tags: [ "failover" ]
 categories: [ "solutions" ]
-#date: 2020-02-12
 draft: false
-#slug: ip-video-wall
+weight: 30
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Failover 서버"
+  caption: ""
   focal_point: "Top"
   preview_only: true
 ---

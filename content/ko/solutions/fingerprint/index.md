@@ -1,19 +1,18 @@
 ---
-title: "지문 인증 시스템"
-subtitle: "Fingerprint Authentication System"
+title: "지문 인증"
+subtitle: "Fingerprint Authentication"
 summary: "위조 및 도용이 불가능한 사용자 고유의 생체 정보를 활용하여 등록된 관리자 외 비인가자의 영상 조회, 영상 백업, 시스템 구성 변경 등을 원천적으로 차단하는 사용자 인증 솔루션입니다."
 authors: [ "" ]
 tags: [ "fingerprint" ]
 categories: [ "solutions" ]
-#date: 2020-02-12
 draft: false
-#slug: ip-video-wall
+weight: 20
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "지문 마우스"
+  caption: ""
   focal_point: "Center"
   preview_only: true
 ---

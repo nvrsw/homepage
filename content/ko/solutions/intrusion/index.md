@@ -5,9 +5,8 @@ summary: "옥상, 시설물 출입구 등 관리자를 제외한 사람의 접�
 authors: [ "" ]
 tags: [ "intrusion" ]
 categories: [ "solutions" ]
-#date: 2020-02-12
 draft: false
-#slug: ip-video-wall
+weight: 100
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -33,28 +33,27 @@
   url = "company/"
   weight = 50
 
-#[[main]]
-#  parent = "products"
-#  name = "NVR"
-#  url = "products/nvr/"
-#  weight = 10
-#
+[[main]]
+  parent = "products"
+  name = "NVR"
+  url = "products/nvr/"
+  weight = 10
+[[main]]
+  parent = "products"
+  name = "IP 카메라"
+  url = "products/camera/"
+  weight = 20
+
 #[[main]]
 #  parent = "products"
 #  name = "CMS 스테이션"
 #  url = "products/cms/"
-#  weight = 20
+#  weight = 30
 #
 #[[main]]
 #  parent = "products"
 #  name = "NDS 디스플레이 서버"
 #  url = "products/nds/"
-#  weight = 30
-#
-#[[main]]
-#  parent = "products"
-#  name = "IP 카메라"
-#  url = "products/camera/"
 #  weight = 40
 #
 #[[main]]
@@ -63,24 +62,78 @@
 #  url = "products/etc/"
 #  weight = 50
 #
-#[[main]]
-#  parent = "solutions"
-#  name = "IP 비디오 월"
-#  url = "solutions/wall/"
-#  weight = 10
-#
-#[[main]]
-#  parent = "solutions"
-#  name = "지문 인증"
-#  url = "solutions/fingerprint/"
-#  weight = 20
-#
-#[[main]]
-#  parent = "solutions"
-#  name = "NVR 장애 대응"
-#  url = "solutions/failover/"
-#  weight = 30
-#
+[[main]]
+  parent = "solutions"
+  name = "IP 비디오 월"
+  url = "solutions/wall/"
+  weight = 10
+
+[[main]]
+  parent = "solutions"
+  name = "지문 인증"
+  url = "solutions/fingerprint/"
+  weight = 20
+
+[[main]]
+  parent = "solutions"
+  name = "안전 입출차"
+  url = "solutions/entrance/"
+  weight = 25
+
+[[main]]
+  parent = "solutions"
+  name = "NVR 장애 대응"
+  url = "solutions/failover/"
+  weight = 30
+
+[[main]]
+  parent = "solutions"
+  name = "엘리베이터 CRT 연동"
+  url = "solutions/elevator/"
+  weight = 40
+
+[[main]]
+  parent = "solutions"
+  name = "이상음원 감지"
+  url = "solutions/sound/"
+  weight = 50
+
+[[main]]
+  parent = "solutions"
+  name = "차량번호 추출"
+  url = "solutions/lpr/"
+  weight = 60
+
+[[main]]
+  parent = "solutions"
+  name = "열화상 카메라"
+  url = "solutions/thermal/"
+  weight = 80
+
+[[main]]
+  parent = "solutions"
+  name = "화염 / 연기 감지"
+  url = "solutions/fire/"
+  weight = 90
+
+[[main]]
+  parent = "solutions"
+  name = "PIR 센서 출입 감지"
+  url = "solutions/intrusion/"
+  weight = 100
+
+[[main]]
+  parent = "solutions"
+  name = "경고 방송"
+  url = "solutions/broadcast/"
+  weight = 110
+
+[[main]]
+  parent = "solutions"
+  name = "비상벨"
+  url = "solutions/emergency/"
+  weight = 120
+
 #[[main]]
 #  parent = "support"
 #  name = "마케팅 자료"

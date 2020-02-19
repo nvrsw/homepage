@@ -5,9 +5,8 @@ summary: "엘리베이터 같은 한정된 공간에 이상음원 감지 카메�
 authors: [ "" ]
 tags: [ "sound", "elevator" ]
 categories: [ "solutions" ]
-#date: 2020-02-12
 draft: false
-#slug: ip-video-wall
+weight: 50
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
