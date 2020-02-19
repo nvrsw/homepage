@@ -5,7 +5,7 @@ summary: "엠스톤 NVR이 지원하는 네트워크 IP 카메라 제조사 목�
 authors: [ "" ]
 tags: [ "" ]
 categories: [ "nvr" ]
-weight: 10
+weight: 5
 featured: false
 draft: false
 
