@@ -1,5 +1,6 @@
 ---
-title:
+title: 시공사례
+subtitle: 다양한 환경에 적용한 설치 / 시공사례를 확인하세요
 
 # View.
 #   1 = List
@@ -11,7 +12,5 @@ view: 3
 cascade:
   header:
     image: "showcase-header.jpg"
-    caption: "시공 사례"
+    caption: "시공사례"
 ---
-
-다양한 환경에 적용한 설치 / 시공사례를 확인하세요.

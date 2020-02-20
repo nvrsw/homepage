@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "제품"
-subtitle = "NVR / IP Camera / CMS / NDS / Etc"
+subtitle = "NVR / IP Camera / CMS / NDS / Etc."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

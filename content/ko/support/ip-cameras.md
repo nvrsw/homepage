@@ -4,7 +4,7 @@ subtitle: "Supported Network IP Cameras"
 summary: "엠스톤 NVR이 지원하는 네트워크 IP 카메라 제조사 목록입니다."
 authors: [ "" ]
 tags: [ "" ]
-categories: [ "nvr" ]
+categories: [ "support" ]
 weight: 5
 featured: false
 draft: false

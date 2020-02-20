@@ -1,5 +1,5 @@
 ---
-title:
+title: 고객지원
 
 # View.
 #   1 = List

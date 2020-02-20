@@ -95,9 +95,6 @@ name = "tags"
 weight = 100
 
 [[related.indices]]
-name = "keywords"
+name = "categories"
 weight = 80
 
-[[related.indices]]
-name = "date"
-weight = 50
