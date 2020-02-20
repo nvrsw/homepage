@@ -151,16 +151,6 @@ figcaption {
   font-weight: 500;
 }
 
-/*
-figcaption::before {
-  content: '[ ';
-}
-
-figcaption::after {
-  content: ' ]';
-}
-*/
-
 .badge::before {
   content: '#';
 }
