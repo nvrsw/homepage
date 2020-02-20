@@ -1,0 +1,23 @@
+<ol class="breadcrumb col-auto">
+<!--
+  <li class="breadcrumb-item">
+    <a href="{{ .Site.Home.Permalink }}">{{ i18n "home" }}Home</a>
+  </li>
+-->
+  {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+</ol>
+
+{{ define "breadcrumbnav" }}
+{{ if .p1.Parent }}
+  {{ if not .p1.Parent.IsHome }}
+    {{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )  }}
+  {{ end }}
+{{ end }}
+
+{{ if (not .p1.IsPage) }}
+<li class="breadcrumb-item">
+  <a href="{{ .p1.Permalink }}">{{ .p1.Title }}</a>
+</li>
+{{ end }}
+
+{{ end }}
