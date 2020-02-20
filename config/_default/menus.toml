@@ -33,16 +33,16 @@
   url = "company/"
   weight = 50
 
-[[main]]
-  parent = "products"
-  name = "NVR"
-  url = "products/nvr/"
-  weight = 10
-[[main]]
-  parent = "products"
-  name = "IP 카메라"
-  url = "products/camera/"
-  weight = 20
+#[[main]]
+#  parent = "products"
+#  name = "NVR"
+#  url = "products/nvr/"
+#  weight = 10
+#[[main]]
+#  parent = "products"
+#  name = "IP 카메라"
+#  url = "products/camera/"
+#  weight = 20
 
 #[[main]]
 #  parent = "products"

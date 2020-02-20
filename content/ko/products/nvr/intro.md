@@ -2,6 +2,7 @@
 title: "NVR"
 subtitle: "Network Digital Video Recorder / Hybrid NVR / Failover 서버"
 summary: "네트워크 디지털 영상 녹화기 / Hybrid NVR / Failover 서버"
+draft: true
 weight: 10
 
 # View.

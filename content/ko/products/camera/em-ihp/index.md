@@ -6,7 +6,7 @@ authors: [ "" ]
 tags: [ "" ]
 categories: [ "camera" ]
 draft: false
-weight: 80
+weight: 2080
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
