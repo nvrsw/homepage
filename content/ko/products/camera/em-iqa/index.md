@@ -1,7 +1,7 @@
 ---
 title: "EM-IQA 180° 파노라마 미니 블릿 카메라"
-subtitle: "5MP 180° Panoramic Mini Bullet Camera"
-summary: "5MP 180° Panoramic Mini Bullet Camera"
+subtitle: "5MP 180° Panoramic Mini Bullet Network IP Camera"
+summary: "5MP 180° Panoramic Mini Bullet Network IP Camera"
 authors: [ "" ]
 tags: [ "" ]
 categories: [ "camera" ]
@@ -34,7 +34,7 @@ image:
 - SONY Progressive CMOS Sensor
 - **PoE**(Power over Ethernet) 지원
 - ONVIF / RTSP 표준 프로토콜 지원 (**ONVIF Profile S**)
-- 높은 효율의 H.265, H.264 압축 방식을 통한 선명한 화질 구현
+- H.265, H.264 압축 방식을 통한 선명한 화질 구현
 
 ## 왜곡 없는 180° 화각
 
@@ -169,7 +169,7 @@ IP67 등급의 방수 / 방진, IK10 등급의 파손 방지를 지원하며 카
 <tr>
 <tr>
 <th>Ext. Video</th>
-<td>Not Suppot</td>
+<td>Not Support</td>
 </tr>
 <tr>
 <th>Elec. Shutter</th>

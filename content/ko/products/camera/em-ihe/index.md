@@ -38,7 +38,7 @@ image:
 - SONY Progressive CMOS Sensor
 - **PoE**(Power over Ethernet) 지원
 - ONVIF / RTSP 표준 프로토콜 지원 (**ONVIF Profile S**)
-- 높은 효율의 H.264 압축 방식을 통한 선명한 화질 구현
+- H.264 압축 방식을 통한 선명한 화질 구현
 
 ## 외관도
 
@@ -146,7 +146,7 @@ image:
 </tr>
 <tr>
 <th>Ext. Video</th>
-<td colspan="3">Not Suppot</td>
+<td colspan="3">Not Support</td>
 </tr>
 <tr>
 <th>Elec. Shutter</th>

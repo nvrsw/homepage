@@ -38,7 +38,7 @@ image:
 - SONY Progressive CMOS Sensor
 - **PoE**(Power over Ethernet) 지원
 - ONVIF / RTSP 표준 프로토콜 지원 (**ONVIF Profile S**)
-- 높은 효율의 H.265, H.264 압축 방식을 통한 선명한 화질 구현
+- H.265, H.264 압축 방식을 통한 선명한 화질 구현
 - **이상음원 감지** 기능 (F21, F28 모델)
 
 ## 외관도
@@ -170,7 +170,7 @@ image:
 </tr>
 <tr>
 <th>Ext. Video</th>
-<td colspan="4">Not Suppot</td>
+<td colspan="4">Not Support</td>
 </tr>
 <tr>
 <th>Elec. Shutter</th>

@@ -1,12 +1,12 @@
 ---
-title: "EM-IQV QHD 블릿 카메라"
-subtitle: "5MP Bullet Type Network IP Camera Series"
-summary: "5MP Bullet Type Network IP Camera Series"
+title: "EM-IHP FullHD PTZ 블릿 카메라"
+subtitle: "2MP PTZ Bullet Type Network IP Camera Series"
+summary: "2MP PTZ Bullet Type Network IP Camera Series"
 authors: [ "" ]
 tags: [ "" ]
 categories: [ "camera" ]
 draft: false
-weight: 30
+weight: 80
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="featured.png" lightbox-group="a" caption="EM-IQV(IRF36) / EM-IQV(IR2812Z)" >}}
+{{< figure src="featured.png" lightbox-group="a" caption="EM-IHP(IR12x) / EM-IHP(IR12xP)" >}}
 
 </div>
 </div>
@@ -29,15 +29,15 @@ image:
 
 ## 특징
 
-- **QHD** 5 메가 픽셀 2560x1920p@30fps
+- **FullHD** 2 메가 픽셀 1920x1080p@30fps
 - SONY Progressive CMOS Sensor
 - **PoE**(Power over Ethernet) 지원
 - ONVIF / RTSP 표준 프로토콜 지원 (**ONVIF Profile S**)
-- H.265, H.264 압축 방식을 통한 선명한 화질 구현
+- H.265 / H.264 압축 방식을 통한 선명한 화질 구현
 
 ## 외관도
 
-{{< figure src="em-iqv-drawing.png" lightbox-group="a" caption="EM-IQV(IRF36) / EM-IQV(IR2812Z)" >}}
+{{< figure src="em-ihp-drawing.png" lightbox-group="a" caption="EM-IHP(IR12x) / EM-IHP(IR12xP)" >}}
 
 ## 사양
 
@@ -46,31 +46,28 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-IQV(IRF36)</th>
-<th>EM-IQV(IR2812Z)</th>
+<th>EM-IHP(IR12x)</th>
+<th>EM-IHP(IR12xP)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th rowspan="3">Lens</th>
 <th>Focal Length</th>
-<td>3.6mm</td>
-<td>2.8~12mm</td>
+<td colspan="2">5.3~64mm (Motorized)</td>
 </tr>
 <tr>
 <th>FOV</th>
-<td>H : 87.4˚<br>V : 47˚</td>
-<td>H : 100˚(wide)~30.8˚(tele)<br>V : 64.5˚(wide)~23.3˚(tele)</td>
+<td colspan="2">H : 66.5˚(wide)~5.8˚(tele) / V : 33.7˚(wide)~2.8˚(tele)</td>
 </tr>
 <tr>
 <th>Focus</th>
-<td>Fixed</td>
-<td>Motorized / Auto, Manual</td>
+<td colspan="2">Motorized / Auto, Manual</td>
 </tr>
 <tr>
 <th rowspan="5">Image</th>
 <th>Image Sensor</th>
-<td colspan="2">Sony Starvis 5.69MP Image Sensor</td>
+<td colspan="2">Sony 2MP Image Sensor</td>
 </tr>
 <tr>
 <th>Size</th>
@@ -91,11 +88,11 @@ image:
 <tr>
 <th rowspan="4">Video</th>
 <th>Compress<br>Format</th>
-<td colspan="2">H.265 / H.264 / MJPEG </td>
+<td colspan="2">H.265+ / H.265(HEVC) / H.264+ / H.264 / MJPEG</td>
 </tr>
 <tr>
 <th>Resolution</th>
-<td colspan="2">2560x1920 / 2560x1600 / 2560x1440 / 2048x1536 / 1600x1200 / 1920×1080 / 1280×1024 / 1280×960 / 1280×720 / 1024x768 / 854x480 / 640×480 / 640x360 / 320×240</td>
+<td colspan="2">1920×1080 / 1280×960 / 1280×720 / 704x576</td>
 </tr>
 <tr>
 <th>Max.<br>Frame Rate</th>
@@ -104,6 +101,38 @@ image:
 <tr>
 <th>Streaming</th>
 <td colspan="2">Triple Stream (Stream 1,2,3), RTP/RTSP, UnicastRTP, Multicast RTP</td>
+</tr>
+<tr>
+<th rowspan="8">PTZ</th>
+<th>Pan Radius</th>
+<td colspan="2">360˚ endless</td>
+</tr>
+<tr>
+<th>Pan Speed</th>
+<td colspan="2">Pan manual speed : 0.2˚~60˚/s, Pan preset speed : 100˚/s</td>
+</tr>
+<tr>
+<th>Tilt Radius</th>
+<td colspan="2">-45˚~30˚</td>
+</tr>
+<tr>
+<th>Tilt Speed</th>
+<td colspan="2">Tilt manual speed : 0.2˚~30˚/s, Tilt preset speed : 60˚/s</td>
+</tr>
+<tr>
+<th>Proportional<br>Zoom</th>
+<td colspan="2">Support</td>
+</tr>
+<tr>
+<th>Preset</th>
+<td colspan="2">255</td>
+</tr>
+<tr>
+<th>Patrol</th>
+<td colspan="2">8 Patrol, 48 preset can be saved</td>
+</tr>
+<tr>
+<th>PTZ position<br>Indication</th><td colspan="2">Support</td>
 </tr>
 <tr>
 <th rowspan="11">Function</th>
@@ -144,20 +173,20 @@ image:
 </tr>
 <tr>
 <th>Elec. Shutter</th>
-<td colspan="2">Auto(1/30~1/30000), Suppress Rolling, Manual</td>
+<td colspan="2">Auto(1/5~1/100000), Manual</td>
 </tr>
 <tr>
 <th>White Balance</th>
-<td colspan="2">Auto / Indoor / Outdoor / Fluorescent</td>
+<td colspan="2">Auto / Indoor / Outdoor</td>
 </tr>
 <tr>
 <th rowspan="2">IR LED</th>
 <th>IR LEDs</th>
-<td colspan="2">42pcs LEDs</td>
+<td colspan="2">1pcs W-LEDs / 4pcs IR LEDs</td>
 </tr>
 <tr>
 <th>Visible<br>Distance</th>
-<td colspan="2">Max 40M</td>
+<td colspan="2">Max 100M</td>
 </tr>
 <tr>
 <th rowspan="2">Audio</th>
@@ -192,23 +221,24 @@ image:
 </tr>
 <tr>
 <th>Simultaneous<br>Access</th>
-<td colspan="2">Max. 10 users</td>
+<td colspan="2">Max. 9 users</td>
 </tr>
 <tr>
 <th colspan="2">Power Supply / Current</th>
-<td colspan="5">DC12V 750mA / PoE</td>
+<td>DC12V 2A</td>
+<td>DC12V 2A / PoE</td>
 </tr>
 <tr>
 <th colspan="2">Operating Temp / Humidity</th>
-<td colspan="2">-10℃ ~ +40℃ / 0% ~ 90%</td>
+<td colspan="2">-30℃ ~ +60℃ / 0% ~ 90%</td>
 </tr>
 <tr>
 <th colspan="2">Dimension</th>
-<td colspan="2">Φ81mm X Φ79mm X 242.2mm</td>
+<td colspan="2">291mm X 207mm X 95mm</td>
 </tr>
 <tr>
 <th colspan="2">Weight</th>
-<td colspan="2">Approx. 800g</td>
+<td colspan="2">Approx. 2000g</td>
 </tr>
 </tbody>
 </table>
