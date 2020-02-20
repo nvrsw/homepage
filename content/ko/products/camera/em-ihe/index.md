@@ -75,7 +75,7 @@ image:
 <tr>
 <th rowspan="5">Image</th>
 <th>Image Sensor</th>
-<td colspan="3">Sony Starvis 5.69MP Image Sensor</td>
+<td colspan="3">Sony Starvis 2MP Image Sensor</td>
 </tr>
 <tr>
 <th>Size</th>
