@@ -44,11 +44,12 @@ a.dropdown-item:hover {
 }
 
 h1 {
-  font-weight: 700;
+  font-weight: 500;
   font-size: 1.75rem;
 }
 
 h2 {
+  font-weight: 500;
   margin-top: 3rem;
   margin-bottom: 1.5rem;
   padding-left: 0.8rem;
@@ -65,6 +66,7 @@ h2.toc {
 }
 
 .article-title {
+  font-weight: 500;
   padding-left: 0.6rem;
   border-left: 6px solid #eeb300;
 }
@@ -146,7 +148,7 @@ table.spec > tbody > tr:nth-child(odd) > td {
 
 figcaption {
   font-size: 0.8rem;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 /*
@@ -214,11 +216,11 @@ td strong {
 }
 
 .card-simple.col-sm-3 .article-title {
-  font-size: 0.8em;
+  font-size: 1.1em;
 }
 .card-simple.col-sm-3 .article-style,
 .card-simple.col-sm-3 .article-metadata {
-  font-size: 0.6em;
+  font-size: 0.7em;
 }
 
 .card-simple.col-sm-4 .article-title {
@@ -227,6 +229,14 @@ td strong {
 .card-simple.col-sm-4 .article-style,
 .card-simple.col-sm-4 .article-metadata {
   font-size: 0.7em;
+}
+
+.card-simple.col-sm-6 .article-title {
+  font-size: 1.2em;
+}
+.card-simple.col-sm-6 .article-style,
+.card-simple.col-sm-6 .article-metadata {
+  font-size: 0.8em;
 }
 
 .home-section.dark a:not(.btn):not(.hero-cta-alt) {
