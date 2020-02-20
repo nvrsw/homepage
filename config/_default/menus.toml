@@ -33,12 +33,97 @@
   url = "company/"
   weight = 50
 
+[[main]]
+  parent = "products"
+  name = "NVR 2UB4"
+  url = "nvr/2ub4"
+  weight = 1000
+
+[[main]]
+  parent = "products"
+  name = "NVR 2UB8"
+  url = "nvr/2ub8"
+  weight = 1000
+
+[[main]]
+  parent = "products"
+  name = "NVR 3UB16"
+  url = "nvr/3ub16"
+  weight = 1000
+
+[[main]]
+  parent = "products"
+  name = "NVR 4UB24"
+  url = "nvr/4ub24"
+  weight = 1000
+
+[[main]]
+  parent = "products"
+  name = "NVR 4UB8"
+  url = "nvr/4ub8"
+  weight = 1000
+
+[[main]]
+  parent = "products"
+  name = "NVR 4UB8 하이브리드"
+  url = "nvr/4ub8h"
+  weight = 1000
+
+[[main]]
+  parent = "products"
+  name = "IP 카메라 EM-IHD"
+  url = "camera/em-ihd"
+  weight = 2000
+
+[[main]]
+  parent = "products"
+  name = "IP 카메라 EM-IHE"
+  url = "camera/em-ihe"
+  weight = 2000
+
+[[main]]
+  parent = "products"
+  name = "IP 카메라 EM-IHP"
+  url = "camera/em-ihp"
+  weight = 2000
+
+[[main]]
+  parent = "products"
+  name = "IP 카메라 EM-IHV"
+  url = "camera/em-ihv"
+  weight = 2000
+
+[[main]]
+  parent = "products"
+  name = "IP 카메라 EM-IQA"
+  url = "camera/em-iqa"
+  weight = 2000
+
+[[main]]
+  parent = "products"
+  name = "IP 카메라 EM-IQD"
+  url = "camera/em-iqd"
+  weight = 2000
+
+[[main]]
+  parent = "products"
+  name = "IP 카메라 EM-IQE"
+  url = "camera/em-iqe"
+  weight = 2000
+
+[[main]]
+  parent = "products"
+  name = "IP 카메라 EM-IQV"
+  url = "camera/em-iqv"
+  weight = 2000
+
 #[[main]]
 #  parent = "products"
 #  name = "NVR"
 #  url = "products/nvr/"
 #  weight = 10
-#[[main]]
+#
+##[[main]]
 #  parent = "products"
 #  name = "IP 카메라"
 #  url = "products/camera/"
@@ -84,7 +169,7 @@
   parent = "solutions"
   name = "NVR 장애 대응"
   url = "solutions/failover/"
-  weight = 30
+  weight = 3000
 
 [[main]]
   parent = "solutions"
