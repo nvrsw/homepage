@@ -21,7 +21,11 @@
   {{ $summary = $item.Content }}
 {{ end }}
 
-<div class="card-simple col-sm-6">
+{{ $columns := 6 }}
+{{ if $item.Parent.Params.columns }}
+  {{ $columns = (div 12 $item.Parent.Params.columns) }}
+{{ end }}
+<div class="card-simple col-sm-{{ $columns }}">
 
   <h3 class="article-title mb-1 mt-3">
     <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>
@@ -55,7 +59,7 @@
   {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
   {{ with $resource }}
   <a href="{{ $item.RelPermalink }}">
-    <img src="{{ .RelPermalink }}" width="380px" alt="">
+    <img src="{{ .RelPermalink }}" alt="">
   </a>
   {{end}}
 

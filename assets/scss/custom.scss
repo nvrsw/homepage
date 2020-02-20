@@ -209,7 +209,24 @@ td strong {
 }
 
 .card-simple img {
+  max-width: 90%;
   margin: 2rem auto 1rem;
+}
+
+.card-simple.col-sm-3 .article-title {
+  font-size: 0.8em;
+}
+.card-simple.col-sm-3 .article-style,
+.card-simple.col-sm-3 .article-metadata {
+  font-size: 0.6em;
+}
+
+.card-simple.col-sm-4 .article-title {
+  font-size: 1.1em;
+}
+.card-simple.col-sm-4 .article-style,
+.card-simple.col-sm-4 .article-metadata {
+  font-size: 0.7em;
 }
 
 .home-section.dark a:not(.btn):not(.hero-cta-alt) {
