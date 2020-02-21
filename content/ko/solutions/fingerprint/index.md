@@ -54,7 +54,7 @@ image:
 </div>
 <div class="col-12 col-sm-4">
 
-{{< figure src="featured.png" caption="지문 마우스" class="my-0" lightbox-group="a" >}}
+{{< figure src="fingerprint-mouse.png" caption="지문 마우스" class="my-0" lightbox-group="a" >}}
 
 </div>
 </div>
