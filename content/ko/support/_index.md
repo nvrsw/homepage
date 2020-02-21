@@ -15,8 +15,11 @@ cascade:
 ---
 
 <div class="blockquote text-center">
-<p class="display-1"><a href="tel:1600-5978">1600-5978</a></p>
-<p class="display-4">고객지원센터</p>
+<p class="display-4">
+  <a class="d-inline d-sm-none" href="tel:1600-5978">1600-5978</a>
+  <span class="d-none d-sm-inline">1600-5978</a>
+</p>
+<p>고객지원센터</p>
 </div>
 
 ## A/S 지원
