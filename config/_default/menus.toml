@@ -33,113 +33,17 @@
   url = "company/"
   weight = 50
 
-#[[main]]
-#  parent = "products"
-#  name = "NVR 2UB4"
-#  url = "products/nvr/2ub4"
-#  weight = 1010
+[[main]]
+  parent = "products"
+  name = "NVR"
+  url = "categories/nvr/"
+  weight = 10
 
 [[main]]
   parent = "products"
-  name = "NVR 2UB8"
-  url = "products/nvr/2ub8"
-  weight = 1020
-
-[[main]]
-  parent = "products"
-  name = "NVR 4UB8"
-  url = "products/nvr/4ub8"
-  weight = 1030
-
-[[main]]
-  parent = "products"
-  name = "NVR 3UB16"
-  url = "products/nvr/3ub16"
-  weight = 1040
-
-[[main]]
-  parent = "products"
-  name = "NVR 4UB24"
-  url = "products/nvr/4ub24"
-  weight = 1050
-
-[[main]]
-  parent = "products"
-  name = "NVR 4UB8 하이브리드"
-  url = "products/nvr/4ub8h"
-  weight = 1060
-
-[[main]]
-  parent = "products"
-  name = "T2 2Bay Failover 서버"
-  url = "products/nvr/t2"
-  weight = 1070
-
-[[main]]
-  parent = "products"
-  name = "IP 카메라 EM-IQD"
-  url = "products/camera/em-iqd"
-  weight = 2010
-
-#[[main]]
-#  parent = "products"
-#  name = "IP 카메라 EM-IHD"
-#  url = "products/camera/em-ihd"
-#  weight = 2020
-
-[[main]]
-  parent = "products"
-  name = "IP 카메라 EM-IQV"
-  url = "products/camera/em-iqv"
-  weight = 2030
-
-#[[main]]
-#  parent = "products"
-#  name = "IP 카메라 EM-IHV"
-#  url = "products/camera/em-ihv"
-#  weight = 2040
-
-[[main]]
-  parent = "products"
-  name = "IP 카메라 EM-IQE"
-  url = "products/camera/em-iqe"
-  weight = 2050
-
-#[[main]]
-#  parent = "products"
-#  name = "IP 카메라 EM-IHE"
-#  url = "products/camera/em-ihe"
-#  weight = 2060
-
-[[main]]
-  parent = "products"
-  name = "IP 카메라 EM-IQA"
-  url = "products/camera/em-iqa"
-  weight = 2070
-
-[[main]]
-  parent = "products"
-  name = "IP 카메라 EM-IHP"
-  url = "products/camera/em-ihp"
-  weight = 2080
-
-[[main]]
-  parent = "products"
-  name = "IP 카메라 EM-IHI"
-  url = "products/camera/em-ihi"
-  weight = 2090
-
-#[[main]]
-#  parent = "products"
-#  name = "NVR"
-#  url = "products/nvr/"
-#  weight = 10
-#
-##[[main]]
-#  parent = "products"
-#  name = "IP 카메라"
-#  url = "products/camera/"
-#  weight = 20
+  name = "카메라"
+  url = "categories/camera/"
+  weight = 20
 
 #[[main]]
 #  parent = "products"

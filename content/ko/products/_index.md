@@ -1,6 +1,6 @@
 ---
 title: 제품
-subtitle: NVR / IP Camera / CMS / NDS / Etc.
+subtitle: NVR / 카메라 / CMS / NDS / 기타
 
 # View.
 #   1 = List
@@ -13,7 +13,5 @@ columns: 3
 cascade:
   header:
     image: "product-header.jpg"
-    caption: "제품"
+    caption: ""
 ---
-
-&nbsp;
