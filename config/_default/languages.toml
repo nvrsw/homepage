@@ -12,7 +12,7 @@
   [ko.params]
     company_name = "(주)엠스톤"
     company_branches = "전국지사"
-    company_contact = "연락처"
+    company_contact = "오시는길"
     company_email = "sales@emstone.com"
     company_phone = "1600-5978"
     company_fax = "02-6675-3699"

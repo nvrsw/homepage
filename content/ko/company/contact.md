@@ -52,7 +52,7 @@ subtitle = ""
 
 ****
 
-- 고객센터 전화: {{< param "company_phone" >}} (제품 및 AS 문의)
+- 대표전화: {{< param "company_phone" >}} (제품 및 AS 문의)
 - 이메일: {{< param "company_email" >}}
 - 전화: 02-6675-3690
 - 팩스: {{< param "company_fax" >}}

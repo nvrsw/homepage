@@ -1,8 +1,9 @@
 <footer class="site-footer">
   <p>
     <a href="/company/">{{ site.Params.company_name }}</a>
-    {{ with site.Params.company_branches }} | <a href="/company/#branches">{{ . }}</a>{{ end }}
     {{ with site.Params.company_contact }} | <a href="/company/#contact">{{ . }}</a>{{ end }}
+    {{ with site.Params.company_email }} | <a href="mailto:{{ . }}">{{ . }}</a>{{ end }}
+    {{ with site.Params.company_phone }} | <a href="tel:{{ . }}">{{ . }}</a>{{ end }}
   </p>
   <p class="d-none">
     <a href="https://hub.nvrsw.com/" target="_blank">EMSTONE HUB</a>
