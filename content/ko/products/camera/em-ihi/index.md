@@ -1,12 +1,12 @@
 ---
-title: "EM-IHE FullHD 하우징 카메라"
-subtitle: "2MP Housing Type Network IP Camera Series"
-summary: "2MP Housing Type Network IP Camera Series"
+title: "EM-IHI FullHD 차량번호 식별 카메라"
+subtitle: "License Plate Recognition Network IP Camera Series"
+summary: "License Plate Recognition Network IP Camera Series"
 authors: [ "" ]
-tags: [ "" ]
+tags: [ "lpr" ]
 categories: [ "camera" ]
 draft: false
-weight: 2060
+weight: 2090
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -18,15 +18,15 @@ image:
 ---
 
 <div class="container">
-<div class="row justify-content-center align-items-center">
+<div class="row justify-content-center align-items-end">
 <div class="col-sm-6">
 
-{{< figure src="featured.png" lightbox-group="a" caption="EM-IHE(N2812Z)" >}}
+{{< figure src="featured.png" lightbox-group="a" caption="EM-IHI(IR2812Z) / EM-IHI(IR0550Z)" >}}
 
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-ihe-case.png" lightbox-group="a" caption="EM-IHE(IR2812Z) / EM-IHE(IR0550Z)" >}}
+{{< figure src="em-ihi-case.png" lightbox-group="a" caption="EM-IHI(IR5151Z)" >}}
 
 </div>
 </div>
@@ -34,15 +34,30 @@ image:
 
 ## 특징
 
+- 주간 / 야간 **차량번호 식별** 네트워크 IP 카메라
+- 인식 속도: **30~120Km/h**
+- 인식 거리: **20M**
 - **FullHD** 2 메가 픽셀 1920x1080p@30fps
-- SONY Progressive CMOS Sensor
 - **PoE**(Power over Ethernet) 지원
 - ONVIF / RTSP 표준 프로토콜 지원 (**ONVIF Profile S**)
-- H.264 압축 방식을 통한 선명한 화질 구현
+- H.265 / H.264 압축 방식을 통한 선명한 화질 구현
 
 ## 외관도
 
-{{< figure src="em-ihe-drawing.png" lightbox-group="a" caption="EM-IHE(N2812Z) / EM-IHE(IR2812Z) / EM-IHE(IR0550Z)" >}}
+<div class="container">
+<div class="row justify-content-center align-items-end">
+<div class="col-sm-5">
+
+{{< figure src="em-ihi-drawing-1.png" lightbox-group="a" caption="EM-IHI(IR2812Z) / EM-IHI(IR0550Z)" >}}
+
+</div>
+<div class="col-sm-7">
+
+{{< figure src="em-ihi-drawing-2.png" lightbox-group="a" caption="EM-IHI(IR5151Z)" >}}
+
+</div>
+</div>
+</div>
 
 ## 사양
 
@@ -51,22 +66,24 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-IHE(N2812Z)</th>
-<th>EM-IHE(IR2812Z)</th>
-<th>EM-IHE(IR0550Z)</th>
+<th>EM-IHI(IR2812Z)</th>
+<th>EM-IHI(IR0550Z)</th>
+<th>EM-IHI(IR5151Z)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th rowspan="3">Lens</th>
 <th>Focal Length</th>
-<td colspan="2">2.8~12mm</td>
+<td>2.8~12mm</td>
 <td>5.0~50mm</td>
+<td>5.1~51mm</td>
 </tr>
 <tr>
 <th>FOV</th>
-<td colspan="2">H : 100˚(wide)~30.8˚(tele)<br>V : 64.5˚(wide)~23.3˚(tele)</td>
+<td>H : 100˚(wide)~30.8˚(tele)<br>V : 64.5˚(wide)~23.3˚(tele)</td>
 <td>H : 50.9˚(wide)~7.6˚(tele)<br>V : 27.8˚(wide)~4.3˚(tele)</td>
+<td>H : 54˚(wide)~4.9˚(tele)<br>V : 31˚(wide)~4˚(tele)</td>
 </tr>
 <tr>
 <th>Focus</th>
@@ -75,11 +92,13 @@ image:
 <tr>
 <th rowspan="5">Image</th>
 <th>Image Sensor</th>
-<td colspan="3">Sony Starvis 2MP Image Sensor</td>
+<td colspan="2">Sony Starvis 2MP Image Sensor</td>
+<td>Panasonic CMOS Image Sensor</td>
 </tr>
 <tr>
 <th>Size</th>
-<td colspan="3">1/2.8 inch</td>
+<td colspan="2">1/2.8 inch</td>
+<td>1/3 inch</td>
 </tr>
 <tr>
 <th>Scan System</th>
@@ -91,13 +110,12 @@ image:
 </tr>
 <tr>
 <th>Minimum<br>Illumination</th>
-<td>0.02 lux</td>
-<td colspan="2">0.02 lux(Color), 0 lux(BW, IR on)</td>
+<td colspan="3">0 lux(IR on)</td>
 </tr>
 <tr>
 <th rowspan="4">Video</th>
 <th>Compress<br>Format</th>
-<td colspan="3">H.264 / MJPEG</td>
+<td colspan="3">H.265 / H.264 / MJPEG</td>
 </tr>
 <tr>
 <th>Resolution</th>
@@ -112,21 +130,21 @@ image:
 <td colspan="3">Triple Stream (Stream 1,2,3), RTP/RTSP, UnicastRTP, Multicast RTP</td>
 </tr>
 <tr>
-<th rowspan="11">Function</th>
+<th rowspan="9">Function</th>
 <th>Day & Night</th>
 <td colspan="3">Auto / Day(Color) / Night(BW)</td>
 </tr>
 <tr>
 <th>Privacy Area</th>
-<td colspan="3">Area On/Off (16 Zone)</td>
+<td colspan="3">Support</td>
 </tr>
 <tr>
 <th>Motion<br>Detection</th>
-<td colspan="3">432 Zone (On/Off, 1~5Step)</td>
+<td colspan="3">Support</td>
 </tr>
 <tr>
 <th>WDR</th>
-<td colspan="3">DWDR (1~3 Step)</td>
+<td colspan="3">Support</td>
 </tr>
 <tr>
 <th>DNR</th>
@@ -137,52 +155,46 @@ image:
 <td colspan="3">Support</td>
 </tr>
 <tr>
-<th>HCL</th>
-<td colspan="3">Support</td>
-</tr>
-<tr>
-<th>LDC</th>
-<td colspan="3">Support</td>
-</tr>
-<tr>
 <th>Ext. Video</th>
-<td colspan="3">Not Support</td>
+<td colspan="3">1 (BNC)</td>
 </tr>
 <tr>
 <th>Elec. Shutter</th>
-<td colspan="3">Auto(1/30~1/30000), Suppress Rolling, Manual</td>
+<td colspan="3">Auto(1/30~1/30000), Day &amp; Night, Manual</td>
 </tr>
 <tr>
 <th>White Balance</th>
-<td colspan="3">Auto / Indoor / Outdoor / Fluorescent</td>
+<td colspan="3">Auto / Indoor / Outdoor</td>
 </tr>
 <tr>
 <th rowspan="2">IR LED</th>
 <th>IR LEDs</th>
-<td rowspan="2">N/A</td>
-<td colspan="2">4pcs High LEDs</td>
+<td colspan="2">6pcs Optical Density LEDs</td>
+<td>8pcs High Power LEDs</td>
 </tr>
 <tr>
 <th>Visible<br>Distance</th>
-<td colspan="2">Max 40M</td>
+<td colspan="2">Max. 80M</td>
+<td colspan="2">Max. 120M</td>
 </tr>
 <tr>
 <th rowspan="2">Audio</th>
 <th>Format</th>
-<td colspan="3">G.711 u-law</td>
+<td colspan="2" rowspan="4">N/A</td>
+<td>G.711 u-law</td>
 </tr>
 <tr>
 <th>Streaming</th>
-<td colspan="3">Two way</td>
+<td>Two way</td>
 </tr>
 <tr>
 <th rowspan="2">Event</th>
 <th>Sensor In</th>
-<td colspan="3">1 port</td>
+<td>1 port</td>
 </tr>
 <tr>
 <th>Alarm Out</th>
-<td colspan="3">1 port</td>
+<td>1 port</td>
 </tr>
 <tr>
 <th rowspan="4">Network</th>
@@ -203,19 +215,22 @@ image:
 </tr>
 <tr>
 <th colspan="2">Power Supply / Current</th>
-<td colspan="3">DC12V 750mA / PoE</td>
+<td colspan="2">DC12V 1.7A</td>
+<td>DC12V 3A</td>
 </tr>
 <tr>
 <th colspan="2">Operating Temp / Humidity</th>
-<td colspan="3">-10℃ ~ +40℃ / 0% ~ 90%</td>
+<td colspan="3">-10℃ ~ +50℃ / 0% ~ 90%</td>
 </tr>
 <tr>
 <th colspan="2">Dimension</th>
-<td colspan="3">144mm X 100mm X 378mm</td>
+<td colspan="2">150mm X 125mm X 425mm</td>
+<td>185mm X 140mm X 401mm</td>
 </tr>
 <tr>
 <th colspan="2">Weight</th>
-<td colspan="3">Approx. 1100g</td>
+<td colspan="2">Approx. 2,500g</td>
+<td>Approx. 3,000g</td>
 </tr>
 </tbody>
 </table>

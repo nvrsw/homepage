@@ -33,11 +33,11 @@
   url = "company/"
   weight = 50
 
-[[main]]
-  parent = "products"
-  name = "NVR 2UB4"
-  url = "products/nvr/2ub4"
-  weight = 1010
+#[[main]]
+#  parent = "products"
+#  name = "NVR 2UB4"
+#  url = "products/nvr/2ub4"
+#  weight = 1010
 
 [[main]]
   parent = "products"
@@ -81,11 +81,11 @@
   url = "products/camera/em-iqd"
   weight = 2010
 
-[[main]]
-  parent = "products"
-  name = "IP 카메라 EM-IHD"
-  url = "products/camera/em-ihd"
-  weight = 2020
+#[[main]]
+#  parent = "products"
+#  name = "IP 카메라 EM-IHD"
+#  url = "products/camera/em-ihd"
+#  weight = 2020
 
 [[main]]
   parent = "products"
@@ -93,11 +93,11 @@
   url = "products/camera/em-iqv"
   weight = 2030
 
-[[main]]
-  parent = "products"
-  name = "IP 카메라 EM-IHV"
-  url = "products/camera/em-ihv"
-  weight = 2040
+#[[main]]
+#  parent = "products"
+#  name = "IP 카메라 EM-IHV"
+#  url = "products/camera/em-ihv"
+#  weight = 2040
 
 [[main]]
   parent = "products"
@@ -105,23 +105,29 @@
   url = "products/camera/em-iqe"
   weight = 2050
 
-[[main]]
-  parent = "products"
-  name = "IP 카메라 EM-IHE"
-  url = "products/camera/em-ihe"
-  weight = 2050
+#[[main]]
+#  parent = "products"
+#  name = "IP 카메라 EM-IHE"
+#  url = "products/camera/em-ihe"
+#  weight = 2060
 
 [[main]]
   parent = "products"
   name = "IP 카메라 EM-IQA"
   url = "products/camera/em-iqa"
-  weight = 2060
+  weight = 2070
 
 [[main]]
   parent = "products"
   name = "IP 카메라 EM-IHP"
   url = "products/camera/em-ihp"
-  weight = 2070
+  weight = 2080
+
+[[main]]
+  parent = "products"
+  name = "IP 카메라 EM-IHI"
+  url = "products/camera/em-ihi"
+  weight = 2090
 
 #[[main]]
 #  parent = "products"

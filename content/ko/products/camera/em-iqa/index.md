@@ -207,7 +207,7 @@ IP67 등급의 방수 / 방진, IK10 등급의 파손 방지를 지원하며 카
 </tr>
 <tr>
 <th colspan="2">Power Supply / Current</th>
-<td colspan="5">DC12V 500mA / PoE</td>
+<td>DC12V 500mA / PoE</td>
 </tr>
 <tr>
 <th colspan="2">Operating Temp / Humidity</th>

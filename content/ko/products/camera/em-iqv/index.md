@@ -196,7 +196,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">Power Supply / Current</th>
-<td colspan="5">DC12V 750mA / PoE</td>
+<td colspan="2">DC12V 750mA / PoE</td>
 </tr>
 <tr>
 <th colspan="2">Operating Temp / Humidity</th>
