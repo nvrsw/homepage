@@ -2,9 +2,9 @@
 title: "이상음원 감지"
 subtitle: "Abnormal Sound Detection"
 summary: "엘리베이터 같은 한정된 공간에 이상음원 감지 카메라를 설치하여 위급 상황 발생시 이상음원(소리)을 감지하여 신속하고 정확한 상황 파악 및 대응이 가능한 솔루션입니다."
-authors: [ "" ]
+authors: []
 tags: [ "sound", "elevator" ]
-categories: [ "solutions" ]
+categories: []
 draft: false
 weight: 50
 

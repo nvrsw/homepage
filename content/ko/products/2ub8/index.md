@@ -2,8 +2,8 @@
 title: "2U B8 Performance Series"
 subtitle: "2U 8Bay Storage Type PC based NVR"
 summary: "2U 8Bay Storage Type PC based NVR"
-authors: [ "" ]
-tags: [ "" ]
+authors: []
+tags: []
 categories: [ "nvr" ]
 draft: false
 weight: 1030

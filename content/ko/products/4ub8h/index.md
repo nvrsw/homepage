@@ -2,8 +2,8 @@
 title: "4U B8 Hybrid Series"
 subtitle: "4U 8Bay Storage Type PC based Hybrid NVR"
 summary: "4U 8Bay Storage Type PC based Hybrid NVR"
-authors: [ "" ]
-tags: [ "" ]
+authors: []
+tags: []
 categories: [ "nvr" ]
 draft: false
 weight: 1070

@@ -2,8 +2,8 @@
 title: "4U B8 Performance Series"
 subtitle: "4U 8Bay Industrial Storage Type PC based NVR"
 summary: "4U 8Bay Industrial Storage Type PC based NVR"
-authors: [ "" ]
-tags: [ "" ]
+authors: []
+tags: []
 categories: [ "nvr" ]
 draft: false
 weight: 1040

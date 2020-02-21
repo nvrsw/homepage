@@ -2,7 +2,7 @@
 title: "T2 2Bay Failover 서버"
 subtitle: "2Bay Storage Type Failover Server"
 summary: "2Bay Storage Type Failover Server"
-authors: [ "" ]
+authors: []
 tags: [ "failover" ]
 categories: [ "nvr" ]
 draft: false

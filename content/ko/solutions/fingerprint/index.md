@@ -2,9 +2,9 @@
 title: "지문 인증"
 subtitle: "Fingerprint Authentication"
 summary: "위조 및 도용이 불가능한 사용자 고유의 생체 정보를 활용하여 등록된 관리자 외 비인가자의 영상 조회, 영상 백업, 시스템 구성 변경 등을 원천적으로 차단하는 사용자 인증 솔루션입니다."
-authors: [ "" ]
+authors: []
 tags: [ "fingerprint" ]
-categories: [ "solutions" ]
+categories: []
 draft: false
 weight: 20
 

@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [ "sfcop" ]
 tags: [ "lpr", "elevator", "broadcast", "wall" ]
-categories: [ "sites" ]
+categories: [ "site" ]
 date: 2018-12-18
 draft: false
 #slug: sanbon-baekdu-apt-lpr

@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [ "emsr" ]
 tags: [ "rftc", "lpr" ]
-categories: [ "sites" ]
+categories: [ "site" ]
 date: 2019-01-05
 draft: false
 #slug: samchek-cheongsol-apt

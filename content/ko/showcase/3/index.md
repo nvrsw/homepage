@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [ "emsr" ]
 tags: [ ]
-categories: [ "sites" ]
+categories: [ "site" ]
 date: 2019-01-04
 draft: false
 #slug: samchek-jayeon-saengtae-park

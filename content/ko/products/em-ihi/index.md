@@ -2,7 +2,7 @@
 title: "EM-IHI FullHD 차량번호 식별 카메라"
 subtitle: "License Plate Recognition Network IP Camera Series"
 summary: "License Plate Recognition Network IP Camera Series"
-authors: [ "" ]
+authors: []
 tags: [ "lpr" ]
 categories: [ "camera" ]
 draft: false

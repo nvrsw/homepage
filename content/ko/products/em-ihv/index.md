@@ -2,8 +2,8 @@
 title: "EM-IHV FullHD 블릿 카메라"
 subtitle: "2MP Bullet Type Network IP Camera Series"
 summary: "2MP Bullet Type Network IP Camera Series"
-authors: [ "" ]
-tags: [ "" ]
+authors: []
+tags: []
 categories: [ "camera" ]
 draft: false
 weight: 2040

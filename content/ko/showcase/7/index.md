@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [ "emsr" ]
 tags: [ "wall", "lpr", "elevator", "emergency", "fire", "broadcast" ]
-categories: [ "sites" ]
+categories: [ "site" ]
 date: 2019-02-08
 draft: false
 #slug: jeonrado-gwangju-ltter-outlet

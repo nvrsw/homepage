@@ -2,8 +2,8 @@
 title: "3U B16 Performance Series"
 subtitle: "3U 16Bay Storage Type PC based NVR"
 summary: "3U 16Bay Storage Type PC based NVR"
-authors: [ "" ]
-tags: [ "" ]
+authors: []
+tags: []
 categories: [ "nvr" ]
 draft: false
 weight: 1050

@@ -2,8 +2,8 @@
 title: "EM-IHD FullHD 돔 카메라"
 subtitle: "2MP Dome Type Network IP Camera Series"
 summary: "2MP Dome Type Network IP Camera Series"
-authors: [ "" ]
-tags: [ "" ]
+authors: []
+tags: []
 categories: [ "camera" ]
 draft: false
 weight: 2020

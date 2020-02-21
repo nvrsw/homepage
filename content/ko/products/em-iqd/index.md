@@ -2,8 +2,8 @@
 title: "EM-IQD QHD 돔 카메라"
 subtitle: "5MP Dome Type Network IP Camera Series"
 summary: "5MP Dome Type Network IP Camera Series"
-authors: [ "" ]
-tags: [ "" ]
+authors: []
+tags: []
 categories: [ "camera" ]
 draft: false
 weight: 2010

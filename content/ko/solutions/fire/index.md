@@ -2,9 +2,9 @@
 title: "화염 / 연기 감지"
 subtitle: "Flame / Smoke Detection"
 summary: "카메라 영상을 실시간으로 분석하여 화염 및 연기를 감지하는 솔루션입니다."
-authors: [ "" ]
+authors: []
 tags: [ "fire" ]
-categories: [ "solutions" ]
+categories: []
 draft: false
 weight: 90
 

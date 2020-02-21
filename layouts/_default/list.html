@@ -8,7 +8,7 @@
   <div class="article-style">{{ . }}</div>
   {{ end }}
 
-{{ if eq $.Params.view 3 }}
+{{ if (or (eq $.Params.view 3) (not $.Params.view)) }}
 <div class="container"><div class="row">
 {{ end }}
 
@@ -16,10 +16,10 @@
   {{ range $paginator.Pages }}
     {{ if eq $.Params.view 1 }}
       {{ partial "li_list" . }}
-    {{ else if eq $.Params.view 3 }}
-      {{ partial "li_card" . }}
-    {{ else }}
+    {{ else if eq $.Params.view 2 }}
       {{ partial "li_compact" . }}
+    {{ else }}
+      {{ partial "li_card" (dict "page" . "columns" $.Params.columns) }}
     {{ end }}
   {{ end }}
 

@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [ "jishin" ]
 tags: [ "lpr", "wall" ]
-categories: [ "sites" ]
+categories: [ "site" ]
 date: 2019-04-21
 draft: false
 #slug: jeonrado-gwangju-ltter-outlet

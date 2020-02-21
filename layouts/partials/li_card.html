@@ -1,5 +1,4 @@
-{{ $item := . }}
-
+{{ $item := .page }}
 
 {{/* Dynamic view adjusts to content type. */}}
 {{ $show_buttons := false }}
@@ -22,8 +21,8 @@
 {{ end }}
 
 {{ $columns := 6 }}
-{{ if $item.Parent.Params.columns }}
-  {{ $columns = (div 12 $item.Parent.Params.columns) }}
+{{ if .columns }}
+  {{ $columns = (div 12 .columns) }}
 {{ end }}
 <div class="card-simple col-sm-{{ $columns }}">
 

@@ -2,8 +2,8 @@
 title: "1U 2S Essential Series"
 subtitle: "1U 2Bay Storage Type PC based NVR"
 summary: "1U 2Bay Storage Type PC based NVR"
-authors: [ "" ]
-tags: [ "" ]
+authors: []
+tags: []
 categories: [ "nvr" ]
 draft: false
 weight: 1010

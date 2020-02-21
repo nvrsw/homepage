@@ -2,9 +2,9 @@
 title: "IP 비디오 월"
 subtitle: "IP Video Wall"
 summary: "CCTV 통합 관제 시설, 도로 / 철도 / 항공과 같은 교통 운송 관계 시설, 금융기관 전산센터 등 영상 관제 / 제어가 필요한 모든 현장에 적용 가능한 솔루션입니다."
-authors: [ "" ]
+authors: []
 tags: [ "wall" ]
-categories: [ "solutions" ]
+categories: []
 draft: false
 weight: 10
 

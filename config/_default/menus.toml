@@ -136,6 +136,18 @@
   weight = 120
 
 [[main]]
+  parent = "showcase"
+  name = "사이트 시공사례"
+  url = "categories/site/"
+  weight = 10
+
+[[main]]
+  parent = "showcase"
+  name = "제품 사용사례"
+  url = "categories/howto/"
+  weight = 20
+
+[[main]]
   parent = "support"
   name = "IP 카메라 목록"
   url = "support/ip-cameras/"

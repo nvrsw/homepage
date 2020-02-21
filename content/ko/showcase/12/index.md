@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [ "emsr" ]
 tags: [ "lpr", "broadcast", "emergency" ]
-categories: [ "sites" ]
+categories: [ "site" ]
 date: 2019-04-14
 draft: false
 #slug: jeonrado-gwangju-ltter-outlet

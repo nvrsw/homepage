@@ -2,8 +2,8 @@
 title: "EM-IQA 180° 파노라마 미니 블릿 카메라"
 subtitle: "5MP 180° Panoramic Mini Bullet Network IP Camera"
 summary: "5MP 180° Panoramic Mini Bullet Network IP Camera"
-authors: [ "" ]
-tags: [ "" ]
+authors: []
+tags: []
 categories: [ "camera" ]
 draft: false
 weight: 2070

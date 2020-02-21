@@ -2,8 +2,8 @@
 title: "EM-IHE FullHD 하우징 카메라"
 subtitle: "2MP Housing Type Network IP Camera Series"
 summary: "2MP Housing Type Network IP Camera Series"
-authors: [ "" ]
-tags: [ "" ]
+authors: []
+tags: []
 categories: [ "camera" ]
 draft: false
 weight: 2060

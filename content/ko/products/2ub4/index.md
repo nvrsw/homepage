@@ -2,8 +2,8 @@
 title: "2U B4 Performance Series"
 subtitle: "2U 4Bay Storage Type PC based NVR"
 summary: "2U 4Bay Storage Type PC based NVR"
-authors: [ "" ]
-tags: [ "" ]
+authors: []
+tags: []
 categories: [ "nvr" ]
 draft: false
 weight: 1020
