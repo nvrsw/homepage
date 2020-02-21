@@ -154,14 +154,8 @@ figcaption {
   content: '#';
 }
 
-.media.stream-item {
-  align-items: center;
-}
-
-@media screen and (max-width: 768px) {
-  .media.stream-item img {
-    max-width: 120px;
-  }
+.media.stream-item img {
+  max-width: 100%;
 }
 
 ul, ol {
@@ -233,6 +227,6 @@ td strong {
 }
 
 .article-style figure {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
 }

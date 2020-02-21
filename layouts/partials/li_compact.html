@@ -30,12 +30,13 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
+<div class="media stream-item row">
+  <div class="col-12">
+    <h3 class="article-title">
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </h3>
+  </div>
+<div class="col-8 col-sm-9">
 
     {{ with $summary }}
     <div class="article-style">
@@ -73,11 +74,11 @@
     {{ end }}
 
   </div>
-  <div class="ml-3">
+  <div class="col-4 col-sm-3">
     {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
     {{ with $resource }}
     <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
-      <img src="{{ .RelPermalink }}" width="150px" alt="">
+      <img src="{{ .RelPermalink }}" alt="">
     </a>
     {{end}}
   </div>
