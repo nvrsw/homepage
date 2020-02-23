@@ -30,6 +30,8 @@ image:
 
 {{< youtube yfOVPtHZchc >}}
 
+&nbsp;
+
 <div class="container"><div class="row justify-content-center">
 <div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_02.png" lightbox-group="a" caption="한국감시기기공업 정기총회 1" >}}</div>
 <div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_08.png" lightbox-group="a" caption="한국감시기기공업 정기총회 2" >}}</div>
@@ -46,6 +48,8 @@ image:
 ## 목포 해양대학교
 
 {{< youtube DS9IsaZmeRU >}}
+
+&nbsp;
 
 <div class="container"><div class="row justify-content-center">
 <div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_13.png" lightbox-group="a" caption="목포 해양대학교 1" >}}</div>
