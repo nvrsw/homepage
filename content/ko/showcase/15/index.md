@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "NDS Solo - 무엇에 쓰는 물건일까요?"
+title: "NDS Solo는 무엇일까요?"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
