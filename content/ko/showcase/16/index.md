@@ -33,16 +33,16 @@ image:
 &nbsp;
 
 <div class="container"><div class="row justify-content-center">
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_02.png" lightbox-group="a" caption="한국감시기기공업 정기총회 1" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_08.png" lightbox-group="a" caption="한국감시기기공업 정기총회 2" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_14.png" lightbox-group="a" caption="한국감시기기공업 정기총회 3" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_18.png" lightbox-group="a" caption="한국감시기기공업 정기총회 4" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_36.png" lightbox-group="a" caption="한국감시기기공업 정기총회 5" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_47.png" lightbox-group="a" caption="한국감시기기공업 정기총회 6" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_51.png" lightbox-group="a" caption="한국감시기기공업 정기총회 7" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_54.png" lightbox-group="a" caption="한국감시기기공업 정기총회 8" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_58.png" lightbox-group="a" caption="한국감시기기공업 정기총회 9" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-1_31.png" lightbox-group="a" caption="한국감시기기공업 정기총회 10" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_02.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_08.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_14.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_18.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_36.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_47.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_51.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_54.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_58.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-1_31.png" lightbox-group="a" >}}</div>
 </div></div>
 
 ## 목포 해양대학교
@@ -52,12 +52,12 @@ image:
 &nbsp;
 
 <div class="container"><div class="row justify-content-center">
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_13.png" lightbox-group="a" caption="목포 해양대학교 1" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_21.png" lightbox-group="a" caption="목포 해양대학교 2" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_25.png" lightbox-group="a" caption="목포 해양대학교 3" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_35.png" lightbox-group="a" caption="목포 해양대학교 4" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_48.png" lightbox-group="a" caption="목포 해양대학교 5" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_14.png" lightbox-group="a" caption="목포 해양대학교 10" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_30.png" lightbox-group="a" caption="목포 해양대학교 7" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_35.png" lightbox-group="a" caption="목포 해양대학교 8" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_13.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_21.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_25.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_35.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_48.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_14.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_30.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_35.png" lightbox-group="a" >}}</div>
 </div></div>
