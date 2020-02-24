@@ -54,7 +54,7 @@ align = "end"
   # icon_pack = "far"
   url = "solutions/elevator/"
   name = "엘리베이터 CRT 연동"
-  description = "Interworking with Elevator CRT System"
+  description = "Interworking with Elevator CRT"
 
 [[feature]]
   image = "solutions/emergency/featured.png"
