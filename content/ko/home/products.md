@@ -9,6 +9,7 @@ weight = 20  # Order that this section will appear.
 
 title = "제품"
 subtitle = "NVR / IP Camera / CMS / NDS / Etc."
+url = "products/"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

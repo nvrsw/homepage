@@ -9,6 +9,7 @@ weight = 60  # Order that this section will appear.
 
 title = "시공사례"
 subtitle = "다양한 환경에 적용한 설치 / 시공사례를 확인하세요."
+url = "showcase/"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
