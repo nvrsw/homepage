@@ -1,9 +1,17 @@
 ---
 title: 회사 소개
 
-header:
-  image: "solution-header.jpg"
-  caption: ""
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+
+# Optional header image (relative to `static/img/` folder).
+cascade:
+  header:
+    image: "solution-header.jpg"
+    caption: ""
 ---
 
 ## (주) 엠스톤 {#about}
