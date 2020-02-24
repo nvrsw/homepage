@@ -1,7 +1,7 @@
 {{ $ := .root }}
 {{ $page := .page }}
 
-<div class="row featurette">
+<div class="row featurette justify-content-center {{ with $page.Params.align }}align-items-{{ . }}{{ end }}">
   {{ with $page.Title }}
   <div class="col-md-12 section-heading">
     <h1><a href="{{ $page.Params.url | relLangURL }}">{{ . | markdownify | emojify }}</a></h1>
@@ -21,10 +21,25 @@
   {{ if in (slice "fab" "fas" "far" "fal") $pack }}
     {{ $pack_prefix = "fa" }}
   {{ end }}
-  <div class="col-12 col-sm-4">
+  <div class="col-12 col-sm-4 mb-2">
+  {{ if .icon }}
     <div class="featurette-icon"><a href="{{ .url | relLangURL }}"><i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i></a></div>
-    <h3><a href="{{ .url | relLangURL}}">{{ .name | markdownify | emojify }}</a></h3>
+  {{ end }}
+  {{ if .image }}
+    <div class="featurette-image"><a href="{{ .url | relLangURL }}"><img src="{{ .image | relLangURL }}"></a></div>
+  {{ end }}
+    <h3><a href="{{ .url | relLangURL }}">{{ .name | markdownify | emojify }}</a></h3>
     {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
+
+  {{ with $page.Params.url }}
+  <div class="col-12 col-sm-4 see-all">
+    <a href="{{ . | relLangURL }}">
+      {{ i18n "more_pages" | default "See all" }}
+      <i class="fas fa-angle-right"></i>
+    </a>
+  </div>
+  {{ end }}
+
 </div>
