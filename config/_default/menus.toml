@@ -35,7 +35,7 @@
 
 [[main]]
   parent = "products"
-  name = "NVR"
+  name = "NVR / 하이브리드"
   url = "categories/nvr/"
   weight = 10
 
@@ -47,16 +47,16 @@
 
 [[main]]
   parent = "products"
-  name = "CMS"
+  name = "CMS 통합 모니터링"
   url = "categories/cms/"
   weight = 30
 
-#[[main]]
-#  parent = "products"
-#  name = "NDS 디스플레이 서버"
-#  url = "products/nds/"
-#  weight = 40
-#
+[[main]]
+  parent = "products"
+  name = "NDS 디스플레이 서버"
+  url = "categories/nds/"
+  weight = 30
+
 #[[main]]
 #  parent = "products"
 #  name = "기타"
