@@ -70,6 +70,24 @@ align = "end"
   name = "EM-IX 열화상 카메라"
   description = "Thermal Imaging Network IP Camera Series"
 
+[[feature]]
+  image = "products/cms-station/featured.png"
+  url = "products/cms-station/"
+  name = "EM-CMS 스테이션 H"
+  description = "Central Monitoring Server"
+
+[[feature]]
+  image = "products/em-nds-04/featured.png"
+  url = "products/em-nds-04/"
+  name = "EM-NDS-04"
+  description = "Network Display Server"
+
+[[feature]]
+  image = "products/em-poe-amp/featured.png"
+  url = "products/em-poe-amp/"
+  name = "EM-PoE-AMP-PLUS"
+  description = "Audio Amplifier / PoE Repeater"
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.

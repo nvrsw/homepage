@@ -55,14 +55,14 @@
   parent = "products"
   name = "NDS 디스플레이 서버"
   url = "categories/nds/"
-  weight = 30
+  weight = 40
 
-#[[main]]
-#  parent = "products"
-#  name = "기타"
-#  url = "products/etc/"
-#  weight = 50
-#
+[[main]]
+  parent = "products"
+  name = "PoE 앰프 / 비상벨"
+  url = "categories/etc/"
+  weight = 50
+
 [[main]]
   parent = "solutions"
   name = "IP 비디오 월"
