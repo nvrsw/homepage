@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 99  # Order that this section will appear.
 
-title = ""
+title = "YouTube Channel"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "youtube-dark.png"
@@ -42,7 +42,5 @@ hero_media = "youtube-dark.png"
   icon_pack = "fas"
   icon = "link"
 +++
-
-**YouTube Channel**
 
 You can view various videos about construction cases, solutions, and site demonstrations with easy to understand.

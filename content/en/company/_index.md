@@ -21,7 +21,7 @@ By applying our core technology, we provide the world's most competitive video s
 
 We are struggling to prevent accidents, will do its best to protect customers' lives and their families as the security company.
 
-## 연락처 {#contact}
+## Contact {#contact}
 
 - Tel: {{< param "company_phone" >}}
 - Email: {{< param "company_email" >}}
