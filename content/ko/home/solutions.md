@@ -17,10 +17,10 @@ align = "end"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  image = "solutions/wall/featured.jpg"
+  image = "solutions/ipwall/featured.jpg"
   # icon = "border-all"
   # icon_pack = "fas"
-  url = "solutions/wall/"
+  url = "solutions/ipwall/"
   name = "IP 비디오 월"
   description = "IP Video Wall"
   

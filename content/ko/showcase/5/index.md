@@ -5,7 +5,7 @@ title: "IP 월 E-MAP 제어"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "wall" ]
+tags: [ "ipwall" ]
 categories: [ "howto" ]
 date: 2019-01-11
 draft: false

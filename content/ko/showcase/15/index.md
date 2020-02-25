@@ -5,7 +5,7 @@ title: "NDS Solo는 무엇일까요?"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "wall" ]
+tags: [ "ipwall" ]
 categories: [ "howto" ]
 date: 2019-07-07
 draft: false
