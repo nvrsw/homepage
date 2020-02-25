@@ -5,7 +5,7 @@ title: "오산 원동 대림2차 아파트 NVR + IP 월"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "ipwall", "lpr", "elevator", "emergency", "fire", "broadcast" ]
+tags: [ "ipwall", "lpr", "elevator", "emcall", "fire", "broadcast" ]
 categories: [ "site" ]
 date: 2019-02-08
 draft: false

@@ -5,7 +5,7 @@ title: "신형 비상벨 V2 - 블루투스 리모컨"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "emergency" ]
+tags: [ "emcall" ]
 categories: [ "howto" ]
 date: 2019-03-03
 draft: false

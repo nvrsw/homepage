@@ -58,7 +58,7 @@ align = "end"
 
 [[feature]]
   image = "solutions/emergency/featured.png"
-  # icon = "bell"
+  # icon = "emcall"
   # icon_pack = "far"
   url = "solutions/emergency/"
   name = "비상벨"
