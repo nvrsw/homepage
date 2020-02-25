@@ -211,7 +211,7 @@ plugins_js  = ["custom"]
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 1
+  engine = 0
 
   # Which page types are commentable?
   commentable = {showcase = true, post = false, docs = false, project = false, publication = false, talk = false}
