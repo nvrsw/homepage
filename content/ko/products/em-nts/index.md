@@ -62,7 +62,6 @@ image:
 </tr>
 </thead>
 <tbody>
-
 <tr>
 <th rowspan="2">Input</th>
 <th>Video Input</th>
@@ -129,8 +128,6 @@ image:
 <th colspan="2">Weight</th>
 <td>Approx. 350 g</td>
 </tr>
-
-
 </tbody>
 </table>
 </div>
