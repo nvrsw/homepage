@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "제품"
 subtitle = "NVR / 카메라 / CMS / NDS / 기타"
@@ -16,23 +16,23 @@ align = "end"
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  image = "products/2ub4/featured.png"
-  url = "products/2ub4/"
-  name = "NVR 2U B4 Series"
-  description = "2U 4Bay Storage Type PC based NVR"
-
-[[feature]]
-  image = "products/2ub8/featured.png"
-  url = "products/2ub8/"
-  name = "NVR 2U B8 Series"
-  description = "2U 8Bay Storage Type PC based NVR"
-  
-[[feature]]
-  image = "products/3ub16/featured.png"
-  url = "products/3ub16/"
-  name = "NVR 3U B16 Series"
-  description = "3U 16Bay Storage Type PC based NVR"
+# [[feature]]
+#   image = "products/2ub4/featured.png"
+#   url = "products/2ub4/"
+#   name = "NVR 2U B4 Series"
+#   description = "2U 4Bay Storage Type PC based NVR"
+# 
+# [[feature]]
+#   image = "products/2ub8/featured.png"
+#   url = "products/2ub8/"
+#   name = "NVR 2U B8 Series"
+#   description = "2U 8Bay Storage Type PC based NVR"
+#   
+# [[feature]]
+#   image = "products/3ub16/featured.png"
+#   url = "products/3ub16/"
+#   name = "NVR 3U B16 Series"
+#   description = "3U 16Bay Storage Type PC based NVR"
 
 [[feature]]
   image = "products/4ub24/featured.png"

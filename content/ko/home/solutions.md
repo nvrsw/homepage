@@ -18,51 +18,57 @@ align = "end"
 
 [[feature]]
   image = "solutions/ipwall/featured.jpg"
-  # icon = "border-all"
-  # icon_pack = "fas"
   url = "solutions/ipwall/"
   name = "IP 비디오 월"
   description = "IP Video Wall"
   
 [[feature]]
   image = "solutions/fingerprint/featured.png"
-  # icon = "fingerprint"
-  # icon_pack = "fas"
   url = "solutions/fingerprint/"
   name = "지문 인증"
   description = "Fingerprint Authentication"
   
 [[feature]]
   image = "solutions/thermal/featured.png"
-  # icon = "temperature-high"
-  # icon_pack = "fas"
   url = "solutions/thermal/"
   name = "열화상 카메라"
   description = "Thermal Imaging Camera"
 
 [[feature]]
   image = "solutions/lpr/featured.jpg"
-  # icon = "car"
-  # icon_pack = "fas"
   url = "solutions/lpr/"
   name = "차량번호 추출"
   description = "License Plate Recognition"
 
 [[feature]]
+  image = "solutions/entrance/featured.jpg"
+  url = "solutions/entrance/"
+  name = "안전 입출차"
+  description = "Safety for Entry Vehicles"
+
+[[feature]]
   image = "solutions/elevator/featured.jpg"
-  # icon = "building"
-  # icon_pack = "far"
   url = "solutions/elevator/"
   name = "엘리베이터 CRT 연동"
   description = "Interworking with Elevator CRT"
 
 [[feature]]
-  image = "solutions/emergency/featured.png"
-  # icon = "emcall"
-  # icon_pack = "far"
-  url = "solutions/emergency/"
+  image = "solutions/sound/featured.png"
+  url = "solutions/sound/"
+  name = "이상음원 감지"
+  description = "Abnormal Sound Detection"
+
+[[feature]]
+  image = "solutions/emcall/featured.png"
+  url = "solutions/emcall/"
   name = "비상벨"
   description = "Emergency Call"
+
+[[feature]]
+  image = "solutions/failover/featured.png"
+  url = "solutions/failover/"
+  name = "NVR 장애 대응"
+  description = "Smart NVR Failover"
 
 [design.background]
   # Apply a background color, gradient, or image.
