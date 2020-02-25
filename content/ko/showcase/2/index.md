@@ -5,7 +5,7 @@ title: "산본 백두극동 아파트 - 방향성 차번 추출"
 subtitle: ""
 summary: ""
 authors: [ "sfcop" ]
-tags: [ "lpr", "elevator", "broadcast", "ipwall" ]
+tags: [ "lpr", "elevator", "broadcast" ]
 categories: [ "site" ]
 date: 2018-12-18
 draft: false

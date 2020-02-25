@@ -64,8 +64,7 @@ image:
 <tbody>
 
 <tr>
-<th rowspan="2">
-Video /<br>Audio<br>Input</th>
+<th rowspan="2">Input</th>
 <th>Video Input</th>
 <td>1xHDMI</td>
 </tr>
@@ -99,7 +98,7 @@ Video /<br>Audio<br>Input</th>
 <td>AAC / AAC+ / AAC++ / MP3 / MP2 / AC3 Optional</td>
 </tr>
 <tr>
-<th>Digtal<br>Volume</th>
+<th>Digtal Volume</th>
 <td>-50~50Adjustable</td>
 </tr>
 <tr>

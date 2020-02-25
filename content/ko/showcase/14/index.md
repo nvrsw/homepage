@@ -5,7 +5,7 @@ title: "안양 석수 럭키 아파트"
 subtitle: ""
 summary: ""
 authors: [ "jishin" ]
-tags: [ "lpr", "ipwall" ]
+tags: [ "lpr" ]
 categories: [ "site" ]
 date: 2019-04-21
 draft: false
