@@ -45,12 +45,12 @@
   url = "categories/camera/"
   weight = 20
 
-#[[main]]
-#  parent = "products"
-#  name = "CMS 스테이션"
-#  url = "products/cms/"
-#  weight = 30
-#
+[[main]]
+  parent = "products"
+  name = "CMS"
+  url = "categories/cms/"
+  weight = 30
+
 #[[main]]
 #  parent = "products"
 #  name = "NDS 디스플레이 서버"

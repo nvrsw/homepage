@@ -1,7 +1,7 @@
 ---
 title: "CMS 소프트웨어"
-subtitle: "Central Monitoring System"
-summary: "Central Monitoring System"
+subtitle: "통합 모니터링 시스템"
+summary: "통합 모니터링 시스템"
 authors: []
 tags: [ "" ]
 categories: [ "cms" ]
@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-6">
 
-{{< figure src="featured.png" lightbox-group="a" >}}
+{{< figure src="featured.jpg" lightbox-group="a" >}}
 
 </div>
 </div>
