@@ -129,6 +129,7 @@ image:
 <th>Video Mode</th>
 <td colspan="2">Thermal (Color, BW)</td>
 <td colspan="2">Thermal (Color, BW), Normal, Overlay</td>
+</tr>
 <tr>
 <th>Streaming</th>
 <td colspan="4">Dual Streams</td>
