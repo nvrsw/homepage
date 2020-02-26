@@ -5,7 +5,7 @@ summary: "1U 2Bay Storage Type PC based NVR"
 authors: []
 tags: []
 categories: [ "nvr" ]
-draft: false
+draft: true
 weight: 1010
 
 # Featured image
