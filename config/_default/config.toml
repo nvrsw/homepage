@@ -80,9 +80,9 @@ name = "www.emstone.com"
 URL = "s3://www.emstone.com?region=ap-northeast-2"
 
 #[[deployment.matchers]]
-##  Cache static assets for 1 day.
+#  Cache static assets for 30 day.
 pattern = "^.+\\.(js|css|svg|ttf|html|xml|json|png|jpg|svg|ico)$"
-cacheControl = "max-age=86400, no-transform, public"
+cacheControl = "max-age=259200, no-transform, public"
 
 [related]
 threshold = 80
