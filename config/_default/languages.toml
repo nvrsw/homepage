@@ -5,8 +5,7 @@
 [ko]
   languageCode = "ko-KR"
   languageName = "한국어"
-  title = "엠스톤"
-  # baseurl = "http://emstone.co.kr/"
+  title = "엠스톤 | EMSTONE"
   contentDir = "content/ko"
   weight = 1
   [ko.params]
@@ -22,7 +21,6 @@
   languageCode = "en-us"
   languageName = "English"
   title = "EMSTONE"
-  # baseurl = "http://emstone.com/"
   contentDir = "content/en"
   weight = 2
   [en.params]

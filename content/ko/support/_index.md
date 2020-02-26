@@ -16,8 +16,8 @@ cascade:
 
 <div class="blockquote text-center">
 <p class="display-4">
-  <a class="d-inline d-sm-none" href="tel:1600-5978">1600-5978</a>
-  <span class="d-none d-sm-inline">1600-5978</a>
+  <a class="d-inline d-sm-none" href='tel:{{< param "company_phone" >}}'>{{< param "company_phone" >}}</a>
+  <span class="d-none d-sm-inline">{{< param "company_phone" >}}</a>
 </p>
 <p>고객지원센터</p>
 </div>

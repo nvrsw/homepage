@@ -79,10 +79,10 @@ expiryDate = ["expiryDate"]
 name = "www.emstone.com"
 URL = "s3://www.emstone.com?region=ap-northeast-2"
 
-#[[deployment.matchers]]
-#  Cache static assets for 30 day.
+[[deployment.matchers]]
+#  Cache static assets for 355 days.
 pattern = "^.+\\.(js|css|svg|ttf|html|xml|json|png|jpg|svg|ico)$"
-cacheControl = "max-age=259200, no-transform, public"
+cacheControl = "max-age=30672000, no-transform, public"
 
 [related]
 threshold = 80
