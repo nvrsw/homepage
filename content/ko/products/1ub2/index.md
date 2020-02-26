@@ -1,5 +1,5 @@
 ---
-title: "1U 2B Essential Series"
+title: "1U B2 Essential Series"
 subtitle: "1U 2Bay Storage Type PC based NVR"
 summary: "1U 2Bay Storage Type PC based NVR"
 authors: []
@@ -21,12 +21,12 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-6">
 
-{{< figure src="1u2b-case-side.png" lightbox-group="a" >}}
+{{< figure src="1ub2-case-side.png" lightbox-group="a" >}}
 
 </div>
 <div class="col-sm-6">
 
-{{< figure src="1u2b-case-front.png" lightbox-group="a" >}}
+{{< figure src="1ub2-case-front.png" lightbox-group="a" >}}
 
 </div>
 </div>
@@ -59,7 +59,7 @@ image:
 
 ## 외관도
 
-{{< figure src="1u2b-drawing.png" lightbox-group="a" >}}
+{{< figure src="1ub2-drawing.png" lightbox-group="a" >}}
 
 </div>
 </div>
