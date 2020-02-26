@@ -8,6 +8,7 @@ categories: [ "site" ]
 date: 2020-02-23
 draft: false
 #slug: jeonrado-gwangju-ltter-outlet
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

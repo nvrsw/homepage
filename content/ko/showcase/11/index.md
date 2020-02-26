@@ -9,7 +9,7 @@ tags: [ "secon" ]
 categories: [ "site" ]
 date: 2019-04-01
 draft: false
-slug: secon2019
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
