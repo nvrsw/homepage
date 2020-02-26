@@ -17,17 +17,17 @@ hero_media = "intro-screenshot.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "#222222"
+  color = "#ebeef3"
 
   # Background gradient.
-  # gradient_start = "#4bb4e3"
-  # gradient_end = "#2b94c3"
+  gradient_start = "#d3dce2"
+  gradient_end = "#ebeef3"
 
   # Background image.
   image = "intro-bg.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_position = "right"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
