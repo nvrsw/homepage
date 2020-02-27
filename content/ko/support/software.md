@@ -18,6 +18,17 @@ image:
   preview_only: true
 ---
 
+## CMS
+
+*Central Monitoring System for NVR / IP Video Wall*
+
+- 버전: **2.1.20.2.26** (2020-02-26)
+- Windows 설치 프로그램 (Windows 7 / Windows 8 / Windows 10)
+  - [32비트](http://nvrsw.com/cms/cms-2.1.20.2.26-win32.exe) / [64비트](http://nvrsw.com/cms/cms-2.1.20.2.26-win64.exe)
+- Linux 설치 프로그램 (Ubuntu 19.04 / Arch Linux)
+  - [64비트](http://nvrsw.com/cms/cms-2.1.20.2.26-linux-x86_64.tar.bz2)
+- [변경사항](http://nvrsw.com/docs/manuals/cms/changelog/cms21.html)
+
 ## NVR
 
 *Network Hybrid Digital Video Recorder*
@@ -35,17 +46,6 @@ image:
 - 버전: **1.5.20.2.21** (2020-02-21)
 - [ISO 설치 이미지](http://nvrsw.com/nds/nds-1.5.20.2.21.iso)
 - [변경사항](http://nvrsw.com/docs/manuals/emx/ChangeLog.html)
-
-## CMS
-
-*Central Monitoring System for NVR / IP Video Wall*
-
-- 버전: **2.1.20.2.26** (2020-02-26)
-- Windows 설치 프로그램 (Windows 7 / Windows 8 / Windows 10)
-  - [32비트](http://nvrsw.com/cms/cms-2.1.20.2.26-win32.exe) / [64비트](http://nvrsw.com/cms/cms-2.1.20.2.26-win64.exe)
-- Linux 설치 프로그램 (Ubuntu 19.04 / Arch Linux)
-  - [64비트](http://nvrsw.com/cms/cms-2.1.20.2.26-linux-x86_64.tar.bz2)
-- [변경사항](http://nvrsw.com/docs/manuals/cms/changelog/cms21.html)
 
 ## Map Editor
 

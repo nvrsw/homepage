@@ -145,7 +145,7 @@
   parent = "showcase"
   name = "YouTube 채널"
   url = "https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg"
-  post = "<i class='fas fa-external-link-alt float-right' aria-hidden='true'></i>"
+  post = " &nbsp; <i class='fas fa-external-link-square-alt' aria-hidden='true'></i>"
   weight = 990
 
 [[main]]
@@ -176,7 +176,7 @@
   parent = "support"
   name = "EMSTONE HUB"
   url = "https://hub.emstone.com/"
-  post = "<i class='fas fa-external-link-alt float-right' aria-hidden='true'></i>"
+  post = " &nbsp; <i class='fas fa-external-link-square-alt' aria-hidden='true'></i>"
   weight = 1000
 
 [[main]]
