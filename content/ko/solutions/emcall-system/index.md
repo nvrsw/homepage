@@ -62,7 +62,7 @@ image:
 
 ## 사용 사례
 
-{{< figure src="featured.jpg" caption="비상벨 시스템 연동 화면" lightbox-group="a" >}}
+{{< figure src="emcall-system-live.jpg" caption="비상벨 시스템 연동 화면" lightbox-group="a" >}}
 
 {{< figure src="emcall-system-setup.png" caption="비상벨 시스템 연동 기능 설정 화면" lightbox-group="a" >}}
 

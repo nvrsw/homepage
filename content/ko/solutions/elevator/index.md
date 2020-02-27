@@ -66,7 +66,7 @@ image:
 
 ## 사용 사례
 
-{{< figure src="featured.jpg" caption="엘리베이터 CRT 시스템 연동 화면" lightbox-group="a" >}}
+{{< figure src="elevator-live.jpg" caption="엘리베이터 CRT 시스템 연동 화면" lightbox-group="a" >}}
 
 <div class="container">
 <div class="row align-items-end">

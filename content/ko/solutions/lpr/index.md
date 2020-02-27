@@ -52,7 +52,7 @@ NVR에 입력되는 영상을 실시간으로 분석하여 차량번호를 추�
 
 ## 동작 화면
 
-{{< figure src="featured.jpg" caption="차량번호 추출 동작 화면" lightbox-group="a" >}}
+{{< figure src="lpr-live.jpg" caption="차량번호 추출 동작 화면" lightbox-group="a" >}}
 
 {{< figure src="lpr-search.jpg" caption="차량번호 추출 정보 검색 화면" lightbox-group="a" >}}
 

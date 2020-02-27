@@ -69,7 +69,7 @@ image:
 </div>
 <div class="col-12 col-sm-4">
 
-{{< figure src="featured.png" caption="오버레이 모드 (실화상 + 열화상)" lightbox-group="a" >}}
+{{< figure src="thermal-overlay.png" caption="오버레이 모드 (실화상 + 열화상)" lightbox-group="a" >}}
 
 </div>
 </div>
