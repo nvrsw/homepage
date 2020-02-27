@@ -21,7 +21,7 @@ image:
 <div class="row align-items-center">
 <div class="col-sm">
 
-{{< figure src="featured.png" lightbox-group="a" >}}
+{{< figure src="3ub16-front.png" lightbox-group="a" >}}
 
 </div>
 <div class="col-sm">

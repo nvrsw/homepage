@@ -19,9 +19,9 @@ image:
 
 <div class="container">
 <div class="row justify-content-center">
-<div class="col-sm-6">
+<div class="col-sm-10">
 
-{{< figure src="featured.jpg" lightbox-group="a" >}}
+{{< figure src="cms-screenshot.jpg" lightbox-group="a" >}}
 
 </div>
 </div>

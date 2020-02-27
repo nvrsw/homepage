@@ -21,7 +21,12 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-6">
 
-{{< figure src="em-poe-amp-case.png" lightbox-group="a" >}}
+{{< figure src="em-poe-amp-front.png" lightbox-group="a" >}}
+
+</div>
+<div class="col-sm-6">
+
+{{< figure src="em-poe-amp-rear.png" lightbox-group="a" >}}
 
 </div>
 </div>

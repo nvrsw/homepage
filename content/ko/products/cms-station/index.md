@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-6">
 
-{{< figure src="featured.png" lightbox-group="a" >}}
+{{< figure src="cms-station-case.png" lightbox-group="a" >}}
 
 </div>
 </div>

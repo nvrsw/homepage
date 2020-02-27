@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center align-items-end">
 <div class="col-sm-6">
 
-{{< figure src="featured.png" lightbox-group="a" caption="EM-IHI(IR2812Z) / EM-IHI(IR0550Z)" >}}
+{{< figure src="em-ihi-case-ir.png" lightbox-group="a" caption="EM-IHI(IR2812Z) / EM-IHI(IR0550Z)" >}}
 
 </div>
 <div class="col-sm-6">

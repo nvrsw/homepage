@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="featured.png" lightbox-group="a" caption="EM-IQA(IRF16)" >}}
+{{< figure src="em-iqa-case.png" lightbox-group="a" caption="EM-IQA(IRF16)" >}}
 
 </div>
 </div>

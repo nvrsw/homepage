@@ -26,7 +26,7 @@ image:
 </div>
 <div class="col-sm-6">
 
-{{< figure src="featured.png" lightbox-group="a" caption="EM-IQD(IRF36) / EM-IQD(IR2812Z)" >}}
+{{< figure src="em-iqd-case-ir.png" lightbox-group="a" caption="EM-IQD(IRF36) / EM-IQD(IR2812Z)" >}}
 
 </div>
 </div>

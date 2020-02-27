@@ -21,12 +21,12 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="featured.png" lightbox-group="a" caption="EM-IHD(F21) / EM-IHD(F28)" >}}
+{{< figure src="em-ihd-case.png" lightbox-group="a" caption="EM-IHD(F21) / EM-IHD(F28)" >}}
 
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-ihd-case.png" lightbox-group="a" caption="EM-IHD(IRF36) / EM-IHD(IR2812Z)" >}}
+{{< figure src="em-ihd-case-ir.png" lightbox-group="a" caption="EM-IHD(IRF36) / EM-IHD(IR2812Z)" >}}
 
 </div>
 </div>
