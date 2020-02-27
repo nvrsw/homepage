@@ -3,7 +3,7 @@
 [ "$1" = "clean" ] && rm -rf public
 hugo --minify
 
-hugo deploy -v --target=www.emstone.com --maxDeletes -1
+hugo deploy --target=www.emstone.com --maxDeletes -1
 aws cloudfront create-invalidation --distribution-id=E25OIC4F6N9LOY --paths "/*"
 exit $?
 
