@@ -155,22 +155,15 @@
 
 [[main]]
   parent = "support"
+  name = "소프트웨어 다운로드"
+  url = "support/software/"
+  weight = 90
+
+[[main]]
+  parent = "support"
   name = "IP 카메라 목록"
   url = "support/ip-cameras/"
   weight = 100
-
-#[[main]]
-#  parent = "support"
-#  name = "자주 묻는 질문"
-#  url = "support/#faq"
-#  weight = 20
-#
-#[[main]]
-#  parent = "support"
-#  name = "튜토리얼"
-#  url = "support/#tutorials"
-#  weight = 30
-#
 
 [[main]]
   parent = "support"
