@@ -15,10 +15,12 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "삼척 청솔2차 아파트"
+  caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 ---
+
+{{< figure src="site.jpg" lightbox-group="a" >}}
 
 강릉지사에서 처음으로 설치한 현장을 소개합니다.
 

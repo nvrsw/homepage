@@ -15,9 +15,9 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "대림1단지 후문"
+  caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 ---
 
 에스콤CS에서 시공한 오산 원동 대림2차 아파트 시공사례입니다.

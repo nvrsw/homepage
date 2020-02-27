@@ -15,7 +15,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "남산타운 아파트 스카이뷰"
+  caption: ""
   focal_point: ""
   preview_only: true
 ---
@@ -59,7 +59,7 @@ image:
 {{< figure src="a27d24_e8473fd233ae4835a0ec4e091cec43a1_mv2_d_4032_3024_s_4_2.jpg"
            lightbox-group="a" >}}
 
-{{< figure src="featured.jpg" lightbox-group="a" >}}
+{{< figure src="skyview.jpg" lightbox-group="a" >}}
 
 동영상 #1:
 {{< youtube vTgZUGMl_7g >}}

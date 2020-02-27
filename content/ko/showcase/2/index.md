@@ -15,9 +15,9 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "차량번호 식별용 카메라 : 한화테크윈 XNO-6090RH(200만화소) 적용"
+  caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 ---
 
 장비내역:

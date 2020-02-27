@@ -26,8 +26,7 @@ image:
 
 {{< youtube 7t8h-IFI5dg >}}
 
-{{< figure src="featured.jpg"
-           lightbox-group="a" >}}
+{{< figure src="nds-solo.jpg" lightbox-group="a" >}}
 
 다들 아시다시피 NDS 는 4개의 모니터를 연결하는 장치입니다.
 

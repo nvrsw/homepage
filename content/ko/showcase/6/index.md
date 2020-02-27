@@ -15,10 +15,12 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "전라도 광주 롯데 아울렛 수완점 전경"
+  caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 ---
+
+{{< figure src="site.jpg" lightbox-group="a" >}}
 
 전남북지사(지엘정보통신)에서 설치한 현장을 소개해드립니다.
 

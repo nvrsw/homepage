@@ -15,15 +15,16 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "엘리베이터 CRT 서버 화면"
+  caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 ---
 
 안녕하세요, 엠스톤 정승룡입니다.
 
 NVR 엘리베이터 연동 방법과 이를 활용한 검색 시의 장점에 관한 내용을 공유합니다.
 
+{{< figure src="elevator-crt.jpg" lightbox-group="a" >}}
 {{< figure src="a27d24_3e66d42d9b004dc0bc76b881d41cbe58_mv2.jpg"
            lightbox-group="a" >}}
 

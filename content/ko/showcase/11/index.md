@@ -15,7 +15,7 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "SECON2019 엠스톤 부스"
+  caption: ""
   focal_point: ""
   preview_only: true
 ---
@@ -24,7 +24,7 @@ SECON2019 세계 보안 전시회 사진과 동영상입니다.
 
 전시회에 방문하시지 못하신 분들을 위해 최대한 현장상황을 편집없이 그대로 올려드립니다.
 
-{{< figure src="featured.jpg" lightbox-group="a" >}}
+{{< figure src="secon2019.jpg" lightbox-group="a" >}}
 {{< figure src="a27d24_4f1e73b5e69d4a1e86fbb61c95df428b_mv2_d_3984_2988_s_4_2.jpg"
            lightbox-group="a" >}}
 {{< figure src="a27d24_9bf40d194e3e43a8a9821cb4e34a5cf9_mv2_d_3996_2664_s_4_2.jpg"

@@ -57,7 +57,7 @@ image:
            lightbox-group="a" >}}
 {{< figure src="a27d24_de0c7db5bc1b4435a3978c4ea2ae3a4e_mv2.jpg"
            lightbox-group="a" >}}
-{{< figure src="featured.jpg" lightbox-group="a" >}}
+{{< figure src="center.jpg" lightbox-group="a" >}}
 
 옥상에서 보는 스카이뷰 영상은 모두다 800만화소(4K)영상을 디스플레이합니다.
 

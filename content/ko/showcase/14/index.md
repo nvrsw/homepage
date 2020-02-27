@@ -15,7 +15,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "안양 석수 럭키 아파트"
+  caption: ""
   focal_point: ""
   preview_only: true
 ---
@@ -29,7 +29,7 @@ image:
 - CMS : CMS Station (초소 / 관리사무소 차번 검색) 1SET
 - VSLS(생활 안전 솔루션) 적용 : 방향성 차번 라이센스 2ch
 
-{{< figure src="featured.jpg" lightbox-group="a" >}}
+{{< figure src="site.jpg" lightbox-group="a" >}}
 {{< figure src="a27d24_21778eb553ed44568a741bb8ba39f34f_mv2_d_4032_2268_s_2.jpg"
            lightbox-group="a" >}}
 

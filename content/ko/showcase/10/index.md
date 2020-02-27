@@ -48,7 +48,7 @@ image:
 
 그래서 우리가 무엇을 어떻게 해주면 녹화기의 신뢰성을 확보하면서도 운영자들을 편하게 해 줄 수 있을까 고민을 하기 시작하고, 인터넷을 뒤지기 시작합니다...
 
-{{< figure src="featured.jpg" lightbox-group="a" >}}
+{{< figure src="fingerprint-mouse.jpg" lightbox-group="a" >}}
 
 지금은 생산을 하지 않는 디젠트 지문형 마우스를 찾았습니다. 막연한 생각으로  머리로 구성하기 시작합니다. 안 되겠다 싶어 디젠트를 찾아가 봅니다.
 

@@ -15,8 +15,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "EOC 열화상 카메라"
-  focal_point: "Smart"
+  caption: ""
+  focal_point: ""
   preview_only: true
 ---
 

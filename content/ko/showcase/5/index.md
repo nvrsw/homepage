@@ -17,7 +17,7 @@ draft: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 ---
 
 CMS E-MAP을 IP 비디오 월과 운용하는 방법을 설명한 동영상을 소개합니다.

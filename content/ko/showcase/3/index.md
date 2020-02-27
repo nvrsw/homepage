@@ -15,10 +15,12 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "삼척 자연생태 공원"
+  caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 ---
+
+{{< figure src="samcheok.jpg" lightbox-group="a" >}}
 
 삼척 자연생태 공원에 기존 이노* 장비를 교체 설치하였습니다.
 
