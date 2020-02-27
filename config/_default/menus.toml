@@ -143,6 +143,13 @@
 
 [[main]]
   parent = "showcase"
+  name = "YouTube 채널"
+  url = "https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg"
+  post = "<i class='fas fa-external-link-alt float-right' aria-hidden='true'></i>"
+  weight = 990
+
+[[main]]
+  parent = "showcase"
   name = "제품 사용사례"
   url = "categories/howto/"
   weight = 20
@@ -167,16 +174,9 @@
 
 [[main]]
   parent = "support"
-  name = "YouTube 채널"
-  url = "https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg"
-  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
-  weight = 980
-
-[[main]]
-  parent = "support"
-  name = "프로젝트 관리"
-  url = "https://hub.nvrsw.com/"
-  post = "<i class='fas fa-external-link-alt align-middle float-right' aria-hidden='true'></i>"
+  name = "EMSTONE HUB"
+  url = "https://hub.emstone.com/"
+  post = "<i class='fas fa-external-link-alt float-right' aria-hidden='true'></i>"
   weight = 1000
 
 [[main]]
