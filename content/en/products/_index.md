@@ -15,5 +15,3 @@ cascade:
     image: "product-header.jpg"
     caption: ""
 ---
-
-Coming Soon...

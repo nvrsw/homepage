@@ -1,0 +1,132 @@
+---
+title: "EM-PoE-AMP-PLUS"
+subtitle: "Audio Amplifier / PoE Repeater"
+summary: "Audio Amplifier / PoE Repeater"
+authors: []
+tags: [ "broadcast" ]
+categories: [ "etc" ]
+draft: false
+weight: 5010
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: true
+---
+
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-sm-6">
+
+{{< figure src="em-poe-amp-front.png" lightbox-group="a" >}}
+
+</div>
+<div class="col-sm-6">
+
+{{< figure src="em-poe-amp-rear.png" lightbox-group="a" >}}
+
+</div>
+</div>
+</div>
+
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-sm-6 pl-0">
+
+## Features
+
+- IP Camera, 스피커, 마이크 동시 제어
+- PoE / PoE+ 사용으로 제품 전원 불필요
+- PoE / PoE+ 이용한 IP Camera 전원 공급 가능
+- 마이크 볼륨, 스피커 볼륨 조정 가능
+- 15W 고출력 앰프 탑재
+- 낙뢰 서지 보호 기능 내장
+
+</div>
+<div class="col-sm-6 pl-0">
+
+## Dimensions
+
+{{< figure src="em-poe-amp-drawing.png" lightbox-group="a" >}}
+
+</div>
+</div>
+</div>
+
+## Specification
+
+<div style="overflow-x: auto">
+<table class="spec">
+<thead>
+<tr>
+<th colspan="2">Model</th>
+<th>EM-PoE-AMP-PLUS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th rowspan="2">Network</th>
+<th>전송속도</th>
+<td>10/100Mbps</td>
+</tr>
+<tr>
+<th>전송규격</th>
+<td>IEEE802.3af/at</td>
+</tr>
+<tr>
+<th rowspan="2">PoE 출력</th>
+<th>PoE 연결시</th>
+<td>45~55V, 8W</td>
+</tr>
+<tr>
+<th>PoE+ 연결시</th>
+<td>45~55V, 15W</td>
+</tr>
+<tr>
+<th rowspan="3">MIC</th>
+<th>입력</th>
+<td>Condensor MIC</td>
+</tr>
+<tr>
+<th>출력</th>
+<td>0.5W</td>
+</tr>
+<tr>
+<th>볼륨제어</th>
+<td>Supported</td>
+</tr>
+<tr>
+<th rowspan="2">Speaker</th>
+<th>출력</th>
+<td>15W</td>
+</tr>
+<tr>
+<th>볼륨제어</th>
+<td>Supported</td>
+</tr>
+<tr>
+<th colspan="2">Operating Temp / Humidity</th>
+<td>+5℃~+40℃ / 0% ~ 90%</td>
+</tr>
+<tr>
+<th colspan="2">Power Supply / Current</th>
+<td>PoE</td>
+</tr>
+<tr>
+<th colspan="2">Dimension (W x H x D)</th>
+<td>84(W) x35(H) x 138(D) mm</td>
+</tr>
+<tr>
+<th colspan="2">Weight</th>
+<td>Approx. 300g</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+## Diagram
+
+{{< figure src="em-poe-amp-diagram.png" lightbox-group="a" >}}
