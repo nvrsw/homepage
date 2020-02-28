@@ -7,6 +7,10 @@ footer p {
   margin: 0;
 }
 
+.lang-name:not(:first-child)::before {
+  content: " | ";
+}
+
 .dropdown-toggle::after {
   display: none;
 }
