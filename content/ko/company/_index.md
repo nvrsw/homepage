@@ -56,14 +56,13 @@ cascade:
 - 팩스: {{< param "company_fax" >}}
 - 주소: {{< param "company_address" >}}
 
-<div id="daumRoughmapContainer1580878154123" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+<div id="daumRoughmapContainer1580878154123" class="root_daum_roughmap root_daum_roughmap_landing" style="width:100%"></div>
 <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
 <script charset="UTF-8">
 	new daum.roughmap.Lander({
 		"timestamp" : "1580878154123",
 		"key" : "wvbi",
-		"mapWidth" : "610",
-		"mapHeight" : "360"
+		"mapHeight" : "450"
 	}).render();
 </script>
 

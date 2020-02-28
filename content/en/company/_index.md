@@ -29,4 +29,4 @@ We will do our best for a better world based on our accumulated technology and e
 - Fax: {{< param "company_fax" >}}
 - Address: {{< param "company_address" >}}
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.9941347524928!2d126.89109681642682!3d37.48446477981323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c9e230e8044a3%3A0x2e0af10a188e9b12!2s38%20Digital-ro%2029-gil%2C%20Guro-dong%2C%20Guro-gu%2C%20Seoul!5e0!3m2!1sen!2skr!4v1580956404213!5m2!1sen!2skr" width="610" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.9941347524928!2d126.89109681642682!3d37.48446477981323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c9e230e8044a3%3A0x2e0af10a188e9b12!2s38%20Digital-ro%2029-gil%2C%20Guro-dong%2C%20Guro-gu%2C%20Seoul!5e0!3m2!1sen!2skr!4v1580956404213!5m2!1sen!2skr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
