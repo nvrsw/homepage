@@ -20,7 +20,7 @@
   {{/* See Hugo note on linking assets in styles: https://github.com/gohugoio/hugoThemes#common-permalink-issues */}}
   {{ $style := printf "background-image: url('%s');" (printf "/img/%s" .Params.header.image)  | absURL }}
 
-<div class="article-header row justify-content-center" {{with $style}}style="{{. | safeCSS}}"{{end}}>
+<div class="article-header row justify-content-center mx-0" {{with $style}}style="{{. | safeCSS}}"{{end}}>
   {{ partial "breadcrumb.html" $page }}
 </div>
 {{end}}
