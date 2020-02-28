@@ -1,43 +1,75 @@
 +++
-# A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/post/`.
-
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+# A Skills section created with the Featurette widget.
+widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
 title = "Solutions"
 subtitle = "Video Surveillance Solutions for Life Safety"
+url = "solutions/"
+align = "end"
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "solutions"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+# Showcase personal skills or business features.
+# 
+# Add/remove as many `[[feature]]` blocks below as you like.
+# 
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+[[feature]]
+  image = "solutions/ipwall/featured.jpg"
+  url = "solutions/ipwall/"
+  name = "IP Video Wall"
+  description = ""
+  
+[[feature]]
+  image = "solutions/fingerprint/featured.png"
+  url = "solutions/fingerprint/"
+  name = "Fingerprint Authentication"
+  description = ""
+  
+[[feature]]
+  image = "solutions/thermal/featured.png"
+  url = "solutions/thermal/"
+  name = "Thermal Imaging Camera"
+  description = ""
 
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-  
+[[feature]]
+  image = "solutions/lpr/featured.jpg"
+  url = "solutions/lpr/"
+  name = "License Plate Recognition"
+  description = ""
+
+[[feature]]
+  image = "solutions/entrance/featured.jpg"
+  url = "solutions/entrance/"
+  name = "Safety for Entry Vehicles"
+  description = ""
+
+[[feature]]
+  image = "solutions/elevator/featured.jpg"
+  url = "solutions/elevator/"
+  name = "Interworking with Elevator CRT"
+  description = ""
+
+[[feature]]
+  image = "solutions/sound/featured.png"
+  url = "solutions/sound/"
+  name = "Abnormal Sound Detection"
+  description = ""
+
+[[feature]]
+  image = "solutions/emcall/featured.png"
+  url = "solutions/emcall/"
+  name = "Emergency Call"
+  description = ""
+
+[[feature]]
+  image = "solutions/failover/featured.png"
+  url = "solutions/failover/"
+  name = "Smart NVR Failover"
+  description = ""
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -45,26 +77,19 @@ subtitle = "Video Surveillance Solutions for Life Safety"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "#111111"
+  # color = "#222222"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "solution-bg.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
+  # image = "solution-bg.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+  # text_color_light = true
 +++

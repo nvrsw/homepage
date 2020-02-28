@@ -16,10 +16,11 @@ cascade:
 
 ## EMSTONE {#about}
 
-EMSTONE is based on a powerful Linux kernel that boasts high performance and high reliability.
-By applying our core technology, we provide the world's most competitive video security recording and monitoring solution.
+Representatives of buildings and apartments in modernized cities, peaceful homes, infrastructures such as roads / railways / ports / airports approaching each other, police / land and air force / public institutions / hospitals / schools to help us, clean and convenient Electricity-producing power plants, farming and fishing villages and water resources, life-building plants, and a virtuous religious group that provides shelter for the soul.
 
-We are struggling to prevent accidents, will do its best to protect customers' lives and their families as the security company.
+EMSTONE develops and manufactures world class security equipment that is more convenient and reliable for those who are engaged in this valuable work and space. In addition, by applying our core technology with high performance and high reliability based on strong Linux kernel, we provide the world's most competitive video security recording / monitoring solution.
+
+We will do our best for a better world based on our accumulated technology and experience.
 
 ## Contact {#contact}
 

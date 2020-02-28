@@ -5,7 +5,7 @@ summary: "This is network IP camera vendors supported by EMSTONE NVR."
 authors: []
 tags: []
 categories: []
-weight: 5
+weight: 100
 featured: false
 draft: false
 
@@ -20,7 +20,7 @@ image:
 
 This is network IP camera vendors supported by EMSTONE NVR.
 
-The tested models and firmware versions are also described.
+※ The audio output, tested models and firmware versions are also described.
 
 Vendor |   A/O   | Models / Firmwares
 ------ | :-----: | ------------------

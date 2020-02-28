@@ -16,12 +16,8 @@ cascade:
 
 <div class="blockquote text-center">
 <p class="display-4">
-  <a class="d-inline d-sm-none" href="tel:+82-1600-5978">+82-1600-5978</a>
-  <span class="d-none d-sm-inline">+82-1600-5978</a>
+  <a class="d-inline d-sm-none" href='tel:{{< param "company_phone" >}}'>{{< param "company_phone" >}}</a>
+  <span class="d-none d-sm-inline">{{< param "company_phone" >}}</a>
 </p>
-<p>Support Center</p>
+<p>Customer Support Center</p>
 </div>
-
-- [YouTube Channel](https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg)
-- [NVR Software](http://nvrsw.com/) - NVR / CMS / NDS Firmware Download
-- [Porject Management](https://hub.emstone.com/) - Project / Service Management

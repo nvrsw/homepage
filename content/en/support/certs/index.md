@@ -1,5 +1,5 @@
 ---
-title: "인증 / 특허"
+title: "Certifications / Patents"
 subtitle: "Certifications / Patents"
 summary: "Certifications / Patents"
 authors: []
@@ -18,23 +18,23 @@ image:
   preview_only: true
 ---
 
-## TTA 인증서
+## TTA Certifications
 
 <div class="container"><div class="row">
 <div class="col-sm-3">
-{{< figure src="tta-nvr-b8.jpg" lightbox-group="a" caption="[TTA] 공공기관용 NVR 보안 성능품질 Ver.1" >}}
+{{< figure src="tta-nvr-b8.jpg" lightbox-group="a" caption="[TTA] NVR Security Performance Quality for Public Institutions Ver.1" >}}
 </div>
 </div></div>
 
-## 특허
+## Patents
 
 <div class="container"><div class="row">
 <div class="col-sm-3">
-{{< figure src="patent-failover.jpg" lightbox-group="a" caption="대규모 감시를 위한 디지털 비디오 레코딩 시스템" >}}
+{{< figure src="patent-failover.jpg" lightbox-group="a" caption="Digital Video Recording System for Large Scale Monitoring" >}}
 </div>
 </div></div>
 
-## CE / FCC
+## CE / FCC Certifications
 
 <div class="container"><div class="row">
 <div class="col-sm-3">
@@ -45,9 +45,9 @@ image:
 </div>
 </div></div>
 
-## KC 인증서
+## KC Certifications
 
-### NVR / 하이브리드 NVR
+### NVR / Hybrid NVR
 
 <div class="container"><div class="row">
 <div class="col-sm-3">
@@ -67,39 +67,39 @@ image:
 </div>
 </div></div>
 
-### 카메라
+### Camera
 
 <div class="container"><div class="row">
 <div class="col-sm-3">
-{{< figure src="kc-cam-ihd.jpg" lightbox-group="a" caption="[KC] IP 돔 카메라 EM-IHD(IR2812Z)" >}}
+{{< figure src="kc-cam-ihd.jpg" lightbox-group="a" caption="[KC] IP Dome Camera EM-IHD(IR2812Z)" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-cam-ihe.jpg" lightbox-group="a" caption="[KC] IP 하우징 카메라 EM-IHE(IR2812Z)" >}}
+{{< figure src="kc-cam-ihe.jpg" lightbox-group="a" caption="[KC] IP Housing Camera EM-IHE(IR2812Z)" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-cam-ihi-2.jpg" lightbox-group="a" caption="[KC] 차량번호식별 카메라 EM-IHI(IR5151Z)" >}}
+{{< figure src="kc-cam-ihi-2.jpg" lightbox-group="a" caption="[KC] LPR Camera EM-IHI(IR5151Z)" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-cam-ihi.jpg" lightbox-group="a" caption="[KC] 차량번호식별 카메라 EM-IHI(IR0550Z)" >}}
+{{< figure src="kc-cam-ihi.jpg" lightbox-group="a" caption="[KC] LPR Camera EM-IHI(IR0550Z)" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-cam-ihp.jpg" lightbox-group="a" caption="[KC] CCTV 카메라 EM-IHP(IR12x)" >}}
+{{< figure src="kc-cam-ihp.jpg" lightbox-group="a" caption="[KC] CCTV Camera EM-IHP(IR12x)" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-cam-ihv.jpg" lightbox-group="a" caption="[KC] IP 블릿 카메라 EM-IHV(IR2812Z)" >}}
+{{< figure src="kc-cam-ihv.jpg" lightbox-group="a" caption="[KC] IP Bullet Camera EM-IHV(IR2812Z)" >}}
 </div>
 </div></div>
 
-### 기타
+### Etc.
 
 <div class="container"><div class="row">
 <div class="col-sm-3">
-{{< figure src="kc-cms-s-h.jpg" lightbox-group="a" caption="[KC] CMS 시스템" >}}
+{{< figure src="kc-cms-s-h.jpg" lightbox-group="a" caption="[KC] CMS System" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-nds-04.jpg" lightbox-group="a" caption="[KC] NDS 시스템 EM-NDS-04" >}}
+{{< figure src="kc-nds-04.jpg" lightbox-group="a" caption="[KC] NDS System EM-NDS-04" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-nts.jpg" lightbox-group="a" caption="[KC] 비디오 인코더 & 디코더 EM-NTS" >}}
+{{< figure src="kc-nts.jpg" lightbox-group="a" caption="[KC] Video Encoder & Decoder EM-NTS" >}}
 </div>
 </div></div>

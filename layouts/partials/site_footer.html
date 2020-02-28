@@ -1,19 +1,12 @@
 <footer class="site-footer">
   <p>
-    <a href="/company/">{{ site.Params.company_name }}</a>
-    {{ with site.Params.company_contact }} | <a href="/company/#contact">{{ . }}</a>{{ end }}
+    <a href="{{ "/company/" | relLangURL }}">{{ site.Params.company_name }}</a>
+    {{ with site.Params.company_contact }} | <a href="{{ "/company/#contact" | relLangURL }}">{{ . }}</a>{{ end }}
     {{ with site.Params.company_email }} | <a href="mailto:{{ . }}">{{ . }}</a>{{ end }}
     {{ with site.Params.company_phone }} |
       <a class="d-inline d-sm-none" href="tel:{{ . }}">{{ . }}</a>
       <span class="d-none d-sm-inline">{{ . }}</a>
     {{ end }}
-  </p>
-  <p class="d-none">
-    <a href="https://hub.emstone.com/" target="_blank">EMSTONE HUB</a>
-    |
-    <a href="http://nvrsw.com/" target="_blank">NVR SOFTWARE</a>
-    |
-    <a href="https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg" target="_blank">YOUTUBE</a>
   </p>
   <p>
     {{ with site.Copyright }} {{ replace . "{year}" now.Year | markdownify }} {{ end }}

@@ -15,11 +15,11 @@
   url = "solutions/"
   weight = 20
 
-[[main]]
-  identifier = "showcase"
-  name = "Showcase"
-  url = "showcase/"
-  weight = 30
+#[[main]]
+#  identifier = "showcase"
+#  name = "Showcase"
+#  url = "showcase/"
+#  weight = 30
 
 [[main]]
   identifier = "support"
