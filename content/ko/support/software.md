@@ -1,7 +1,7 @@
 ---
-title: "소프트웨어 다운로드"
-subtitle: "소프트웨어 / 펌웨어 다운로드"
-summary: "NVR / NDS 펌웨어, CMS 소프트웨어 등 다운로드"
+title: "소프트웨어 / 펌웨어 다운로드"
+subtitle: "CMS 소프트웨어, NVR / NDS 펌웨어 등 다운로드"
+summary: "CMS 소프트웨어, NVR / NDS 펌웨어 등 다운로드"
 authors: []
 tags: []
 categories: []
@@ -28,6 +28,15 @@ image:
 - Linux 설치 프로그램 (Ubuntu 19.04 / Arch Linux)
   - [64비트](http://nvrsw.com/cms/cms-2.1.20.2.26-linux-x86_64.tar.bz2)
 - [변경사항](http://nvrsw.com/docs/manuals/cms/changelog/cms21.html)
+
+## 모바일 앱(App)
+
+*Linux NVR Mobile Viewer*
+
+- iOS 버전: **1.3.3** (2018-11-14)
+  <a href="https://apps.apple.com/kr/app/linux-nvr-mobile-viewer/id561848768" target="_blank"><img src="/img/app-store-badge-ko.png" alt="App Store에서 다운로드 하기" class="d-inline-block py-0 my-2"></a>
+- Android 버전: **1.3.3** (2019-05-30)
+  <a href="https://play.google.com/store/apps/details?id=com.emstone.moview" target="_blank"><img src="/img/google-play-badge-ko.png" alt="Google Play에서 다운로드 하기" class="d-inline-block py-0 my-2"></a>
 
 ## NVR
 

@@ -162,7 +162,7 @@
 
 [[main]]
   parent = "support"
-  name = "소프트웨어 다운로드"
+  name = "소프트웨어 / 펌웨어"
   url = "support/software/"
   weight = 90
 
