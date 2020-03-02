@@ -154,11 +154,11 @@
   url = "categories/howto/"
   weight = 20
 
-[[main]]
-  parent = "support"
-  name = "인증 / 특허"
-  url = "support/certs/"
-  weight = 10
+#[[main]]
+#  parent = "support"
+#  name = "인증 / 특허"
+#  url = "support/certs/"
+#  weight = 10
 
 [[main]]
   parent = "support"
