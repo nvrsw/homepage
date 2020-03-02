@@ -14,3 +14,9 @@ cascade:
     image: "showcase-header.jpg"
     caption: "시공사례"
 ---
+
+## YouTube 채널
+
+[YouTube 채널](https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg)에서 다양한 내용을 알기 쉽게 동영상으로 확인할 수 있습니다.
+
+&nbsp;

@@ -28,5 +28,5 @@ cascade:
 
 ## 외부 링크
 
-- [마케팅 자료실](https://1drv.ms/u/s!AjzJrraVP8dFhqEmyjx72_aY65dkIw?e=z4EOGA)
-- [EMSTONE HUB](https://hub.emstone.com/)
+- [마케팅 자료실](https://1drv.ms/u/s!AjzJrraVP8dFhqEmyjx72_aY65dkIw?e=z4EOGA) : 카탈로그, 시방서, 사양서, 인증서 PDF / PPT 자료 다운로드
+- [EMSTONE HUB](https://hub.emstone.com/) : 프로젝트 / 서비스 관리
