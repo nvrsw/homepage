@@ -25,3 +25,8 @@ cascade:
 - [전국 14개 A/S 지사망 구축]({{< relref "/company#branches" >}})
 - 고객지원센터 운영으로 편리한 A/S 신청
 - 전용 ERP 시스템 운영을 통한 체계적인 관리
+
+## 외부 링크
+
+- [마케팅 자료실](https://1drv.ms/u/s!AjzJrraVP8dFhqEmyjx72_aY65dkIw?e=z4EOGA)
+- [EMSTONE HUB](https://hub.emstone.com/)
