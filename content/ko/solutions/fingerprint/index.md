@@ -54,7 +54,7 @@ image:
 </div>
 <div class="col-12 col-sm-4">
 
-{{< figure src="fingerprint-mouse.png" caption="지문 마우스" class="my-0" lightbox-group="a" >}}
+{{< figure src="fingerprint-mouse.png" caption="지문 마우스" class="my-0" >}}
 
 </div>
 </div>
@@ -65,4 +65,4 @@ image:
 
 ## 솔루션
 
-{{< figure src="fingerprint-solution.jpg" caption="지문 마우스 솔루션" lightbox-group="a" >}}
+{{< figure src="fingerprint-solution.jpg" caption="지문 마우스 솔루션" >}}

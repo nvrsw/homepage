@@ -51,6 +51,6 @@ image:
 
 ## 사용 사례
 
-{{< figure src="failover-normal.png" caption="시스템 정상 구동 상황" lightbox-group="a" >}}
+{{< figure src="failover-normal.png" caption="시스템 정상 구동 상황" >}}
 
-{{< figure src="failover-failure.png" caption="NVR 장애 발생 상황" lightbox-group="a" >}}
+{{< figure src="failover-failure.png" caption="NVR 장애 발생 상황" >}}

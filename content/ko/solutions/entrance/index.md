@@ -53,6 +53,6 @@ image:
 
 ## 사용 사례
 
-{{< figure src="nds-solo-diagram.jpg" caption="안전 입출차 솔루션" lightbox-group="a" >}}
+{{< figure src="nds-solo-diagram.jpg" caption="안전 입출차 솔루션" >}}
 
-{{< figure src="entrance-warning.jpg" caption="경고 화면" lightbox-group="a" >}}
+{{< figure src="entrance-warning.jpg" caption="경고 화면" >}}

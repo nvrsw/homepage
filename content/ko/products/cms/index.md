@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-10">
 
-{{< figure src="cms-screenshot.jpg" lightbox-group="a" >}}
+{{< figure src="cms-screenshot.jpg" >}}
 
 </div>
 </div>
@@ -74,4 +74,4 @@ image:
 
 ## 구성도
 
-{{< figure src="cms-diagram.png" lightbox-group="a" >}}
+{{< figure src="cms-diagram.png" >}}

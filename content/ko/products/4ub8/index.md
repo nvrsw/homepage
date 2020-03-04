@@ -21,12 +21,12 @@ image:
 <div class="row align-items-center">
 <div class="col-sm">
 
-{{< figure src="4ub8-front.png" lightbox-group="a" >}}
+{{< figure src="4ub8-front.png" >}}
 
 </div>
 <div class="col-sm">
 
-{{< figure src="4ub8-side.png" lightbox-group="a" >}}
+{{< figure src="4ub8-side.png" >}}
 
 </div>
 </div>
@@ -61,7 +61,7 @@ image:
 
 ## 외관도
 
-{{< figure src="4ub8-drawing.png" lightbox-group="a" >}}
+{{< figure src="4ub8-drawing.png" >}}
 
 </div>
 </div>

@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="em-iqv-case.png" lightbox-group="a" caption="EM-IQV(IRF36) / EM-IQV(IR2812Z)" >}}
+{{< figure src="em-iqv-case.png" caption="EM-IQV(IRF36) / EM-IQV(IR2812Z)" >}}
 
 </div>
 </div>
@@ -37,7 +37,7 @@ image:
 
 ## Dimensions
 
-{{< figure src="em-iqv-drawing.png" lightbox-group="a" caption="EM-IQV(IRF36) / EM-IQV(IR2812Z)" >}}
+{{< figure src="em-iqv-drawing.png" caption="EM-IQV(IRF36) / EM-IQV(IR2812Z)" >}}
 
 ## Specification
 

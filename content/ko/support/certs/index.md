@@ -22,7 +22,7 @@ image:
 
 <div class="container"><div class="row">
 <div class="col-sm-3">
-{{< figure src="tta-nvr-b8.jpg" lightbox-group="a" caption="[TTA] 공공기관용 NVR 보안 성능품질 Ver.1" >}}
+{{< figure src="tta-nvr-b8.jpg" caption="[TTA] 공공기관용 NVR 보안 성능품질 Ver.1" >}}
 </div>
 </div></div>
 
@@ -30,7 +30,7 @@ image:
 
 <div class="container"><div class="row">
 <div class="col-sm-3">
-{{< figure src="patent-failover.jpg" lightbox-group="a" caption="대규모 감시를 위한 디지털 비디오 레코딩 시스템" >}}
+{{< figure src="patent-failover.jpg" caption="대규모 감시를 위한 디지털 비디오 레코딩 시스템" >}}
 </div>
 </div></div>
 
@@ -38,10 +38,10 @@ image:
 
 <div class="container"><div class="row">
 <div class="col-sm-3">
-{{< figure src="ce-nvr-n16.jpg" lightbox-group="a" caption="[CE] NVR N16-148" >}}
+{{< figure src="ce-nvr-n16.jpg" caption="[CE] NVR N16-148" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="fcc-n16-148.jpg" lightbox-group="a" caption="[FCC] NVR N16-148" >}}
+{{< figure src="fcc-n16-148.jpg" caption="[FCC] NVR N16-148" >}}
 </div>
 </div></div>
 
@@ -51,19 +51,19 @@ image:
 
 <div class="container"><div class="row">
 <div class="col-sm-3">
-{{< figure src="kc-nvr-b16.jpg" lightbox-group="a" caption="[KC] NVR EM-64B16F" >}}
+{{< figure src="kc-nvr-b16.jpg" caption="[KC] NVR EM-64B16F" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-nvr-b4.jpg" lightbox-group="a" caption="[KC] NVR EM-36B4" >}}
+{{< figure src="kc-nvr-b4.jpg" caption="[KC] NVR EM-36B4" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-nvr-b8.jpg" lightbox-group="a" caption="[KC] NVR EM-64B8F" >}}
+{{< figure src="kc-nvr-b8.jpg" caption="[KC] NVR EM-64B8F" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-nvr-nb8.jpg" lightbox-group="a" caption="[KC] NVR EM-NH32B8" >}}
+{{< figure src="kc-nvr-nb8.jpg" caption="[KC] NVR EM-NH32B8" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-nvr-n16.jpg" lightbox-group="a" caption="[KC] NVR N16-148" >}}
+{{< figure src="kc-nvr-n16.jpg" caption="[KC] NVR N16-148" >}}
 </div>
 </div></div>
 
@@ -71,22 +71,22 @@ image:
 
 <div class="container"><div class="row">
 <div class="col-sm-3">
-{{< figure src="kc-cam-ihd.jpg" lightbox-group="a" caption="[KC] IP 돔 카메라 EM-IHD(IR2812Z)" >}}
+{{< figure src="kc-cam-ihd.jpg" caption="[KC] IP 돔 카메라 EM-IHD(IR2812Z)" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-cam-ihe.jpg" lightbox-group="a" caption="[KC] IP 하우징 카메라 EM-IHE(IR2812Z)" >}}
+{{< figure src="kc-cam-ihe.jpg" caption="[KC] IP 하우징 카메라 EM-IHE(IR2812Z)" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-cam-ihi-2.jpg" lightbox-group="a" caption="[KC] 차량번호식별 카메라 EM-IHI(IR5151Z)" >}}
+{{< figure src="kc-cam-ihi-2.jpg" caption="[KC] 차량번호식별 카메라 EM-IHI(IR5151Z)" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-cam-ihi.jpg" lightbox-group="a" caption="[KC] 차량번호식별 카메라 EM-IHI(IR0550Z)" >}}
+{{< figure src="kc-cam-ihi.jpg" caption="[KC] 차량번호식별 카메라 EM-IHI(IR0550Z)" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-cam-ihp.jpg" lightbox-group="a" caption="[KC] CCTV 카메라 EM-IHP(IR12x)" >}}
+{{< figure src="kc-cam-ihp.jpg" caption="[KC] CCTV 카메라 EM-IHP(IR12x)" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-cam-ihv.jpg" lightbox-group="a" caption="[KC] IP 블릿 카메라 EM-IHV(IR2812Z)" >}}
+{{< figure src="kc-cam-ihv.jpg" caption="[KC] IP 블릿 카메라 EM-IHV(IR2812Z)" >}}
 </div>
 </div></div>
 
@@ -94,12 +94,12 @@ image:
 
 <div class="container"><div class="row">
 <div class="col-sm-3">
-{{< figure src="kc-cms-s-h.jpg" lightbox-group="a" caption="[KC] CMS 시스템" >}}
+{{< figure src="kc-cms-s-h.jpg" caption="[KC] CMS 시스템" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-nds-04.jpg" lightbox-group="a" caption="[KC] NDS 시스템 EM-NDS-04" >}}
+{{< figure src="kc-nds-04.jpg" caption="[KC] NDS 시스템 EM-NDS-04" >}}
 </div>
 <div class="col-sm-3">
-{{< figure src="kc-nts.jpg" lightbox-group="a" caption="[KC] 비디오 인코더 & 디코더 EM-NTS" >}}
+{{< figure src="kc-nts.jpg" caption="[KC] 비디오 인코더 & 디코더 EM-NTS" >}}
 </div>
 </div></div>

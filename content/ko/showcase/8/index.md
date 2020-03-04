@@ -24,10 +24,8 @@ image:
 
 EOC에서 만든 열화상 카메라를 활용하여 여러 화재 발생 및 운영장비의 감시가 가능하리라 판단됩니다.
 
-{{< figure src="a27d24_f1d753eeeb1f4af8820067097f90c70d_mv2_d_2268_4032_s_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_d195f2de2c164072be82ededffedf2c0_mv2_d_2268_4032_s_2.jpg"
-           lightbox-group="a" >}}
+{{< figure src="a27d24_f1d753eeeb1f4af8820067097f90c70d_mv2_d_2268_4032_s_2.jpg" >}}
+{{< figure src="a27d24_d195f2de2c164072be82ededffedf2c0_mv2_d_2268_4032_s_2.jpg" >}}
 
 EOC 카메라의 특징은 열화상 모드와 일반 카메라 모드 두 가지가 따로 화면에 출력할 수 있으며 두 가지의 모드를 개별로 출력하거나 동시에 한화면에 겹쳐서 출력도 가능합니다.
 
@@ -37,8 +35,7 @@ EOC 카메라의 특징은 열화상 모드와 일반 카메라 모드 두 가�
 
 (제가 사용하고 싶은 영역은 따로 있으나 그건 차후에 언급하도록 하겠습니다)
 
-{{< figure src="a27d24_34ff35cda45c40e09c930e80ecb2ba5f_mv2_d_4032_2268_s_2.jpg"
-           lightbox-group="a" >}}
+{{< figure src="a27d24_34ff35cda45c40e09c930e80ecb2ba5f_mv2_d_4032_2268_s_2.jpg" >}}
 
 위 보이는 화면에서 왼쪽 아래 영상 (열화상 흑백모드 - 여러 가지가 있습니다)으로 설정할 수 있습니다.
 
@@ -54,12 +51,9 @@ EOC 카메라의 특징은 열화상 모드와 일반 카메라 모드 두 가�
 
 EOC에서 엠스톤 장비와 함께 전시회도 참여했습니다.
 
-{{< figure src="a27d24_32ec5d3017244d2fa0480a86fd7f9b29_mv2_d_4032_2268_s_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_1ffa0139f9d641c098757a8d1e72c99c_mv2_d_4032_2268_s_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_206932a99b7644adb16c997534c6e056_mv2_d_4032_2268_s_2.jpg"
-           lightbox-group="a" >}}
+{{< figure src="a27d24_32ec5d3017244d2fa0480a86fd7f9b29_mv2_d_4032_2268_s_2.jpg" >}}
+{{< figure src="a27d24_1ffa0139f9d641c098757a8d1e72c99c_mv2_d_4032_2268_s_2.jpg" >}}
+{{< figure src="a27d24_206932a99b7644adb16c997534c6e056_mv2_d_4032_2268_s_2.jpg" >}}
 
 동영상 참조하시기 바랍니다. (촬영을 옆으로 했네요. 다음에 수정해서 다시 업로드 하겠습니다)
 

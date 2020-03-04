@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-6">
 
-{{< figure src="em-nds-04-case.png" lightbox-group="a" >}}
+{{< figure src="em-nds-04-case.png" >}}
 
 </div>
 </div>
@@ -41,7 +41,7 @@ image:
 
 ## Dimensions
 
-{{< figure src="em-nds-04-drawing.png" lightbox-group="a" >}}
+{{< figure src="em-nds-04-drawing.png" >}}
 
 ## Specification
 

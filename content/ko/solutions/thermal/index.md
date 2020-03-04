@@ -53,23 +53,23 @@ image:
 
 ## 사용 사례
 
-{{< figure src="thermal-diagram.png" caption="열화상 카메라 솔루션" lightbox-group="a" >}}
+{{< figure src="thermal-diagram.png" caption="열화상 카메라 솔루션" >}}
 
 <div class="container">
 <div class="row">
 <div class="col-12 col-sm-4">
 
-{{< figure src="thermal-real.png" caption="실화상 모드" lightbox-group="a" >}}
+{{< figure src="thermal-real.png" caption="실화상 모드" >}}
 
 </div>
 <div class="col-12 col-sm-4">
 
-{{< figure src="thermal-imaging.png" caption="열화상 모드" lightbox-group="a" >}}
+{{< figure src="thermal-imaging.png" caption="열화상 모드" >}}
 
 </div>
 <div class="col-12 col-sm-4">
 
-{{< figure src="thermal-overlay.png" caption="오버레이 모드 (실화상 + 열화상)" lightbox-group="a" >}}
+{{< figure src="thermal-overlay.png" caption="오버레이 모드 (실화상 + 열화상)" >}}
 
 </div>
 </div>

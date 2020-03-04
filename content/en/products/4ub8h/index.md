@@ -21,12 +21,12 @@ image:
 <div class="row align-items-center">
 <div class="col-sm">
 
-{{< figure src="4ub8h-front.png" lightbox-group="a" >}}
+{{< figure src="4ub8h-front.png" >}}
 
 </div>
 <div class="col-sm">
 
-{{< figure src="4ub8h-side.png" lightbox-group="a" >}}
+{{< figure src="4ub8h-side.png" >}}
 
 </div>
 </div>
@@ -61,7 +61,7 @@ image:
 
 ## Dimensions
 
-{{< figure src="4ub8h-drawing.png" lightbox-group="a" >}}
+{{< figure src="4ub8h-drawing.png" >}}
 
 </div>
 </div>

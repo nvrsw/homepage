@@ -52,4 +52,4 @@ image:
 
 ## 사용 사례
 
-{{< figure src="warning-diagram.png" caption="경고 방송 시스템 솔루션" lightbox-group="a" >}}
+{{< figure src="warning-diagram.png" caption="경고 방송 시스템 솔루션" >}}

@@ -12,7 +12,7 @@
 {{ $lightbox := eq (.Get "lightbox" | default "true") "true" }}
 
 {{/* Get lightbox group for showing multiple images in a lightbox. */}}
-{{ $group := .Get "lightbox-group" | default "" }}
+{{ $group := .Get "lightbox-group" | default "figure" }}
 
 {{/* Get caption. Support legacy `title` option. */}}
 {{ $caption := .Get "title" | default (.Get "caption") | default "" }}

@@ -21,12 +21,12 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="em-iqd-case.png" lightbox-group="a" caption="EM-IQD(F21) / EM-IQD(F28)" >}}
+{{< figure src="em-iqd-case.png" caption="EM-IQD(F21) / EM-IQD(F28)" >}}
 
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-iqd-case-ir.png" lightbox-group="a" caption="EM-IQD(IRF36) / EM-IQD(IR2812Z)" >}}
+{{< figure src="em-iqd-case-ir.png" caption="EM-IQD(IRF36) / EM-IQD(IR2812Z)" >}}
 
 </div>
 </div>
@@ -47,12 +47,12 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="em-iqd-drawing.png" lightbox-group="a" caption="EM-IQD(F21) / EM-IQD(F28)" >}}
+{{< figure src="em-iqd-drawing.png" caption="EM-IQD(F21) / EM-IQD(F28)" >}}
 
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-iqd-drawing-ir.png" lightbox-group="a" caption="EM-IQD(IRF36) / EM-IQD(IR2812Z)" >}}
+{{< figure src="em-iqd-drawing-ir.png" caption="EM-IQD(IRF36) / EM-IQD(IR2812Z)" >}}
 
 </div>
 </div>

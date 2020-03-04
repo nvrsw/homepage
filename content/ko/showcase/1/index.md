@@ -24,18 +24,14 @@ image:
 
 NVR 엘리베이터 연동 방법과 이를 활용한 검색 시의 장점에 관한 내용을 공유합니다.
 
-{{< figure src="elevator-crt.jpg" lightbox-group="a" >}}
-{{< figure src="a27d24_3e66d42d9b004dc0bc76b881d41cbe58_mv2.jpg"
-           lightbox-group="a" >}}
+{{< figure src="elevator-crt.jpg" >}}
+{{< figure src="a27d24_3e66d42d9b004dc0bc76b881d41cbe58_mv2.jpg" >}}
 
 CRT 서버로부터 전송되는 데이터를 DB화 및 디스플레이 화면에 OSD로 표출하는 방식입니다.
 
-{{< figure src="a27d24_bced80571682408fb6c62429752fc62c_mv2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_a183c4595f094be58e60166416f302ee_mv2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_dbfc2c0fe76b44a280a9b574e4e58556_mv2.jpg"
-           lightbox-group="a" >}}
+{{< figure src="a27d24_bced80571682408fb6c62429752fc62c_mv2.jpg" >}}
+{{< figure src="a27d24_a183c4595f094be58e60166416f302ee_mv2.jpg" >}}
+{{< figure src="a27d24_dbfc2c0fe76b44a280a9b574e4e58556_mv2.jpg" >}}
 
 예를 들어, 야간 12시부터 새벽 6시까지 단지 내(또는 B/D 내부) 전 엘리베이터에서 1층 문 열림으로 검색하게 되면 야간에 승강기를 이용한 인원을 빠르게 검색할수있습니다.
 

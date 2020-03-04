@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="em-ihp-case.png" lightbox-group="a" caption="EM-IHP(IR12x) / EM-IHP(IR12xP)" >}}
+{{< figure src="em-ihp-case.png" caption="EM-IHP(IR12x) / EM-IHP(IR12xP)" >}}
 
 </div>
 </div>
@@ -37,7 +37,7 @@ image:
 
 ## 외관도
 
-{{< figure src="em-ihp-drawing.png" lightbox-group="a" caption="EM-IHP(IR12x) / EM-IHP(IR12xP)" >}}
+{{< figure src="em-ihp-drawing.png" caption="EM-IHP(IR12x) / EM-IHP(IR12xP)" >}}
 
 ## 사양
 

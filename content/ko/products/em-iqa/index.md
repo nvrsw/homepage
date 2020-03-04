@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="em-iqa-case.png" lightbox-group="a" caption="EM-IQA(IRF16)" >}}
+{{< figure src="em-iqa-case.png" caption="EM-IQA(IRF16)" >}}
 
 </div>
 </div>
@@ -47,7 +47,7 @@ image:
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-iqa-1.png" lightbox-group="a" class="my-0" >}}
+{{< figure src="em-iqa-1.png" class="my-0" >}}
 
 </div>
 </div>
@@ -64,7 +64,7 @@ image:
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-iqa-2.png" lightbox-group="a" class="my-0" >}}
+{{< figure src="em-iqa-2.png" class="my-0" >}}
 
 </div>
 </div>
@@ -81,7 +81,7 @@ IP67 등급의 방수 / 방진, IK10 등급의 파손 방지를 지원하며 카
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-iqa-3.png" lightbox-group="a" class="my-0" >}}
+{{< figure src="em-iqa-3.png" class="my-0" >}}
 
 </div>
 </div>

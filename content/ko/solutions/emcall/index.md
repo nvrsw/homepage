@@ -55,4 +55,4 @@ image:
 
 ## 사용 사례
 
-{{< figure src="emcall-diagram.png" caption="비상벨 시스템 솔루션" lightbox-group="a" >}}
+{{< figure src="emcall-diagram.png" caption="비상벨 시스템 솔루션" >}}

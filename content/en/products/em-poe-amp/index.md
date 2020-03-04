@@ -21,12 +21,12 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-6">
 
-{{< figure src="em-poe-amp-front.png" lightbox-group="a" >}}
+{{< figure src="em-poe-amp-front.png" >}}
 
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-poe-amp-rear.png" lightbox-group="a" >}}
+{{< figure src="em-poe-amp-rear.png" >}}
 
 </div>
 </div>
@@ -50,7 +50,7 @@ image:
 
 ## Dimensions
 
-{{< figure src="em-poe-amp-drawing.png" lightbox-group="a" >}}
+{{< figure src="em-poe-amp-drawing.png" >}}
 
 </div>
 </div>
@@ -129,4 +129,4 @@ image:
 
 ## Diagram
 
-{{< figure src="em-poe-amp-diagram.png" lightbox-group="a" >}}
+{{< figure src="em-poe-amp-diagram.png" >}}

@@ -21,12 +21,12 @@ image:
 <div class="row justify-content-center align-items-end">
 <div class="col-sm-6">
 
-{{< figure src="em-ihd-case.png" lightbox-group="a" caption="EM-IHD(PIR2812Z)" >}}
+{{< figure src="em-ihd-case.png" caption="EM-IHD(PIR2812Z)" >}}
 
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-ihv-case.png" lightbox-group="a" caption="EM-IHV(PIR2812Z)" >}}
+{{< figure src="em-ihv-case.png" caption="EM-IHV(PIR2812Z)" >}}
 
 </div>
 </div>
@@ -46,12 +46,12 @@ image:
 <div class="row justify-content-center align-items-end">
 <div class="col-sm-6">
 
-{{< figure src="em-ihd-drawing.png" lightbox-group="a" caption="EM-IHD(PIR2812Z)" >}}
+{{< figure src="em-ihd-drawing.png" caption="EM-IHD(PIR2812Z)" >}}
 
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-ihv-drawing.png" lightbox-group="a" caption="EM-IHV(PIR2812Z)" >}}
+{{< figure src="em-ihv-drawing.png" caption="EM-IHV(PIR2812Z)" >}}
 
 </div>
 </div>

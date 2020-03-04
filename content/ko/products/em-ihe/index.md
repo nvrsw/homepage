@@ -21,12 +21,12 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="em-ihe-case.png" lightbox-group="a" caption="EM-IHE(N2812Z)" >}}
+{{< figure src="em-ihe-case.png" caption="EM-IHE(N2812Z)" >}}
 
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-ihe-case-ir.png" lightbox-group="a" caption="EM-IHE(IR2812Z) / EM-IHE(IR0550Z)" >}}
+{{< figure src="em-ihe-case-ir.png" caption="EM-IHE(IR2812Z) / EM-IHE(IR0550Z)" >}}
 
 </div>
 </div>
@@ -42,7 +42,7 @@ image:
 
 ## 외관도
 
-{{< figure src="em-ihe-drawing.png" lightbox-group="a" caption="EM-IHE(N2812Z) / EM-IHE(IR2812Z) / EM-IHE(IR0550Z)" >}}
+{{< figure src="em-ihe-drawing.png" caption="EM-IHE(N2812Z) / EM-IHE(IR2812Z) / EM-IHE(IR0550Z)" >}}
 
 ## 사양
 

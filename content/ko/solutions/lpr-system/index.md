@@ -67,6 +67,6 @@ LPR 주차관제 시스템 및 LPR 기능이 내장된 카메라와 연동하여
 
 ## 동작 화면
 
-{{< figure src="lpr-system-live.jpg" caption="LPR 시스템 연동 화면" lightbox-group="a" >}}
+{{< figure src="lpr-system-live.jpg" caption="LPR 시스템 연동 화면" >}}
 
-{{< figure src="lpr-system.jpg" caption="LPR 시스템 / 카메라" lightbox-group="a" >}}
+{{< figure src="lpr-system.jpg" caption="LPR 시스템 / 카메라" >}}

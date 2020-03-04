@@ -21,17 +21,17 @@ image:
 <div class="row justify-content-center align-items-end">
 <div class="col-sm-4">
 
-{{< figure src="em-ix-case-mb.png" lightbox-group="a" caption="EM-IX(8060MB) / EM-IX(1612MB)" >}}
+{{< figure src="em-ix-case-mb.png" caption="EM-IX(8060MB) / EM-IX(1612MB)" >}}
 
 </div>
 <div class="col-sm-4">
 
-{{< figure src="em-ix-case-ms.png" lightbox-group="a" caption="EM-IX(8060MS)" >}}
+{{< figure src="em-ix-case-ms.png" caption="EM-IX(8060MS)" >}}
 
 </div>
 <div class="col-sm-4">
 
-{{< figure src="em-ix-case-mh.png" lightbox-group="a" caption="EM-IX(8060MH)" >}}
+{{< figure src="em-ix-case-mh.png" caption="EM-IX(8060MH)" >}}
 
 </div>
 </div>
@@ -54,17 +54,17 @@ image:
 <div class="row justify-content-center align-items-end">
 <div class="col-sm-4">
 
-{{< figure src="em-ix-drawing-mb.png" lightbox-group="a" caption="EM-IX(8060MB) / EM-IX(1612MB)" >}}
+{{< figure src="em-ix-drawing-mb.png" caption="EM-IX(8060MB) / EM-IX(1612MB)" >}}
 
 </div>
 <div class="col-sm-4">
 
-{{< figure src="em-ix-drawing-ms.png" lightbox-group="a" caption="EM-IX(8060MS)" >}}
+{{< figure src="em-ix-drawing-ms.png" caption="EM-IX(8060MS)" >}}
 
 </div>
 <div class="col-sm-4">
 
-{{< figure src="em-ix-drawing-mh.png" lightbox-group="a" caption="EM-IX(8060MH)" >}}
+{{< figure src="em-ix-drawing-mh.png" caption="EM-IX(8060MH)" >}}
 
 </div>
 </div>

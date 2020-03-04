@@ -36,30 +36,17 @@ image:
   - 비상 경고 방송용 POEAMP (놀이터 / 취약지구 방송용)
   - 지하 주차장 비상벨 (120개 설치 - 원격 리모컨 포함)
 
-{{< figure src="a27d24_364dd1dccb894ab3a907cfc43315afe2_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_ccbe2c1e216a43ca8972ae56b6b8cad2_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_c2e4b7432dac4a4ea788a44f47b1d844_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_ff2ab8051495498c9255b203c7f4c782_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_9520af465df342f180492dfd56637867_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-
-{{< figure src="a27d24_9ed1b4cd7392415980f25a9c1e3b83c9_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_177a958648434378ab1e9bd0c9d50aa9_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_865b4c1301cf4464aaf032ae05119306_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_0624674a7c784a6890b8b9332c230311_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-
-{{< figure src="a27d24_e8473fd233ae4835a0ec4e091cec43a1_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-
-{{< figure src="skyview.jpg" lightbox-group="a" >}}
+{{< figure src="a27d24_364dd1dccb894ab3a907cfc43315afe2_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="a27d24_ccbe2c1e216a43ca8972ae56b6b8cad2_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="a27d24_c2e4b7432dac4a4ea788a44f47b1d844_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="a27d24_ff2ab8051495498c9255b203c7f4c782_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="a27d24_9520af465df342f180492dfd56637867_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="a27d24_9ed1b4cd7392415980f25a9c1e3b83c9_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="a27d24_177a958648434378ab1e9bd0c9d50aa9_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="a27d24_865b4c1301cf4464aaf032ae05119306_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="a27d24_0624674a7c784a6890b8b9332c230311_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="a27d24_e8473fd233ae4835a0ec4e091cec43a1_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="skyview.jpg" >}}
 
 동영상 #1:
 {{< youtube vTgZUGMl_7g >}}

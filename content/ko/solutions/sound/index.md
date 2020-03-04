@@ -52,4 +52,4 @@ image:
 
 ## 사용 사례
 
-{{< figure src="abnormal-diagram.jpg" caption="이상음원 감지 솔루션" lightbox-group="a" >}}
+{{< figure src="abnormal-diagram.jpg" caption="이상음원 감지 솔루션" >}}

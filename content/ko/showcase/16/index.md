@@ -34,16 +34,16 @@ image:
 &nbsp;
 
 <div class="container"><div class="row justify-content-center">
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_02.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_08.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_14.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_18.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_36.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_47.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_51.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_54.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_58.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-1_31.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_02.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_08.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_14.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_18.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_36.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_47.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_51.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_54.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-0_58.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-yfOVPtHZchc-1_31.png" >}}</div>
 </div></div>
 
 ## 목포 해양대학교
@@ -53,14 +53,14 @@ image:
 &nbsp;
 
 <div class="container"><div class="row justify-content-center">
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_13.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_21.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_25.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_35.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_48.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_14.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_30.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_35.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_13.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_21.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_25.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_35.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-0_48.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_14.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_30.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_35.png" >}}</div>
 </div></div>
 
 ## 열화상 + IP 비디오 월 디스플레이
@@ -72,10 +72,10 @@ image:
 &nbsp;
 
 <div class="container"><div class="row justify-content-center">
-<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_07.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_10.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_17.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_33.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_38.png" lightbox-group="a" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_41.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_07.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_10.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_17.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_33.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_38.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_41.png" >}}</div>
 </div></div>

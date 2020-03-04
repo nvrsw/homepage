@@ -52,8 +52,8 @@ image:
 
 ## 사용 사례
 
-{{< figure src="flame-live.jpg" caption="화염 / 연기 영상 분석 화면" lightbox-group="a" >}}
+{{< figure src="flame-live.jpg" caption="화염 / 연기 영상 분석 화면" >}}
 
-{{< figure src="flame-search.jpg" caption="화염 / 연기 영상 분석 정보 검색 화면" lightbox-group="a" >}}
+{{< figure src="flame-search.jpg" caption="화염 / 연기 영상 분석 정보 검색 화면" >}}
 
-{{< figure src="flame-setting.jpg" caption="화염 / 연기 영상 분석 설정 화면" lightbox-group="a" >}}
+{{< figure src="flame-setting.jpg" caption="화염 / 연기 영상 분석 설정 화면" >}}

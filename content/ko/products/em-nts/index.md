@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-6">
 
-{{< figure src="em-nts-case.png" lightbox-group="a" >}}
+{{< figure src="em-nts-case.png" >}}
 
 </div>
 </div>
@@ -45,7 +45,7 @@ image:
 
 ## 외관도
 
-{{< figure src="em-nts-drawing.png" lightbox-group="a" >}}
+{{< figure src="em-nts-drawing.png" >}}
 
 </div>
 </div>

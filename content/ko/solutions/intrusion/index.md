@@ -53,4 +53,4 @@ image:
 
 ## 사용 사례
 
-{{< figure src="intrusion-diagram.jpg" caption="PIR 센서 출입 감지 솔루션" lightbox-group="a" >}}
+{{< figure src="intrusion-diagram.jpg" caption="PIR 센서 출입 감지 솔루션" >}}

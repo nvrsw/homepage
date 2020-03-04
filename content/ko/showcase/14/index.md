@@ -29,20 +29,15 @@ image:
 - CMS : CMS Station (초소 / 관리사무소 차번 검색) 1SET
 - VSLS(생활 안전 솔루션) 적용 : 방향성 차번 라이센스 2ch
 
-{{< figure src="site.jpg" lightbox-group="a" >}}
-{{< figure src="a27d24_21778eb553ed44568a741bb8ba39f34f_mv2_d_4032_2268_s_2.jpg"
-           lightbox-group="a" >}}
+{{< figure src="site.jpg" >}}
+{{< figure src="a27d24_21778eb553ed44568a741bb8ba39f34f_mv2_d_4032_2268_s_2.jpg" >}}
 
 기존 동축 케이블을 사용하여 24대의 카메라를 씨아이즈 장비를 사용해 설치했습니다.
 
-{{< figure src="a27d24_4e37ea429aae489f99463ab909bc921e_mv2_d_2268_4032_s_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_9b52171e39e1477d89e0d505249fc1e9_mv2_d_4032_2268_s_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_bc6990f89b8f405e9fe38a10f6250e4f_mv2_d_4032_2268_s_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_4d170b0b61c24ba0abbca68649b73079_mv2_d_4032_2268_s_2.jpg"
-           lightbox-group="a" >}}
+{{< figure src="a27d24_4e37ea429aae489f99463ab909bc921e_mv2_d_2268_4032_s_2.jpg" >}}
+{{< figure src="a27d24_9b52171e39e1477d89e0d505249fc1e9_mv2_d_4032_2268_s_2.jpg" >}}
+{{< figure src="a27d24_bc6990f89b8f405e9fe38a10f6250e4f_mv2_d_4032_2268_s_2.jpg" >}}
+{{< figure src="a27d24_4d170b0b61c24ba0abbca68649b73079_mv2_d_4032_2268_s_2.jpg" >}}
 
 현장 구축에 도움을 주신 석수 럭키 아파트 관리자 외 많은 분들께 감사인사 드립니다.
 

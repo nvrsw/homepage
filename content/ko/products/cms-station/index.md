@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-6">
 
-{{< figure src="cms-station-case.png" lightbox-group="a" >}}
+{{< figure src="cms-station-case.png" >}}
 
 </div>
 </div>
@@ -52,7 +52,7 @@ image:
 
 ## 외관도
 
-{{< figure src="cms-station-drawing.png" lightbox-group="a" >}}
+{{< figure src="cms-station-drawing.png" >}}
 
 </div>
 </div>

@@ -39,30 +39,20 @@ image:
   - 엘리베이터 이상음원 (기본탑재)
   - 기계실 / 전기실 화재, 연기 감지 (2ch)
 
-{{< figure src="a27d24_c875b9f267fe491e8e5d238b64b085c2_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_4383102e60204ad489a07444b7fe38c1_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_247d71c393f04e2aaf50bab3973ab10c_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_82a11e6d76684071bac9b7489399a82d_mv2_d_4032_3024_s_4_2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_2b632e687d87416087973d2ea4af4d06_mv2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_36a70dd1900a43189bf0cc27b54b7ed8_mv2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_cb15cc8c886d4229b1608c31c06a3786_mv2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_cf357e2f73564710a383583bd457e34a_mv2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="a27d24_de0c7db5bc1b4435a3978c4ea2ae3a4e_mv2.jpg"
-           lightbox-group="a" >}}
-{{< figure src="center.jpg" lightbox-group="a" >}}
+{{< figure src="a27d24_c875b9f267fe491e8e5d238b64b085c2_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="a27d24_4383102e60204ad489a07444b7fe38c1_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="a27d24_247d71c393f04e2aaf50bab3973ab10c_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="a27d24_82a11e6d76684071bac9b7489399a82d_mv2_d_4032_3024_s_4_2.jpg" >}}
+{{< figure src="a27d24_2b632e687d87416087973d2ea4af4d06_mv2.jpg" >}}
+{{< figure src="a27d24_36a70dd1900a43189bf0cc27b54b7ed8_mv2.jpg" >}}
+{{< figure src="a27d24_cb15cc8c886d4229b1608c31c06a3786_mv2.jpg" >}}
+{{< figure src="a27d24_cf357e2f73564710a383583bd457e34a_mv2.jpg" >}}
+{{< figure src="a27d24_de0c7db5bc1b4435a3978c4ea2ae3a4e_mv2.jpg" >}}
+{{< figure src="center.jpg" >}}
 
 옥상에서 보는 스카이뷰 영상은 모두다 800만화소(4K)영상을 디스플레이합니다.
 
-{{< figure src="a27d24_b3633252c9054d2f925a101d0348b975_mv2.jpg"
-           lightbox-group="a" >}}
+{{< figure src="a27d24_b3633252c9054d2f925a101d0348b975_mv2.jpg" >}}
 
 아파트를 작은 통합방범센터로 구축하여 근무자나 입주민들이 안전한 생활 / 근무를 할 수 있도록 만드는 것이 우리의 목표입니다!
 

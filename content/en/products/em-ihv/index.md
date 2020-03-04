@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="em-ihv-case.png" lightbox-group="a" caption="EM-IHV(IRF36) / EM-IHV(IR2812Z)" >}}
+{{< figure src="em-ihv-case.png" caption="EM-IHV(IRF36) / EM-IHV(IR2812Z)" >}}
 
 </div>
 </div>
@@ -37,7 +37,7 @@ image:
 
 ## Dimensions
 
-{{< figure src="em-ihv-drawing.png" lightbox-group="a" caption="EM-IHV(IRF36) / EM-IHV(IR2812Z)" >}}
+{{< figure src="em-ihv-drawing.png" caption="EM-IHV(IRF36) / EM-IHV(IR2812Z)" >}}
 
 ## Specification
 

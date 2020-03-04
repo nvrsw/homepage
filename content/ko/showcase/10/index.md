@@ -48,26 +48,22 @@ image:
 
 그래서 우리가 무엇을 어떻게 해주면 녹화기의 신뢰성을 확보하면서도 운영자들을 편하게 해 줄 수 있을까 고민을 하기 시작하고, 인터넷을 뒤지기 시작합니다...
 
-{{< figure src="fingerprint-mouse.jpg" lightbox-group="a" >}}
+{{< figure src="fingerprint-mouse.jpg" >}}
 
 지금은 생산을 하지 않는 디젠트 지문형 마우스를 찾았습니다. 막연한 생각으로  머리로 구성하기 시작합니다. 안 되겠다 싶어 디젠트를 찾아가 봅니다.
 
-{{< figure src="a27d24_cfc8eb1d7fc84da7a2f08cc2274addfe_mv2_d_4032_2268_s_2.jpg"
-          lightbox-group="a" >}}
-{{< figure src="a27d24_4a6cd1a750304315bf20c67a4ab2aeb5_mv2_d_3264_2448_s_4_2.jpg"
-          lightbox-group="a" >}}
+{{< figure src="a27d24_cfc8eb1d7fc84da7a2f08cc2274addfe_mv2_d_4032_2268_s_2.jpg" >}}
+{{< figure src="a27d24_4a6cd1a750304315bf20c67a4ab2aeb5_mv2_d_3264_2448_s_4_2.jpg" >}}
 
 디젠트 회의실입니다. 벌써 작년 이야기입니다.
 
-{{< figure src="a27d24_aed5b16de1b04ca9ab91b52f25792e99_mv2_d_4032_2268_s_2.jpg"
-          lightbox-group="a" >}}
+{{< figure src="a27d24_aed5b16de1b04ca9ab91b52f25792e99_mv2_d_4032_2268_s_2.jpg" >}}
 
 실물을 가지고 막연한 이야기들로부터 시작했습니다.
 
 그리고 약 9개월이 지난 후 드디어 개발이 거의 완료되어갑니다 뭔가 뿌듯합니다!
 
-{{< figure src="a27d24_1ee07803eebd42df9748c1ccba6f3494_mv2_d_4032_2268_s_2.jpg"
-          lightbox-group="a" >}}
+{{< figure src="a27d24_1ee07803eebd42df9748c1ccba6f3494_mv2_d_4032_2268_s_2.jpg" >}}
 
 처음 나온 UI 방식입니다. 아래 동영상을 참조하시면 되겠습니다. (이건 며칠 전입니다)
 
@@ -85,7 +81,6 @@ image:
 
 감사합니다. (참으로 많은 마우스를 만져 본 듯합니다!)
 
-{{< figure src="a27d24_5a66f2a1343d4c019025fd0ba9636ebd_mv2_d_2448_3264_s_4_2.jpg"
-          lightbox-group="a" >}}
+{{< figure src="a27d24_5a66f2a1343d4c019025fd0ba9636ebd_mv2_d_2448_3264_s_4_2.jpg" >}}
 
 참고로 이번 3월 6일~8일 2019 SECON 전시회에서 시연 예정입니다.

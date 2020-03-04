@@ -21,7 +21,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="em-iqa-case.png" lightbox-group="a" caption="EM-IQA(IRF16)" >}}
+{{< figure src="em-iqa-case.png" caption="EM-IQA(IRF16)" >}}
 
 </div>
 </div>
@@ -47,7 +47,7 @@ Panorama lens is used to show the angle of view of 180 degrees. This camera elim
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-iqa-1.png" lightbox-group="a" class="my-0" >}}
+{{< figure src="em-iqa-1.png" class="my-0" >}}
 
 </div>
 </div>
@@ -64,7 +64,7 @@ Sensor-based WDR technology enables realistic color reproduction and detailed vi
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-iqa-2.png" lightbox-group="a" class="my-0" >}}
+{{< figure src="em-iqa-2.png" class="my-0" >}}
 
 </div>
 </div>
@@ -81,7 +81,7 @@ Waterproof / Dustproof with IP67 rating, IK10 rated breakage protection and came
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-iqa-3.png" lightbox-group="a" class="my-0" >}}
+{{< figure src="em-iqa-3.png" class="my-0" >}}
 
 </div>
 </div>
