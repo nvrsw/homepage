@@ -174,13 +174,6 @@
 
 [[main]]
   parent = "support"
-  name = "마케팅 자료실"
-  url = "https://1drv.ms/u/s!AjzJrraVP8dFhqEmyjx72_aY65dkIw?e=z4EOGA"
-  post = " &nbsp; <i class='fas fa-external-link-square-alt' aria-hidden='true'></i>"
-  weight = 990
-
-[[main]]
-  parent = "support"
   name = "EMSTONE HUB"
   url = "https://hub.emstone.com/"
   post = " &nbsp; <i class='fas fa-external-link-square-alt' aria-hidden='true'></i>"
