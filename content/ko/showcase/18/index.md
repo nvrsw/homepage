@@ -1,5 +1,5 @@
 ---
-title: " NDS-SOLO 응용편 #1"
+title: "NDS-SOLO 응용편 #1"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
@@ -30,8 +30,8 @@ NDS-SOLO(단독형 IP WALL)의 활용 방법 중 한 가지인 원격정보 전�
 &nbsp;
 
 <div class="container"><div class="row justify-content-center">
-<div class="com-sm-10">{{< figure src="youtube-UDjBSxZdjWg-0_08.png" >}}</div>
-<div class="com-sm-10">{{< figure src="youtube-UDjBSxZdjWg-0_29.png" >}}</div>
-<div class="com-sm-10">{{< figure src="youtube-UDjBSxZdjWg-0_48.png" >}}</div>
-<div class="com-sm-10">{{< figure src="youtube-UDjBSxZdjWg-1_10.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-UDjBSxZdjWg-0_08.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-UDjBSxZdjWg-0_29.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-UDjBSxZdjWg-0_48.png" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-UDjBSxZdjWg-1_10.png" >}}</div>
 </div></div>
