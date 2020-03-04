@@ -52,7 +52,7 @@ image:
 - Smart Failover: Automatic takeover with spare units when system is stopped
 - Bidirectional audio transmission
 - Built-in **LPR(License Plate Recognition)** license for 1 channel
-- Model lineup : 4, 9, 16 CH
+- Model Line-up : 4, 9, 16 CH
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
@@ -272,5 +272,5 @@ image:
 </table>
 </div>
 
-※ If KVM switches are used, USB type products must be used. (PS/2 types are not available)  
+※ USB type product should be used when KVM switches are used. (PS/2 type not available)  
 ※ The specification of this product may change without prior notice.

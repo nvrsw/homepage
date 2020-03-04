@@ -54,7 +54,7 @@ image:
 - Bidirectional audio transmission
 - Max. 48TB with internal storage space
 - Built-in **LPR(License Plate Recognition)** license for 1 channel
-- Model lineup : 16, 25, 36, 49, 64 CH
+- Model Line-up : 16, 25, 36, 49, 64 CH
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
@@ -289,5 +289,5 @@ image:
 </table>
 </div>
 
-※ If KVM switches are used, USB type products must be used. (PS/2 types are not available)  
+※ USB type product should be used when KVM switches are used. (PS/2 type not available)  
 ※ The specification of this product may change without prior notice.

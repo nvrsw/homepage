@@ -29,15 +29,15 @@ image:
 
 ## Features
 
-- 4개의 FullHD 모니터 또는 2개의 UHD 모니터 지원 
-- 모니터별 Max. 64CH 디스플레이 지원
-- 모니터 화면 피벗기능 지원 (90°/180°/270°)
-- NVR 실시간 스트리밍 프로토콜을 이용한 지연 없는 디스플레이 
-- ROI(Region of Interest)로 자연스러운 모니터 연결 부분 영상 구현
-- Max. 128대 연결 가능 (Max. 512 모니터, Max. 8,192CH 디스플레이) 
-- CMS SW로 영상 관제와 IP Video Wall 제어를 동시에 지원
-- 4 기가비트 이더넷
-- 1U 랙타입 케이스
+- 4 full HD monitors or 2 UHD monitors
+- Support for up to 64CH display per monitor
+- Support monitor screen pivot (90°/180°/270°)
+- Delay-free display using NVR real time protocol
+- ROI(Region of Interest) enables natural monitor connection part image
+- Up to 128 units can be connected (up to 512 monitors, up to 8,192 CH displays)
+- CMS video and video wall control at the same time
+- 4 Gigabit Ethernets 
+- 1U rack type case 
 
 ## Dimensions
 
@@ -55,24 +55,24 @@ image:
 </thead>
 <tbody>
 <tr>
-<th rowspan="2">모니터</th>
-<th>출력단자</th>
+<th rowspan="2">Monitor</th>
+<th>Output</th>
 <td>2 of HDMI, 2 of Display Port</td>
 </tr>
 <tr>
-<th>출력성능</th>
+<th>Output<br>Performance</th>
 <td>Full-HD Moniter Display - Up to 4 EA<br>Ultra HD Moniter Display - Up to 2 EA</td>
 </tr>
 <tr>
-<th rowspan="2">영상출력<br>Performance</th>
-<th>Full-HD<br>모니터</th>
+<th rowspan="2">Video Output<br>Performance</th>
+<th>Full-HD<br>Monitor</th>
 <td>D1(720x480): 4 x 1,920fps (each monitor: 1,920fps)<br>
     HD(1280x720): 4 x 960fps<br>
     Full HD(1920x1080): 4 x 480fps<br>
     Ultra HD(3840x2160): 4 x 120fps</td>
 </tr>
 <tr>
-<th>Ultra HD<br>모니터</th>
+<th>Ultra HD<br>Monitor</th>
 <td>D1(720x480): 2 x 1,920fps<br>
     HD(1280x720): 2 x 960fps<br>
     Full HD(1920x1080): 2 x 480fps<br>
@@ -105,7 +105,7 @@ image:
 </tr>
 <tr>
 <th>Bandwidth<br>Control</th>
-<td>자동</td>
+<td>Auto</td>
 </tr>
 <tr>
 <th colspan="2">Operating Temp / Humidity</th>

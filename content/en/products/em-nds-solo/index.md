@@ -29,13 +29,13 @@ image:
 
 ## Features
 
-- 2개의 Full HD 모니터 또는 1개의 UHD 모니터 지원 
-- 모니터별 Max. 64CH 디스플레이 지원
-- 모니터 화면 피벗 기능 지원 (90°/180°/270°)
-- NVR 실시간 스트리밍 프로토콜을 이용한 지연 없는 디스플레이 
-- ROI(Region of Interest)로 자연스러운 모니터 연결 부분 영상 구현
-- CMS SW로 영상 관제와 IP Video Wall 제어를 동시에 지원
-- 1 기가비트 이더넷
+- 2 full HD monitors or 1 UHD monitor
+- Support for up to 64CH display per monitor
+- Support monitor screen pivot (90°/180°/270°)
+- Delay-free display using NVR real time protocol
+- ROI (Region of Interest) enables natural monitor connection part image
+- CMS video and video wall control at the same time
+- 1 Gigabit Ethernets 
 
 ## Dimensions
 
@@ -53,24 +53,24 @@ image:
 </thead>
 <tbody>
 <tr>
-<th rowspan="2">모니터</th>
-<th>출력단자</th>
+<th rowspan="2">Monitor</th>
+<th>Output</th>
 <td>1 of HDMI 1.4, 1 of VGA</td>
 </tr>
 <tr>
-<th>출력성능</th>
+<th>Output<br>Performance</th>
 <td>Full-HD Moniter Display - Up to 2 EA(60Hz)<br>Ultra HD Moniter Display - Up to 1 EA(30Hz)</td>
 </tr>
 <tr>
-<th rowspan="2">영상출력<br>Performance</th>
-<th>Full-HD<br>모니터</th>
+<th rowspan="2">Video Output<br>Performance</th>
+<th>Full-HD<br>Monitor</th>
 <td>D1(720x480): 1,920fps<br>
     HD(1280x720): 960fps<br>
     Full HD(1920x1080): 480fps<br>
     Ultra HD(3840x2160): 120fps</td>
 </tr>
 <tr>
-<th>Ultra HD<br>모니터</th>
+<th>Ultra HD<br>Monitor</th>
 <td>D1(720x480): 960fps<br>
     HD(1280x720): 480fps<br>
     Full HD(1920x1080): 120fps<br>
@@ -103,7 +103,7 @@ image:
 </tr>
 <tr>
 <th>Bandwidth<br>Control</th>
-<td>자동</td>
+<td>Auto</td>
 </tr>
 <tr>
 <th colspan="2">Operating Temp / Humidity</th>
@@ -125,6 +125,4 @@ image:
 </table>
 </div>
 
-※ The specification of this product may change without prior notice.  
-※ Seamless Switch 기능 사용시 표시된 성능의 50%로 사용하셔야 합니다.  
-※ Dual Monitor 사용시 두개의 모니터에 표현되는 채널수의 합이 표시된 성능 이하로 설정 권장
+※ The specification of this product may change without prior notice.

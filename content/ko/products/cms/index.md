@@ -46,9 +46,9 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-6 pl-0">
 
-## 프로그램 요구 사양
+## 요구 사양
 
-항목 | Windows OS | Linux OS
+ &nbsp; | Windows OS | Linux OS
 -----|------------|---------
 **OS** | Windows 8, 10 32/64bit | Ubuntu 18.04 64bit 이상
 **CPU** | 최소 Intel i3 Dual Care<br>권장 Intel i7 Quad Care | 최소 Intel Celeron Care<br>권장 Intel i3 Dual Care
@@ -59,14 +59,16 @@ image:
 </div>
 <div class="col-sm-6 pl-0">
 
-## 디스플레이 성능 (권장사양 적용 시)
+## 디스플레이 성능
 
-항목 | Windows OS | Linux OS
+ &nbsp; | Windows OS | Linux OS
 -----|------------|---------
 **UHD / 3840x2160** | 4 | 9
 **FullHD / 1920x1080** | 16 | 36
 **HD / 1280x720** | 32 | 64
 **D1 / 720x480** | 64 | 128
+
+※ 권장사양 적용시 성능
 
 </div>
 </div>

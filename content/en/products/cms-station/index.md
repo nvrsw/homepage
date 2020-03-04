@@ -33,19 +33,20 @@ image:
 
 ## Features
 
-- Max. 25,600개 Camera 접속 가능 (256 x 100ch)
-- Max. 32개의 FullHD 영상 동시 모니터링 지원
-- 멀티 스트리밍 지원을 통한 효율적인 관리
-- 이벤트 기반 라이브 모니터링 지원
-- E-MAP 지도 위에 Camera 위치 표시 및 해당 영상 확인 가능
-- 원격 검색 / 원격 백업 (수동 / 스케쥴)
-- 이벤트 기반 지능형 대응 프로그래밍 기능
-- 멀티 사이트 자동 / 수동 경고음성 송출 (방송) 기능
-- Camera 설정 변경 가능
-- 시스템 상태 모니터링 (Real Time Health Check)
-- PTZ 제어 가능
-- 원격 설정을 위한 VNC 접속 지원
-- EM-NDS 시리즈 IP Video Wall 시스템 제어
+- Access up to 25,600 cameras (256 x 100ch)
+- Simultaneous monitoring of up to 32 Full HD videos
+- Efficient management with multistreaming support
+- Efficient management due to dual monitoring support
+- Event-based live monitoring support
+- E-MAP function allows camera position to be displayed on the map and corresponding video
+- Remote search, remote backup (manual, schedule)
+- Event-driven intelligent response programmability
+- Multi-site automatic / manual warning sound transmission (broadcast) function
+- Change camera settings
+- System health monitoring (Real Time Health Check)
+- PTZ control available
+- VNC connection support for remote configuration
+- EM-NDS Series Video Wall System Control
 
 </div>
 <div class="col-sm-6 pl-0">
@@ -72,11 +73,11 @@ image:
 
 <tr>
 <th rowspan="2">CMS Version</th>
-<th>기본</th>
+<th>Default</th>
 <td>CMS Basic Version(8 host)</td>
 </tr>
 <tr>
-<th>옵션</th>
+<th>Options</th>
 <td>CMS Standard Version(16 host), CMS professional Version(64 host), CMS Enterprise Version(256 host)</td>
 </tr>
 <tr>
@@ -106,7 +107,7 @@ image:
 </tr>
 <tr>
 <th>Mode</th>
-<td>1x1, 1x2, 2x1, 2x2, 3x3 등 다양한 분할화면 모드, 전체화면 모드</td>
+<td>Various display mode and full screen mode like 1x1, 1x2, 2x1, 2x2, 3x3</td>
 </tr>
 <tr>
 <th>Performance</th>
@@ -115,16 +116,16 @@ image:
 <tr>
 <th rowspan="2">Search /<br>Replay</th>
 <th>Method</th>
-<td>날짜/시간 캘린더 검색, 개별/채널 묶음 검색, 이벤트 검색</td>
+<td>Date / Time Calendar Search, Individual / Channel Bundle Search, Event Search</td>
 </tr>
 <tr>
 <th>Replay<br>Control</th>
-<td>정방향(고속:x1~x32), 스탭 전/후</td>
+<td>Forward direction (high speed: x1 ~ x32), Step forward / backward</td>
 </tr>
 <tr>
 <th rowspan="2">Backup</th>
 <th>Mode</th>
-<td>동영상, 정지화면</td>
+<td>Video, Still Image</td>
 </tr>
 <tr>
 <th>File Format</th>
@@ -132,16 +133,17 @@ image:
 </tr>
 <tr>
 <th colspan="2">Video Wall</th>
-<td>EMSTONE IP Video Wall 시스템 설정 / 제어</td>
+<td>EMSTONE IP Video Wall System Setup / Control</td>
 </tr>
 <tr>
 <th rowspan="2">Event</th>
 <th>Type</th>
-<td>움직임 감지, Sensor, 릴레이, 디스크 이상, Camera 신호 손실/복구, Emergency Call, 차량번호판 인식, POS 연동, E/L 연동, 화재/연기 감지, 이상음원 검출, Thermal Imaging Camera 연동, 지능형 서버 연동</td>
+<td>Motion Detection, Sensor, Relay, Disk Failure, Camera Signal Loss / Recovery, Emergency Bell, License Plate Recognition, POS, 
+Elevator CRT, Fire / Smoke Detection, Abnormal Sound Detection, Thermal Imaging Camera</td>
 </tr>
 <tr>
 <th>Action</th>
-<td>알람 발생, 팝업 Camera, 경고음 발생, 경고메세지 발생, 프리셋 동작, 비디오월 시스템 연동(영상/이미지/텍스트 출력제어, 프리셋)</td>
+<td>Alarm Digital-out, Pop-up Camera, Alarm Sound, Warning Message, Preset Control, IP Video Wall Control (Video / Image / Text Output Control, Preset)</td>
 </tr>
 <tr>
 <th rowspan="2">Network</th>
@@ -172,5 +174,5 @@ image:
 </table>
 </div>
 
-※ KVM 스위치 사용시 USB 타입의 제품을 사용해야 합니다. (PS/2 타입 사용 불가)  
+※ USB type product should be used when KVM switches are used. (PS/2 type not available)  
 ※ The specification of this product may change without prior notice.

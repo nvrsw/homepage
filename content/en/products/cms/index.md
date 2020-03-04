@@ -29,39 +29,39 @@ image:
 
 ## Features
 
-- Max. 25,600개 Camera 접속 가능 (256 x 100ch)
-- Max. 32개의 FullHD 영상 동시 모니터링 지원
-- 멀티 스트리밍 지원을 통한 효율적인 관리
-- 이벤트 기반 라이브 모니터링 지원
-- E-MAP 지도 위에 Camera 위치 표시 및 해당 영상 확인 가능
-- 원격 검색 / 원격 백업 (수동 / 스케쥴)
-- 이벤트 기반 지능형 대응 프로그래밍 기능
-- 멀티 사이트 자동 / 수동 경고음성 송출 (방송) 기능
-- Camera 설정 변경 가능
-- PTZ 제어 가능
-- 원격 설정을 위한 VNC 접속 지원
-- EM-NDS 시리즈 IP Video Wall 시스템 제어
+- Access up to 25,600 cameras (256 x 100ch)
+- Simultaneous monitoring of up to 32 Full HD videos
+- Efficient management with multistreaming support
+- Event-based live monitoring support
+- E-MAP function allows camera position to be displayed on the map and corresponding video
+- Remote search, remote backup (manual, schedule)
+- Event-driven intelligent response programmability
+- Multi-site automatic / manual warning sound transmission (broadcast) function
+- Change camera settings
+- PTZ control available
+- VNC connection support for remote configuration
+- EM-NDS Series Video Wall System Control
 
 <div class="container">
 <div class="row justify-content-center">
 <div class="col-sm-6 pl-0">
 
-## 프로그램 요구 Specification
+## Program Requirements
 
-항목 | Windows OS | Linux OS
+ &nbsp; | Windows OS | Linux OS
 -----|------------|---------
-**OS** | Windows 8, 10 32/64bit | Ubuntu 18.04 64bit 이상
-**CPU** | 최소 Intel i3 Dual Care<br>권장 Intel i7 Quad Care | 최소 Intel Celeron Care<br>권장 Intel i3 Dual Care
-**RAM** | 최소 DDR3/4 4G<br>권장 DDR3/4 16G | 최소 DDR3/4 4G<br>권장 DDR3/4 32G
-**HDD** | SSD 128G 이상 | SSD 32G 이상
-**NETWORK** | 1000Mbps 이상 bandwidth
+**OS** | Windows 8, 10 32/64bit | Ubuntu 18.04 64bit
+**CPU** | Intel i7 Quad Core | Intel i3 Dual Care
+**RAM** | DDR3/4 16G | DDR3/4 32G
+**HDD** | SSD 128G | SSD 32G
+**NETWORK** | 1000Mbps bandwidth
 
 </div>
 <div class="col-sm-6 pl-0">
 
-## 디스플레이 성능 (권장Specification 적용 시)
+## Display Performance
 
-항목 | Windows OS | Linux OS
+ &nbsp; | Windows OS | Linux OS
 -----|------------|---------
 **UHD / 3840x2160** | 4 | 9
 **FullHD / 1920x1080** | 16 | 36

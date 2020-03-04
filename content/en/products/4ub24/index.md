@@ -54,7 +54,7 @@ image:
 - Bidirectional audio transmission
 - Max. 288TB with internal storage space
 - Built-in **LPR(License Plate Recognition)** license for 1 channel
-- Model lineup : 36, 64F, 81H, 100H, 128H CH
+- Model Line-up : 36, 64F, 81H, 100H, 128H CH
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
@@ -281,5 +281,5 @@ image:
 </table>
 </div>
 
-※ If KVM switches are used, USB type products must be used. (PS/2 types are not available)  
+※ USB type product should be used when KVM switches are used. (PS/2 type not available)  
 ※ The specification of this product may change without prior notice.

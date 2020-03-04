@@ -33,12 +33,12 @@ image:
 
 ## Features
 
-- Max. FullHD 60fps HDMI 영상 입력
-- H.264 30fps 의 IP 스트림 출력
-- 대상 시스템에 영향을 미치지 않는(0%) 외부 하드웨어 인코딩 방식
-- TV 셋탑박스, 운영 PC, 모니터링 시스템의 HDMI 신호를 모두 수신
-- HDMI loop 지원으로 단독으로 사용 가능
-- Audio 지원으로 재난방송 송출에 적합
+- Up to Full HD 60fps HDMI video input
+- H.264 30fps IP Stream Output
+- External hardware encoding scheme that does not affect the target system (0%)
+- Receives HDMI signals from TV set-top boxes, operating PCs, and monitoring systems
+- Can be used alone with HDMI loop support
+- Suitable for transmitting disaster broadcasting with audio support
 
 </div>
 <div class="col-sm-4 pl-0">

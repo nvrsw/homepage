@@ -33,18 +33,17 @@ image:
 
 ## Features
 
-- Max. 256대의 NVR 감시 가능 (Multi-Takeover)
-- 다수의 장애 대응 서버 운용 가능 (Multi-Failover)
-- 다수 NVR별 중요 채널만 따로 설정 가능한 고급 모드 (Advanced Mode) 지원
-- 순간 오류 회피를 위한 지연시간 설정(주기x횟수) 가능
-- Support **all resolutions** including 12M / 8M / 5M / 2M / 1.3M
-- D1(640x360)~12M(4000x3000@30fps) Max. 128채널 동시 녹화 가능
-- 긴급영상 확인을 위한 1채널 동시 라이브 / 검색 가능
-- H.265 / H.264 / MJPEG compression
-- Max. 24TB with internal storage space
-- **Smart Failover**
+- Max. 256 NVRs supported (Multi-Takeover)
+- Multiple failure response server (Multi-Failover)
+- Advanced mode which can set only important channels for multiple NVRs separately
+- Delay time setting (cycles x counts) for instantaneous error avoidance
+- D1(640x360)~12M(4000x3000@30fps) Max. 128ch recorded at once
+- 1 channel live / search for emergency video
+- H.265, H.264, MJPEG Compression supported
+- Max. 24TB supported
+- **Smart Failover** supported
 - User Authentication with **Bio Information**
-- Model lineup : 16, 32 CH
+- Model Line-up : 64, 128 CH
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
@@ -216,19 +215,19 @@ image:
 </tr>
 <tr>
 <th>Takeover</th>
-<td colspan="2">단일 NVR 절체(Easy Mode), 멀티 NVR 절체(Advanced Mode)</td>
+<td colspan="2">Single NVR Switching Mode (Easy Mode), Multiple NVR Switching Mode (Advanced Mode)</td>
 </tr>
 <tr>
 <th>Heartbeat</th>
 <td colspan="2">10~3,600 seconds</td>
 </tr>
 <tr>
-<th>N:M 운용</th>
-<td colspan="2">N대의 Failover Server가 M개의 NVR에 대응 가능</td>
+<th>N:M Operation</th>
+<td colspan="2">Failover Servers x N can respond to NVRs x M</td>
 </tr>
 <tr>
 <th colspan="2">Security</th>
-<td colspan="2">Multi User Level, 지문마우스 기반 인증 지원</td>
+<td colspan="2">Failover Servers x N can respond to NVRs x M</td>
 </tr>
 <tr>
 <th colspan="2">Time Synchronization</th>
@@ -264,5 +263,5 @@ image:
 </table>
 </div>
 
-※ If KVM switches are used, USB type products must be used. (PS/2 types are not available)  
+※ USB type product should be used when KVM switches are used. (PS/2 type not available)  
 ※ The specification of this product may change without prior notice.

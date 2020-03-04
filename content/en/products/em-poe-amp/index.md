@@ -38,12 +38,9 @@ image:
 
 ## Features
 
-- IP Camera, 스피커, 마이크 동시 제어
-- PoE / PoE+ 사용으로 제품 전원 불필요
-- PoE / PoE+ 이용한 IP Camera 전원 공급 가능
-- 마이크 볼륨, 스피커 볼륨 조정 가능
-- 15W 고출력 앰프 탑재
-- 낙뢰 서지 보호 기능 내장
+- Control IP cameras, speakers, microphones simultaneously
+- PoE / PoE+ eliminates the need for product power
+- Powering IP cameras using PoE / PoE+
 
 </div>
 <div class="col-sm-6 pl-0">
@@ -69,42 +66,42 @@ image:
 <tbody>
 <tr>
 <th rowspan="2">Network</th>
-<th>전송속도</th>
+<th>Transmission<br>Speed</th>
 <td>10/100Mbps</td>
 </tr>
 <tr>
-<th>전송규격</th>
+<th>Transmission<br>Standard</th>
 <td>IEEE802.3af/at</td>
 </tr>
 <tr>
-<th rowspan="2">PoE 출력</th>
-<th>PoE 연결시</th>
+<th rowspan="2">PoE Output</th>
+<th>PoE</th>
 <td>45~55V, 8W</td>
 </tr>
 <tr>
-<th>PoE+ 연결시</th>
+<th>PoE+</th>
 <td>45~55V, 15W</td>
 </tr>
 <tr>
 <th rowspan="3">MIC</th>
-<th>입력</th>
+<th>Input</th>
 <td>Condensor MIC</td>
 </tr>
 <tr>
-<th>출력</th>
+<th>Output</th>
 <td>0.5W</td>
 </tr>
 <tr>
-<th>볼륨제어</th>
+<th>Volume<br>Control</th>
 <td>Supported</td>
 </tr>
 <tr>
 <th rowspan="2">Speaker</th>
-<th>출력</th>
+<th>Output</th>
 <td>15W</td>
 </tr>
 <tr>
-<th>볼륨제어</th>
+<th>Volume<br>Control</th>
 <td>Supported</td>
 </tr>
 <tr>

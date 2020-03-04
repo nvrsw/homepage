@@ -33,12 +33,11 @@ image:
 
 ## Features
 
-- PoE(Power over Ethernet) support
-- PoE Repeater 기능
-- BlueTooth Remote 기능
-- 경고음 출력 및 작동시간 조절 가능
+- PoE(Power Over Ethernet) supported
+- PoE Repeater
+- Bluetooth Remote
 - Button LED
-- 알람 출력 기능
+- Alarm Output
 
 </div>
 <div class="col-sm-6 pl-0">
@@ -64,42 +63,42 @@ image:
 <tbody>
 <tr>
 <th rowspan="2">Network</th>
-<th>전송속도</th>
+<th>Transmission<br>Speed</th>
 <td>10/100Mbps</td>
 </tr>
 <tr>
-<th>전송규격</th>
+<th>Transmission<br>Standard</th>
 <td>IEEE802.3af/at</td>
 </tr>
 <tr>
-<th rowspan="2">PoE 출력</th>
-<th>PoE 연결시</th>
+<th rowspan="2">PoE </th>
+<th>PoE</th>
 <td>45~55V, 8W</td>
 </tr>
 <tr>
-<th>PoE+ 연결시</th>
+<th>PoE+</th>
 <td>45~55V, 15W</td>
 </tr>
 <tr>
 <th rowspan="3">MIC</th>
-<th>입력</th>
+<th>Input</th>
 <td>Condensor MIC</td>
 </tr>
 <tr>
-<th>출력</th>
+<th>Output</th>
 <td>0.5W</td>
 </tr>
 <tr>
-<th>볼륨제어</th>
+<th>Volume<br>Control</th>
 <td>Supported</td>
 </tr>
 <tr>
 <th rowspan="2">Speaker</th>
-<th>출력</th>
+<th>Output</th>
 <td>15W</td>
 </tr>
 <tr>
-<th>볼륨제어</th>
+<th>Volume<br>Control</th>
 <td>Supported</td>
 </tr>
 <tr>
