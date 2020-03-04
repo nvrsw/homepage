@@ -32,3 +32,33 @@
   name = "Company"
   url = "company/"
   weight = 50
+
+[[main]]
+  parent = "products"
+  name = "NVR / Hybrid"
+  url = "categories/nvr/"
+  weight = 10
+
+[[main]]
+  parent = "products"
+  name = "Camera"
+  url = "categories/camera/"
+  weight = 20
+
+[[main]]
+  parent = "products"
+  name = "CMS Central Monitoring"
+  url = "categories/cms/"
+  weight = 30
+
+[[main]]
+  parent = "products"
+  name = "NDS Display Server"
+  url = "categories/nds/"
+  weight = 40
+
+[[main]]
+  parent = "products"
+  name = "PoE Amp / Bell"
+  url = "categories/etc/"
+  weight = 50
