@@ -30,32 +30,31 @@ image:
 
 - 구성: NVR + NDS Solo + 열화상 + 실화상 + CMS (원격감시)
 
+**YouTube 동영상**
 {{< youtube SUteUPecArI >}}
 
 &nbsp;
 
-<div class="container"><div class="row justify-content-center">
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-0_04.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-0_17.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-0_37.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-1_16.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-2_51.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-3_57.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-4_49.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-5_08.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-6_14.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-6_18.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-6_52.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-7_41.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-7_59.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-9_41.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-10_05.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-11_19.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-11_28.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-11_56.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-12_00.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-12_12.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-12_31.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-12_52.png" >}}</div>
-<div class="col-sm-10">{{< figure src="youtube-SUteUPecArI-13_25.png" >}}</div>
-</div></div>
+{{< figure src="youtube-SUteUPecArI-0_04.png" >}}
+{{< figure src="youtube-SUteUPecArI-0_17.png" >}}
+{{< figure src="youtube-SUteUPecArI-0_37.png" >}}
+{{< figure src="youtube-SUteUPecArI-1_16.png" >}}
+{{< figure src="youtube-SUteUPecArI-2_51.png" >}}
+{{< figure src="youtube-SUteUPecArI-3_57.png" >}}
+{{< figure src="youtube-SUteUPecArI-4_49.png" >}}
+{{< figure src="youtube-SUteUPecArI-5_08.png" >}}
+{{< figure src="youtube-SUteUPecArI-6_14.png" >}}
+{{< figure src="youtube-SUteUPecArI-6_18.png" >}}
+{{< figure src="youtube-SUteUPecArI-6_52.png" >}}
+{{< figure src="youtube-SUteUPecArI-7_41.png" >}}
+{{< figure src="youtube-SUteUPecArI-7_59.png" >}}
+{{< figure src="youtube-SUteUPecArI-9_41.png" >}}
+{{< figure src="youtube-SUteUPecArI-10_05.png" >}}
+{{< figure src="youtube-SUteUPecArI-11_19.png" >}}
+{{< figure src="youtube-SUteUPecArI-11_28.png" >}}
+{{< figure src="youtube-SUteUPecArI-11_56.png" >}}
+{{< figure src="youtube-SUteUPecArI-12_00.png" >}}
+{{< figure src="youtube-SUteUPecArI-12_12.png" >}}
+{{< figure src="youtube-SUteUPecArI-12_31.png" >}}
+{{< figure src="youtube-SUteUPecArI-12_52.png" >}}
+{{< figure src="youtube-SUteUPecArI-13_25.png" >}}

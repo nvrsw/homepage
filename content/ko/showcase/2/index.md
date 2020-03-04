@@ -47,7 +47,7 @@ image:
 {{< figure src="a27d24_7cf216cb294249fcacc6b342ae250560_mv2.jpg"
            caption="NVR / NETWORK SWITCH : 엠스톤 EM-64B16F 듀얼파워, PLANET SWITCH HUB" >}}
 
-방향성 차번추출 동영상:
+**방향성 차번추출 동영상**
 {{< youtube 7i6AdOXYri8 >}}
 
 &nbsp;
