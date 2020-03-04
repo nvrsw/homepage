@@ -62,3 +62,20 @@ image:
 <div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_30.png" lightbox-group="a" >}}</div>
 <div class="col-sm-10">{{< figure src="youtube-DS9lsaZmeRU-1_35.png" lightbox-group="a" >}}</div>
 </div></div>
+
+## 열화상 + IP 비디오 월 디스플레이
+
+열화상의 온도 데이터를 활용하여 IP 비디오 월 디스플레이에 이벤트 모니터링을 설계한 현장입니다.
+
+{{< youtube ifO0aQXsdc0 >}}
+
+&nbsp;
+
+<div class="container"><div class="row justify-content-center">
+<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_07.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_10.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_17.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_33.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_38.png" lightbox-group="a" >}}</div>
+<div class="col-sm-10">{{< figure src="youtube-ifO0aQXsdc0-0_41.png" lightbox-group="a" >}}</div>
+</div></div>
