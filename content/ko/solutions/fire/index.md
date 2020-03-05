@@ -1,7 +1,7 @@
 ---
 title: "화염 / 연기 감지"
 subtitle: "Flame / Smoke Detection"
-summary: "카메라 영상을 실시간으로 분석하여 화염 및 연기를 감지하는 솔루션입니다."
+summary: "카메라 영상을 실시간으로 분석하여 화염 및 연기를 감지하는 솔루션입니다. 광범위한 영역의 감시가 가능하며, 사용자가 실시간으로 영상을 통해 화재 발생 유무를 신속하게 확인하고 대응이 가능합니다."
 authors: []
 tags: [ "fire" ]
 categories: []
@@ -52,8 +52,8 @@ image:
 
 ## 사용 사례
 
-{{< figure src="flame-live.jpg" caption="화염 / 연기 영상 분석 화면" >}}
+{{< figure src="flame-live.jpg" caption="화염 / 연기 감지 - 라이브" >}}
 
-{{< figure src="flame-search.jpg" caption="화염 / 연기 영상 분석 정보 검색 화면" >}}
+{{< figure src="flame-search.jpg" caption="화염 / 연기 감지 - 검색" >}}
 
-{{< figure src="flame-setting.jpg" caption="화염 / 연기 영상 분석 설정 화면" >}}
+{{< figure src="flame-setting.jpg" caption="화염 / 연기 감지 - 설정" >}}

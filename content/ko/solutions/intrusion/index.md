@@ -1,5 +1,5 @@
 ---
-title: "PIR 센서 출입 감지"
+title: "출입 감지"
 subtitle: "Intrusion Detection"
 summary: "옥상, 시설물 출입구 등 관리자를 제외한 사람의 접근에 대한 감시가 필요한 장소에 설치하여 접근의 실시간 확인 및 출입자의 신원 확인이 가능한 솔루션입니다."
 authors: []
@@ -53,4 +53,4 @@ image:
 
 ## 사용 사례
 
-{{< figure src="intrusion-diagram.jpg" caption="PIR 센서 출입 감지 솔루션" >}}
+{{< figure src="intrusion-diagram.jpg" caption="출입 감지 솔루션" >}}

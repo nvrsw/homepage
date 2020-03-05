@@ -1,6 +1,6 @@
 ---
 title: "비상벨 시스템 연동"
-subtitle: "Interworking with Emergency Call System"
+subtitle: "Emergency Call System Integration"
 summary: "비상벨 시스템과 연동하여 위급상황 발생 시 해당 지역의 영상 및 E-Map 팝업, 경고금 발생 등을 통하여 신속한 상황 전달 및 대응이 가능한 솔루션입니다."
 authors: []
 tags: [ "emcall" ]
@@ -17,7 +17,7 @@ image:
   preview_only: true
 ---
 
-비상벨 시스템과 연동하여 위급상황 발생 시 해당 지역의 영상 및 E-Map 팝업, 경고금 발생 등을 통하여 신속한 상황 전달 및 대응이 가능한 솔루션입니다.
+비상벨 시스템과 연동하여 위급상황 발생 시 해당 지역의 영상 및 E-Map 팝업, 경고음 발생 등을 통하여 신속한 상황 전달 및 대응이 가능한 솔루션입니다.
 
 - 영상 팝업, E-Map 팝업, 경고음 발생 등 이벤트 알람 가능
 - 영상을 통한 현장의 실시간 상황 파악 가능

@@ -15,5 +15,3 @@ cascade:
     image: "solution-header.jpg"
     caption: ""
 ---
-
-Coming Soon...

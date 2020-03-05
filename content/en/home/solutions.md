@@ -2,7 +2,7 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Solutions"
@@ -20,55 +20,55 @@ align = "end"
   image = "solutions/ipwall/featured.jpg"
   url = "solutions/ipwall/"
   name = "IP Video Wall"
-  description = ""
+  description = "IP Video Wall System"
   
 [[feature]]
   image = "solutions/fingerprint/featured.png"
   url = "solutions/fingerprint/"
   name = "Fingerprint Authentication"
-  description = ""
+  description = "Biometric Authentication System"
   
 [[feature]]
   image = "solutions/thermal/featured.png"
   url = "solutions/thermal/"
   name = "Thermal Imaging Camera"
-  description = ""
+  description = "Thermal Imaging Camera Solution"
 
 [[feature]]
   image = "solutions/lpr/featured.jpg"
   url = "solutions/lpr/"
   name = "License Plate Recognition"
-  description = ""
+  description = "LPR(License Plate Recognition) Solution"
 
 [[feature]]
   image = "solutions/entrance/featured.jpg"
   url = "solutions/entrance/"
-  name = "Safety for Entry Vehicles"
-  description = ""
+  name = "Safe Entry Vehicles"
+  description = "Safe Entry Vehicles Solution"
 
 [[feature]]
   image = "solutions/elevator/featured.jpg"
   url = "solutions/elevator/"
-  name = "Interworking with Elevator CRT"
-  description = ""
+  name = "Elevator CRT Integration"
+  description = "Elevator CRT System Integration"
 
 [[feature]]
   image = "solutions/sound/featured.png"
   url = "solutions/sound/"
   name = "Abnormal Sound Detection"
-  description = ""
+  description = "Abnormal Sound Detection Solution"
 
 [[feature]]
   image = "solutions/emcall/featured.png"
   url = "solutions/emcall/"
   name = "Emergency Call"
-  description = ""
+  description = "Emergency Call System"
 
 [[feature]]
   image = "solutions/failover/featured.png"
   url = "solutions/failover/"
   name = "Smart NVR Failover"
-  description = ""
+  description = "Smart NVR Failover Solution"
 
 [design.background]
   # Apply a background color, gradient, or image.

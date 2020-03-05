@@ -171,7 +171,7 @@ image:
 <tr>
 <th rowspan="2">Event</th>
 <th>Type</th>
-<td colspan="2">Motion Detection, Sensor, Relay, Disk Failure, Camera Signal Loss / Recovery, Emergency Call, LPR, POS, Elevator, Flame / Smoke Detection, Abnormal Sound Detection, Thermal Event, Interworking with Intelligent Servers</td>
+<td colspan="2">Motion Detection, Sensor, Relay, Disk Failure, Camera Signal Loss / Recovery, Emergency Call, LPR, POS, Elevator, Flame / Smoke Detection, Abnormal Sound Detection, Thermal Event, Intelligent Server Integration</td>
 </tr>
 <tr>
 <th>Action</th>

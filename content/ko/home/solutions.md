@@ -44,13 +44,13 @@ align = "end"
   image = "solutions/entrance/featured.jpg"
   url = "solutions/entrance/"
   name = "안전 입출차"
-  description = "Safety for Entry Vehicles"
+  description = "Safe Entry Vehicles"
 
 [[feature]]
   image = "solutions/elevator/featured.jpg"
   url = "solutions/elevator/"
   name = "엘리베이터 CRT 연동"
-  description = "Interworking with Elevator CRT"
+  description = "Elevator CRT System Integration"
 
 [[feature]]
   image = "solutions/sound/featured.png"

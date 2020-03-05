@@ -65,4 +65,4 @@ image:
 
 ## 솔루션
 
-{{< figure src="fingerprint-solution.jpg" caption="지문 마우스 솔루션" >}}
+{{< figure src="fingerprint-solution.png" caption="지문 마우스 솔루션" >}}

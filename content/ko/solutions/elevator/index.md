@@ -1,6 +1,6 @@
 ---
 title: "엘리베이터 CRT 연동"
-subtitle: "Interworking with Elevator CRT System"
+subtitle: "Elevator CRT System Integration"
 summary: "엘리베이터 CRT 시스템과 연동하여 엘리베이터의 운행 정보를 화면에 표출 및 저장하며 엘리베이터의 운행 정보에 대한 검색을 지원하여 검색 시간의 단축을 통한 편의성 향상 및 라이브 /검색 영상의 직관적인 운행 정보 표출로 정확한 영상 분석이 가능한 솔루션입니다."
 authors: []
 tags: [ "elevator" ]
@@ -66,18 +66,18 @@ image:
 
 ## 사용 사례
 
-{{< figure src="elevator-live.jpg" caption="엘리베이터 CRT 시스템 연동 화면" >}}
+{{< figure src="elevator-live.jpg" caption="엘리베이터 CRT 시스템 연동 - 라이브" >}}
 
 <div class="container">
 <div class="row align-items-end">
 <div class="col-12 col-sm-6">
 
-{{< figure src="elevator-search.jpg" caption="엘리베이터 CRT 시스템 연동 정보 검색 화면" >}}
+{{< figure src="elevator-search.jpg" caption="엘리베이터 CRT 시스템 연동 - 검색" >}}
 
 </div>
 <div class="col-12 col-sm-6">
 
-{{< figure src="elevator-setting.jpg" caption="엘리베이터 CRT 시스템 연동 설정 화면" >}}
+{{< figure src="elevator-setting.jpg" caption="엘리베이터 CRT 시스템 연동 - 설정" >}}
 
 </div>
 </div>
