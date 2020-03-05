@@ -22,6 +22,11 @@ else
 </head></html>
 _EOF
 
+# Let Korean RSS feeds be global RSS feeds.
+cp -f public/ko/index.xml public/
+cp -f public/ko/index.json public/
+cp -f public/ko/index.webmanifest public/
+
 INVALIDATE_PATH="/*"
 [ "$1" = "software" ] && INVALIDATE_PATH="/support/software/*" && shift
 [ -n "$1" ] && INVALIDATE_PATH="$1"
