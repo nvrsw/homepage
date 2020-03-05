@@ -119,7 +119,7 @@
 
 [[main]]
   parent = "solutions"
-  name = "PIR 센서 출입 감지"
+  name = "출입 감지"
   url = "solutions/intrusion/"
   weight = 100
 

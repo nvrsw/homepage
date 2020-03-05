@@ -25,12 +25,16 @@ NDS-SOLO(단독형 IP WALL)의 활용 방법 중 한 가지인 원격정보 전�
 
 - 구성 : NDS-SOLO + 모니터 일체형 샤시 + CMS Station H(원격컨트롤)
 
-**YouTube 동영상**
-{{< youtube UDjBSxZdjWg >}}
+&nbsp;
+
+<div class="container"><div class="row no-gutters">
+<div class="col-sm-6">{{< figure src="youtube-UDjBSxZdjWg-0_08.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-UDjBSxZdjWg-0_29.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-UDjBSxZdjWg-0_48.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-UDjBSxZdjWg-1_10.png" >}}</div>
+</div></div>
 
 &nbsp;
 
-{{< figure src="youtube-UDjBSxZdjWg-0_08.png" >}}
-{{< figure src="youtube-UDjBSxZdjWg-0_29.png" >}}
-{{< figure src="youtube-UDjBSxZdjWg-0_48.png" >}}
-{{< figure src="youtube-UDjBSxZdjWg-1_10.png" >}}
+**YouTube 동영상**
+{{< youtube UDjBSxZdjWg >}}

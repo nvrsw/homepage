@@ -1,5 +1,5 @@
 ---
-title: "코로나19 대응 열화상 카메라 구축"
+title: "코로나19 대응 열화상 카메라 구축 #1"
 subtitle: ""
 summary: ""
 authors: [ "msbae" ]
@@ -29,50 +29,56 @@ image:
 
 ## 한국감시기기공업 정기총회
 
+<div class="container"><div class="row no-gutters">
+<div class="col-sm-6">{{< figure src="youtube-yfOVPtHZchc-0_02.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-yfOVPtHZchc-0_08.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-yfOVPtHZchc-0_14.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-yfOVPtHZchc-0_18.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-yfOVPtHZchc-0_36.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-yfOVPtHZchc-0_47.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-yfOVPtHZchc-0_51.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-yfOVPtHZchc-0_54.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-yfOVPtHZchc-0_58.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-yfOVPtHZchc-1_31.png" >}}</div>
+</div></div>
+
+&nbsp;
+
 **YouTube 동영상**
 {{< youtube yfOVPtHZchc >}}
 
-&nbsp;
-
-{{< figure src="youtube-yfOVPtHZchc-0_02.png" >}}
-{{< figure src="youtube-yfOVPtHZchc-0_08.png" >}}
-{{< figure src="youtube-yfOVPtHZchc-0_14.png" >}}
-{{< figure src="youtube-yfOVPtHZchc-0_18.png" >}}
-{{< figure src="youtube-yfOVPtHZchc-0_36.png" >}}
-{{< figure src="youtube-yfOVPtHZchc-0_47.png" >}}
-{{< figure src="youtube-yfOVPtHZchc-0_51.png" >}}
-{{< figure src="youtube-yfOVPtHZchc-0_54.png" >}}
-{{< figure src="youtube-yfOVPtHZchc-0_58.png" >}}
-{{< figure src="youtube-yfOVPtHZchc-1_31.png" >}}
-
 ## 목포 해양대학교
+
+<div class="container"><div class="row no-gutters">
+<div class="col-sm-6">{{< figure src="youtube-DS9lsaZmeRU-0_13.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-DS9lsaZmeRU-0_21.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-DS9lsaZmeRU-0_25.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-DS9lsaZmeRU-0_35.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-DS9lsaZmeRU-0_48.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-DS9lsaZmeRU-1_14.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-DS9lsaZmeRU-1_30.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-DS9lsaZmeRU-1_35.png" >}}</div>
+</div></div>
+
+&nbsp;
 
 **YouTube 동영상**
 {{< youtube DS9IsaZmeRU >}}
-
-&nbsp;
-
-{{< figure src="youtube-DS9lsaZmeRU-0_13.png" >}}
-{{< figure src="youtube-DS9lsaZmeRU-0_21.png" >}}
-{{< figure src="youtube-DS9lsaZmeRU-0_25.png" >}}
-{{< figure src="youtube-DS9lsaZmeRU-0_35.png" >}}
-{{< figure src="youtube-DS9lsaZmeRU-0_48.png" >}}
-{{< figure src="youtube-DS9lsaZmeRU-1_14.png" >}}
-{{< figure src="youtube-DS9lsaZmeRU-1_30.png" >}}
-{{< figure src="youtube-DS9lsaZmeRU-1_35.png" >}}
 
 ## 열화상 + IP 비디오 월 디스플레이
 
 열화상의 온도 데이터를 활용하여 IP 비디오 월 디스플레이에 이벤트 모니터링을 설계한 현장입니다.
 
-**YouTube 동영상**
-{{< youtube ifO0aQXsdc0 >}}
+<div class="container"><div class="row no-gutters">
+<div class="col-sm-6">{{< figure src="youtube-ifO0aQXsdc0-0_07.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-ifO0aQXsdc0-0_10.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-ifO0aQXsdc0-0_17.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-ifO0aQXsdc0-0_33.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-ifO0aQXsdc0-0_38.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube-ifO0aQXsdc0-0_41.png" >}}</div>
+</div></div>
 
 &nbsp;
 
-{{< figure src="youtube-ifO0aQXsdc0-0_07.png" >}}
-{{< figure src="youtube-ifO0aQXsdc0-0_10.png" >}}
-{{< figure src="youtube-ifO0aQXsdc0-0_17.png" >}}
-{{< figure src="youtube-ifO0aQXsdc0-0_33.png" >}}
-{{< figure src="youtube-ifO0aQXsdc0-0_38.png" >}}
-{{< figure src="youtube-ifO0aQXsdc0-0_41.png" >}}
+**YouTube 동영상**
+{{< youtube ifO0aQXsdc0 >}}
