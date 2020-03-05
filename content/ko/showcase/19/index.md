@@ -1,5 +1,5 @@
 ---
-title: "코로나19 대응 열화상 카메라 구축 #2"
+title: "열화상 카메라 온도 구간 감지 + 게시판 활용"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]

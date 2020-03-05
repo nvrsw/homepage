@@ -1,5 +1,5 @@
 ---
-title: "코로나19 대응 열화상 카메라 구축 #1"
+title: "코로나19 대응 열화상 카메라 구축"
 subtitle: ""
 summary: ""
 authors: [ "msbae" ]
