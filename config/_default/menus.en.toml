@@ -29,7 +29,7 @@
 
 [[main]]
   identifier = "company"
-  name = "Company"
+  name = "About"
   url = "company/"
   weight = 50
 
@@ -62,3 +62,111 @@
   name = "PoE Amp / Bell"
   url = "categories/etc/"
   weight = 50
+
+[[main]]
+  parent = "solutions"
+  name = "IP Video Wall"
+  url = "solutions/ipwall/"
+  weight = 10
+
+[[main]]
+  parent = "solutions"
+  name = "Fingerprint Authentication"
+  url = "solutions/fingerprint/"
+  weight = 20
+
+[[main]]
+  parent = "solutions"
+  name = "Safe Entry Vehicles"
+  url = "solutions/entrance/"
+  weight = 25
+
+[[main]]
+  parent = "solutions"
+  name = "NVR Failover"
+  url = "solutions/failover/"
+  weight = 3000
+
+[[main]]
+  parent = "solutions"
+  name = "Elevator CRT Integration"
+  url = "solutions/elevator/"
+  weight = 40
+
+[[main]]
+  parent = "solutions"
+  name = "Abnormal Sound Detection"
+  url = "solutions/sound/"
+  weight = 50
+
+[[main]]
+  parent = "solutions"
+  name = "License Plate Recognition"
+  url = "solutions/lpr/"
+  weight = 60
+
+[[main]]
+  parent = "solutions"
+  name = "Thermal Imaging Camera"
+  url = "solutions/thermal/"
+  weight = 80
+
+[[main]]
+  parent = "solutions"
+  name = "Flame / Smoke Detection"
+  url = "solutions/fire/"
+  weight = 90
+
+[[main]]
+  parent = "solutions"
+  name = "Intrusion Detection"
+  url = "solutions/intrusion/"
+  weight = 100
+
+[[main]]
+  parent = "solutions"
+  name = "Warning Broadcast"
+  url = "solutions/broadcast/"
+  weight = 110
+
+[[main]]
+  parent = "solutions"
+  name = "Emergency Call"
+  url = "solutions/emergency/"
+  weight = 120
+
+[[main]]
+  parent = "support"
+  name = "Software / Firmware"
+  url = "support/software/"
+  weight = 90
+
+[[main]]
+  parent = "support"
+  name = "Supported IP Cameras"
+  url = "support/ip-cameras/"
+  weight = 100
+
+[[main]]
+  parent = "company"
+  name = "EMSTONE"
+  url = "company/"
+  weight = 10
+
+#[[main]]
+#  parent = "company"
+#  name = "연혁"
+#  url = "company/#history"
+#  weight = 20
+
+[[main]]
+  parent = "company"
+  name = "Contact"
+  url = "company/#contact"
+  weight = 30
+
+#[[main]]
+#  parent = "company"
+#  name = "전국 지사"
+#  url = "company/#branches"
+#  weight = 40

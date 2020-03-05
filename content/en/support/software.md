@@ -1,5 +1,5 @@
 ---
-title: "Download Software / Firmware"
+title: "Software / Firmware Download"
 subtitle: "Download CMS Software, NVR / NDS Firmware, Etc."
 summary: "Download CMS Software, NVR / NDS Firmware, Etc."
 authors: []
