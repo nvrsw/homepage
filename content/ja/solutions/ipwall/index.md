@@ -76,17 +76,17 @@ IPビデオウォールシステムは、CCTV統合管制施設、道路/鉄道/
 
 <div class="container">
 <div class="row align-items-center">
-<div class="col-12 col-sm-8">
+<div class="col-12 col-sm-7">
 
 {{< figure src="wall-monitor.png" caption="ビデオウォール監視画面" >}}
 
 </div>
-<div class="col-12 col-sm-4">
+<div class="col-12 col-sm-5">
 
-1）ロゴ入りスペース：画像ファイル、テキストを挿入可能、サイズ/色調整可能  
-（2）プリセット、カメラ循環、カメラグループタブと詳細項目  
-（3）プリセットのショートカットボタン  
-（4）モニタレイアウト：表示される映像の項目がリアルタイムで反映
+(1）ロゴ入りスペース：画像ファイル、テキストを挿入可能、サイズ/色調整可能  
+(2）プリセット、カメラ循環、カメラグループタブと詳細項目  
+(3）プリセットのショートカットボタン  
+(4）モニタレイアウト：表示される映像の項目がリアルタイムで反映
 
 </div>
 </div>
@@ -96,14 +96,14 @@ Wallのモニターに表出する画像を直接目で確認が可能であり�
 
 <div class="container">
 <div class="row align-items-center">
-<div class="col-12 col-sm-3">
+<div class="col-12 col-sm-4">
 
 1. 希望の映像を選択
 2. `F5` キー入力
 3. 映像を表出する領域を選択した後OKをクリック
 
 </div>
-<div class="col-12 col-sm-9">
+<div class="col-12 col-sm-8">
 
 {{< figure src="wall-control-flow.png" caption="ビデオウォール制御フローチャート" >}}
 
