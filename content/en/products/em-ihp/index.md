@@ -8,7 +8,7 @@ categories: [ "camera" ]
 draft: false
 weight: 2080
 
-# Featured Image: Tu use, add an image named `faetured.jpg/png` to your page's folder.
+# Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   preview_only: true
 ---
