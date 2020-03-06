@@ -142,13 +142,6 @@
           <i class="fas fa-globe" aria-hidden="true"></i>
         </a>
         <i class="nav-link d-none d-lg-inline px-1 fas fa-globe" aria-hidden="true"></i>
-        <span>
-        {{ range .Translations }}
-        <a class="nav-link lang-name d-none d-lg-inline" href="{{ .Permalink }}"{{ if $.IsHome }} data-target="{{ .RelPermalink }}"{{ end }}>
-          <span>{{ index site.Data.i18n.languages .Lang }}</span>
-        </a>
-        {{ end }}
-        </span>
         <div class="dropdown-menu d-lg-none">
           <div class="dropdown-item i18n-active font-weight-bold">
             <span>{{ index site.Data.i18n.languages .Lang }}</span>
@@ -161,7 +154,16 @@
         </div>
       </li>
       {{ end }}
+    </ul>
 
+    <ul class="navbar-nav d-none d-lg-inline-flex">
+      {{ range $i, $lang := .Translations }}
+      <li class="nav-item">
+        <a class="nav-link px-1" href="{{ $lang.Permalink }}"{{ if $.IsHome }} data-target="{{ $lang.RelPermalink }}"{{ end }}>
+          <span>{{ index site.Data.i18n.languages $lang.Lang }}</span>
+        </a>
+      </li>
+      {{ end }}
     </ul>
 
   </div><!-- /.container -->
