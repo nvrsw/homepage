@@ -1,0 +1,179 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  identifier = "products"
+  name = "製品"
+  url = "products/"
+  weight = 10
+
+[[main]]
+  identifier = "solutions"
+  name = "ソリューション"
+  url = "solutions/"
+  weight = 20
+
+#[[main]]
+#  identifier = "showcase"
+#  name = "施工事例"
+#  url = "showcase/"
+#  weight = 30
+
+[[main]]
+  identifier = "support"
+  name = "サポート"
+  url = "support/"
+  weight = 40
+
+[[main]]
+  identifier = "company"
+  name = "会社紹介"
+  url = "company/"
+  weight = 50
+
+[[main]]
+  parent = "products"
+  name = "NVR / ハイブリッド"
+  url = "categories/nvr/"
+  weight = 10
+
+[[main]]
+  parent = "products"
+  name = "カメラ"
+  url = "categories/camera/"
+  weight = 20
+
+[[main]]
+  parent = "products"
+  name = "CMS統合監視"
+  url = "categories/cms/"
+  weight = 30
+
+[[main]]
+  parent = "products"
+  name = "NDSディスプレイサーバー"
+  url = "categories/nds/"
+  weight = 40
+
+[[main]]
+  parent = "products"
+  name = "PoEアンプ/非常ベル"
+  url = "categories/etc/"
+  weight = 50
+
+[[main]]
+  parent = "solutions"
+  name = "IPビデオウォール"
+  url = "solutions/ipwall/"
+  weight = 10
+
+[[main]]
+  parent = "solutions"
+  name = "指紋認証"
+  url = "solutions/fingerprint/"
+  weight = 20
+
+[[main]]
+  parent = "solutions"
+  name = "安全入茶"
+  url = "solutions/entrance/"
+  weight = 25
+
+[[main]]
+  parent = "solutions"
+  name = "NVR障害対応"
+  url = "solutions/failover/"
+  weight = 30
+
+[[main]]
+  parent = "solutions"
+  name = "エレベーターCRT連動"
+  url = "solutions/elevator/"
+  weight = 40
+
+[[main]]
+  parent = "solutions"
+  name = "以上音源検出"
+  url = "solutions/sound/"
+  weight = 50
+
+[[main]]
+  parent = "solutions"
+  name = "車両番号抽出"
+  url = "solutions/lpr/"
+  weight = 60
+
+[[main]]
+  parent = "solutions"
+  name = "熱画像カメラ"
+  url = "solutions/thermal/"
+  weight = 80
+
+[[main]]
+  parent = "solutions"
+  name = "炎/煙感知"
+  url = "solutions/fire/"
+  weight = 90
+
+[[main]]
+  parent = "solutions"
+  name = "アクセス検出"
+  url = "solutions/intrusion/"
+  weight = 100
+
+[[main]]
+  parent = "solutions"
+  name = "警告放送"
+  url = "solutions/broadcast/"
+  weight = 110
+
+[[main]]
+  parent = "solutions"
+  name = "非常ベル"
+  url = "solutions/emcall/"
+  weight = 120
+
+[[main]]
+  parent = "support"
+  name = "ソフトウェア/ファームウェア"
+  url = "support/software/"
+  weight = 90
+
+[[main]]
+  parent = "support"
+  name = "IPカメラのリスト"
+  url = "support/ip-cameras/"
+  weight = 100
+
+[[main]]
+  parent = "support"
+  name = "EMSTONE HUB"
+  url = "https://hub.emstone.com/"
+  post = " &nbsp; <i class='fas fa-external-link-square-alt' aria-hidden='true'></i>"
+  weight = 1000
+
+[[main]]
+  parent = "company"
+  name = "エムストーンの紹介"
+  url = "company/"
+  weight = 10
+
+#[[main]]
+#  parent = "company"
+#  name = "歴史"
+#  url = "company/#history"
+#  weight = 20
+
+[[main]]
+  parent = "company"
+  name = "コンタクト"
+  url = "company/#contact"
+  weight = 30
+
+#[[main]]
+#  parent = "company"
+#  name = "全国知事"
+#  url = "company/#branches"
+#  weight = 40

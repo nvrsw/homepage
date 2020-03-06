@@ -31,3 +31,18 @@
     company_phone = "+82-1600-5978"
     company_fax = "+82-2-6675-3699"
     company_address = "Ace Techno Tower Ⅲ #309, Digital-ro 29-gil 38, Guro-gu, Seoul, Korea"
+
+[ja]
+  languageCode = "ja-jp"
+  languageName = "日本語"
+  title = "EMSTONE"
+  contentDir = "content/ja"
+  weight = 3
+  [ja.params]
+    company_name = "（株）エムストーン"
+    company_branches = ""
+    company_contact = "コンタクト"
+    company_email = "sales@emstone.com"
+    company_phone = "+82-1600-5978"
+    company_fax = "+82-2-6675-3699"
+    company_address = "Ace Techno Tower Ⅲ #309, Digital-ro 29-gil 38, Guro-gu, Seoul, Korea"

@@ -16,6 +16,8 @@ cat << _EOF > public/index.html
 var lang = navigator.language || navigator.userLanguage; 
 if (lang.slice(0, 2) == 'ko')
   window.location.replace('https://www.emstone.com/ko');
+else if (lang.slice(0, 2) == 'ja')
+  window.location.replace('https://www.emstone.com/ja');
 else
   window.location.replace('https://www.emstone.com/en');
 </script>
