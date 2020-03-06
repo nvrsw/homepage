@@ -5,7 +5,7 @@ name = "EMSTONE"
 google_fonts = "Noto+Sans:400,500,700|Noto+Sans+KR:400,500,700|Noto+Sans+JP:400,500,700"
 
 # Font families
-heading_font = "Noto Sans KR, Noto Sans JP, sans"
-body_font = "Noto Sans KR, Noto Sans JP, sans"
-nav_font = "Noto Sans KR, Noto Sans JP, sans"
+heading_font = "Noto Sans, Noto Sans KR, Noto Sans JP, sans"
+body_font = "Noto Sans, Noto Sans KR, Noto Sans JP, sans"
+nav_font = "Noto Sans, Noto Sans KR, Noto Sans JP, sans"
 mono_font = "monospace"

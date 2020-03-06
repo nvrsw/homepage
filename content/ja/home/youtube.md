@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 99  # Order that this section will appear.
 
-title = "YouTubeチャンネル"
+title = "YouTube"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "youtube-dark.png"
@@ -38,7 +38,7 @@ hero_media = "youtube-dark.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg"
-  label = "YouTubeチャンネルのショートカット"
+  label = "YouTubeチャンネルに行く"
   icon_pack = "fas"
   icon = "link"
 +++
