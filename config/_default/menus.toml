@@ -85,7 +85,7 @@
   parent = "solutions"
   name = "NVR 장애 대응"
   url = "solutions/failover/"
-  weight = 3000
+  weight = 30
 
 [[main]]
   parent = "solutions"
@@ -132,7 +132,7 @@
 [[main]]
   parent = "solutions"
   name = "비상벨"
-  url = "solutions/emergency/"
+  url = "solutions/emcall/"
   weight = 120
 
 [[main]]
