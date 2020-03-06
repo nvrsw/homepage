@@ -59,6 +59,6 @@ image:
 ※ 본 제품은 KVM 스위치 사용을 지원하지 않습니다.  
 ※ 본 제품은 품질 향상을 위해 사전 예고없이 사양이 변경될 수 있습니다.
 
-## 솔루션
+## 사용 사례
 
 {{< figure src="fingerprint-solution.png" caption="지문 마우스 솔루션" >}}

@@ -38,7 +38,7 @@ NVR에 입력되는 영상을 실시간으로 분석하여 차량번호를 추�
 
 |
 :-: | ---
-**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**녹화기** | NVR 전제품<br>Hybrid NVR 전제품
 **카메라** | EM-IHI(IR2812Z)<br>EM-IHI(IR0550Z)<br>EM-IHI(IR5151Z)<br>EM-IHP(IR12x)<br>EM-IHP(IR12xP)
 **CMS** | CMS-Station H
 

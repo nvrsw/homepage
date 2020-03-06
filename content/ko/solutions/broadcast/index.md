@@ -37,7 +37,7 @@ image:
 
 |
 :-: | ---
-**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**녹화기** | NVR 전제품<br>Hybrid NVR 전제품
 **카메라** | EM-IHV Series<br>EM-IHE Series<br>EM-IHP Series
 **CMS** | CMS-Station H
 **사운드 앰프** | EM-PoE-AMP

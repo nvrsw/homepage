@@ -38,7 +38,7 @@ image:
 
 |
 :-: | ---
-**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**녹화기** | NVR 전제품<br>Hybrid NVR 전제품
 **카메라** | EM-IHV(PIR2812Z)<br>EM-IHI(PIR2812Z)
 **CMS** | CMS-Station H
 **디스플레이 서버** | EM-NDS-Solo

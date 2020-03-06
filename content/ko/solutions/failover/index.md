@@ -39,7 +39,7 @@ image:
 |
 :-: | ---
 **Failover 서버** | EM-F64T2<br>EM-F128T2
-**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**녹화기** | NVR 전제품<br>Hybrid NVR 전제품
 
 </div>
 </div>

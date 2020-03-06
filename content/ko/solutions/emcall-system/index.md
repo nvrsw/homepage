@@ -1,7 +1,7 @@
 ---
 title: "비상벨 시스템 연동"
 subtitle: "Emergency Call System Integration"
-summary: "비상벨 시스템과 연동하여 위급상황 발생 시 해당 지역의 영상 및 E-Map 팝업, 경고금 발생 등을 통하여 신속한 상황 전달 및 대응이 가능한 솔루션입니다."
+summary: "비상벨 시스템과 연동하여 위급상황 발생 시 해당 지역의 영상 및 E-Map 팝업, 경고음 발생 등을 통하여 신속한 상황 전달 및 대응이 가능한 솔루션입니다."
 authors: []
 tags: [ "emcall" ]
 categories: []
@@ -39,7 +39,7 @@ image:
 
 |
 :-: | ---
-**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**녹화기** | NVR 전제품<br>Hybrid NVR 전제품
 **CMS** | CMS-Station H
 
 </div>

@@ -39,7 +39,7 @@ image:
 
 |
 :-: | ---
-**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**녹화기** | NVR 전제품<br>Hybrid NVR 전제품
 **카메라** | EM-IHV Series<br>EM-IHE Series<br>EM-IHP Series
 **CMS** | CMS-Station H
 **비상벨** | EM-E-BELL<br>EM-E-BELL-VOICE

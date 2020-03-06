@@ -40,7 +40,7 @@ IP 비디오 월 시스템은 CCTV 통합 관제 시설, 도로 / 철도 / 항�
 
 |
 :-: | ---
-**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**녹화기** | NVR 전제품<br>Hybrid NVR 전제품
 **디스플레이 서버** | EM-NDS-04
 **월 컨트롤 서버** | CMS-Station H
 

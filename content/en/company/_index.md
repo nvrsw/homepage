@@ -20,7 +20,7 @@ We will do our best for a better world based on our accumulated technology and e
 
 ## Contact {#contact}
 
-- Tel: {{< param "company_phone" >}}
+- Phone: {{< param "company_phone" >}}
 - Email: {{< param "company_email" >}}
 - Fax: {{< param "company_fax" >}}
 - Address: {{< param "company_address" >}}

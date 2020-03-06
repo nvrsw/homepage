@@ -39,7 +39,7 @@ LPR 주차관제 시스템 및 LPR 기능이 내장된 카메라와 연동하여
 
 |
 :-: | ---
-**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**녹화기** | NVR 전제품<br>Hybrid NVR 전제품
 **CMS** | CMS-Station H
 
 </div>

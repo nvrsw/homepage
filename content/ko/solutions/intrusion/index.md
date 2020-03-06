@@ -39,7 +39,7 @@ image:
 
 |
 :-: | ---
-**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**녹화기** | NVR 전제품<br>Hybrid NVR 전제품
 **카메라** | EM-IHD(PIR2812Z)
 **CMS** | CMS-Station H
 

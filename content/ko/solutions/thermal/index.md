@@ -39,7 +39,7 @@ image:
 
 |
 :-: | ---
-**녹화기** | NVR 전체 제품<br>Hybrid NVR 전체 제품
+**녹화기** | NVR 전제품<br>Hybrid NVR 전제품
 **카메라** | EM-IX(8060MB)<br>EM-IX(1612MB)<br>EM-IX(80680MS)<br>EM-IX(8060MH)
 **CMS** | CMS-Station H
 
