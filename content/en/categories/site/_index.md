@@ -2,10 +2,7 @@
 title: "Site Cases"
 subtitle: "Check the installation / construction examples applied to various environments."
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+# View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 3
 columns: 2
 
@@ -13,5 +10,4 @@ columns: 2
 cascade:
   header:
     image: "showcase-header.jpg"
-    caption: ""
 ---

@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "EOC 열화상 카메라 연동"
 subtitle: ""
 summary: ""
@@ -9,14 +7,9 @@ tags: [ "thermal" ]
 categories: [ "howto" ]
 date: 2019-02-10
 draft: false
-#slug: jeonrado-gwangju-ltter-outlet
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Featured Image: Tu use, add an image named `faetured.jpg/png` to your page's folder.
 image:
-  caption: ""
-  focal_point: ""
   preview_only: true
 ---
 

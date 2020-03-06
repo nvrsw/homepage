@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "NVR 로그인의 패러다임을 바꾸다 - 지문 로그인"
 subtitle: ""
 summary: ""
@@ -9,14 +7,9 @@ tags: [ "fingerprint" ]
 categories: [ "howto" ]
 date: 2019-02-27
 draft: false
-#slug: jeonrado-gwangju-ltter-outlet
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Featured Image: Tu use, add an image named `faetured.jpg/png` to your page's folder.
 image:
-  caption: "지문 로그인 마우스"
-  focal_point: ""
   preview_only: true
 ---
 

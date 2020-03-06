@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "신형 비상벨 V2 - 블루투스 리모컨"
 subtitle: ""
 summary: ""
@@ -9,14 +7,9 @@ tags: [ "emcall" ]
 categories: [ "howto" ]
 date: 2019-03-03
 draft: false
-#slug: jeonrado-gwangju-ltter-outlet
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Featured Image: Tu use, add an image named `faetured.jpg/png` to your page's folder.
 image:
-  caption: "신형 비상벨 V2"
-  focal_point: "Smart"
   preview_only: true
 ---
 

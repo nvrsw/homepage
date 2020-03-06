@@ -1,17 +1,13 @@
 ---
 title: 고객지원
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+# View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
 cascade:
   header:
     image: "support-header.jpg"
-    caption: "고객지원"
 ---
 
 <div class="blockquote text-center">

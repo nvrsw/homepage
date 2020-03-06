@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "산본 백두극동 아파트 - 방향성 차번 추출"
 subtitle: ""
 summary: ""
@@ -9,14 +7,9 @@ tags: [ "lpr", "elevator", "broadcast" ]
 categories: [ "site" ]
 date: 2018-12-18
 draft: false
-#slug: sanbon-baekdu-apt-lpr
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Featured Image: Tu use, add an image named `faetured.jpg/png` to your page's folder.
 image:
-  caption: ""
-  focal_point: ""
   preview_only: true
 ---
 

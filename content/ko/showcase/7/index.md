@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "오산 원동 대림2차 아파트 NVR + IP 월"
 subtitle: ""
 summary: ""
@@ -9,14 +7,9 @@ tags: [ "ipwall", "lpr", "elevator", "emcall", "fire", "broadcast" ]
 categories: [ "site" ]
 date: 2019-02-08
 draft: false
-#slug: jeonrado-gwangju-ltter-outlet
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Featured Image: Tu use, add an image named `faetured.jpg/png` to your page's folder.
 image:
-  caption: ""
-  focal_point: ""
   preview_only: true
 ---
 

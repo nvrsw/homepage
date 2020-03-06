@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "삼척 자연생태 공원 - 두루미 보호"
 subtitle: ""
 summary: ""
@@ -9,14 +7,9 @@ tags: [ ]
 categories: [ "site" ]
 date: 2019-01-04
 draft: false
-#slug: samchek-jayeon-saengtae-park
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Featured Image: Tu use, add an image named `faetured.jpg/png` to your page's folder.
 image:
-  caption: ""
-  focal_point: ""
   preview_only: true
 ---
 

@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "엘리베이터 CRT 연동"
 subtitle: ""
 summary: "엘리베이터 연동 방법과 이를 활용한 검색 시의 장점에 관한 내용을 공유합니다."
@@ -9,14 +7,9 @@ tags: [ "elevator" ]
 categories: [ "howto" ]
 date: 2018-12-13
 draft: false
-#slug: nvr-elevator-crt-integration
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Featured Image: Tu use, add an image named `faetured.jpg/png` to your page's folder.
 image:
-  caption: ""
-  focal_point: ""
   preview_only: true
 ---
 

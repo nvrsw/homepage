@@ -7,15 +7,10 @@ tags: [ "thermal", "ipwall" ]
 categories: [ "site" ]
 date: 2020-02-28
 draft: false
-#slug: jeonrado-gwangju-ltter-outlet
 featured: true
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Featured Image: Tu use, add an image named `faetured.jpg/png` to your page's folder.
 image:
-  caption: ""
-  focal_point: ""
   preview_only: true
 ---
 

@@ -2,10 +2,7 @@
 title: "HowTo"
 subtitle: "Check out various use cases for our products."
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+# View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 3
 columns: 2
 
@@ -13,5 +10,4 @@ columns: 2
 cascade:
   header:
     image: "showcase-header.jpg"
-    caption: ""
 ---

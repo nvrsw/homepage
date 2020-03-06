@@ -1,17 +1,13 @@
 ---
 title: 회사 소개
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+# View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
 cascade:
   header:
     image: "solution-header.jpg"
-    caption: ""
 ---
 
 > 네트워크로 연결된 세상  

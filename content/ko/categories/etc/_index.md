@@ -2,10 +2,7 @@
 title: "PoE 앰프 / 비상벨 / 기타"
 subtitle: "PoE Amp / Emergency Bell / Etc"
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+# View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 3
 columns: 3
 
@@ -13,5 +10,4 @@ columns: 3
 cascade:
   header:
     image: "product-header.jpg"
-    caption: ""
 ---

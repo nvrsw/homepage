@@ -2,10 +2,7 @@
 title: "제품 사용사례"
 subtitle: "제품의 다양한 사용사례를 확인하세요."
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+# View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 3
 columns: 2
 
@@ -13,5 +10,4 @@ columns: 2
 cascade:
   header:
     image: "showcase-header.jpg"
-    caption: ""
 ---
