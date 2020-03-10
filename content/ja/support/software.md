@@ -23,7 +23,7 @@ image:
   - [32ビット](http://data.emstone.com/cms/cms-2.1.20.2.26-win32.exe) / [64ビット](http://data.emstone.com/cms/cms-2.1.20.2.26-win64.exe)
 - Linux インストールプログラム (Ubuntu 19.04 / Arch Linux)
   - [64ビット](http://data.emstone.com/cms/cms-2.1.20.2.26-linux-x86_64.tar.bz2)
-- [変更](http://data.emstone.com/docs/manuals/cms/changelog/cms21.html)
+- [変更](http://data.emstone.com/docs/cms/changelog/cms21.html)
 
 ## モバイルアプリ(App)
 
@@ -41,8 +41,8 @@ image:
 - バージョン: **2.9.20.2.14** (2020-02-14)
 - [ISO インストールイメージ](http://data.emstone.com/dvr/nvr-2.9.20.2.14.iso)
   ([SHA-256 Checksum](http://data.emstone.com/dvr/nvr-2.9.20.2.14.iso-sha256.txt))
-- [変更](http://data.emstone.com/docs/manuals/dvr/changelog/nvr29.html)
-- [HTTP API](http://data.emstone.com/docs/manuals/dvr/http/)
+- [変更](http://data.emstone.com/docs/dvr/changelog/nvr29.html)
+- [HTTP API](http://data.emstone.com/docs/dvr/http/)
 
 ## NDS
 
@@ -50,7 +50,7 @@ image:
 
 - バージョン: **1.5.20.2.21** (2020-02-21)
 - [ISO インストールイメージ](http://data.emstone.com/nds/nds-1.5.20.2.21.iso)
-- [変更](http://data.emstone.com/docs/manuals/emx/ChangeLog.html)
+- [変更](http://data.emstone.com/docs/emx/ChangeLog.html)
 
 ## Map Editor
 

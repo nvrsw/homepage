@@ -23,7 +23,7 @@ image:
   - [32-bits](http://data.emstone.com/cms/cms-2.1.20.2.26-win32.exe) / [64-bits](http://data.emstone.com/cms/cms-2.1.20.2.26-win64.exe)
 - Linux Installation Program (Ubuntu 19.04 / Arch Linux)
   - [64-bits](http://data.emstone.com/cms/cms-2.1.20.2.26-linux-x86_64.tar.bz2)
-- [Change Log](http://data.emstone.com/docs/manuals/cms/changelog/cms21.html)
+- [Change Log](http://data.emstone.com/docs/cms/changelog/cms21.html)
 
 ## Mobile App
 
@@ -41,8 +41,8 @@ image:
 - Version: **2.9.20.2.14** (2020-02-14)
 - [ISO Installation Image](http://data.emstone.com/dvr/nvr-2.9.20.2.14.iso)
   ([SHA-256 Checksum](http://data.emstone.com/dvr/nvr-2.9.20.2.14.iso-sha256.txt))
-- [Change Log](http://data.emstone.com/docs/manuals/dvr/changelog/nvr29.html)
-- [HTTP API](http://data.emstone.com/docs/manuals/dvr/http/)
+- [Change Log](http://data.emstone.com/docs/dvr/changelog/nvr29.html)
+- [HTTP API](http://data.emstone.com/docs/dvr/http/)
 
 ## NDS
 
@@ -50,7 +50,7 @@ image:
 
 - Version: **1.5.20.2.21** (2020-02-21)
 - [ISO Installation Image](http://data.emstone.com/nds/nds-1.5.20.2.21.iso)
-- [Change Log](http://data.emstone.com/docs/manuals/emx/ChangeLog.html)
+- [Change Log](http://data.emstone.com/docs/emx/ChangeLog.html)
 
 ## Map Editor
 

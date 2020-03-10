@@ -169,7 +169,7 @@
 [[main]]
   parent = "support"
   name = "IP 카메라 목록"
-  url = "support/ip-cameras/"
+  url = "http://data.emstone.com/docs/dvr/ip-camera-list.html"
   weight = 100
 
 [[main]]
