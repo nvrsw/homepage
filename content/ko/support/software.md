@@ -41,6 +41,7 @@ image:
 - 버전: **2.9.20.2.14** (2020-02-14)
 - [ISO 설치 이미지](http://data.emstone.com/dvr/nvr-2.9.20.2.14.iso)
   ([SHA-256 Checksum](http://data.emstone.com/dvr/nvr-2.9.20.2.14.iso-sha256.txt))
+   : *업그레이드 전용 / 제품키 필요*
 - [변경사항](http://data.emstone.com/docs/dvr/changelog/nvr29.html)
 - [HTTP API](http://data.emstone.com/docs/dvr/http/)
 
@@ -50,6 +51,7 @@ image:
 
 - 버전: **1.5.20.2.21** (2020-02-21)
 - [ISO 설치 이미지](http://data.emstone.com/nds/nds-1.5.20.2.21.iso)
+   : *업그레이드 전용 / 제품키 필요*
 - [변경사항](http://data.emstone.com/docs/emx/ChangeLog.html)
 
 ## Map Editor

@@ -145,14 +145,8 @@
   parent = "support"
   name = "IPカメラのリスト"
   url = "http://data.emstone.com/docs/dvr/ip-camera-list.html"
-  weight = 100
-
-[[main]]
-  parent = "support"
-  name = "EMSTONE HUB"
-  url = "https://hub.emstone.com/"
   post = " &nbsp; <i class='fas fa-external-link-square-alt' aria-hidden='true'></i>"
-  weight = 1000
+  weight = 100
 
 [[main]]
   parent = "company"
