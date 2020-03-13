@@ -60,7 +60,7 @@
   function removeQueryParamsFromUrl() {
     if (window.history.replaceState) {
       let urlWithoutSearchParams = window.location.protocol + "//" + window.location.host + window.location.pathname + window.location.hash;
-      window.history.replaceState({path: urlWithoutSearchParams}, '', urlWithoutSearchParams);
+      window.history.replaceState({ path: urlWithoutSearchParams }, '', urlWithoutSearchParams);
     }
   }
 
@@ -328,7 +328,7 @@
 
       // Show search modal.
       $('body').addClass('searching');
-      $('.search-results').css({opacity: 0, visibility: 'visible'}).animate({opacity: 1}, 200);
+      $('.search-results').css({ opacity: 0, visibility: 'visible' }).animate({ opacity: 1 }, 200);
       $('#search-query').focus();
     }
   }
@@ -438,7 +438,7 @@
     if (isDarkTheme === 0) {
       if (!init) {
         // Only fade in the page when changing the theme variation.
-        $('body').css({opacity: 0, visibility: 'visible'}).animate({opacity: 1}, 500);
+        $('body').css({ opacity: 0, visibility: 'visible' }).animate({ opacity: 1 }, 500);
       }
       $('body').removeClass('dark');
       if (codeHlEnabled) {
@@ -447,7 +447,7 @@
       }
       if (diagramEnabled) {
         if (init) {
-          mermaid.initialize({theme: 'default', securityLevel: 'loose'});
+          mermaid.initialize({ theme: 'default', securityLevel: 'loose' });
         } else {
           // Have to reload to re-initialise Mermaid with the new theme and re-parse the Mermaid code blocks.
           location.reload();
@@ -456,7 +456,7 @@
     } else if (isDarkTheme === 1) {
       if (!init) {
         // Only fade in the page when changing the theme variation.
-        $('body').css({opacity: 0, visibility: 'visible'}).animate({opacity: 1}, 500);
+        $('body').css({ opacity: 0, visibility: 'visible' }).animate({ opacity: 1 }, 500);
       }
       $('body').addClass('dark');
       if (codeHlEnabled) {
@@ -465,7 +465,7 @@
       }
       if (diagramEnabled) {
         if (init) {
-          mermaid.initialize({theme: 'dark', securityLevel: 'loose'});
+          mermaid.initialize({ theme: 'dark', securityLevel: 'loose' });
         } else {
           // Have to reload to re-initialise Mermaid with the new theme and re-parse the Mermaid code blocks.
           location.reload();
@@ -527,6 +527,7 @@
     $('#TableOfContents').addClass('nav flex-column');
     $('#TableOfContents li').addClass('nav-item');
     $('#TableOfContents li a').addClass('nav-link');
+    $('.toc2 #TableOfContents ul').addClass('nav nav-fill');
 
     // Fix Goldmark task lists (remove bullet points).
     $("input[type='checkbox'][disabled]").parents('ul').addClass('task-list');
@@ -629,7 +630,7 @@
         // Filter items when filter link is clicked.
         $section.find('.project-filters a').click(function () {
           let selector = $(this).attr('data-filter');
-          $container.isotope({filter: selector});
+          $container.isotope({ filter: selector });
           $(this).removeClass('active').addClass('active').siblings().removeClass('active all');
           return false;
         });
