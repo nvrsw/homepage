@@ -13,6 +13,8 @@ image:
   preview_only: true
 ---
 
+{{< toc2 >}}
+
 <div class="container">
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
@@ -32,7 +34,7 @@ image:
 - ONVIF / RTSP 표준 프로토콜 지원 (**ONVIF Profile S**)
 - H.265, H.264 압축 방식을 통한 선명한 화질 구현
 
-## 왜곡 없는 180° 화각
+### 왜곡 없는 180° 화각
 
 <div class="container">
 <div class="row justify-content-center align-items-start">
@@ -49,7 +51,7 @@ image:
 </div>
 </div>
 
-## 120dB Super WDR
+### 120dB Super WDR
 
 <div class="container">
 <div class="row justify-content-center align-items-start">
@@ -66,7 +68,7 @@ image:
 </div>
 </div>
 
-## IP67 & IK10
+### IP67 & IK10
 
 <div class="container">
 <div class="row justify-content-center align-items-start">

@@ -76,7 +76,7 @@ h3 {
 }
 
 #TableOfContents a.nav-link:hover {
-  background-color: #f0f0f0 !important;
+  background-color: #f8f8f8 !important;
 }
 
 .toc2 {
@@ -86,27 +86,18 @@ h3 {
 .toc2 #TableOfContents {
   border: 0;
   margin: 0 auto;
-  background-color: #f0f0f0;
-}
-
-.toc2 #TableOfContents a.nav-link::before {
-  content: '#';
-  color: #f0f0f0;
-  border-left: 2px solid #f0f0f0;
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
 }
 
 .toc2 #TableOfContents a.nav-link {
   margin: 1px;
   padding: 0.5rem;
-}
-
-.toc2 #TableOfContents a.nav-link:hover::before {
-  color: #e0e0f0;
-  border-left: 2px solid #d1121c;
+  font-weight: 500;
 }
 
 .toc2 #TableOfContents a.nav-link:hover {
-  background-color: #e0e0f0 !important;
+  background-color: #e5e5e5 !important;
 }
 
 .article-title {
