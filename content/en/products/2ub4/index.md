@@ -36,7 +36,7 @@ image:
 
 - 3.5" HDD up to 4ea (RAID unavailable)
 - Optional devices can be added (LAN, DI/DO)
-- Highly reliable 64-bit Linux-based digital video recorder
+- Highly reliable 64-bit Linux-based network video recorder
 - Clear video quality with H.265 / H.264 compression
 - Support **all resolutions** including 12M / 8M / 5M / 2M / 1.3M
 - Fast and stable system operation using DOM-SSD
@@ -45,11 +45,11 @@ image:
 - Continuous / Scheduled / Event Recording Modes
 - Various events like motion / sensor / camera signal loss / disk failures
 - Multi User Level and Screen Lock
-- User Authentication with **Bio Information**
-- Smart Failover: Automatic takeover with spare units when system is stopped
+- User Authentication with **Fingerprint Mouse**
+- Smart Failover: Automatic takeover to spare units when system is stopped
 - Bidirectional audio transmission
 - Max. 48TB with internal storage space
-- Built-in **LPR(License Plate Recognition)** license for 1 channel
+- Advanced **LPR(License Plate Recognition)** by 3rd party LPR server 
 - Model Line-up : 16, 25, 36, 49, 64 CH
 
 </div>
@@ -91,7 +91,7 @@ image:
 <th colspan="2">CPU</th>
 <td colspan="2">Dual Core 1.0GHz or Higher</td>
 <td>i3 3.0GHz or Higher</td>
-<td colspan="2">QuadCore 2.5GHz or Higher</td>
+<td colspan="2">intel i5 2.5GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>

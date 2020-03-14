@@ -49,7 +49,7 @@ image:
 - Failoverサポート：システムが停止されると予備装置が自動的に代替機能
 - 双方向音声機能をサポート
 - 最大192のゆったりセルフストレージスペース
-- **LPR方向車両番号抽出**ライセンス1CH組み込み
+- **LPR方向車両番号抽出**連動
 - モデルラインナップ：16, 25, 36, 49(F/H), 64(F/H), 81H, 100H, 128H CH
 
 </div>
@@ -89,7 +89,7 @@ image:
 <tr>
 <th colspan="2">CPU</th>
 <td colspan="3">Dual Core 1.0GHz or Higher</td>
-<td>QuadCore 2.5GHz or Higher</td>
+<td>intel i5 2.5GHz or Higher</td>
 <td>Dual Core 1.0GHz or Higher</td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td colspan="5">QuadCore 2.5GHz or Higher</td>
+<td colspan="5">intel i5 2.5GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -336,7 +336,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">日付/時刻の同期</th>
-<td>Windows / NTPタイムサーバを介して同期、独自のNTPサーバ機能、RFTCを通じた独自の同期</td>
+<td>Windows / NTPタイムサーバを介して同期、独自のNTPサーバ機能、GPSを通じた独自の同期</td>
 </tr>
 <tr>
 <th rowspan="2">インテリジェント<br>ソリューション</th>

@@ -38,7 +38,7 @@ image:
 - H.265, H.264, MJPEG Compression supported
 - Max. 24TB supported
 - **Smart Failover** supported
-- User Authentication with **Bio Information**
+- User Authentication with **Fingerprint Mouse**
 - Model Line-up : 64, 128 CH
 
 </div>

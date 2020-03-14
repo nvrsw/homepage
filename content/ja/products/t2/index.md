@@ -227,7 +227,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">日付/時刻の同期</th>
-<td colspan="2">Windows / NTPタイムサーバを介して同期、独自のNTPサーバ機能、RFTCを通じた独自の同期</td>
+<td colspan="2">Windows / NTPタイムサーバを介して同期、独自のNTPサーバ機能、GPSを通じた独自の同期</td>
 </tr>
 <tr>
 <th rowspan="2">インテリジェント<br>ソリューション</th>
