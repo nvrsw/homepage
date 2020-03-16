@@ -266,23 +266,12 @@ image:
 
 ## 다운로드
 
-- 카탈로그
-  - [T2_카탈로그_20200313.pdf](http://data.emstone.com/sales/ko/T2_카탈로그_20200313.pdf)
-- 외관도
-  - [T2_외관도_20200313.dwg](http://data.emstone.com/sales/ko/T2_외관도_20200313.dwg)
-  - [T2_외관도_20200313.png](http://data.emstone.com/sales/ko/T2_외관도_20200313.png)
-- 사양서
-  - [T2_사양서_20200313.xlsx](http://data.emstone.com/sales/ko/T2_사양서_20200313.xlsx)
-- 시방서
-  - [T2_F64_시방서_20200313.hwp](http://data.emstone.com/sales/ko/T2_F64_시방서_20200313.hwp)
-  - [T2_F128_시방서_20200313.hwp](http://data.emstone.com/sales/ko/T2_F128_시방서_20200313.hwp)
-- 출하검사 결과 성적서
-  - [T2_F64_출하검사결과성적서_20200313.xls](http://data.emstone.com/sales/ko/T2_F64_출하검사결과성적서_20200313.xls)
-  - [T2_F128_출하검사결과성적서_20200313.xls](http://data.emstone.com/sales/ko/T2_F128_출하검사결과성적서_20200313.xls)
-- 인증서
-  - [T2_방송통신기자재등(전자파적합성)시험성적서_20191108.pdf](http://data.emstone.com/sales/ko/T2_방송통신기자재등(전자파적합성)시험성적서_20191108.pdf)
-  - [T2_방송통신기자재등의적합등록필증_20191108.pdf](http://data.emstone.com/sales/ko/T2_방송통신기자재등의적합등록필증_20191108.pdf)
-- 매뉴얼
-  - [NVR_동작매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_동작매뉴얼_20200313.pdf)
-  - [NVR_사용자매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_사용자매뉴얼_20200313.pdf)
-  - [NVR_업그레이드매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_업그레이드매뉴얼_20200313.pdf)
+종류 | 파일
+---- | ----
+카탈로그 | [T2_카탈로그_20200313.pdf](http://data.emstone.com/sales/ko/T2_카탈로그_20200313.pdf)
+외관도 | [T2_외관도_20200313.dwg](http://data.emstone.com/sales/ko/T2_외관도_20200313.dwg)<br>[T2_외관도_20200313.png](http://data.emstone.com/sales/ko/T2_외관도_20200313.png)
+사양서 | [T2_사양서_20200313.xlsx](http://data.emstone.com/sales/ko/T2_사양서_20200313.xlsx)
+시방서 | [T2_F64_시방서_20200313.hwp](http://data.emstone.com/sales/ko/T2_F64_시방서_20200313.hwp)<br>[T2_F128_시방서_20200313.hwp](http://data.emstone.com/sales/ko/T2_F128_시방서_20200313.hwp)
+출하검사 결과 성적서 | [T2_F64_출하검사결과성적서_20200313.xls](http://data.emstone.com/sales/ko/T2_F64_출하검사결과성적서_20200313.xls)<br>[T2_F128_출하검사결과성적서_20200313.xls](http://data.emstone.com/sales/ko/T2_F128_출하검사결과성적서_20200313.xls)
+인증서 | [T2_방송통신기자재등(전자파적합성)시험성적서_20191108.pdf](http://data.emstone.com/sales/ko/T2_방송통신기자재등(전자파적합성)시험성적서_20191108.pdf)<br>[T2_방송통신기자재등의적합등록필증_20191108.pdf](http://data.emstone.com/sales/ko/T2_방송통신기자재등의적합등록필증_20191108.pdf)
+매뉴얼 | [NVR_동작매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_동작매뉴얼_20200313.pdf)<br>[NVR_사용자매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_사용자매뉴얼_20200313.pdf)<br>[NVR_업그레이드매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_업그레이드매뉴얼_20200313.pdf)
