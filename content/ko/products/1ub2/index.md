@@ -272,3 +272,29 @@ image:
 
 ※ KVM 스위치 사용 시 USB 타입의 제품을 사용해야 합니다. (PS/2 타입 사용 불가)  
 ※ 본 제품은 품질 향상을 위해 사전 예고없이 사양이 변경될 수 있습니다.
+
+## 다운로드
+
+- 카탈로그
+  - [1UB2_카탈로그_20200313.pdf](http://data.emstone.com/sales/ko/1UB2_카탈로그_20200313.pdf)
+- 외관도
+  - [1UB2_외관도_20200313.dwg](http://data.emstone.com/sales/ko/1UB2_외관도_20200313.dwg)
+  - [1UB2_외관도_20200313.png](http://data.emstone.com/sales/ko/1UB2_외관도_20200313.png)
+- 사양서
+  - [1UB2_사양서_20200313.xlsx](http://data.emstone.com/sales/ko/1UB2_사양서_20200313.xlsx)
+- 시방서
+  - [1UB2_EM-04B2_시방서_20200313.hwp](http://data.emstone.com/sales/ko/1UB2_EM-04B2_시방서_20200313.hwp)
+  - [1UB2_EM-09B2_시방서_20200313.hwp](http://data.emstone.com/sales/ko/1UB2_EM-09B2_시방서_20200313.hwp)
+  - [1UB2_EM-16B2_시방서_20200313.hwp](http://data.emstone.com/sales/ko/1UB2_EM-16B2_시방서_20200313.hwp)
+- 출하검사 결과 성적서
+  - [1UB2_EM-04B2_출하검사결과성적서_20200313.xls](http://data.emstone.com/sales/ko/1UB2_EM-04B2_출하검사결과성적서_20200313.xls)
+  - [1UB2_EM-09B2_출하검사결과성적서_20200313.xls](http://data.emstone.com/sales/ko/1UB2_EM-09B2_출하검사결과성적서_20200313.xls)
+  - [1UB2_EM-16B2_출하검사결과성적서_20200313.xls](http://data.emstone.com/sales/ko/1UB2_EM-16B2_출하검사결과성적서_20200313.xls)
+- 인증서
+  - [1UB2_방송통신기자재등(유선영상정보처리기기)시험성적서_20191128.pdf](http://data.emstone.com/sales/ko/1UB2_방송통신기자재등(유선영상정보처리기기)시험성적서_20191128.pdf)
+  - [1UB2_방송통신기자재등(전자파적합성)시험성적서_20191128.pdf](http://data.emstone.com/sales/ko/1UB2_방송통신기자재등(전자파적합성)시험성적서_20191128.pdf)
+  - [1UB2_방송통신기자재등의적합등록필증_20191129.pdf](http://data.emstone.com/sales/ko/1UB2_방송통신기자재등의적합등록필증_20191129.pdf)
+- 매뉴얼
+  - [NVR_동작매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_동작매뉴얼_20200313.pdf)
+  - [NVR_사용자매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_사용자매뉴얼_20200313.pdf)
+  - [NVR_업그레이드매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_업그레이드매뉴얼_20200313.pdf)

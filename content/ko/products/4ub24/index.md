@@ -284,10 +284,6 @@ image:
 
 ## 다운로드
 
-- 매뉴얼
-  - [NVR_동작매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_동작매뉴얼_20200313.pdf)
-  - [NVR_사용자매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_사용자매뉴얼_20200313.pdf)
-  - [NVR_업그레이드매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_업그레이드매뉴얼_20200313.pdf)
 - 카탈로그
   - [4UB24_카탈로그_20200313.pdf](http://data.emstone.com/sales/ko/4UB24_카탈로그_20200313.pdf)
 - 외관도
@@ -311,3 +307,7 @@ image:
   - [4UB24_방송통신기자재등(유선영상정보처리기기)시험성적서_20190805.pdf](http://data.emstone.com/sales/ko/4UB24_방송통신기자재등(유선영상정보처리기기)시험성적서_20190805.pdf)
   - [4UB24_방송통신기자재등(전자파적합성)시험성적서_20190805.pdf](http://data.emstone.com/sales/ko/4UB24_방송통신기자재등(전자파적합성)시험성적서_20190805.pdf)
   - [4UB24_방송통신기자재등의적합등록필증_20190805.pdf](http://data.emstone.com/sales/ko/4UB24_방송통신기자재등의적합등록필증_20190805.pdf)
+- 매뉴얼
+  - [NVR_동작매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_동작매뉴얼_20200313.pdf)
+  - [NVR_사용자매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_사용자매뉴얼_20200313.pdf)
+  - [NVR_업그레이드매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NVR_업그레이드매뉴얼_20200313.pdf)
