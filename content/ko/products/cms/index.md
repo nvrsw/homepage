@@ -75,3 +75,10 @@ image:
 ## 구성도
 
 {{< figure src="cms-diagram.png" >}}
+
+## 다운로드
+
+종류 | 파일
+---- | ----
+카탈로그 | [CMS_카탈로그_20200313.pdf](http://data.emstone.com/sales/ko/CMS_카탈로그_20200313.pdf)
+매뉴얼 | [CMS_Box_참고설명서_20200313.pdf](http://data.emstone.com/sales/ko/CMS_Box_참고설명서_20200313.pdf)

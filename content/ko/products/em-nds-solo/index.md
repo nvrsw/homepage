@@ -126,3 +126,15 @@ image:
 ※ 본 제품은 품질 향상을 위해 사전 예고없이 사양이 변경될 수 있습니다.  
 ※ Seamless Switch 기능 사용시 표시된 성능의 50%로 사용하셔야 합니다.  
 ※ Dual Monitor 사용시 두개의 모니터에 표현되는 채널수의 합이 표시된 성능 이하로 설정 권장
+
+## 다운로드
+
+종류 | 파일
+---- | ----
+카탈로그 | [NDS-Solo_카탈로그_20200313.pdf](http://data.emstone.com/sales/ko/NDS-Solo_카탈로그_20200313.pdf)
+외관도 | [NDS-Solo_외관도_20200313.dwg](http://data.emstone.com/sales/ko/NDS-Solo_외관도_20200313.dwg)<br>[NDS-Solo_외관도_20200313.png](http://data.emstone.com/sales/ko/NDS-Solo_외관도_20200313.png)
+사양서 | [NDS-Solo_사양서_20200313.xlsx](http://data.emstone.com/sales/ko/NDS-Solo_사양서_20200313.xlsx)
+시방서 | [NDS-Solo_시방서_20200313.hwp](http://data.emstone.com/sales/ko/NDS-Solo_시방서_20200313.hwp)
+출하검사 결과 성적서 | [NDS-Solo_출하검사결과성적서_20200313.xls](http://data.emstone.com/sales/ko/NDS-Solo_출하검사결과성적서_20200313.xls)
+인증서 | [NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20191108.pdf](http://data.emstone.com/sales/ko/NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20191108.pdf)<br>[NDS-Solo_방송통신기자재등의적합등록필증_20191108.pdf](http://data.emstone.com/sales/ko/NDS-Solo_방송통신기자재등의적합등록필증_20191108.pdf)
+매뉴얼 | [NDS_사용자매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NDS_사용자매뉴얼_20200313.pdf)<br>[NDS_설치자매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NDS_설치자매뉴얼_20200313.pdf)
