@@ -88,7 +88,7 @@ image:
 <tr>
 <th colspan="2">CPU</th>
 <td>Dual Core 1.0GHz or Higher</td>
-<td colspan="4">intel i5 2.5GHz or Higher</td>
+<td colspan="4">Intel i5 2.5GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
