@@ -128,3 +128,13 @@ image:
 ## 구성도
 
 {{< figure src="em-poe-amp-diagram.png" >}}
+
+## 다운로드
+
+종류 | 파일
+---- | ----
+카탈로그 | [AMP_카탈로그_20200313.pdf](http://data.emstone.com/sales/ko/AMP_카탈로그_20200313.pdf)
+외관도 | [AMP_외관도_20200313.png](http://data.emstone.com/sales/ko/AMP_외관도_20200313.png)
+사양서 | [AMP_사양서_20200313.xlsx](http://data.emstone.com/sales/ko/AMP_사양서_20200313.xlsx)
+시방서 | [AMP_시방서_20200313.hwp](http://data.emstone.com/sales/ko/AMP_시방서_20200313.hwp)
+인증서 | [AMP_방송통신기자재등(전자파적합성)시험성적서_20191114.pdf](http://data.emstone.com/sales/ko/AMP_방송통신기자재등(전자파적합성)시험성적서_20191114.pdf)<br>[AMP_방송통신기자재등의적합등록필증_20191115.pdf](http://data.emstone.com/sales/ko/AMP_방송통신기자재등의적합등록필증_20191115.pdf)
