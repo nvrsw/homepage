@@ -132,4 +132,4 @@ image:
 외관도 | [BELL_외관도_20200313.png](http://data.emstone.com/sales/ko/BELL_외관도_20200313.png)
 사양서 | [BELL_사양서_20200313.xlsx](http://data.emstone.com/sales/ko/BELL_사양서_20200313.xlsx)
 시방서 | [BELL_시방서_20200313.hwp](http://data.emstone.com/sales/ko/BELL_시방서_20200313.hwp)
-인증서 | [BELL_방송통신기자재등(전자파적합성)시험성적서_20191111.pdf](http://data.emstone.com/sales/ko/BELL_방송통신기자재등(전자파적합성)시험성적서_20191111.pdf)<br>[BELL_방송통신기자재등의적합등록필증_20191115.pdf](http://data.emstone.com/sales/ko/BELL_방송통신기자재등의적합등록필증_20191115.pdf)
+인증서 | [BELL_방송통신기자재등의적합등록필증_20191115.pdf](http://data.emstone.com/sales/ko/BELL_방송통신기자재등의적합등록필증_20191115.pdf)<br>[BELL_방송통신기자재등(전자파적합성)시험성적서_20191111.pdf](http://data.emstone.com/sales/ko/BELL_방송통신기자재등(전자파적합성)시험성적서_20191111.pdf)

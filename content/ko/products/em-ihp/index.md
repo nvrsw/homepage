@@ -241,3 +241,15 @@ image:
 </tbody>
 </table>
 </div>
+
+## 다운로드
+
+종류 | 파일
+---- | ----
+카탈로그 | [IHP_카탈로그_20200313.pdf](http://data.emstone.com/sales/ko/IHP_카탈로그_20200313.pdf)
+외관도 | [IHP_외관도_20200313.png](http://data.emstone.com/sales/ko/IHP_외관도_20200313.png)
+사양서 | [IHP_사양서_20200313.xlsx](http://data.emstone.com/sales/ko/IHP_사양서_20200313.xlsx)
+시방서 | [IHP(IR12x)_시방서_20200313.hwp](http://data.emstone.com/sales/ko/IHP(IR12x)_시방서_20200313.hwp)<br>[IHP(IR12xP)_시방서_20200313.hwp](http://data.emstone.com/sales/ko/IHP(IR12xP)_시방서_20200313.hwp)
+출하검사 결과 성적서 | [IHP(IR12x)_출하검사성적서_20200313.xls](http://data.emstone.com/sales/ko/IHP(IR12x)_출하검사성적서_20200313.xls)<br>[IHP(IR12xP)_출하검사성적서_20200313.xls](http://data.emstone.com/sales/ko/IHP(IR12xP)_출하검사성적서_20200313.xls)
+인증서 | [IHP_방송통신기자재등의적합등록필증_20190910.pdf](http://data.emstone.com/sales/ko/IHP_방송통신기자재등의적합등록필증_20190910.pdf)<br>[IHP_방송통신기자재등(전자파적합성)시험성적서_20190909.pdf](http://data.emstone.com/sales/ko/IHP_방송통신기자재등(전자파적합성)시험성적서_20190909.pdf)<br>[IHP_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190909.pdf](http://data.emstone.com/sales/ko/IHP_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190909.pdf)
+소프트웨어 | [EM-IHP_Smart_Tools_2.3.0.3_Setup.exe](http://data.emstone.com/sales/ko/EM-IHP_Smart_Tools_2.3.0.3_Setup.exe)

@@ -243,3 +243,16 @@ image:
 </tbody>
 </table>
 </div>
+
+## 다운로드
+
+종류 | 파일
+---- | ----
+카탈로그 | [IHD_카탈로그_20200313.pdf](http://data.emstone.com/sales/ko/IHD_카탈로그_20200313.pdf)
+외관도 | [IHD_non_IR_외관도_20200313.png](http://data.emstone.com/sales/ko/IHD_non_IR_외관도_20200313.png)<br>[IHD_IR_외관도_20200313.png](http://data.emstone.com/sales/ko/IHD_IR_외관도_20200313.png)
+사양서 | [IHD_사양서_20200313.xlsx](http://data.emstone.com/sales/ko/IHD_사양서_20200313.xlsx)
+시방서 | [IHD(F21)_시방서_20200313.hwp](http://data.emstone.com/sales/ko/IHD(F21)_시방서_20200313.hwp)<br>[IHD(F28)_시방서_20200313.hwp](http://data.emstone.com/sales/ko/IHD(F28)_시방서_20200313.hwp)<br>[IHD(IRF36)_시방서_20200313.hwp](http://data.emstone.com/sales/ko/IHD(IRF36)_시방서_20200313.hwp)<br>[IHD(IR2812Z)_시방서_20200313.hwp](http://data.emstone.com/sales/ko/IHD(IR2812Z)_시방서_20200313.hwp)
+출하검사 결과 성적서 | [IHD(F21)_출하검사성적서_20200313.xls](http://data.emstone.com/sales/ko/IHD(F21)_출하검사성적서_20200313.xls)<br>[IHD(F28)_출하검사성적서_20200313.xls](http://data.emstone.com/sales/ko/IHD(F28)_출하검사성적서_20200313.xls)<br>[IHD(IRF36)_출하검사성적서_20200313.xls](http://data.emstone.com/sales/ko/IHD(IRF36)_출하검사성적서_20200313.xls)<br>[IHD(IR2812Z)_출하검사성적서_20200313.xls](http://data.emstone.com/sales/ko/IHD(IR2812Z)_출하검사성적서_20200313.xls)
+인증서 | [IHD_방송통신기자재등의적합등록필증_20191030.pdf](http://data.emstone.com/sales/ko/IHD_방송통신기자재등의적합등록필증_20191030.pdf)
+매뉴얼 | [EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf](http://data.emstone.com/sales/ko/EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf)<br>[EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf)<br>[EM-IHD_IP_Camera_User_Manual_20200313.pdf](http://data.emstone.com/sales/ko/EM-IHD_IP_Camera_User_Manual_20200313.pdf)
+소프트웨어 | [EM-IHD_IP_Manager_1.4.8.exe](http://data.emstone.com/sales/ko/EM-IHD_IP_Manager_1.4.8.exe)

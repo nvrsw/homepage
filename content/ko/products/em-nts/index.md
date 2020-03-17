@@ -141,5 +141,5 @@ image:
 사양서 | [NTS_사양서_20200313.xlsx](http://data.emstone.com/sales/ko/NTS_사양서_20200313.xlsx)<br>[NTS_Specification_20200313.doc](http://data.emstone.com/sales/ko/NTS_Specification_20200313.doc)
 시방서 | [NTS_시방서_20200313.hwp](http://data.emstone.com/sales/ko/NTS_시방서_20200313.hwp)
 출하검사 결과 성적서 | [NTS_출하검사결과성적서_20200313.xls](http://data.emstone.com/sales/ko/NTS_출하검사결과성적서_20200313.xls)
-인증서 | [NTS_방송통신기자재등(전자파적합성)시험성적서_20181226.pdf](http://data.emstone.com/sales/ko/NTS_방송통신기자재등(전자파적합성)시험성적서_20181226.pdf)<br>[NTS_방송통신기자재등의적합등록필증_20181226.pdf](http://data.emstone.com/sales/ko/NTS_방송통신기자재등의적합등록필증_20181226.pdf)
+인증서 | [NTS_방송통신기자재등의적합등록필증_20181226.pdf](http://data.emstone.com/sales/ko/NTS_방송통신기자재등의적합등록필증_20181226.pdf)<br>[NTS_방송통신기자재등(전자파적합성)시험성적서_20181226.pdf](http://data.emstone.com/sales/ko/NTS_방송통신기자재등(전자파적합성)시험성적서_20181226.pdf)
 매뉴얼 | [NTS_사용자매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NTS_사용자매뉴얼_20200313.pdf)

@@ -208,3 +208,15 @@ image:
 </tbody>
 </table>
 </div>
+
+## 다운로드
+
+종류 | 파일
+---- | ----
+카탈로그 | [IX_카탈로그_20200313.pdf](http://data.emstone.com/sales/ko/IX_카탈로그_20200313.pdf)
+외관도 | [IX(8060MB)_외관도_20200313.png](http://data.emstone.com/sales/ko/IX(8060MB)_외관도_20200313.png)<br>[IX(1612MB)_외관도_20200313.png](http://data.emstone.com/sales/ko/IX(1612MB)_외관도_20200313.png)<br>[IX(8060MS)_외관도_20200313.png](http://data.emstone.com/sales/ko/IX(8060MS)_외관도_20200313.png)<br>[IX(8060MH)_외관도_20200313.png](http://data.emstone.com/sales/ko/IX(8060MH)_외관도_20200313.png)
+사양서 | [IX_사양서_20200313.xlsx](http://data.emstone.com/sales/ko/IX_사양서_20200313.xlsx)
+시방서 | [IX(8060MB)_시방서_20200313.hwp](http://data.emstone.com/sales/ko/IX(8060MB)_시방서_20200313.hwp)<br>[IX(1612MB)_시방서_20200313.hwp](http://data.emstone.com/sales/ko/IX(1612MB)_시방서_20200313.hwp)<br>[IX(8060MS)_시방서_20200313.hwp](http://data.emstone.com/sales/ko/IX(8060MS)_시방서_20200313.hwp)<br>[IX(8060MH)_시방서_20200313.hwp](http://data.emstone.com/sales/ko/IX(8060MH)_시방서_20200313.hwp)
+출하검사 결과 성적서 | [IX(8060MB)_출하검사성적서_20200313.xls](http://data.emstone.com/sales/ko/IX(8060MB)_출하검사성적서_20200313.xls)<br>[IX(1612MB)_출하검사성적서_20200313.xls](http://data.emstone.com/sales/ko/IX(1612MB)_출하검사성적서_20200313.xls)<br>[IX(8060MS)_출하검사성적서_20200313.xls](http://data.emstone.com/sales/ko/IX(8060MS)_출하검사성적서_20200313.xls)<br>[IX(8060MH)_출하검사성적서_20200313.xls](http://data.emstone.com/sales/ko/IX(8060MH)_출하검사성적서_20200313.xls)
+인증서 | [IX_방송통신기자재등의적합등록필증_20190417.pdf](http://data.emstone.com/sales/ko/IX_방송통신기자재등의적합등록필증_20190417.pdf)
+소프트웨어 | [EM-IX_IPInstaller-MAC.exe](http://data.emstone.com/sales/ko/EM-IX_IPInstaller-MAC.exe)

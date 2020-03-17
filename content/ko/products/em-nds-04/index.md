@@ -136,5 +136,5 @@ image:
 사양서 | [NDS-04_사양서_20200313.xlsx](http://data.emstone.com/sales/ko/NDS-04_사양서_20200313.xlsx)
 시방서 | [NDS-04_시방서_20200313.hwp](http://data.emstone.com/sales/ko/NDS-04_시방서_20200313.hwp)
 출하검사 결과 성적서 | [NDS-04_출하검사결과성적서_20200313.xls](http://data.emstone.com/sales/ko/NDS-04_출하검사결과성적서_20200313.xls)
-인증서 | [NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf](http://data.emstone.com/sales/ko/NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf)<br>[NDS-04_방송통신기자재등의적합등록필증_20180824.pdf](http://data.emstone.com/sales/ko/NDS-04_방송통신기자재등의적합등록필증_20180824.pdf)
+인증서 | [NDS-04_방송통신기자재등의적합등록필증_20180824.pdf](http://data.emstone.com/sales/ko/NDS-04_방송통신기자재등의적합등록필증_20180824.pdf)<br>[NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf](http://data.emstone.com/sales/ko/NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf)
 매뉴얼 | [NDS_사용자매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NDS_사용자매뉴얼_20200313.pdf)<br>[NDS_설치자매뉴얼_20200313.pdf](http://data.emstone.com/sales/ko/NDS_설치자매뉴얼_20200313.pdf)

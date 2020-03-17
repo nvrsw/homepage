@@ -233,3 +233,14 @@ image:
 </tbody>
 </table>
 </div>
+
+## 다운로드
+
+종류 | 파일
+---- | ----
+카탈로그 | [IHI_카탈로그_20200313.pdf](http://data.emstone.com/sales/ko/IHI_카탈로그_20200313.pdf)
+외관도 | [IHI(IR2812Z_IR0550Z)_외관도_20200313.png](http://data.emstone.com/sales/ko/IHI(IR2812Z_IR0550Z)_외관도_20200313.png)<br>[IHI(IR5151Z)_외관도_20200313.png](http://data.emstone.com/sales/ko/IHI(IR5151Z)_외관도_20200313.png)
+사양서 | [IHI_사양서_20200313.xlsx](http://data.emstone.com/sales/ko/IHI_사양서_20200313.xlsx)
+시방서 | [IHI(IR2812Z)_시방서_20200313.hwp](http://data.emstone.com/sales/ko/IHI(IR2812Z)_시방서_20200313.hwp)<br>[IHI(IR0550Z)_시방서_20200313.hwp](http://data.emstone.com/sales/ko/IHI(IR0550Z)_시방서_20200313.hwp)<br>[IHI(IR5151Z)_시방서_20200313.hwp](http://data.emstone.com/sales/ko/IHI(IR5151Z)_시방서_20200313.hwp)
+출하검사 결과 성적서 | [IHI(IR2812Z)_출하검사성적서_20200313.xls](http://data.emstone.com/sales/ko/IHI(IR2812Z)_출하검사성적서_20200313.xls)<br>[IHI(IR0550Z)_출하검사성적서_20200313.xls](http://data.emstone.com/sales/ko/IHI(IR0550Z)_출하검사성적서_20200313.xls)<br>[IHI(IR5151Z)_출하검사성적서_20200313.xls](http://data.emstone.com/sales/ko/IHI(IR5151Z)_출하검사성적서_20200313.xls)
+인증서 | [IHI(IR2812Z)_방송통신기자재등의적합등록필증_20190826.pdf](http://data.emstone.com/sales/ko/IHI(IR2812Z)_방송통신기자재등의적합등록필증_20190826.pdf)<br>[IHI(IR2812Z)_방송통신기자재등(전자파적합성)시험성적서_20190823.pdf](http://data.emstone.com/sales/ko/IHI(IR2812Z)_방송통신기자재등(전자파적합성)시험성적서_20190823.pdf)<br>[IHI(IR2812Z)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190821.pdf](http://data.emstone.com/sales/ko/IHI(IR2812Z)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190821.pdf)<br>[IHI(IR0550Z)_방송통신기자재등의적합등록필증_20190826.pdf](http://data.emstone.com/sales/ko/IHI(IR0550Z)_방송통신기자재등의적합등록필증_20190826.pdf)<br>[IHI(IR0550Z)_방송통신기자재등(전자파적합성)시험성적서_20190821.pdf](http://data.emstone.com/sales/ko/IHI(IR0550Z)_방송통신기자재등(전자파적합성)시험성적서_20190821.pdf)<br>[IHI(IR0550Z)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190821.pdf](http://data.emstone.com/sales/ko/IHI(IR0550Z)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190821.pdf)<br>[IHI(IR5151Z)_방송통신기자재등의적합등록필증_20190826.pdf](http://data.emstone.com/sales/ko/IHI(IR5151Z)_방송통신기자재등의적합등록필증_20190826.pdf)<br>[IHI(IR5151Z)_방송통신기자재등(전자파적합성)시험성적서_20190823.pdf](http://data.emstone.com/sales/ko/IHI(IR5151Z)_방송통신기자재등(전자파적합성)시험성적서_20190823.pdf)<br>[IHI(IR5151Z)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190826.pdf](http://data.emstone.com/sales/ko/IHI(IR5151Z)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190826.pdf)

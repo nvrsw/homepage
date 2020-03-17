@@ -182,5 +182,5 @@ image:
 사양서 | [CMS_Station_사양서_20200313.xlsx](http://data.emstone.com/sales/ko/CMS_Station_사양서_20200313.xlsx)
 시방서 | [CMS_Station_시방서_20200313.hwp](http://data.emstone.com/sales/ko/CMS_Station_시방서_20200313.hwp)
 출하검사 결과 성적서 | [CMS_Station_출하검사결과성적서_20200313.xls](http://data.emstone.com/sales/ko/CMS_Station_출하검사결과성적서_20200313.xls)
-인증서 | [CMS_Station_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf](http://data.emstone.com/sales/ko/CMS_Station_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf)<br>[CMS_Station_방송통신기자재등의적합등록필증_20180824.pdf](http://data.emstone.com/sales/ko/CMS_Station_방송통신기자재등의적합등록필증_20180824.pdf)
+인증서 | [CMS_Station_방송통신기자재등의적합등록필증_20180824.pdf](http://data.emstone.com/sales/ko/CMS_Station_방송통신기자재등의적합등록필증_20180824.pdf)<br>[CMS_Station_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf](http://data.emstone.com/sales/ko/CMS_Station_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf)
 매뉴얼 | [CMS_Box_참고설명서_20200313.pdf](http://data.emstone.com/sales/ko/CMS_Box_참고설명서_20200313.pdf)
