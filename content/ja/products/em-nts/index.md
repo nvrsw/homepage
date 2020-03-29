@@ -27,19 +27,19 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-8 pl-0">
 
-## 特徴
+## 特長
 
 - 最大FullHD 60fps HDMI映像入力
 - H.264 30fpsのIPストリーム出力
 - ターゲットシステムに影響を及ぼさない(0％), 外部のハードウェアエンコード方式
 - TVセットトップボックス, 操作PC, 監視システムのHDMI信号をすべて受信
-- HDMI loopサポートに単独で使用可能
-- Audioサポートに災害放送送出に適してい
+- HDMI loop対応に単独で使用可能
+- 音声対応により災害放送にも最適
 
 </div>
 <div class="col-sm-4 pl-0">
 
-## 外観も
+## 外観
 
 {{< figure src="em-nts-drawing.png" >}}
 

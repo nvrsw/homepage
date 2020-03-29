@@ -75,7 +75,7 @@ image:
 <tr>
 <th colspan="2">CPU</th>
 <td>Dual Core 1.0GHz or Higher</td>
-<td>QuadCore 3.0GHz or Higher</td>
+<td>intel i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>

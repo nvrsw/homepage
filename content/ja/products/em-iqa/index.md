@@ -23,13 +23,13 @@ image:
 </div>
 </div>
 
-## 特徴
+## 特長
 
 - 歪みのない**180°のパノラマ**映像を提供
 - **QHD** 5メガピクセル 2560x1920p@30fps
 - SONY Progressive CMOS Sensor
-- **PoE**(Power over Ethernet) をサポート
-- ONVIF / RTSP 標準プロトコルをサポート (**ONVIF Profile S**)
+- **PoE**(Power over Ethernet) に対応
+- ONVIF / RTSP 標準プロトコルに対応 (**ONVIF Profile S**)
 - H.265, H.264 圧縮方式による鮮明な画質を実現
 
 ## 歪みのない180°の画角
@@ -55,7 +55,7 @@ image:
 <div class="row justify-content-center align-items-start">
 <div class="col-sm-6">
 
-センサーベースのWDR技術を介して極限の逆光、ハイコントラスト環境でもリアルな色を再現して、詳細な映像を録画することができます。信号に比べて最大140dBをサポートします。
+センサーベースのWDR技術を介して極限の逆光、ハイコントラスト環境でもリアルな色を再現して、詳細な映像を録画することができます。信号に比べて最大140dBに対応します。
 
 </div>
 <div class="col-sm-6">
@@ -72,7 +72,7 @@ image:
 <div class="row justify-content-center align-items-start">
 <div class="col-sm-6">
 
-IP67等級の防水/防塵、IK10等級の破損防止をサポートし、カメラを極限環境の中でも安全に保護します。
+IP67等級の防水/防塵、IK10等級の破損防止に対応し、カメラを極限環境の中でも安全に保護します。
 
 </div>
 <div class="col-sm-6">

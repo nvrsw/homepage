@@ -28,15 +28,15 @@ image:
 </div>
 </div>
 
-## 特徴
+## 特長
 
 - **Pyroelectric IRセンサー**を適用した高精度の人体検知カメラ
 - **FullHD** 2メガピクセル 1920x1080p@30fps
-- **PoE**(Power over Ethernet) をサポート
-- ONVIF / RTSP 標準プロトコルをサポート (**ONVIF Profile S**)
+- **PoE**(Power over Ethernet) に対応
+- ONVIF / RTSP 標準プロトコルに対応 (**ONVIF Profile S**)
 - H.265 / H.264 圧縮方式による鮮明な画質を実現
 
-## 外観も
+## 外観
 
 <div class="container">
 <div class="row justify-content-center align-items-end">

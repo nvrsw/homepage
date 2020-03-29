@@ -27,9 +27,9 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-6 pl-0">
 
-## 特徴
+## 特長
 
-- PoE（Power Over Ethernet）をサポート
+- PoE（Power Over Ethernet）に対応
 - PoE Repeater 機能
 - BlueTooth Remote 機能
 - ビープ音出力と動作時間調整可能
@@ -39,7 +39,7 @@ image:
 </div>
 <div class="col-sm-6 pl-0">
 
-## 外観も
+## 外観
 
 {{< figure src="em-bell-drawing.png" >}}
 
@@ -77,9 +77,9 @@ image:
 <td>45~55V, 15W</td>
 </tr>
 <tr>
-<th rowspan="3">MIC</th>
+<th rowspan="3">マイク</th>
 <th>入力</th>
-<td>Condensor MIC</td>
+<td>Condensor マイク</td>
 </tr>
 <tr>
 <th>出力</th>
@@ -87,16 +87,16 @@ image:
 </tr>
 <tr>
 <th>ボリュームコントロール</th>
-<td>サポート</td>
+<td>対応</td>
 </tr>
 <tr>
-<th rowspan="2">Speaker</th>
+<th rowspan="2">スピーカー</th>
 <th>出力</th>
 <td>15W</td>
 </tr>
 <tr>
 <th>ボリュームコントロール</th>
-<td>サポート</td>
+<td>対応</td>
 </tr>
 <tr>
 <th colspan="2">動作温度/湿度</th>

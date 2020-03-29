@@ -43,7 +43,7 @@ align = "end"
 [[feature]]
   image = "solutions/entrance/featured.jpg"
   url = "solutions/entrance/"
-  name = "安全入茶"
+  name = "安全な入出車"
   description = "Safe Entry Vehicles"
 
 [[feature]]

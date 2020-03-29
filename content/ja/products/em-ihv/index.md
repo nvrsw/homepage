@@ -23,15 +23,15 @@ image:
 </div>
 </div>
 
-## 特徴
+## 特長
 
 - **FullHD** 2メガピクセル 1920x1080p@30fps
 - SONY Progressive CMOS Sensor
-- **PoE**(Power over Ethernet) をサポート
-- ONVIF / RTSP 標準プロトコルをサポート (**ONVIF Profile S**)
+- **PoE**(Power over Ethernet) に対応
+- ONVIF / RTSP 標準プロトコルに対応 (**ONVIF Profile S**)
 - H.264 圧縮方式による鮮明な画質を実現
 
-## 外観も
+## 外観
 
 {{< figure src="em-ihv-drawing.png" caption="EM-IHV(IRF36) / EM-IHV(IR2812Z)" >}}
 

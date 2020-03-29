@@ -27,24 +27,24 @@ image:
 <div class="row align-items-top">
 <div class="col-12 col-sm-8 pl-0">
 
-## 特徴
+## 特長
 
 - 最大256台のNVR監視可能（Multi-Takeover）
-- 多数の障害対応サーバ運用可能（Multi-Failover）
-- 多数NVR星重要チャンネルだけ別に設定可能な、高度なモード（Advanced Mode）を- サポート
-- 瞬間エラー回避のための遅延時間を設定する（サイクルx回数）が可能
+- 複数の障害対応サーバ運用可能（Multi-Failover）
+- 複数のNVRの重要チャンネルだけ個別設定可能なAdvanced Modeに対応
+- 瞬間エラー回避のための遅延時間を設定する（サイクルx試行回数）が可能
 - D1（640x360）〜12M（4000x3000 @ 30fps）最大128チャンネルの同時録画が可能
-- 緊急映像確認のための1チャンネル同時ライブ/検索可能
-- H.265 / H.264 / MJPEG圧縮方式をサポート
-- 最大24TBの装着をサポート
-- **Smart Failover** サポート
-- **生体情報**を利用したユーザー認証のサポート
+- 緊急時の映像確認のための1チャンネルライブ表示/検索が可能
+- H.265 / H.264 / MJPEG圧縮方式に対応
+- 最大24TBの装着に対応
+- **Smart Failover** 対応
+- **生体情報**を利用したユーザー認証に対応
 - モデルラインナップ：64、128 CH
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
 
-## 外観も
+## 外観
 
 {{< figure src="t2-drawing.png" >}}
 
@@ -73,7 +73,7 @@ image:
 <tr>
 <th colspan="2">CPU</th>
 <td>Dual Core 1.0GHz or Higher</td>
-<td>QuadCore 3.0GHz or Higher</td>
+<td>intel i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -111,7 +111,7 @@ image:
 <tr>
 <th rowspan="3">検索/再生</th>
 <th>検索モード</th>
-<td colspan="2">日付/時刻カレンダー検索、個別/チャンネルの束を検索、イベント検索</td>
+<td colspan="2">日付/時刻カレンダー検索、チャンネルの単独/複数による検索、イベント検索</td>
 </tr>
 <tr>
 <th>性能</th>
@@ -119,7 +119,7 @@ image:
 </tr>
 <tr>
 <th>再生制御</th>
-<td colspan="2">前方/後方再生（高速：x1〜x32、低速：1/4〜1/2）、スタッフ前/後</td>
+<td colspan="2">前方/後方再生（高速：x1〜x32、低速：1/4〜1/2）、コマ戻し/送り</td>
 </tr>
 <tr>
 <th rowspan="2">IP カメラ</th>
@@ -153,12 +153,12 @@ image:
 </tr>
 <tr>
 <th>外部<br>ストレージ</th>
-<td colspan="2">iSCSIのサポート</td>
+<td colspan="2">iSCSIに対応</td>
 </tr>
 <tr>
 <th rowspan="2">バックアップ</th>
 <th>バックアップ<br>モード</th>
-<td colspan="2">動画（複数のバックアップ、日付/時刻/イベント情報表示、暗号化機能をサポート）、静止画（一部モザイクサポート）</td>
+<td colspan="2">動画（複数のバックアップ、日付/時刻/イベント情報表示、暗号化機能に対応）、静止画（一部モザイク対応）</td>
 </tr>
 <tr>
 <th>ファイル形式</th>
@@ -167,11 +167,11 @@ image:
 <tr>
 <th rowspan="2">イベント</th>
 <th>種類</th>
-<td colspan="2">動き検知、センサー、リレー、ディスク異常、カメラ信号の損失/リカバリ、非常ベル、車両のナンバープレート認識、POS連動、エレベーター連動、火災/煙検出、異常音源検出、熱画像カメラ連動、インテリジェントサーバー連動</td>
+<td colspan="2">動き検知、センサー、リレー、ディスク異常、カメラ信号の損失/回復、非常ベル、車両のナンバープレート認識、POS連動、エレベーター連動、火災/煙検出、異常音源検出、熱画像カメラ連動、インテリジェントサーバー連動</td>
 </tr>
 <tr>
 <th>動作</th>
-<td colspan="2">録画、アラーム発生、ポップアップカメラ、ビープ音の発生、警告メッセージの発生、E-mail通知、FTP転送、プリセット動作</td>
+<td colspan="2">録画、アラーム発生、映像ポップアップ、ビープ音再生、警告メッセージ表示、E-mail通知、FTP転送、プリセット動作</td>
 </tr>
 <tr>
 <th rowspan="3">アプリケーション<br>プログラム</th>
@@ -180,11 +180,11 @@ image:
 </tr>
 <tr>
 <th>Web</th>
-<td colspan="2">全チャンネルのライブ、PAN / TILT / ZOOM制御</td>
+<td colspan="2">全チャンネルのライブ表示、PAN / TILT / ZOOM制御</td>
 </tr>
 <tr>
 <th>スマートフォン</th>
-<td colspan="2">iPhoneの/ AndroidのApp提供</td>
+<td colspan="2">iPhone/Android 各App提供</td>
 </tr>
 <tr>
 <th rowspan="4">ネットワーク</th>
@@ -223,7 +223,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">セキュリティ</th>
-<td colspan="2">Multi User Level、指紋マウスベースの認証をサポート</td>
+<td colspan="2">Multi User Level、指紋マウスベースの認証に対応</td>
 </tr>
 <tr>
 <th colspan="2">日付/時刻の同期</th>

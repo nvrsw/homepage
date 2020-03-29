@@ -33,18 +33,18 @@ image:
 </div>
 </div>
 
-## 特徴
+## 特長
 
 - 熱画像センサを適用して、**温度検出**に特化した熱画像カメラ
 - 検出温度範囲：**0℃〜120℃**
 - 非冷却式マイクロボルロミト適用
 - **熱画像オフィス画像**デュアルセンサー適用：EM-IX（8060MS）/ EM-IX（8060MH）モデル
 - FullHD 2メガピクセル1920x1080p @ 30fps
-- **PoE**（Power over Ethernet）をサポート
-- ONVIF / RTSP 標準プロトコルをサポート（**ONVIF Profile S**）
+- **PoE**（Power over Ethernet）に対応
+- ONVIF / RTSP 標準プロトコルに対応（**ONVIF Profile S**）
 - H.264 圧縮方式による鮮明な画質を実現
 
-## 外観も
+## 外観
 
 <div class="container">
 <div class="row justify-content-center align-items-end">

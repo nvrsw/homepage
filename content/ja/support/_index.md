@@ -1,5 +1,5 @@
 ---
-title: サポート
+title: 対応
 
 # View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 2
@@ -15,7 +15,7 @@ cascade:
   <a class="d-inline d-sm-none" href='tel:{{< param "company_phone" >}}'>{{< param "company_phone" >}}</a>
   <span class="d-none d-sm-inline">{{< param "company_phone" >}}</a>
 </p>
-<p>サポートセンター</p>
+<p>対応センター</p>
 </div>
 
-## [サポートされているネットワークIPカメラ](http://data.emstone.com/docs/dvr/ip-camera-list.html)
+## [対応されているネットワークIPカメラ](http://data.emstone.com/docs/dvr/ip-camera-list.html)

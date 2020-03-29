@@ -23,15 +23,15 @@ image:
 </div>
 </div>
 
-## 特徴
+## 特長
 
 - **QHD** 5メガピクセル 2560x1920p@30fps
 - SONY Progressive CMOS Sensor
-- **PoE**(Power over Ethernet) をサポート
-- ONVIF / RTSP 標準プロトコルをサポート (**ONVIF Profile S**)
+- **PoE**(Power over Ethernet) に対応
+- ONVIF / RTSP 標準プロトコルに対応 (**ONVIF Profile S**)
 - H.265, H.264 圧縮方式による鮮明な画質を実現
 
-## 外観も
+## 外観
 
 {{< figure src="em-iqv-drawing.png" caption="EM-IQV(IRF36) / EM-IQV(IR2812Z)" >}}
 
