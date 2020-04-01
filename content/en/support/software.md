@@ -14,6 +14,8 @@ image:
   preview_only: true
 ---
 
+{{< toc2 >}}
+
 ## CMS
 
 *Central Monitoring System for NVR / IP Video Wall*

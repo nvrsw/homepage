@@ -14,6 +14,8 @@ image:
   preview_only: true
 ---
 
+{{< toc2 >}}
+
 ## CMS
 
 *Central Monitoring System for NVR / IP Video Wall*
@@ -25,7 +27,7 @@ image:
   - [64ビット](http://data.emstone.com/cms/cms-2.1.20.3.27-linux-x86_64.tar.bz2)
 - [変更](http://data.emstone.com/docs/cms/changelog/cms21.html)
 
-## モバイルアプリ(App)
+## モバイルアプリ
 
 *Linux NVR Mobile Viewer*
 
