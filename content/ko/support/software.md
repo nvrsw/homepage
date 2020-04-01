@@ -65,9 +65,9 @@ image:
 ## TTA 인증
 
 - NVR
-  - 버전: **2.9.20.3.31** (2020-03-31)
-  - [ISO 설치 파일](http://data.emstone.com/dvr/nvr-2.9.20.3.31.iso)
-    / [SHA-256 Checksum](http://data.emstone.com/dvr/nvr-2.9.20.3.31.iso-sha256.txt)
+  - 버전: **2.9.19.4.10** (2019-04-10)
+  - [ISO 설치 파일](http://data.emstone.com/tta/emstone/nvr-2.9.19.4.10.iso)
+    / [SHA-256 Checksum](http://data.emstone.com/tta/emstone/nvr-2.9.19.4.10.iso-sha256.txt)
 - CMS
   - 버전: **2.1.20.3.27** (2020-03-27)
   - [32비트](http://data.emstone.com/cms/cms-2.1.20.3.27-win32.exe) / [64비트](http://data.emstone.com/cms/cms-2.1.20.3.27-win64.exe)
