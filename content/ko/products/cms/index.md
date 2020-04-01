@@ -80,5 +80,5 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [CMS_카탈로그_20200313.pdf](http://data.emstone.com/sales/ko/CMS_카탈로그_20200313.pdf)
-매뉴얼 | [CMS_Box_참고설명서_20200313.pdf](http://data.emstone.com/sales/ko/CMS_Box_참고설명서_20200313.pdf)
+카탈로그 | [CMS_카탈로그_20200313.pdf](/data/sales/ko/CMS_카탈로그_20200313.pdf)
+매뉴얼 | [CMS_Box_참고설명서_20200313.pdf](/data/sales/ko/CMS_Box_참고설명서_20200313.pdf)
