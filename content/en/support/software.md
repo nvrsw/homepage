@@ -20,7 +20,7 @@ image:
 
 - Version: **2.1.20.3.27** (2020-03-27)
 - Windows Installation Program (Windows 7 / Windows 8 / Windows 10)
-  - [32-bits](http://data.emstone.com/cms/cms-2.1.20.3.27-win32.exe) / [64-bits](http://data.emstone.com/cms/cms-2.1.20.3.27-win64.exe)
+  - [32-bits](http://data.emstone.com/cms/cms-2.1.20.3.27-win32-emstone.exe) / [64-bits](http://data.emstone.com/cms/cms-2.1.20.3.27-win64-emstone.exe)
 - Linux Installation Program (Ubuntu 19.04 / Arch Linux)
   - [64-bits](http://data.emstone.com/cms/cms-2.1.20.3.27-linux-x86_64.tar.bz2)
 - [Change Log](http://data.emstone.com/docs/cms/changelog/cms21.html)
@@ -39,9 +39,7 @@ image:
 *Network Hybrid Digital Video Recorder*
 
 - Version: **2.9.20.3.31** (2020-03-31)
-- [ISO Installation Image](http://data.emstone.com/dvr/nvr-2.9.20.3.31.iso)
-  ([SHA-256 Checksum](http://data.emstone.com/dvr/nvr-2.9.20.3.31.iso-sha256.txt))
-   : *Upgrade only / License key required*
+- [ISO Installation File](http://data.emstone.com/dvr/nvr-2.9.20.3.31-emstone.iso) : *Upgrade only / License key required*
 - [Change Log](http://data.emstone.com/docs/dvr/changelog/nvr29.html)
 - [HTTP API](http://data.emstone.com/docs/dvr/http/)
 
@@ -50,7 +48,7 @@ image:
 *Network Display Server for IP Video Wall*
 
 - Version: **1.5.20.2.21** (2020-02-21)
-- [ISO Installation Image](http://data.emstone.com/nds/nds-1.5.20.2.21.iso)
+- [ISO Installation File](http://data.emstone.com/nds/nds-1.5.20.2.21.iso)
    : *Upgrade only / License key required*
 - [Change Log](http://data.emstone.com/docs/emx/ChangeLog.html)
 
