@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "신중일"
+name: "정승호"
 
 # Is this the primary user of the site?
 superuser: false
@@ -43,6 +43,6 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jishin@emstone.com"
+email: "sfcop@emstone.com"
 
 ---

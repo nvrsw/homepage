@@ -11,7 +11,7 @@ role: 영업대표
 # Organizations/Affiliations
 organizations:
 - name: 엠스톤
-  url: "http://www.emstone.com/"
+  url: "https://www.emstone.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 안녕하세요!

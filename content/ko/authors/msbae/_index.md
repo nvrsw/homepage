@@ -11,7 +11,7 @@ role: 팀장
 # Organizations/Affiliations
 organizations:
 - name: 엠스톤
-  url: "http://www.emstone.com/"
+  url: "https://www.emstone.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
