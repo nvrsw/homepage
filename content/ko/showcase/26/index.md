@@ -2,7 +2,7 @@
 title: "강남대학교 열화상 카메라 구축"
 subtitle: ""
 summary: ""
-authors: [ "" ]
+authors: [ "sfcop" ]
 tags: [ "thermal" ]
 categories: [ "site" ]
 date: 2020-04-05
