@@ -4,8 +4,8 @@ subtitle: ""
 summary: ""
 authors: [ "emsr" ]
 tags: [ "thermal" ]
-categories: [ "site" ]
-date: 2020-04-04
+categories: [ "howto" ]
+date: 2020-04-03
 draft: false
 featured: true
 
