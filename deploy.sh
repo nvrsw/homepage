@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -xe
+
 [ "$1" = "clean" ] && rm -rf public && shift
 hugo --minify
 
@@ -29,7 +31,10 @@ cp -f public/ko/index.xml public/
 cp -f public/ko/index.json public/
 cp -f public/ko/index.webmanifest public/
 
-hugo deploy --target=www.emstone.com --maxDeletes -1
+dry=""
+[ "$1" = "dry" ] && dry="--dryRun" && shift
+
+hugo deploy $dry --target=www.emstone.com --maxDeletes -1
 #aws s3 sync public s3://www.emstone.com/ --delete
 
 aws cloudfront create-invalidation --distribution-id=E25OIC4F6N9LOY --paths "/*"

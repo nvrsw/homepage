@@ -79,7 +79,7 @@ expiryDate = ["expiryDate"]
 name = "www.emstone.com"
 URL = "s3://www.emstone.com?region=ap-northeast-2"
 #cloudFrontDistributionID = "E25OIC4F6N9LOY"
-exclude = "data/**"
+exclude = "{data,docs}/**"
 
 #[[deployment.matchers]]
 ## Cache dynamic assets for 7 days.

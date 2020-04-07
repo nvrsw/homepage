@@ -18,4 +18,4 @@ cascade:
 <p>対応センター</p>
 </div>
 
-## [対応されているネットワークIPカメラ](http://data.emstone.com/docs/dvr/ip-camera-list.html)
+## [対応されているネットワークIPカメラ](/docs/dvr/ip-camera-list.html)

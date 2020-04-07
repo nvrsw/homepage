@@ -25,7 +25,7 @@ image:
   - [32비트](http://data.emstone.com/cms/cms-2.1.20.3.27-win32-emstone.exe) / [64비트](http://data.emstone.com/cms/cms-2.1.20.3.27-win64-emstone.exe)
 - Linux 설치 프로그램 (Ubuntu 19.04 / Arch Linux)
   - [64비트](http://data.emstone.com/cms/cms-2.1.20.3.27-linux-x86_64.tar.bz2)
-- [변경사항](http://data.emstone.com/docs/cms/changelog/cms21.html)
+- [변경사항](/docs/cms/changelog/cms21.html)
 
 ## 모바일 앱
 
@@ -42,8 +42,8 @@ image:
 
 - 버전: **2.9.20.3.31** (2020-03-31)
 - [ISO 설치 파일](http://data.emstone.com/dvr/nvr-2.9.20.3.31-emstone.iso) : *업그레이드 전용 / 제품키 필요*
-- [변경사항](http://data.emstone.com/docs/dvr/changelog/nvr29.html)
-- [HTTP API](http://data.emstone.com/docs/dvr/http/)
+- [변경사항](/docs/dvr/changelog/nvr29.html)
+- [HTTP API](/docs/dvr/http/)
 
 ## NDS
 
@@ -52,7 +52,7 @@ image:
 - 버전: **1.5.20.2.21** (2020-02-21)
 - [ISO 설치 파일](http://data.emstone.com/nds/nds-1.5.20.2.21.iso)
    : *업그레이드 전용 / 제품키 필요*
-- [변경사항](http://data.emstone.com/docs/emx/ChangeLog.html)
+- [변경사항](/docs/emx/ChangeLog.html)
 
 ## 지도 편집기
 
@@ -60,7 +60,7 @@ image:
 
 - 버전: **1.3.0** (2015.07.08)
 - 운영체제: [Windows](http://data.emstone.com/vms/mapedit/vms-mapedit-1.3.0-win-ia32-20150708.zip)
-- [변경사항](http://data.emstone.com/https://github.com/nvrsw/mapedit/blob/master/ChangeLog.md)
+- [변경사항](https://github.com/nvrsw/mapedit/blob/master/ChangeLog.md)
 
 ## TTA 인증
 

@@ -22,4 +22,4 @@ cascade:
 - 고객지원센터 운영으로 편리한 A/S 신청
 - 전용 ERP 시스템 운영을 통한 체계적인 관리
 
-## [네트워크 IP 카메라 지원 목록](http://data.emstone.com/docs/dvr/ip-camera-list.html)
+## [네트워크 IP 카메라 지원 목록](/docs/dvr/ip-camera-list.html)
