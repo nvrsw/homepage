@@ -17,5 +17,3 @@ cascade:
 </p>
 <p>Customer Support Center</p>
 </div>
-
-## [Supported Network IP Cameras](/docs/dvr/ip-camera-list.html)

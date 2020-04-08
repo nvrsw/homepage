@@ -144,8 +144,7 @@
 [[main]]
   parent = "support"
   name = "IPカメラのリスト"
-  url = "https://www.emstone.com/docs/dvr/ip-camera-list.html"
-  post = " &nbsp; <i class='fas fa-external-link-square-alt' aria-hidden='true'></i>"
+  url = "support/cameras/"
   weight = 100
 
 [[main]]
