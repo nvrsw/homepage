@@ -22,9 +22,9 @@ image:
 
 - バージョン: **2.1.20.3.27** (2020-03-27)
 - Windows インストールプログラム (Windows 7 / Windows 8 / Windows 10)
-  - [32ビット](http://data.emstone.com/cms/cms-2.1.20.3.27-win32-emstone.exe) / [64ビット](http://data.emstone.com/cms/cms-2.1.20.3.27-win64-emstone.exe)
+  - [32ビット](https://www.emstone.com/data/cms/cms-2.1.20.3.27-win32-emstone.exe) / [64ビット](https://www.emstone.com/data/cms/cms-2.1.20.3.27-win64-emstone.exe)
 - Linux インストールプログラム (Ubuntu 19.04 / Arch Linux)
-  - [64ビット](http://data.emstone.com/cms/cms-2.1.20.3.27-linux-x86_64.tar.bz2)
+  - [64ビット](https://www.emstone.com/data/cms/cms-2.1.20.3.27-linux-x86_64.tar.bz2)
 - [変更](/docs/cms/changelog/cms21.html)
 
 ## モバイルアプリ
@@ -41,7 +41,7 @@ image:
 *Network Hybrid Digital Video Recorder*
 
 - バージョン: **2.9.20.3.31** (2020-03-31)
-- [ISO インストールイメージ](http://data.emstone.com/dvr/nvr-2.9.20.3.31-emstone.iso) : *アップグレードのみ/ライセンスキーが必要*
+- [ISO インストールイメージ](https://www.emstone.com/data/dvr/nvr-2.9.20.3.31-emstone.iso) : *アップグレードのみ/ライセンスキーが必要*
 - [変更](/docs/dvr/changelog/nvr29.html)
 - [HTTP API](/docs/dvr/http/)
 
@@ -50,7 +50,7 @@ image:
 *Network Display Server for IP Video Wall*
 
 - バージョン: **1.5.20.2.21** (2020-02-21)
-- [ISO インストールイメージ](http://data.emstone.com/nds/nds-1.5.20.2.21.iso)
+- [ISO インストールイメージ](https://www.emstone.com/data/nds/nds-1.5.20.2.21.iso)
    : *アップグレードのみ/ライセンスキーが必要*
 - [変更](/docs/emx/ChangeLog.html)
 
@@ -59,5 +59,5 @@ image:
 *E-Map Editor for NVR / VMS*
 
 - バージョン: **1.3.0** (2015.07.08)
-- オペレーティングシステム: [Windows](http://data.emstone.com/vms/mapedit/vms-mapedit-1.3.0-win-ia32-20150708.zip)
-- [変更](http://data.emstone.com/https://github.com/nvrsw/mapedit/blob/master/ChangeLog.md)
+- オペレーティングシステム: [Windows](https://www.emstone.com/data/vms/mapedit/vms-mapedit-1.3.0-win-ia32-20150708.zip)
+- [変更](https://www.emstone.com/data/https://github.com/nvrsw/mapedit/blob/master/ChangeLog.md)
