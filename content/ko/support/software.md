@@ -68,6 +68,7 @@ image:
   - 버전: **2.9.19.4.10** (2019-04-10)
   - [ISO 설치 파일](https://www.emstone.com/data/tta/emstone/nvr-2.9.19.4.10.iso)
     / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/nvr-2.9.19.4.10.iso-sha256.txt)
+  - 모델: EM-128B8H, EM-100B8H, EM-81B8H, EM-64B8F, EM-49B8F, EM-36B8, EM-25B8, EM-16B8
 - CMS
   - 버전: **2.1.20.4.14** (2020-04-14)
   - [32비트](https://www.emstone.com/data/cms/cms-2.1.20.4.14-win32.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.20.4.14-win64.exe)
