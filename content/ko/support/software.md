@@ -20,11 +20,11 @@ image:
 
 *Central Monitoring System for NVR / IP Video Wall*
 
-- 버전: **2.1.20.5.11** (2020-05-11)
+- 버전: **2.1.20.5.18** (2020-05-18)
 - Windows 설치 프로그램 (Windows 7 / Windows 8 / Windows 10)
-  - [32비트](https://www.emstone.com/data/cms/cms-2.1.20.5.11-win32-emstone.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.20.5.11-win64-emstone.exe)
+  - [32비트](https://www.emstone.com/data/cms/cms-2.1.20.5.18-win32-emstone.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.20.5.18-win64-emstone.exe)
 - Linux 설치 프로그램 (Ubuntu 19.04 / Arch Linux)
-  - [64비트](https://www.emstone.com/data/cms/cms-2.1.20.5.11-linux-x86_64.tar.bz2)
+  - [64비트](https://www.emstone.com/data/cms/cms-2.1.20.5.18-linux-x86_64.tar.bz2)
 - [변경사항](/docs/cms/changelog/cms21.html)
 
 ## 모바일 앱
@@ -70,5 +70,5 @@ image:
     / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/nvr-2.9.19.4.10.iso-sha256.txt)
   - 모델: EM-128B8H, EM-100B8H, EM-81B8H, EM-64B8F, EM-49B8F, EM-36B8, EM-25B8, EM-16B8
 - CMS
-  - 버전: **2.1.20.5.11** (2020-05-11)
-  - [32비트](https://www.emstone.com/data/cms/cms-2.1.20.5.11-win32.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.20.5.11-win64.exe)
+  - 버전: **2.1.20.5.18** (2020-05-18)
+  - [32비트](https://www.emstone.com/data/cms/cms-2.1.20.5.18-win32.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.20.5.18-win64.exe)
