@@ -1,5 +1,5 @@
 ---
-title: "EM-KIB-N1000 열화상 카메라"
+title: "KIB-N1000 열화상 카메라"
 subtitle: "Thermal Imaging Network IP Camera Series"
 summary: "Thermal Imaging Network IP Camera Series"
 authors: []
@@ -19,7 +19,7 @@ image:
 <div class="row justify-content-center align-items-end">
 <div class="col-sm-6">
 
-{{< figure src="em-kib-n1000.png" caption="EM-KIB-N1000" >}}
+{{< figure src="kib-n1000.png" caption="KIB-N1000" >}}
 
 
 </div>
@@ -41,12 +41,12 @@ image:
 <div class="row justify-content-center align-items-end">
 <div class="col-sm-4">
 
-{{< figure src="em-kib-n1000-drawing1.png" caption="EM-KIB-N1000" >}}
+{{< figure src="kib-n1000-drawing1.png" caption="KIB-N1000" >}}
 
 </div>
 <div class="col-sm-4">
 
-{{< figure src="em-kib-n1000-drawing2.png" caption="EM-KIB-N1000" >}}
+{{< figure src="kib-n1000-drawing2.png" caption="KIB-N1000" >}}
 
 </div>
 </div>
@@ -59,7 +59,7 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<td colspan="6">EM-KIB-N1000</th>
+<td colspan="6">KIB-N1000</th>
 </tr>
 </thead>
 <tbody>
@@ -210,5 +210,5 @@ HTTP, DHCP, FTP, SMTP, DNS, DDNS</td>
 ---- | ----
 카탈로그 | [KIB-N1000_카탈로그_20200601.pdf](/data/sales/ko/KIB-N1000_카탈로그_20200601.pdf)
 외관도 | [KIB-N1000_외관도(정면)_20200601.png](/data/sales/ko/KIB-N1000_외관도(정면)_20200601.png)<br>[KIB-N1000_외관도(측면)_20200601.png](/data/sales/ko/KIB-N1000_외관도(측면)_20200601.png)
-사양서 | [KIB-N1000_사양서_20200601.xlsx](/data/sales/ko/KIB-N1000_사양서_20200601.xlsx)
+사양서 | [KIB-N1000_사양서_20200602.xlsx](/data/sales/ko/KIB-N1000_사양서_20200602.xlsx)
 인증서 | [KIB-N1000_방송통신기자재등의적합등록필증_20200601.pdf](/data/sales/ko/KIB-N1000_방송통신기자재등의적합등록필증_20190417.pdf)
