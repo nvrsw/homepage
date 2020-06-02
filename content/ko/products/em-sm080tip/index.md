@@ -194,10 +194,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IX_카탈로그_20200313.pdf](/data/sales/ko/IX_카탈로그_20200313.pdf)
-외관도 | [IX(8060MB)_외관도_20200313.png](/data/sales/ko/IX(8060MB)_외관도_20200313.png)<br>[IX(1612MB)_외관도_20200313.png](/data/sales/ko/IX(1612MB)_외관도_20200313.png)<br>[IX(8060MS)_외관도_20200313.png](/data/sales/ko/IX(8060MS)_외관도_20200313.png)<br>[IX(8060MH)_외관도_20200313.png](/data/sales/ko/IX(8060MH)_외관도_20200313.png)
-사양서 | [IX_사양서_20200313.xlsx](/data/sales/ko/IX_사양서_20200313.xlsx)
-시방서 | [IX(8060MB)_시방서_20200313.hwp](/data/sales/ko/IX(8060MB)_시방서_20200313.hwp)<br>[IX(1612MB)_시방서_20200313.hwp](/data/sales/ko/IX(1612MB)_시방서_20200313.hwp)<br>[IX(8060MS)_시방서_20200313.hwp](/data/sales/ko/IX(8060MS)_시방서_20200313.hwp)<br>[IX(8060MH)_시방서_20200313.hwp](/data/sales/ko/IX(8060MH)_시방서_20200313.hwp)
-출하검사 결과 성적서 | [IX(8060MB)_출하검사성적서_20200313.xls](/data/sales/ko/IX(8060MB)_출하검사성적서_20200313.xls)<br>[IX(1612MB)_출하검사성적서_20200313.xls](/data/sales/ko/IX(1612MB)_출하검사성적서_20200313.xls)<br>[IX(8060MS)_출하검사성적서_20200313.xls](/data/sales/ko/IX(8060MS)_출하검사성적서_20200313.xls)<br>[IX(8060MH)_출하검사성적서_20200313.xls](/data/sales/ko/IX(8060MH)_출하검사성적서_20200313.xls)
-인증서 | [IX_방송통신기자재등의적합등록필증_20190417.pdf](/data/sales/ko/IX_방송통신기자재등의적합등록필증_20190417.pdf)
-소프트웨어 | [EM-IX_IPInstaller-MAC.exe](/data/sales/ko/EM-IX_IPInstaller-MAC.exe)
+카탈로그 | [SM080TIP_카탈로그_20200601.pdf](/data/sales/ko/SM080TIP_카탈로그_20200601.pdf)
+외관도 | [IX(8060MB)_외관도_20200601.png](/data/sales/ko/IX(8060MB)_외관도_20200601.png)<br>[IX(1612MB)_외관도_20200601.png](/data/sales/ko/IX(1612MB)_외관도_20200601.png)<br>[IX(8060MS)_외관도_20200601.png](/data/sales/ko/IX(8060MS)_외관도_20200601.png)<br>[IX(8060MH)_외관도_20200601.png](/data/sales/ko/IX(8060MH)_외관도_20200601.png)
+사양서 | [SM080TIP_사양서_20200601.xlsx](/data/sales/ko/SM080TIP_사양서_20200601.xlsx)
+시방서 | [IX(8060MB)_시방서_20200601.hwp](/data/sales/ko/IX(8060MB)_시방서_20200601.hwp)<br>[IX(1612MB)_시방서_20200601.hwp](/data/sales/ko/IX(1612MB)_시방서_20200601.hwp)<br>[IX(8060MS)_시방서_20200601.hwp](/data/sales/ko/IX(8060MS)_시방서_20200601.hwp)<br>[IX(8060MH)_시방서_20200601.hwp](/data/sales/ko/IX(8060MH)_시방서_20200601.hwp)
+출하검사 결과 성적서 | [IX(8060MB)_출하검사성적서_20200601.xls](/data/sales/ko/IX(8060MB)_출하검사성적서_20200601.xls)<br>[IX(1612MB)_출하검사성적서_20200601.xls](/data/sales/ko/IX(1612MB)_출하검사성적서_20200601.xls)<br>[IX(8060MS)_출하검사성적서_20200601.xls](/data/sales/ko/IX(8060MS)_출하검사성적서_20200601.xls)<br>[IX(8060MH)_출하검사성적서_20200601.xls](/data/sales/ko/IX(8060MH)_출하검사성적서_20200601.xls)
+인증서 | [SM080TIP_방송통신기자재등의적합등록필증_20190417.pdf](/data/sales/ko/SM080TIP_방송통신기자재등의적합등록필증_20190417.pdf)
+소프트웨어 | [EM-SM080TIP_IPInstaller-MAC.exe](/data/sales/ko/EM-SM080TIP_IPInstaller-MAC.exe)
