@@ -21,7 +21,6 @@ image:
 
 {{< figure src="kib-n1000.png" caption="KIB-N1000" >}}
 
-
 </div>
 </div>
 </div>
@@ -30,10 +29,8 @@ image:
 
 - 감지 온도 범위 : **-10℃  ~ 120℃** 
 - 온도 오차범위 : **1%미만**
-- Full HD IP 카메라 + 열화상카메라를 일체형으로 혼용하여 두 종의 특장점을 기술적으로 융합
-- 실시간 온도(값) 측정 : 1080 메가픽셀 영상감시와 동시에 실시간으로 초 당 약 10회 0.1℃ 단위까지의 임계치 온도(값)을 영상에 표시
-
-
+- Full HD IP 카메라 + 열화상 카메라를 일체형으로 혼용하여 두 종의 특장점을 기술적으로 융합
+- 실시간 온도(값) 측정 : 1080 메가 픽셀 영상 감시와 동시에 실시간으로 초 당 약 10회 0.1℃ 단위까지의 임계치 온도(값)을 영상에 표시
 
 ## 외관도
 
@@ -93,7 +90,7 @@ image:
 <td colspan="6">1/30 ~ 1/30,000 sec</td>
 </tr>
 <tr>
-<th rowspan="1"colspan="2"> 카메라 & 열화상감지기 Mechanism</th>
+<th rowspan="1"colspan="2"> 카메라 & 열화상감지기<br>Mechanism</th>
 <td colspan="6">Megapixel실화상 과 열화상의 정보를 Mixing하여 표출하며 열화상의 세부픽셀에 대한 온도 값을 감지하고 이를 이용하여 각종
 이벤트를 생성함. 이와함께 중앙의 Main장비와 연동하여 다수의 장비를 효율적으로 운용함 - Standard Onvif Protocol -</td>
 </tr>
@@ -111,7 +108,7 @@ image:
 <td colspan="6">80x60</td>
 </tr>
 <tr>
-<th rowspan="2">거리별 온도측정 최소  픽셀 면적 (단위 cm)</th>
+<th rowspan="2">거리별 온도측정<br>최소 픽셀 면적<br>(cm)</th>
 <td colspan="6">5M거리 / 10M거리 / 20M거리 / 30M거리</td>
 </tr>
 <tr>
@@ -166,7 +163,7 @@ HTTP, DHCP, FTP, SMTP, DNS, DDNS</td>
 <td colspan="6">Windows XP / VISTA / 7 (Internet Explorer 7.0 or Higher)</td>
 </tr>
 <tr>
-<th>Application 대응</th>
+<th>Application<br>대응</th>
 <td colspan="6">SDK, ONVIF(Ver 2.4.2)</td>
 </tr>
 <tr>

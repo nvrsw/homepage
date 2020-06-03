@@ -21,7 +21,6 @@ image:
 
 {{< figure src="em-sm080tip.png" caption="EM-SM080TIP" >}}
 
-
 </div>
 </div>
 </div>
@@ -32,10 +31,8 @@ image:
 - 감지 온도 범위 : **0℃  ~ 200℃** 
 - 온도 오차범위 : **±1℃ or 2%**
 - 정밀 측정용 열화상 카메라
-- 0℃~+200℃의 폭 넓은 감지온도범위로 발전소, 전기설비, 배관설비, 공장 등 온도감지가 필요한 **다양한 현장에 적용**가능
+- 0℃ ~ +200℃의 폭 넓은 감지 온도 범위로 발전소, 전기설비, 배관설비, 공장 등 온도감지가 필요한 **다양한 현장에 적용**가능
 - **인체 표면온도 측정**에 최적화된 세팅을 적용할 경우 실온(+20℃~+50℃)에서 온도 오차범위 ±0.3℃
-
-
 
 ## 외관도
 
@@ -66,7 +63,7 @@ image:
 </thead>
 <tbody>
 <tr>
-<th rowspan="5">Focal Plane Array</th>
+<th rowspan="5">Focal<br>Plane<br>Array</th>
 <th>Detector</th>
 <td colspan="6">a-Si Microbolometer</td>
 </tr>
@@ -79,16 +76,16 @@ image:
 <td colspan="6">34㎛</td>
 </tr>
 <tr>
-<th>Spectral Band</th>
+<th>Spectral<br>Band</th>
 <td colspan="6">8~14㎛</td>
 </tr>
 <tr>
-<th>Sensitivity(NETD)</th>
+<th>Sensitivity<br>(NETD)</th>
 <td colspan="6">＜100 mK  @50Hz, F/1, 300K</td>
 </tr>
 <tr>
-<th rowspan="8">Thermal Image Format</th>
-<th>Detector Frame Rates</th>
+<th rowspan="8">Thermal<br>Image<br>Format</th>
+<th>Detector<br>Frame<br>Rates</th>
 <td colspan="6">30fps</td>
 </tr>
 <tr>
@@ -104,7 +101,7 @@ image:
 <td colspan="6">Real Time Temperature Data</td>
 </tr>
 <tr>
-<th>Automatic Gain And Level</th>
+<th>Automatic Gain<br>And Level</th>
 <td colspan="6">Auto</td>
 </tr>
 <tr>
@@ -112,16 +109,16 @@ image:
 <td colspan="6">64Channels</td>
 </tr>
 <tr>
-<th>Non-Uniformity Correction</th>
+<th>Non-Uniformity<br>Correction</th>
 <td colspan="6">2-pionts Correction</td>
 </tr>
 <tr>
-<th>Time to First Image</th>
+<th>Time to<br>First Image</th>
 <td colspan="6">＜2.0 Seconds(After Network Connection)</td>
 </tr>
 <tr>
 <th rowspan="7">Features</th>
-<th>Avaliable Command Protocols</th>
+<th>Avaliable<br>Command<br>Protocols</th>
 <td colspan="6">IP, ARP, ICMP, SNMP</td>
 </tr>
 <tr>
@@ -133,19 +130,19 @@ image:
 <td colspan="6">Color Palette(6 Color/Black&White)</td>
 </tr>
 <tr>
-<th>Temperature Out</th>
+<th>Temperature<br>Out</th>
 <td colspan="6">All points</td>
 </tr>
 <tr>
-<th>Stable Time for Temperature Out</th>
+<th>Stable Time for<br>Temperature Out</th>
 <td colspan="6">＜1.5 minutes</td>
 </tr>
 <tr>
-<th>Target Temp. Range</th>
+<th>Target<br>Temp. Range</th>
 <td colspan="6">0°C to +200°C(Basic), Max.400°C(Optional)</td>
 </tr>
 <tr>
-<th>Radiometric Accuracy</th>
+<th>Radiometric<br>Accuracy</th>
 <td colspan="6">±2°C or ±2%(0°C to +200°C)</td>
 </tr>
 <tr>
@@ -158,7 +155,7 @@ image:
 <td colspan="6">Athermalized</td>
 </tr>
 <tr>
-<th>Effective Focal Length</th>
+<th>Effective<br>Focal Length</th>
 <td colspan="6">2.71 mm(FOV 58°), 6.7mm  (FOV 21°)</td>
 </tr>
 <tr>
