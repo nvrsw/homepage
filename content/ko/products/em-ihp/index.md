@@ -246,10 +246,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IHP_카탈로그_20200313.pdf](/data/sales/ko/IHP_카탈로그_20200313.pdf)
-외관도 | [IHP_외관도_20200313.png](/data/sales/ko/IHP_외관도_20200313.png)
-사양서 | [IHP_사양서_20200313.xlsx](/data/sales/ko/IHP_사양서_20200313.xlsx)
-시방서 | [IHP(IR12x)_시방서_20200313.hwp](/data/sales/ko/IHP(IR12x)_시방서_20200313.hwp)<br>[IHP(IR12xP)_시방서_20200313.hwp](/data/sales/ko/IHP(IR12xP)_시방서_20200313.hwp)
-출하검사 결과 성적서 | [IHP(IR12x)_출하검사성적서_20200313.xls](/data/sales/ko/IHP(IR12x)_출하검사성적서_20200313.xls)<br>[IHP(IR12xP)_출하검사성적서_20200313.xls](/data/sales/ko/IHP(IR12xP)_출하검사성적서_20200313.xls)
-인증서 | [IHP_방송통신기자재등의적합등록필증_20190910.pdf](/data/sales/ko/IHP_방송통신기자재등의적합등록필증_20190910.pdf)<br>[IHP_방송통신기자재등(전자파적합성)시험성적서_20190909.pdf](/data/sales/ko/IHP_방송통신기자재등(전자파적합성)시험성적서_20190909.pdf)<br>[IHP_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190909.pdf](/data/sales/ko/IHP_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190909.pdf)
-소프트웨어 | [EM-IHP_Smart_Tools_2.3.0.3_Setup.exe](/data/sales/ko/EM-IHP_Smart_Tools_2.3.0.3_Setup.exe)
+카탈로그 | [IHP_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/IHP_카탈로그_20200313.pdf)
+외관도 | [IHP_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHP_외관도_20200313.png)
+사양서 | [IHP_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IHP_사양서_20200313.xlsx)
+시방서 | [IHP(IR12x)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHP(IR12x)_시방서_20200313.hwp)<br>[IHP(IR12xP)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHP(IR12xP)_시방서_20200313.hwp)
+출하검사 결과 성적서 | [IHP(IR12x)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IHP(IR12x)_출하검사성적서_20200313.xls)<br>[IHP(IR12xP)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IHP(IR12xP)_출하검사성적서_20200313.xls)
+인증서 | [IHP_방송통신기자재등의적합등록필증_20190910.pdf](https://www.emstone.com/data/sales/ko/IHP_방송통신기자재등의적합등록필증_20190910.pdf)<br>[IHP_방송통신기자재등(전자파적합성)시험성적서_20190909.pdf](https://www.emstone.com/data/sales/ko/IHP_방송통신기자재등(전자파적합성)시험성적서_20190909.pdf)<br>[IHP_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190909.pdf](https://www.emstone.com/data/sales/ko/IHP_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190909.pdf)
+소프트웨어 | [EM-IHP_Smart_Tools_2.3.0.3_Setup.exe](https://www.emstone.com/data/sales/ko/EM-IHP_Smart_Tools_2.3.0.3_Setup.exe)

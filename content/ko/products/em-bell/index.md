@@ -128,8 +128,8 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [BELL_카탈로그_20200313.pdf](/data/sales/ko/BELL_카탈로그_20200313.pdf)
-외관도 | [BELL_외관도_20200313.png](/data/sales/ko/BELL_외관도_20200313.png)
-사양서 | [BELL_사양서_20200313.xlsx](/data/sales/ko/BELL_사양서_20200313.xlsx)
-시방서 | [BELL_시방서_20200313.hwp](/data/sales/ko/BELL_시방서_20200313.hwp)
-인증서 | [BELL_방송통신기자재등의적합등록필증_20191115.pdf](/data/sales/ko/BELL_방송통신기자재등의적합등록필증_20191115.pdf)<br>[BELL_방송통신기자재등(전자파적합성)시험성적서_20191111.pdf](/data/sales/ko/BELL_방송통신기자재등(전자파적합성)시험성적서_20191111.pdf)
+카탈로그 | [BELL_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/BELL_카탈로그_20200313.pdf)
+외관도 | [BELL_외관도_20200313.png](https://www.emstone.com/data/sales/ko/BELL_외관도_20200313.png)
+사양서 | [BELL_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/BELL_사양서_20200313.xlsx)
+시방서 | [BELL_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/BELL_시방서_20200313.hwp)
+인증서 | [BELL_방송통신기자재등의적합등록필증_20191115.pdf](https://www.emstone.com/data/sales/ko/BELL_방송통신기자재등의적합등록필증_20191115.pdf)<br>[BELL_방송통신기자재등(전자파적합성)시험성적서_20191111.pdf](https://www.emstone.com/data/sales/ko/BELL_방송통신기자재등(전자파적합성)시험성적서_20191111.pdf)
