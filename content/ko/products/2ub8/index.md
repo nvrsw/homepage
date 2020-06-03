@@ -359,7 +359,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">크기(W x H x D)</th>
-<td>482(W) Ⅹ 88.4(H) Ⅹ 400(D)mm</td>
+<td>482(W) Ⅹ 88.4(H) Ⅹ 480(D)mm</td>
 </tr>
 <tr>
 <th colspan="2">중량</th>
