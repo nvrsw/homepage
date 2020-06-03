@@ -194,4 +194,4 @@ image:
 카탈로그 | [SM080TIP_카탈로그_20200601.pdf](https://www.emstone.com/data/sales/ko/SM080TIP_카탈로그_20200601.pdf)
 외관도 | [SM080TIP_외관도(정면)_20200601.png](https://www.emstone.com/data/sales/ko/SM080TIP_외관도(정면)_20200601.png)<br>[SM080TIP_외관도(측면)_20200601.png](https://www.emstone.com/data/sales/ko/SM080TIP_외관도(측면)_20200601.png)
 사양서 | [SM080TIP_사양서_20200601.xlsx](https://www.emstone.com/data/sales/ko/SM080TIP_사양서_20200601.xlsx)
-인증서 | [SM080TIP_방송통신기자재등의적합등록필증_20200601.pdf](https://www.emstone.com/data/sales/ko/SM080TIP_방송통신기자재등의적합등록필증_20190417.pdf)<br> [SM080TIP_방송통신기자재등(전자파적합성)시험성적서_20200601.pdf](https://www.emstone.com/data/sales/ko/SM080TIP_방송통신기자재등(전자파적합성)시험성적서_20200601.pdf)
+인증서 | [SM080TIP_방송통신기자재등의적합등록필증_20200601.pdf](https://www.emstone.com/data/sales/ko/SM080TIP_방송통신기자재등의적합등록필증_20200601.pdf)<br> [SM080TIP_방송통신기자재등(전자파적합성)시험성적서_20200601.pdf](https://www.emstone.com/data/sales/ko/SM080TIP_방송통신기자재등(전자파적합성)시험성적서_20200601.pdf)

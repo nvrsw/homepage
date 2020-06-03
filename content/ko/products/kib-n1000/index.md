@@ -208,4 +208,4 @@ HTTP, DHCP, FTP, SMTP, DNS, DDNS</td>
 카탈로그 | [KIB-N1000_카탈로그_20200601.pdf](https://www.emstone.com/data/sales/ko/KIB-N1000_카탈로그_20200601.pdf)
 외관도 | [KIB-N1000_외관도(정면)_20200601.png](https://www.emstone.com/data/sales/ko/KIB-N1000_외관도(정면)_20200601.png)<br>[KIB-N1000_외관도(측면)_20200601.png](https://www.emstone.com/data/sales/ko/KIB-N1000_외관도(측면)_20200601.png)
 사양서 | [KIB-N1000_사양서_20200602.xlsx](https://www.emstone.com/data/sales/ko/KIB-N1000_사양서_20200602.xlsx)
-인증서 | [KIB-N1000_방송통신기자재등의적합등록필증_20200601.pdf](https://www.emstone.com/data/sales/ko/KIB-N1000_방송통신기자재등의적합등록필증_20190417.pdf)
+인증서 | [KIB-N1000_방송통신기자재등의적합등록필증_20200601.pdf](https://www.emstone.com/data/sales/ko/KIB-N1000_방송통신기자재등의적합등록필증_20200601.pdf)
