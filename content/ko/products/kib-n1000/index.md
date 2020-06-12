@@ -6,7 +6,7 @@ authors: []
 tags: [ "thermal" ]
 categories: [ "camera" ]
 draft: false
-weight: 2120
+weight: 2140
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
