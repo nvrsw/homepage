@@ -239,7 +239,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">날짜 / 시간 동기화</th>
-<td>Windows / NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능, RFTC를 통한 자체 동기화</td>
+<td>Windows / NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능, GPS를 통한 자체 동기화(옵션)</td>
 </tr>
 <tr>
 <th rowspan="2">지능형<br>솔루션</th>

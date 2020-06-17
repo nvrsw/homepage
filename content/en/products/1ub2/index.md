@@ -237,7 +237,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">Time Synchronization</th>
-<td>Windows / NTP Time Server Synchronization, Integrated NTP Server, RFTC Synchronization</td>
+<td>Windows / NTP Time Server Synchronization, Integrated NTP Server, GPS Synchronization(Option)</td>
 </tr>
 <tr>
 <th rowspan="2">Intelligence<br>Solution</th>
