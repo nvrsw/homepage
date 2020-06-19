@@ -33,9 +33,23 @@ image:
 - ONVIF / RTSP 표준 프로토콜 지원 (**ONVIF Profile S**)
 - H.264 압축 방식을 통한 선명한 화질 구현
 
-## 외관도
+
+## 외관도 / 케이블
+<div class="container">
+<div class="row justify-content-center align-items-end">
+<div class="col-sm-6">
 
 {{< figure src="em-ihv-drawing.png" caption="EM-IHV(IRF36) / EM-IHV(IR2812Z)" >}}
+
+</div>
+<div class="col-sm-6">
+
+{{< figure src="cable.png" >}}
+
+</div>
+</div>
+</div>
+
 
 ## 사양
 

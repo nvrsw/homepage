@@ -31,9 +31,22 @@ image:
 - ONVIF / RTSP standard protocol (**ONVIF Profile S**)
 - Clear video quality with H.265, H.264 compression
 
-## Dimensions
+
+## Dimenstions / Cable
+<div class="container">
+<div class="row justify-content-center align-items-end">
+<div class="col-sm-6">
 
 {{< figure src="em-iqv-drawing.png" caption="EM-IQV(IRF36) / EM-IQV(IR2812Z)" >}}
+
+</div>
+<div class="col-sm-6">
+
+{{< figure src="cable.png" >}}
+
+</div>
+</div>
+</div>
 
 ## Specification
 
