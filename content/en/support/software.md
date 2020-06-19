@@ -40,8 +40,8 @@ image:
 
 *Network Hybrid Digital Video Recorder*
 
-- Version: **2.9.20.5.29** (2020-05-29)
-- [ISO Installation File](https://www.emstone.com/data/dvr/nvr-2.9.20.5.29-emstone.iso) : *Upgrade only / License key required*
+- Version: **2.9.20.6.19** (2020-06-19)
+- [ISO Installation File](https://www.emstone.com/data/dvr/nvr-2.9.20.6.19-emstone.iso) : *Upgrade only / License key required*
 - [Change Log](/docs/dvr/changelog/nvr29.html)
 - [HTTP API](/docs/dvr/http/)
 
