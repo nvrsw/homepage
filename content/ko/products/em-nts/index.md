@@ -136,8 +136,8 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [NTS_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/NTS_카탈로그_20200313.pdf)
-외관도 | [NTS_외관도_20200313.dwg](https://www.emstone.com/data/sales/ko/NTS_외관도_20200313.dwg)<br>[NTS_외관도_20200313.png](https://www.emstone.com/data/sales/ko/NTS_외관도_20200313.png)
+카탈로그 | [NTS_카탈로그_20200619.pdf](https://www.emstone.com/data/sales/ko/NTS_카탈로그_20200619.pdf)
+외관도 | [NTS_외관도_20200619.dwg](https://www.emstone.com/data/sales/ko/NTS_외관도_20200619.dwg)<br>[NTS_외관도_20200313.png](https://www.emstone.com/data/sales/ko/NTS_외관도_20200313.png)
 사양서 | [NTS_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/NTS_사양서_20200313.xlsx)<br>[NTS_Specification_20200313.doc](https://www.emstone.com/data/sales/ko/NTS_Specification_20200313.doc)
 시방서 | [NTS_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/NTS_시방서_20200313.hwp)
 출하검사 결과 성적서 | [NTS_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/NTS_출하검사결과성적서_20200313.xls)

@@ -277,7 +277,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [1UB2_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/1UB2_카탈로그_20200313.pdf)
+카탈로그 | [1UB2_카탈로그_20200619.pdf](https://www.emstone.com/data/sales/ko/1UB2_카탈로그_20200619.pdf)
 외관도 | [1UB2_외관도_20200313.dwg](https://www.emstone.com/data/sales/ko/1UB2_외관도_20200313.dwg)<br>[1UB2_외관도_20200313.png](https://www.emstone.com/data/sales/ko/1UB2_외관도_20200313.png)
 사양서 | [1UB2_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/1UB2_사양서_20200313.xlsx)
 시방서 | [1UB2_EM-04B2_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2_시방서_20200313.hwp)<br>[1UB2_EM-09B2_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2_시방서_20200313.hwp)<br>[1UB2_EM-16B2_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2_시방서_20200313.hwp)
