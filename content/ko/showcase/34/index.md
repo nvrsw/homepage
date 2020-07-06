@@ -60,4 +60,4 @@ Smart IP WALL 기반 아파트 통합 방범 센터를 구축했습니다.
 &nbsp;
 
 **YouTube 동영상**
-{{< youtube b1-P5cShnyI >}}
+{{< youtube fgtaYaJHddc >}}
