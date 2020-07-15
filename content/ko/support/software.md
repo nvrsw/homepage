@@ -40,8 +40,8 @@ image:
 
 *Network Hybrid Digital Video Recorder*
 
-- 버전: **2.9.20.7.1** (2020-07-01)
-- [ISO 설치 파일](https://www.emstone.com/data/dvr/nvr-2.9.20.7.1-emstone.iso) : *업그레이드 전용 / 제품키 필요*
+- 버전: **2.9.20.7.14** (2020-07-14)
+- [ISO 설치 파일](https://www.emstone.com/data/dvr/nvr-2.9.20.7.14-emstone.iso) : *업그레이드 전용 / 제품키 필요*
 - [변경사항](/docs/dvr/changelog/nvr29.html)
 - [HTTP API](/docs/dvr/http/)
 
@@ -70,10 +70,10 @@ image:
     / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/nvr-2.9.19.4.10.iso-sha256.txt)
   - 모델: EM-128B8H, EM-100B8H, EM-81B8H, EM-64B8F, EM-49B8F, EM-36B8, EM-25B8, EM-16B8
 - NVR
-  - 버전: **2.9.20.6.12** (2020-06-12)
-  - [ISO 설치 파일](https://www.emstone.com/data/tta/emstone/nvr-2.9.20.6.12.iso)
-    / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/nvr-2.9.20.6.12.iso-sha256.txt)
-  - 모델: EM-128B2H, EM-100B2H, EM-81B2H, EM-64B2F, EM-49B2F, EM-36B2, EM-25B2, EM-16B2, EM-09B2, EM-04B2
+  - 버전: **2.9.20.7.8** (2020-07-08)
+  - [ISO 설치 파일](https://www.emstone.com/data/tta/emstone/nvr-2.9.20.7.8.iso)
+    / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/nvr-2.9.20.7.8.iso-sha256.txt)
+  - 모델: EM-128B2, EM-100B2, EM-81B2, EM-64B2, EM-49B2, EM-36B2, EM-25B2, EM-16B2, EM-09B2, EM-04B2
 - CMS
   - 버전: **2.1.20.6.23** (2020-06-23)
-  - [32비트](https://www.emstone.com/data/cms/cms-2.1.20.6.23-win32.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.20.6.23-win64.exe)
+  - [32비트](https://www.emstone.com/data/tta/emstone/cms-2.1.20.6.23-win32.exe) / [64비트](https://www.emstone.com/data/tta/emstone/cms-2.1.20.6.23-win64.exe)
