@@ -279,5 +279,5 @@ image:
 사양서 | [4UB8H_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/4UB8H_사양서_20200313.xlsx)
 시방서 | [4UB8H_EM-NH16B8_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/4UB8H_EM-NH16B8_시방서_20200313.hwp)<br>[4UB8H_EM-NH32B8_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/4UB8H_EM-NH32B8_시방서_20200313.hwp)
 출하검사 결과 성적서 | [4UB8H_EM-NH16B8_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/4UB8H_EM-NH16B8_출하검사결과성적서_20200313.xls)<br>[4UB8H_EM-NH32B8_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/4UB8H_EM-NH32B8_출하검사결과성적서_20200313.xls)
-인증서 | [4UB8H_방송통신기자재등의적합등록필증_20190110.pdf](https://www.emstone.com/data/sales/ko/4UB8H_방송통신기자재등의적합등록필증_20190110.pdf)<br>[4UB8H_방송통신기자재등(전자파적합성)시험성적서_20180903.pdf](https://www.emstone.com/data/sales/ko/4UB8H_방송통신기자재등(전자파적합성)시험성적서_20180903.pdf)
+인증서 | [4UB8H_방송통신기자재등의적합등록필증_20200714.pdf](https://www.emstone.com/data/sales/ko/4UB8H_방송통신기자재등의적합등록필증_20190110.pdf)<br>[4UB8H_방송통신기자재등(전자파적합성)시험성적서_20180903.pdf](https://www.emstone.com/data/sales/ko/4UB8H_방송통신기자재등(전자파적합성)시험성적서_20180903.pdf)
 매뉴얼 | [NVR_동작매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20200313.pdf)<br>[NVR_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20200313.pdf)<br>[NVR_업그레이드매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20200313.pdf)
