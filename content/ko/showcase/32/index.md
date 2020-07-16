@@ -43,4 +43,4 @@ image:
 &nbsp;
 
 **YouTube 동영상**
-{{< youtube He7nnNM-vSY >}}
+{{< youtube oDLTOlIZtKs >}}
