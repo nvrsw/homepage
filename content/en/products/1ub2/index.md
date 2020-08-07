@@ -34,7 +34,7 @@ image:
 
 ## Features
 
-- 3.5" HDD up to 2ea (Max. 24TB)
+- 3.5" HDD up to 2ea (Max. 32TB)
 - Highly reliable 64-bit Linux-based network video recorder
 - Clear video quality with H.265 / H.264 compression
 - Support **all resolutions** including 12M / 8M / 5M / 2M / 1.3M
@@ -165,7 +165,7 @@ image:
 </tr>
 <tr>
 <th>Internal</th>
-<td>3.5" HDD up to 2ea (12TB HDD, Max. 24TB)</td>
+<td>3.5" HDD up to 2ea (16TB HDD, Max. 32TB)</td>
 </tr>
 <tr>
 <th>RAID<br>(Optional)</th>

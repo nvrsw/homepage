@@ -36,7 +36,7 @@ image:
 
 ## 특징
 
-- HDD 최대 2개 장착 (최대 24TB)
+- HDD 최대 2개 장착 (최대 32TB)
 - 높은 신뢰도의 64비트 리눅스(Linux) 기반 디지털 비디오 녹화기
 - 고효율 H.265 / H.264 압축방식을 통하여 선명한 화질의 영상
 - 12M / 8M / 5M / 2M / 1.3M 등 **모든 해상도 지원**
@@ -167,7 +167,7 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>3.5" HDD 최대 2개 장착가능 (12TB HDD 인식, 최대 용량 24TB)</td>
+<td>3.5" HDD 최대 2개 장착가능 (16TB HDD 인식, 최대 용량 32TB)</td>
 </tr>
 <tr>
 <th>RAID(옵션)</th>
@@ -277,10 +277,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [1UB2_카탈로그_20200619.pdf](https://www.emstone.com/data/sales/ko/1UB2_카탈로그_20200619.pdf)
+카탈로그 | [1UB2_카탈로그_20200807.pdf](https://www.emstone.com/data/sales/ko/1UB2_카탈로그_20200807.pdf)
 외관도 | [1UB2_외관도_20200313.dwg](https://www.emstone.com/data/sales/ko/1UB2_외관도_20200313.dwg)<br>[1UB2_외관도_20200313.png](https://www.emstone.com/data/sales/ko/1UB2_외관도_20200313.png)
-사양서 | [1UB2_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/1UB2_사양서_20200313.xlsx)
-시방서 | [1UB2_EM-04B2_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2_시방서_20200313.hwp)<br>[1UB2_EM-09B2_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2_시방서_20200313.hwp)<br>[1UB2_EM-16B2_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2_시방서_20200313.hwp)
+사양서 | [1UB2_사양서_20200807.xlsx](https://www.emstone.com/data/sales/ko/1UB2_사양서_20200807.xlsx)
+시방서 | [1UB2_EM-04B2_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2_시방서_20200807.hwp)<br>[1UB2_EM-09B2_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2_시방서_20200807.hwp)<br>[1UB2_EM-16B2_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2_시방서_20200807.hwp)
 출하검사 결과 성적서 | [1UB2_EM-04B2_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2_출하검사결과성적서_20200313.xls)<br>[1UB2_EM-09B2_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2_출하검사결과성적서_20200313.xls)<br>[1UB2_EM-16B2_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2_출하검사결과성적서_20200313.xls)
 인증서 | [1UB2_방송통신기자재등의적합등록필증_20191129.pdf](https://www.emstone.com/data/sales/ko/1UB2_방송통신기자재등의적합등록필증_20191129.pdf)<br>[1UB2_방송통신기자재등(유선영상정보처리기기)시험성적서_20191128.pdf](https://www.emstone.com/data/sales/ko/1UB2_방송통신기자재등(유선영상정보처리기기)시험성적서_20191128.pdf)<br>[1UB2_방송통신기자재등(전자파적합성)시험성적서_20191128.pdf](https://www.emstone.com/data/sales/ko/1UB2_방송통신기자재등(전자파적합성)시험성적서_20191128.pdf)
 매뉴얼 | [NVR_동작매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20200313.pdf)<br>[NVR_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20200313.pdf)<br>[NVR_업그레이드매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20200313.pdf)
