@@ -50,7 +50,7 @@ image:
 - **생체 정보**를 이용한 사용자 인증 지원
 - Failover 지원 : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
 - 양방향 음성 기능 지원
-- 최대 48TB의 넉넉한 자체 저장 공간
+- 최대 64TB의 넉넉한 자체 저장 공간
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
 - 모델 라인업 : 16, 25, 36, 49, 64 CH
 
@@ -75,8 +75,8 @@ image:
 <th>EM-16B4</th>
 <th>EM-25B4</th>
 <th>EM-36B4</th>
-<th>EM-49B4</th>
-<th>EM-64B4</th>
+<th>EM-49B4F</th>
+<th>EM-64B4F</th>
 </tr>
 </thead>
 <tbody>
@@ -184,7 +184,7 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>3.5" HDD 최대 4개 장착가능 (12TB HDD 인식, 최대 용량 48TB)</td>
+<td>3.5" HDD 최대 4개 장착가능 (16TB HDD 인식, 최대 용량 64TB)</td>
 </tr>
 <tr>
 <th>RAID(옵션)</th>
@@ -294,10 +294,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB4_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/2UB4_카탈로그_20200313.pdf)
+카탈로그 | [2UB4_카탈로그_20200807.pdf](https://www.emstone.com/data/sales/ko/2UB4_카탈로그_20200807.pdf)
 외관도 | [2UB4_외관도_20200313.dwg](https://www.emstone.com/data/sales/ko/2UB4_외관도_20200313.dwg)<br>[2UB4_외관도_20200313.png](https://www.emstone.com/data/sales/ko/2UB4_외관도_20200313.png)
-사양서 | [2UB4_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/2UB4_사양서_20200313.xlsx)
-시방서 | [2UB4_EM-16B4_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_시방서_20200313.hwp)<br>[2UB4_EM-25B4_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_시방서_20200313.hwp)<br>[2UB4_EM-36B4_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_시방서_20200313.hwp)<br>[2UB4_EM-49B4_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4_시방서_20200313.hwp)<br>[2UB4_EM-64B4_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4_시방서_20200313.hwp)
+사양서 | [2UB4_사양서_20200807.xlsx](https://www.emstone.com/data/sales/ko/2UB4_사양서_20200807.xlsx)
+시방서 | [2UB4_EM-16B4_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_시방서_20200807.hwp)<br>[2UB4_EM-25B4_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_시방서_20200807.hwp)<br>[2UB4_EM-36B4_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_시방서_20200807.hwp)<br>[2UB4_EM-49B4F_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4F_시방서_20200807.hwp)<br>[2UB4_EM-64B4F_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4F_시방서_20200807.hwp)
 출하검사 결과 성적서 | [2UB4_EM-16B4_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_출하검사결과성적서_20200313.xls)<br>[2UB4_EM-25B4_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_출하검사결과성적서_20200313.xls)<br>[2UB4_EM-36B4_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_출하검사결과성적서_20200313.xls)<br>[2UB4_EM-49B4_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4_출하검사결과성적서_20200313.xls)<br>[2UB4_EM-64B4_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4_출하검사결과성적서_20200313.xls)
 인증서 | [2UB4_방송통신기자재등의적합등록필증_20190918.pdf](https://www.emstone.com/data/sales/ko/2UB4_방송통신기자재등의적합등록필증_20190918.pdf)<br>[2UB4_방송통신기자재등(전자파적합성)시험성적서_20180911.pdf](https://www.emstone.com/data/sales/ko/2UB4_방송통신기자재등(전자파적합성)시험성적서_20180911.pdf)
 매뉴얼 | [NVR_동작매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20200313.pdf)<br>[NVR_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20200313.pdf)<br>[NVR_업그레이드매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20200313.pdf)

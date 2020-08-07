@@ -48,7 +48,7 @@ image:
 - User Authentication with **Fingerprint Mouse**
 - Smart Failover: Automatic takeover to spare units when system is stopped
 - Bidirectional audio transmission
-- Max. 48TB with internal storage space
+- Max. 64TB with internal storage space
 - Advanced **LPR(License Plate Recognition)** by 3rd party LPR server 
 - Model Line-up : 16, 25, 36, 49, 64 CH
 
@@ -73,8 +73,8 @@ image:
 <th>EM-16B4</th>
 <th>EM-25B4</th>
 <th>EM-36B4</th>
-<th>EM-49B4</th>
-<th>EM-64B4</th>
+<th>EM-49B4F</th>
+<th>EM-64B4F</th>
 </tr>
 </thead>
 <tbody>
@@ -182,7 +182,7 @@ image:
 </tr>
 <tr>
 <th>Internal</th>
-<td>3.5" HDD up to 4ea (12TB HDD, Max. 48TB)</td>
+<td>3.5" HDD up to 4ea (16TB HDD, Max. 64TB)</td>
 </tr>
 <tr>
 <th>RAID<br>(Optional)</th>
