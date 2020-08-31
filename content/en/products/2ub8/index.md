@@ -48,7 +48,7 @@ image:
 - User Authentication with **Fingerprint Mouse**
 - Smart Failover: Automatic takeover to spare units when system is stopped
 - Bidirectional audio transmission
-- Max. 96TB with internal storage space
+- Max. 128TB with internal storage space
 - Advanced **LPR(License Plate Recognition)** by 3rd party LPR server 
 - Model Line-up : 16, 25, 36, 49(F/H), 64(F/H), 81H, 100H, 128H CH
 
@@ -264,7 +264,7 @@ image:
 </tr>
 <tr>
 <th>Internal</th>
-<td>3.5" HDD up to 8ea (12TB HDD, Max. 96TB)</td>
+<td>3.5" HDD up to 8ea (16TB HDD, Max. 128TB)</td>
 </tr>
 <tr>
 <th>RAID<br>(Optional)</th>
