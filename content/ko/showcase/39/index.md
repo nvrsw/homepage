@@ -1,5 +1,5 @@
 ---
-title: "열화상 솔루션 오프셋 온도 값 자동보정 기능 업데이트"
+title: "열화상 오프셋 온도 값 자동보정 기능"
 subtitle: ""
 summary: ""
 authors: [ "ymkim" ]

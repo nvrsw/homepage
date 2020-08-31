@@ -1,5 +1,5 @@
 ---
-title: "이벤트 라이브 관제/검색 개발 (실시간 선별관제 및 검색)"
+title: "이벤트 라이브 관제/검색(실시간 선별관제 및 검색)"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
