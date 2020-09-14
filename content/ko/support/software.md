@@ -76,4 +76,4 @@ image:
   - 모델: EM-128B2, EM-100B2, EM-81B2, EM-64B2, EM-49B2, EM-36B2, EM-25B2, EM-16B2, EM-09B2, EM-04B2
 - CMS
   - 버전: **2.1.20.8.31** (2020-08-31)
-  - [32비트](https://www.emstone.com/data/tta/emstone/cms-2.1.20.8.31-win32.exe) / [64비트](https://www.emstone.com/data/tta/emstone/cms-2.1.20.8.31-win64.exe)
+  - [32비트](https://www.emstone.com/data/cms/cms-2.1.20.8.31-win32.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.20.8.31-win64.exe)
