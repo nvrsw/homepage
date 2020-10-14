@@ -63,6 +63,23 @@ image:
 </div>
 </div>
 
+
+
+## 인증
+<div class="container">
+<div class="row align-items-top">
+<div class="col-sm-1">
+{{< figure src="TTA.png" >}} 
+</div>
+<div class="col-sm-6">
+- 공공기관용 NVR 보안성능품질 Ver.1 (TTA-V-20-124)
+</div>
+</div>
+</div>
+
+
+
+
 ## 개별 사양
 
 <div style="overflow-x: auto">
@@ -277,7 +294,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [1UB2_카탈로그_20200807.pdf](https://www.emstone.com/data/sales/ko/1UB2_카탈로그_20200807.pdf)
+카탈로그 | [1UB2_카탈로그_20201014.pdf](https://www.emstone.com/data/sales/ko/1UB2_카탈로그_20201014.pdf)
 외관도 | [1UB2_외관도_20200313.dwg](https://www.emstone.com/data/sales/ko/1UB2_외관도_20200313.dwg)<br>[1UB2_외관도_20200313.png](https://www.emstone.com/data/sales/ko/1UB2_외관도_20200313.png)
 사양서 | [1UB2_사양서_20200807.xlsx](https://www.emstone.com/data/sales/ko/1UB2_사양서_20200807.xlsx)
 시방서 | [1UB2_EM-04B2_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2_시방서_20200807.hwp)<br>[1UB2_EM-09B2_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2_시방서_20200807.hwp)<br>[1UB2_EM-16B2_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2_시방서_20200807.hwp)
