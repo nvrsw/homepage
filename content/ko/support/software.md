@@ -20,11 +20,11 @@ image:
 
 *Central Monitoring System for NVR / IP Video Wall*
 
-- 버전: **2.1.20.8.31** (2020-08-31)
+- 버전: **2.1.20.9.28** (2020-09-28)
 - Windows 설치 프로그램 (Windows 7 / Windows 8 / Windows 10)
-  - [32비트](https://www.emstone.com/data/cms/cms-2.1.20.8.31-win32-emstone.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.20.8.31-win64-emstone.exe)
+  - [32비트](https://www.emstone.com/data/cms/cms-2.1.20.9.28-win32-emstone.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.20.9.28-win64-emstone.exe)
 - Linux 설치 프로그램 (Ubuntu 19.04 / Arch Linux)
-  - [64비트](https://www.emstone.com/data/cms/cms-2.1.20.8.31-linux-x86_64.tar.bz2)
+  - [64비트](https://www.emstone.com/data/cms/cms-2.1.20.9.28-linux-x86_64.tar.bz2)
 - [변경사항](/docs/cms/changelog/cms21.html)
 
 ## 모바일 앱
@@ -40,8 +40,8 @@ image:
 
 *Network Hybrid Digital Video Recorder*
 
-- 버전: **2.9.20.8.31** (2020-08-31)
-- [ISO 설치 파일](https://www.emstone.com/data/dvr/nvr-2.9.20.8.31-emstone.iso) : *업그레이드 전용 / 제품키 필요*
+- 버전: **2.9.20.10.8** (2020-10-08)
+- [ISO 설치 파일](https://www.emstone.com/data/dvr/nvr-2.9.20.10.8-emstone.iso) : *업그레이드 전용 / 제품키 필요*
 - [변경사항](/docs/dvr/changelog/nvr29.html)
 - [HTTP API](/docs/dvr/http/)
 
@@ -49,8 +49,8 @@ image:
 
 *Network Display Server for IP Video Wall*
 
-- 버전: **1.8.20.8.31** (2020-08-31)
-- [ISO 설치 파일](https://www.emstone.com/data/nds/nds-1.8.20.8.31.iso)
+- 버전: **1.8.20.9.25** (2020-09-25)
+- [ISO 설치 파일](https://www.emstone.com/data/nds/nds-1.8.20.9.25.iso)
    : *업그레이드 전용 / 제품키 필요*
 - [변경사항](/docs/emx/ChangeLog.html)
 
@@ -75,5 +75,5 @@ image:
     / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/nvr-2.9.20.7.8.iso-sha256.txt)
   - 모델: EM-128B2, EM-100B2, EM-81B2, EM-64B2, EM-49B2, EM-36B2, EM-25B2, EM-16B2, EM-09B2, EM-04B2
 - CMS
-  - 버전: **2.1.20.8.31** (2020-08-31)
-  - [32비트](https://www.emstone.com/data/tta/emstone/cms-2.1.20.8.31-win32.exe) / [64비트](https://www.emstone.com/data/tta/emstone/cms-2.1.20.8.31-win64.exe)
+  - 버전: **2.1.20.9.28** (2020-09-16)
+  - [32비트](https://www.emstone.com/data/cms/cms-2.1.20.9.28-win32.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.20.9.28-win64.exe)
