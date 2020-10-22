@@ -65,6 +65,19 @@ image:
 </div>
 </div>
 
+## 인증
+<div class="container">
+<div class="row align-items-top">
+<div class="col-sm-1">
+{{< figure src="TTA.png" >}} 
+</div>
+<div class="col-sm-6">
+- 공공기관용 NVR 보안성능품질 Ver.1 (TTA-V-19-082)
+</div>
+</div>
+</div>
+
+
 ## 개별 사양
 
 <div style="overflow-x: auto">
@@ -75,8 +88,8 @@ image:
 <th>EM-16B8</th>
 <th>EM-25B8</th>
 <th>EM-36B8</th>
-<th>EM-49B8FF</th>
-<th>EM-49B8FH</th>
+<th>EM-49B8F</th>
+<th>EM-49B8H</th>
 </tr>
 </thead>
 <tbody>
@@ -90,9 +103,8 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td colspan="3">Dual Core 1.0GHz or Higher</td>
-<td>Intel i5 2.5GHz or Higher</td>
-<td>Dual Core 1.0GHz or Higher</td>
+<td colspan="2">Dual Core 1.0GHz or Higher</td>
+<td colspan="3">i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -105,7 +117,7 @@ image:
 <tr>
 <th rowspan="2">디스플레이</th>
 <th>모니터 출력</th>
-<td colspan="5">1xHDMI / 1xVGA</td>
+<td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>분할화면</th>
@@ -160,8 +172,8 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-49B8HF</th>
-<th>EM-49B8HH</th>
+<th>EM-49B8F</th>
+<th>EM-49B8H</th>
 <th>EM-81B8H</th>
 <th>EM-100B8H</th>
 <th>EM-128B8H</th>
@@ -178,7 +190,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td colspan="5">Intel i5 2.5GHz or Higher</td>
+<td colspan="5">i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -189,7 +201,7 @@ image:
 <tr>
 <th rowspan="2">디스플레이</th>
 <th>모니터 출력</th>
-<td colspan="5">1xHDMI / 1xVGA</td>
+<td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>분할화면</th>
@@ -376,10 +388,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB8_카탈로그_20200831.pdf](https://www.emstone.com/data/sales/ko/2UB8_카탈로그_20200831.pdf)
-외관도 | [2UB8_외관도_20200313.dwg](https://www.emstone.com/data/sales/ko/2UB8_외관도_20200313.dwg)<br>[2UB8_외관도_20200313.png](https://www.emstone.com/data/sales/ko/2UB8_외관도_20200313.png)
-사양서 | [2UB8_사양서_20200831.xlsx](https://www.emstone.com/data/sales/ko/2UB8_사양서_20200831.xlsx)
-시방서 | [2UB8_EM-16B8_시방서_20200831.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-16B8_시방서_20200831.hwp)<br>[2UB8_EM-25B8_시방서_20200831.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-25B8_시방서_20200831.hwp)<br>[2UB8_EM-36B8_시방서_20200831.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8_시방서_20200831.hwp)<br>[2UB8_EM-49B8F_시방서_20200831.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F_시방서_20200831.hwp)<br>[2UB8_EM-49B8H_시방서_20200831.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8H_시방서_20200831.hwp)<br>[2UB8_EM-64B8F_시방서_20200831.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F_시방서_20200831.hwp)<br>[2UB8_EM-64B8H_시방서_20200831.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8H_시방서_20200831.hwp)<br>[2UB8_EM-81B8H_시방서_20200831.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H_시방서_20200831.hwp)<br>[2UB8_EM-100B8H_시방서_20200831.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H_시방서_20200831.hwp)<br>[2UB8_EM-128B8H_시방서_20200831.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H_시방서_20200831.hwp)
-출하검사 결과 성적서 | [2UB8_EM-16B8_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-16B8_출하검사결과성적서_20200313.xls)<br>[2UB8_EM-25B8_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-25B8_출하검사결과성적서_20200313.xls)<br>[2UB8_EM-36B8_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8_출하검사결과성적서_20200313.xls)<br>[2UB8_EM-49B8F_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F_출하검사결과성적서_20200313.xls)<br>[2UB8_EM-49B8H_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8H_출하검사결과성적서_20200313.xls)<br>[2UB8_EM-64B8F_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F_출하검사결과성적서_20200313.xls)<br>[2UB8_EM-64B8H_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8H_출하검사결과성적서_20200313.xls)<br>[2UB8_EM-81B8H_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H_출하검사결과성적서_20200313.xls)<br>[2UB8_EM-100B8H_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H_출하검사결과성적서_20200313.xls)<br>[2UB8_EM-128B8H_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H_출하검사결과성적서_20200313.xls)
-인증서 | [2UB8_방송통신기자재등의적합등록필증_20190110.pdf](https://www.emstone.com/data/sales/ko/2UB8_방송통신기자재등의적합등록필증_20190110.pdf)<br>[2UB8_방송통신기자재등(전자파적합성)시험성적서_20180903.pdf](https://www.emstone.com/data/sales/ko/2UB8_방송통신기자재등(전자파적합성)시험성적서_20180903.pdf)<br>[2UB8_TTA공공기관용NVR보안성능품질인증서_20190628.pdf](https://www.emstone.com/data/sales/ko/2UB8_TTA공공기관용NVR보안성능품질인증서_20190628.pdf)<br>[2UB8_TTA공공기관용NVR보안성능품질인증시험_20190624.pdf](https://www.emstone.com/data/sales/ko/2UB8_TTA공공기관용NVR보안성능품질인증시험_20190624.pdf)
-매뉴얼 | [NVR_동작매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20200313.pdf)<br>[NVR_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20200313.pdf)<br>[NVR_업그레이드매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20200313.pdf)
+카탈로그 | [2UB8_카탈로그_20201022.pdf](https://www.emstone.com/data/sales/ko/2UB8_카탈로그_20201022.pdf)
+외관도 | [2UB8_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/2UB8_외관도_20201022.dwg)<br>[2UB8_외관도_20201022.png](https://www.emstone.com/data/sales/ko/2UB8_외관도_20201022.png)
+사양서 | [2UB8_사양서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_사양서_20201022.xlsx)
+시방서 | [2UB8_EM-16B8_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-16B8_시방서_20201022.hwp)<br>[2UB8_EM-25B8_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-25B8_시방서_20200831.hwp)<br>[2UB8_EM-36B8_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8_시방서_20201022.hwp)<br>[2UB8_EM-49B8F_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F_시방서_20201022.hwp)<br>[2UB8_EM-49B8H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8H_시방서_20201022.hwp)<br>[2UB8_EM-64B8F_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F_시방서_20201022.hwp)<br>[2UB8_EM-64B8H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8H_시방서_20201022.hwp)<br>[2UB8_EM-81B8H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H_시방서_20201022.hwp)<br>[2UB8_EM-100B8H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H_시방서_20201022.hwp)<br>[2UB8_EM-128B8H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H_시방서_20201022.hwp)
+출하검사 결과 성적서 | [2UB8_EM-16B8_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-16B8_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-25B8_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-25B8_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-36B8_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-49B8F_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-49B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8H_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-64B8F_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-64B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8H_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-81B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-100B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-128B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H_출하검사결과성적서_20201022.xls)
+인증서 | [2UB8_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/2UB8_방송통신기자재등의적합등록필증_20201022.pdf)<br>[2UB8_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/2UB8_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)<br>[2UB8_TTA인증서_20201022.pdf](https://www.emstone.com/data/sales/ko/2UB8_TTA공공기관용NVR보안성능품질인증서_20201022.pdf)<br>
+매뉴얼 | [NVR_동작매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20201022.pdf)<br>[NVR_사용자매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20201022.pdf)<br>[NVR_업그레이드매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20201022.pdf)
