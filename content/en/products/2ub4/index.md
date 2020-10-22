@@ -90,8 +90,7 @@ image:
 <tr>
 <th colspan="2">CPU</th>
 <td colspan="2">Dual Core 1.0GHz or Higher</td>
-<td>i3 3.0GHz or Higher</td>
-<td colspan="2">Intel i5 2.5GHz or Higher</td>
+<td colspan="3">i3 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -104,7 +103,7 @@ image:
 <tr>
 <th rowspan="2">Display</th>
 <th>Monitor<br>Output</th>
-<td colspan="5">1xHDMI / 1xVGA</td>
+<td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>Mode</th>

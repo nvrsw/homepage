@@ -92,8 +92,7 @@ image:
 <tr>
 <th colspan="2">CPU</th>
 <td colspan="2">Dual Core 1.0GHz or Higher</td>
-<td>i3 3.0GHz or Higher</td>
-<td colspan="2">Intel i5 2.5GHz or Higher</td>
+<td colspan="3">i3 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -106,7 +105,7 @@ image:
 <tr>
 <th rowspan="2">디스플레이</th>
 <th>모니터 출력</th>
-<td colspan="5">1xHDMI / 1xVGA</td>
+<td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>분할화면</th>
@@ -294,10 +293,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB4_카탈로그_20200807.pdf](https://www.emstone.com/data/sales/ko/2UB4_카탈로그_20200807.pdf)
-외관도 | [2UB4_외관도_20200313.dwg](https://www.emstone.com/data/sales/ko/2UB4_외관도_20200313.dwg)<br>[2UB4_외관도_20200313.png](https://www.emstone.com/data/sales/ko/2UB4_외관도_20200313.png)
-사양서 | [2UB4_사양서_20200807.xlsx](https://www.emstone.com/data/sales/ko/2UB4_사양서_20200807.xlsx)
-시방서 | [2UB4_EM-16B4_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_시방서_20200807.hwp)<br>[2UB4_EM-25B4_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_시방서_20200807.hwp)<br>[2UB4_EM-36B4_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_시방서_20200807.hwp)<br>[2UB4_EM-49B4F_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4F_시방서_20200807.hwp)<br>[2UB4_EM-64B4F_시방서_20200807.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4F_시방서_20200807.hwp)
-출하검사 결과 성적서 | [2UB4_EM-16B4_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_출하검사결과성적서_20200313.xls)<br>[2UB4_EM-25B4_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_출하검사결과성적서_20200313.xls)<br>[2UB4_EM-36B4_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_출하검사결과성적서_20200313.xls)<br>[2UB4_EM-49B4_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4_출하검사결과성적서_20200313.xls)<br>[2UB4_EM-64B4_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4_출하검사결과성적서_20200313.xls)
-인증서 | [2UB4_방송통신기자재등의적합등록필증_20190918.pdf](https://www.emstone.com/data/sales/ko/2UB4_방송통신기자재등의적합등록필증_20190918.pdf)<br>[2UB4_방송통신기자재등(전자파적합성)시험성적서_20180911.pdf](https://www.emstone.com/data/sales/ko/2UB4_방송통신기자재등(전자파적합성)시험성적서_20180911.pdf)
-매뉴얼 | [NVR_동작매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20200313.pdf)<br>[NVR_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20200313.pdf)<br>[NVR_업그레이드매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20200313.pdf)
+카탈로그 | [2UB4_카탈로그_20201022.pdf](https://www.emstone.com/data/sales/ko/2UB4_카탈로그_20201022.pdf)
+외관도 | [2UB4_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/2UB4_외관도_20201022.dwg)<br>[2UB4_외관도_20201022.png](https://www.emstone.com/data/sales/ko/2UB4_외관도_20201022.png)
+사양서 | [2UB4_사양서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB4_사양서_20201022.xlsx)
+시방서 | [2UB4_EM-16B4_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_시방서_20201022.hwp)<br>[2UB4_EM-25B4_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_시방서_20201022.hwp)<br>[2UB4_EM-36B4_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_시방서_20201022.hwp)<br>[2UB4_EM-49B4F_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4F_시방서_20201022.hwp)<br>[2UB4_EM-64B4F_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4F_시방서_20201022.hwp)
+출하검사 결과 성적서 | [2UB4_EM-16B4_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_출하검사결과성적서_20201022.xls)<br>[2UB4_EM-25B4_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_출하검사결과성적서_20201022.xls)<br>[2UB4_EM-36B4_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_출하검사결과성적서_20201022.xls)<br>[2UB4_EM-49B4_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4_출하검사결과성적서_20201022.xls)<br>[2UB4_EM-64B4_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4_출하검사결과성적서_20201022.xls)
+인증서 | [2UB4_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/2UB4_방송통신기자재등의적합등록필증_20201022.pdf)<br>[2UB4_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/2UB4_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
+매뉴얼 | [NVR_동작매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20201022.pdf)<br>[NVR_사용자매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20201022.pdf)<br>[NVR_업그레이드매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20201022.pdf)
