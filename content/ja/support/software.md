@@ -20,11 +20,11 @@ image:
 
 *Central Monitoring System for NVR / IP Video Wall*
 
-- バージョン: **2.1.20.9.28** (2020-09-28)
+- バージョン: **2.1.20.10.16** (2020-10-16)
 - Windows インストールプログラム (Windows 7 / Windows 8 / Windows 10)
-  - [32ビット](https://www.emstone.com/data/cms/cms-2.1.20.9.28-win32-emstone.exe) / [64ビット](https://www.emstone.com/data/cms/cms-2.1.20.9.28-win64-emstone.exe)
+  - [32ビット](https://www.emstone.com/data/cms/cms-2.1.20.10.16-win32-emstone.exe) / [64ビット](https://www.emstone.com/data/cms/cms-2.1.20.10.16-win64-emstone.exe)
 - Linux インストールプログラム (Ubuntu 19.04 / Arch Linux)
-  - [64ビット](https://www.emstone.com/data/cms/cms-2.1.20.9.28-linux-x86_64.tar.bz2)
+  - [64ビット](https://www.emstone.com/data/cms/cms-2.1.20.10.16-linux-x86_64.tar.bz2)
 - [変更](/docs/cms/changelog/cms21.html)
 
 ## モバイルアプリ
@@ -40,8 +40,8 @@ image:
 
 *Network Hybrid Digital Video Recorder*
 
-- バージョン: **2.9.20.10.8** (2020-10-08)
-- [ISO インストールイメージ](https://www.emstone.com/data/dvr/nvr-2.9.20.10.8-emstone.iso) : *アップグレードのみ/ライセンスキーが必要*
+- バージョン: **2.9.20.10.21** (2020-10-21)
+- [ISO インストールイメージ](https://www.emstone.com/data/dvr/nvr-2.9.20.10.21-emstone.iso) : *アップグレードのみ/ライセンスキーが必要*
 - [変更](/docs/dvr/changelog/nvr29.html)
 - [HTTP API](/docs/dvr/http/)
 
