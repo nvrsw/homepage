@@ -48,7 +48,7 @@ image:
 - **生体情報**を利用したユーザー認証に対応
 - フェールオーバ対応: 主システムが停止したとき、待機システムが自動的に作動
 - 双方向音声機能に対応
-- 最大192のゆったりセルフストレージスペース
+- 最大256のゆったりセルフストレージスペース
 - **LPR方向車両番号抽出**連動
 - モデルラインナップ：16, 25, 36, 49(F/H), 64(F/H), 81H, 100H, 128H CH
 
@@ -88,9 +88,8 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td colspan="3">Dual Core 1.0GHz or Higher</td>
-<td>Intel i5 2.5GHz or Higher</td>
-<td>Dual Core 1.0GHz or Higher</td>
+<td colspan="2">Dual Core 1.0GHz or Higher</td>
+<td colspan="3">i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -103,7 +102,7 @@ image:
 <tr>
 <th rowspan="2">ディスプレイ</th>
 <th>モニター<br>出力</th>
-<td colspan="5">1xHDMI / 1xVGA</td>
+<td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>分割画面</th>
@@ -176,7 +175,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td colspan="5">Intel i5 2.5GHz or Higher</td>
+<td colspan="5">i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -187,7 +186,7 @@ image:
 <tr>
 <th rowspan="2">ディスプレイ</th>
 <th>モニター<br>出力</th>
-<td colspan="5">1xHDMI / 1xVGA</td>
+<td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>分割画面</th>
@@ -264,7 +263,7 @@ image:
 </tr>
 <tr>
 <th>内部装着</th>
-<td>3.5" HDD最大16個搭載可能 (12TB を認識し、最大容量 192TB)</td>
+<td>3.5" HDD最大16個搭載可能 (16TB を認識し、最大容量 256TB)</td>
 </tr>
 <tr>
 <th>RAID<br>(オプション)</th>

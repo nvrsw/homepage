@@ -48,7 +48,7 @@ image:
 - User Authentication with **Fingerprint Mouse**
 - Smart Failover: Automatic takeover to spare units when system is stopped
 - Bidirectional audio transmission
-- Max. 192TB with internal storage space
+- Max. 256TB with internal storage space
 - Advanced **LPR(License Plate Recognition)** by 3rd party LPR server 
 - Model Line-up : 16, 25, 36, 49(F/H), 64(F/H), 81H, 100H, 128H CH
 
@@ -88,9 +88,8 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td colspan="3">Dual Core 1.0GHz or Higher</td>
-<td>Intel i5 2.5GHz or Higher</td>
-<td>Dual Core 1.0GHz or Higher</td>
+<td colspan="2">Dual Core 1.0GHz or Higher</td>
+<td colspan="3">i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -103,7 +102,7 @@ image:
 <tr>
 <th rowspan="2">Display</th>
 <th>Monitor<br>Output</th>
-<td colspan="5">1xHDMI / 1xVGA</td>
+<td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>Mode</th>
@@ -176,7 +175,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td colspan="5">Intel i5 2.5GHz or Higher</td>
+<td colspan="5">i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -187,7 +186,7 @@ image:
 <tr>
 <th rowspan="2">Display</th>
 <th>Monitor<br>Output</th>
-<td colspan="5">1xHDMI / 1xVGA</td>
+<td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>Mode</th>
@@ -264,7 +263,7 @@ image:
 </tr>
 <tr>
 <th>Internal</th>
-<td>3.5" HDD up to 16ea (12TB HDD, Max. 192TB)</td>
+<td>3.5" HDD up to 16ea (16TB HDD, Max. 256TB)</td>
 </tr>
 <tr>
 <th>RAID<br>(Optional)</th>
