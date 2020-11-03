@@ -36,7 +36,7 @@ image:
 
 ## 특징
 
-- HDD 최대 24개 장착 (RAID 0/1/5 기본 장착)
+- HDD 최대 24개 장착 (RAID 0/1/5/6 기본 장착)
 - 추가 옵션 적용 가능 (LAN, DI/DO)
 - 높은 신뢰도의 64비트 리눅스(Linux) 기반 디지털 비디오 녹화기
 - 고효율 H.265 / H.264 압축방식을 통하여 선명한 화질의 영상
@@ -50,7 +50,7 @@ image:
 - **생체 정보**를 이용한 사용자 인증 지원
 - Failover 지원 : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
 - 양방향 음성 기능 지원
-- 최대 288TB의 넉넉한 자체 저장 공간
+- 최대 384TB의 넉넉한 자체 저장 공간
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
 - 모델 라인업 : 36, 64F, 81H, 100H, 128H CH
 
@@ -87,8 +87,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td>Dual Core 1.0GHz or Higher</td>
-<td colspan="4">Intel i5 2.5GHz or Higher</td>
+<td colspan="5"> i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -98,7 +97,7 @@ image:
 <tr>
 <th rowspan="2">디스플레이</th>
 <th>모니터 출력</th>
-<td colspan="5">1xHDMI / 1xVGA</td>
+<td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>분할화면</th>
@@ -176,7 +175,7 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>3.5" HDD 최대 24개 장착가능 (12TB HDD 인식, 최대 용량 288TB), RAID 사용시 Enterprise Level HDD 사용 필수</td>
+<td>3.5" HDD 최대 24개 장착가능 (16TB HDD 인식, 최대 용량 384TB), RAID 사용시 Enterprise Level HDD 사용 필수</td>
 </tr>
 <tr>
 <th>RAID(옵션)</th>
@@ -286,10 +285,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [4UB24_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/4UB24_카탈로그_20200313.pdf)
-외관도 | [4UB24_외관도_20200313.dwg](https://www.emstone.com/data/sales/ko/4UB24_외관도_20200313.dwg)<br>[4UB24_외관도_20200313.png](https://www.emstone.com/data/sales/ko/4UB24_외관도_20200313.png)
-사양서 | [4UB24_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/4UB24_사양서_20200313.xlsx)
-시방서 | [4UB24_EM-36B24_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-36B24_시방서_20200313.hwp)<br>[4UB24_EM-64B24F_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-64B24F_시방서_20200313.hwp)<br>[4UB24_EM-81B24H_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-81B24H_시방서_20200313.hwp)<br>[4UB24_EM-100B24H_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-100B24H_시방서_20200313.hwp)<br>[4UB24_EM-128B24H_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-128B24H_시방서_20200313.hwp)
-출하검사 결과 성적서 | [4UB24_EM-36B24_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-36B24_출하검사결과성적서_20200313.xls)<br>[4UB24_EM-64B24F_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-64B24F_출하검사결과성적서_20200313.xls)<br>[4UB24_EM-81B24H_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-81B24H_출하검사결과성적서_20200313.xls)<br>[4UB24_EM-100B24H_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-100B24H_출하검사결과성적서_20200313.xls)<br>[4UB24_EM-128B24H_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-128B24H_출하검사결과성적서_20200313.xls)
-인증서 | [4UB24_방송통신기자재등의적합등록필증_20190805.pdf](https://www.emstone.com/data/sales/ko/4UB24_방송통신기자재등의적합등록필증_20190805.pdf)<br>[4UB24_방송통신기자재등(유선영상정보처리기기)시험성적서_20190805.pdf](https://www.emstone.com/data/sales/ko/4UB24_방송통신기자재등(유선영상정보처리기기)시험성적서_20190805.pdf)<br>[4UB24_방송통신기자재등(전자파적합성)시험성적서_20190805.pdf](https://www.emstone.com/data/sales/ko/4UB24_방송통신기자재등(전자파적합성)시험성적서_20190805.pdf)
-매뉴얼 | [NVR_동작매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20200313.pdf)<br>[NVR_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20200313.pdf)<br>[NVR_업그레이드매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20200313.pdf)
+카탈로그 | [4UB24_카탈로그_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB24_카탈로그_20201022.pdf)
+외관도 | [4UB24_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/4UB24_외관도_20201022.dwg)<br>[4UB24_외관도_20201022.png](https://www.emstone.com/data/sales/ko/4UB24_외관도_20201022.png)
+사양서 | [4UB24_사양서_20201022.xlsx](https://www.emstone.com/data/sales/ko/4UB24_사양서_20201022.xlsx)
+시방서 | [4UB24_EM-36B24_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-36B24_시방서_20201022.hwp)<br>[4UB24_EM-64B24F_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-64B24F_시방서_20201022.hwp)<br>[4UB24_EM-81B24H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-81B24H_시방서_20201022.hwp)<br>[4UB24_EM-100B24H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-100B24H_시방서_20201022.hwp)<br>[4UB24_EM-128B24H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-128B24H_시방서_20201022.hwp)
+출하검사 결과 성적서 | [4UB24_EM-36B24_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-36B24_출하검사결과성적서_20201022.xls)<br>[4UB24_EM-64B24F_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-64B24F_출하검사결과성적서_20201022.xls)<br>[4UB24_EM-81B24H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-81B24H_출하검사결과성적서_20201022.xls)<br>[4UB24_EM-100B24H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-100B24H_출하검사결과성적서_20201022.xls)<br>[4UB24_EM-128B24H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-128B24H_출하검사결과성적서_20201022.xls)
+인증서 | [4UB24_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB24_방송통신기자재등의적합등록필증_20201022.pdf)<br>[4UB24_방송통신기자재등(유선영상정보처리기기)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB24_방송통신기자재등(유선영상정보처리기기)시험성적서_20201022.pdf)<br>[4UB24_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB24_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
+매뉴얼 | [NVR_동작매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20201022.pdf)<br>[NVR_사용자매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20201022.pdf)<br>[NVR_업그레이드매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20201022.pdf)

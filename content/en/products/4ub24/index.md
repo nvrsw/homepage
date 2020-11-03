@@ -34,7 +34,7 @@ image:
 
 ## Features
 
-- 3.5" HDD up to 24ea (RAID 0/1/5 built-in)
+- 3.5" HDD up to 24ea (RAID 0/1/5/6 built-in)
 - Optional devices can be added (LAN, DI/DO)
 - Highly reliable 64-bit Linux-based network video recorder
 - Clear video quality with H.265 / H.264 compression
@@ -48,7 +48,7 @@ image:
 - User Authentication with **Fingerprint Mouse**
 - Smart Failover: Automatic takeover to spare units when system is stopped
 - Bidirectional audio transmission
-- Max. 288TB with internal storage space
+- Max. 384TB with internal storage space
 - Advanced **LPR(License Plate Recognition)** by 3rd party LPR server 
 - Model Line-up : 36, 64F, 81H, 100H, 128H CH
 
@@ -85,8 +85,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td>Dual Core 1.0GHz or Higher</td>
-<td colspan="4">Intel i5 2.5GHz or Higher</td>
+<td colspan="5">i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -96,7 +95,7 @@ image:
 <tr>
 <th rowspan="2">Display</th>
 <th>Monitor<br>Output</th>
-<td colspan="5">1xHDMI / 1xVGA</td>
+<td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>Mode</th>
@@ -174,7 +173,7 @@ image:
 </tr>
 <tr>
 <th>Internal</th>
-<td>3.5" HDD up to 24ea (12TB HDD, Max. 288TB),  Enterprise level HDDs required for RAID</td>
+<td>3.5" HDD up to 24ea (16TB HDD, Max. 384TB),  Enterprise level HDDs required for RAID</td>
 </tr>
 <tr>
 <th>RAID<br>(Optional)</th>

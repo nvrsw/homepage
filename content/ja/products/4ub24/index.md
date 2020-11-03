@@ -34,7 +34,7 @@ image:
 
 ## 特長
 
-- HDD最大24個搭載 (RAID 0/1/5 標準装備)
+- HDD最大24個搭載 (RAID 0/1/5/6 標準装備)
 - 追加オプションの適用可能（LAN、DI / DO）
 - 高い信頼性の64ビットのLinuxベースのデジタルビデオレコーダー
 - 高効率H.265 / H.264圧縮方式を介して鮮明な画質の映像
@@ -48,7 +48,7 @@ image:
 - **生体情報**を利用したユーザー認証に対応
 - フェールオーバ対応: 主システムが停止したとき、待機システムが自動的に作動
 - 双方向音声機能に対応
-- 最大288のゆったりセルフストレージスペース
+- 最大387のゆったりセルフストレージスペース
 - **LPR方向車両番号抽出**連動
 - モデルラインナップ：36, 64F, 81H, 100H, 128H CH
 
@@ -85,8 +85,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td>Dual Core 1.0GHz or Higher</td>
-<td colspan="4">Intel i5 2.5GHz or Higher</td>
+<td colspan="5">i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -96,7 +95,7 @@ image:
 <tr>
 <th rowspan="2">ディスプレイ</th>
 <th>モニター<br>出力</th>
-<td colspan="5">1xHDMI / 1xVGA</td>
+<td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>分割画面</th>
@@ -174,7 +173,7 @@ image:
 </tr>
 <tr>
 <th>内部装着</th>
-<td>3.5" HDD最大24個搭載可能（12TB HDDを認識し、最大容量288TB）、RAID使用時Enterprise Level HDDの使用必須</td>
+<td>3.5" HDD最大24個搭載可能（16TB HDDを認識し、最大容量384TB）、RAID使用時Enterprise Level HDDの使用必須</td>
 </tr>
 <tr>
 <th>RAID<br>(オプション)</th>
