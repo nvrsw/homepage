@@ -36,7 +36,7 @@ image:
 - D1（640x360）〜12M（4000x3000 @ 30fps）最大128チャンネルの同時録画が可能
 - 緊急時の映像確認のための1チャンネルライブ表示/検索が可能
 - H.265 / H.264 / MJPEG圧縮方式に対応
-- 最大24TBの装着に対応
+- 最大32TBの装着に対応
 - **Smart Failover** 対応
 - **生体情報**を利用したユーザー認証に対応
 - モデルラインナップ：64、128 CH
@@ -73,7 +73,7 @@ image:
 <tr>
 <th colspan="2">CPU</th>
 <td>Dual Core 1.0GHz or Higher</td>
-<td>intel i5 3.0GHz or Higher</td>
+<td>i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -83,7 +83,7 @@ image:
 <tr>
 <th rowspan="2">ディスプレイ</th>
 <th>モニター<br>出力</th>
-<td colspan="2">1xHDMI / 1xVGA</td>
+<td colspan="2">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>分割画面</th>
@@ -141,7 +141,7 @@ image:
 </tr>
 <tr>
 <th>内部装着</th>
-<td colspan="2">3.5" HDD最大2個搭載可能 (12TB を認識し、最大容量 24TB)</td>
+<td colspan="2">3.5" HDD最大2個搭載可能 (16TB を認識し、最大容量 32TB)</td>
 </tr>
 <tr>
 <th>RAID<br>(オプション)</th>

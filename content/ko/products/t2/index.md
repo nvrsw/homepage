@@ -38,7 +38,7 @@ image:
 - D1(640x360)~12M(4000x3000@30fps) 최대 128채널 동시 녹화 가능
 - 긴급영상 확인을 위한 1채널 동시 라이브 / 검색 가능
 - H.265 / H.264 / MJPEG 압축 방식 지원
-- 최대 24TB 장착 지원
+- 최대 32TB 장착 지원
 - **Smart Failover** 지원
 - **생체 정보**를 이용한 사용자 인증 지원
 - 모델 라인업 : 64, 128 CH
@@ -75,7 +75,7 @@ image:
 <tr>
 <th colspan="2">CPU</th>
 <td>Dual Core 1.0GHz or Higher</td>
-<td>intel i5 3.0GHz or Higher</td>
+<td>i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -85,7 +85,7 @@ image:
 <tr>
 <th rowspan="2">디스플레이</th>
 <th>모니터 출력</th>
-<td colspan="2">1xHDMI / 1xVGA</td>
+<td colspan="2">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>분할화면</th>
@@ -143,7 +143,7 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td colspan="2">3.5" HDD 최대 2개 장착가능 (12TB HDD 인식, 최대 용량 24TB)</td>
+<td colspan="2">3.5" HDD 최대 2개 장착가능 (16TB HDD 인식, 최대 용량 32TB)</td>
 </tr>
 <tr>
 <th>RAID(옵션)</th>
@@ -268,10 +268,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [T2_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/T2_카탈로그_20200313.pdf)
-외관도 | [T2_외관도_20200313.dwg](https://www.emstone.com/data/sales/ko/T2_외관도_20200313.dwg)<br>[T2_외관도_20200313.png](https://www.emstone.com/data/sales/ko/T2_외관도_20200313.png)
-사양서 | [T2_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/T2_사양서_20200313.xlsx)
-시방서 | [T2_F64_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/T2_F64_시방서_20200313.hwp)<br>[T2_F128_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/T2_F128_시방서_20200313.hwp)
-출하검사 결과 성적서 | [T2_F64_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/T2_F64_출하검사결과성적서_20200313.xls)<br>[T2_F128_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/T2_F128_출하검사결과성적서_20200313.xls)
-인증서 | [T2_방송통신기자재등의적합등록필증_20191108.pdf](https://www.emstone.com/data/sales/ko/T2_방송통신기자재등의적합등록필증_20191108.pdf)<br>[T2_방송통신기자재등(전자파적합성)시험성적서_20191108.pdf](https://www.emstone.com/data/sales/ko/T2_방송통신기자재등(전자파적합성)시험성적서_20191108.pdf)
-매뉴얼 | [NVR_동작매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20200313.pdf)<br>[NVR_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20200313.pdf)<br>[NVR_업그레이드매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20200313.pdf)
+카탈로그 | [T2_카탈로그_20201022.pdf](https://www.emstone.com/data/sales/ko/T2_카탈로그_20201022.pdf)
+외관도 | [T2_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/T2_외관도_20201022.dwg)<br>[T2_외관도_20201022.png](https://www.emstone.com/data/sales/ko/T2_외관도_20201022.png)
+사양서 | [T2_사양서_20201022.xlsx](https://www.emstone.com/data/sales/ko/T2_사양서_20201022.xlsx)
+시방서 | [T2_F64_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/T2_F64_시방서_20201022.hwp)<br>[T2_F128_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/T2_F128_시방서_20201022.hwp)
+출하검사 결과 성적서 | [T2_F64_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/T2_F64_출하검사결과성적서_20201022.xls)<br>[T2_F128_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/T2_F128_출하검사결과성적서_20201022.xls)
+인증서 | [T2_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/T2_방송통신기자재등의적합등록필증_20201022.pdf)<br>[T2_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/T2_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
+매뉴얼 | [NVR_동작매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20201022.pdf)<br>[NVR_사용자매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20201022.pdf)<br>[NVR_업그레이드매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20201022.pdf)

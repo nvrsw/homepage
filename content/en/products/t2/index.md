@@ -36,7 +36,7 @@ image:
 - D1(640x360)~12M(4000x3000@30fps) Max. 128ch recorded at once
 - 1 channel live / search for emergency video
 - H.265, H.264, MJPEG Compression supported
-- Max. 24TB supported
+- Max. 32TB supported
 - **Smart Failover** supported
 - User Authentication with **Fingerprint Mouse**
 - Model Line-up : 64, 128 CH
@@ -73,7 +73,7 @@ image:
 <tr>
 <th colspan="2">CPU</th>
 <td>Dual Core 1.0GHz or Higher</td>
-<td>intel i5 3.0GHz or Higher</td>
+<td>i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -83,7 +83,7 @@ image:
 <tr>
 <th rowspan="2">Display</th>
 <th>Monitor<br>Output</th>
-<td colspan="2">1xHDMI / 1xVGA</td>
+<td colspan="2">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>Mode</th>
@@ -141,7 +141,7 @@ image:
 </tr>
 <tr>
 <th>Internal</th>
-<td colspan="2">3.5" HDD up to 2ea (12TB HDD, Max. 24TB)</td>
+<td colspan="2">3.5" HDD up to 2ea (16TB HDD, Max. 32TB)</td>
 </tr>
 <tr>
 <th>RAID<br>(Optional)</th>
