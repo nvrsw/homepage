@@ -1,7 +1,7 @@
 ---
 title: "REDBACK VMS Series"
-subtitle: "Vedio Management System"
-summary: "Vedio Management System"
+subtitle: "Video Management System"
+summary: "Video Management System"
 authors: []
 tags: []
 categories: [ "vms" ]
