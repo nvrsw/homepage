@@ -48,9 +48,9 @@ image:
 - **生体情報**を利用したユーザー認証に対応
 - フェールオーバ対応: 主システムが停止したとき、待機システムが自動的に作動
 - 双方向音声機能に対応
-- 最大96のゆったりセルフストレージスペース
+- 最大128のゆったりセルフストレージスペース
 - **LPR方向車両番号抽出**連動
-- モデルラインナップ：16, 32 CH
+- モデルラインナップ：16 CH
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
@@ -71,67 +71,61 @@ image:
 <tr>
 <th colspan="2">モデル</th>
 <th>EM-NH16B8</th>
-<th>EM-NH32B8</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th>映像入力</th>
-<th>아날로그 /<br>IP カメラ</th>
+<th>アナログ /<br>IP カメラ</th>
 <td>16CH (AHD / CVI / TVI or IP)</td>
-<td>32CH (AHD / CVI / TVI or IP)</td>
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td colspan="2">Dual Core 1.0GHz or Higher</td>
+<td>Dual Core 1.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
 <td>DDR3/4 8GB</td>
-<td>DDR3/4 16GB</td>
 </tr>
 <tr>
 <th rowspan="2">ディスプレイ</th>
 <th>モニター<br>出力</th>
-<td colspan="2">1xHDMI / 1xVGA</td>
+<td>1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>分割画面</th>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16</td>
-<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36</td>
 </tr>
 <tr>
 <th>ライブ</th>
 <th>性能</th>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(5CH/150fps)<br>8M(8CH/240fps)<br>5M(12CH/360fps)<br>1080P(32CH/960fps)</td>
 </tr>
 <tr>
 <th rowspan="3">録画</th>
 <th>録画モード</th>
-<td colspan="2">連続/スケジュール/イベント連動</td>
+<td>連続/スケジュール/イベント連動</td>
 </tr>
 <tr>
 <th>性能</th>
-<td colspan="2">最大500Mbps<br>CIF~12MP</td>
+<td>最大500Mbps<br>CIF~12MP</td>
 </tr>
 <tr>
 <th>圧縮方式</th>
-<td colspan="2">H.265 / H.264 / MPEG4 / MJPEG</td>
+<td>H.265 / H.264 / MPEG4 / MJPEG</td>
 </tr>
 <tr>
 <th rowspan="3">検索/再生</th>
 <th>検索モード</th>
-<td colspan="2">日付/時刻カレンダー検索、チャンネルの単独/複数による検索、イベント検索</td>
+<td>日付/時刻カレンダー検索、チャンネルの単独/複数による検索、イベント検索</td>
 </tr>
 <tr>
 <th>性能</th>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(5CH/150fps)<br>8M(8CH/240fps)<br>5M(12CH/360fps)<br>1080P(32CH/960fps)</td>
 </tr>
 <tr>
 <th>再生制御</th>
-<td colspan="2">前方/後方再生（高速：x1〜x32、低速：1/4〜1/2）、コマ戻し/送り</td>
+<td>前方/後方再生（高速：x1〜x32、低速：1/4〜1/2）、コマ戻し/送り</td>
 </tr>
 </tbody>
 </table>
@@ -162,7 +156,7 @@ image:
 </tr>
 <tr>
 <th>内部装着</th>
-<td>3.5" HDD最大8個搭載可能 (12TB を認識し、最大容量 96TB)</td>
+<td>3.5" HDD最大8個搭載可能 (16TB を認識し、最大容量 128TB)</td>
 </tr>
 <tr>
 <th>RAID<br>(オプション)</th>

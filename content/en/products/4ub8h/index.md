@@ -38,7 +38,7 @@ image:
 - Optional devices can be added (LAN, DI/DO)
 - Highly reliable 64-bit Linux-based network video recorder
 - Clear video quality with H.265 / H.264 compression
-- **AHD / TVI / CVI** 및 Support **all resolutions** including 12M / 8M / 5M / 2M / 1.3M
+- **AHD / TVI / CVI**  Support **all resolutions** including 12M / 8M / 5M / 2M / 1.3M
 - Fast and stable system operation using DOM-SSD
 - ONVIF / RTSP standard protocol
 - Various display mode and full screen mode
@@ -48,9 +48,9 @@ image:
 - User Authentication with **Fingerprint Mouse**
 - Smart Failover: Automatic takeover to spare units when system is stopped
 - Bidirectional audio transmission
-- Max. 96TB with internal storage space
+- Max. 128TB with internal storage space
 - Advanced **LPR(License Plate Recognition)** by 3rd party LPR server 
-- Model Line-up : 16, 32 CH
+- Model Line-up : 16 CH
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
@@ -71,67 +71,61 @@ image:
 <tr>
 <th colspan="2">Model</th>
 <th>EM-NH16B8</th>
-<th>EM-NH32B8</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th>Video<br>Input</th>
-<th>아날로그 /<br>IP Camera</th>
+<th>Analogue /<br>IP Camera</th>
 <td>16CH (AHD / CVI / TVI or IP)</td>
-<td>32CH (AHD / CVI / TVI or IP)</td>
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td colspan="2">Dual Core 1.0GHz or Higher</td>
+<td>Dual Core 1.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
 <td>DDR3/4 8GB</td>
-<td>DDR3/4 16GB</td>
 </tr>
 <tr>
 <th rowspan="2">Display</th>
 <th>Monitor<br>Output</th>
-<td colspan="2">1xHDMI / 1xVGA</td>
+<td>1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>Mode</th>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16</td>
-<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36</td>
 </tr>
 <tr>
 <th>Live</th>
 <th>Performance</th>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(5CH/150fps)<br>8M(8CH/240fps)<br>5M(12CH/360fps)<br>1080P(32CH/960fps)</td>
 </tr>
 <tr>
 <th rowspan="3">Recording</th>
 <th>Mode</th>
-<td colspan="2">Continuous / Scheduled / Events</td>
+<td>Continuous / Scheduled / Events</td>
 </tr>
 <tr>
 <th>Performance</th>
-<td colspan="2">Max. 500Mbps<br>CIF~12MP</td>
+<td>Max. 500Mbps<br>CIF~12MP</td>
 </tr>
 <tr>
 <th>Compression</th>
-<td colspan="2">H.265 / H.264 / MPEG4 / MJPEG</td>
+<td>H.265 / H.264 / MPEG4 / MJPEG</td>
 </tr>
 <tr>
 <th rowspan="3">Search /<br>Replay</th>
 <th>Method</th>
-<td colspan="2">Calendar / Channel Grouping / Events</td>
+<td>Calendar / Channel Grouping / Events</td>
 </tr>
 <tr>
 <th>Performance</th>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(5CH/150fps)<br>8M(8CH/240fps)<br>5M(12CH/360fps)<br>1080P(32CH/960fps)</td>
 </tr>
 <tr>
 <th>Replay<br>Control</th>
-<td colspan="2">Play forward / backward (fast:x1~x32, slow:1/4~1/2), Step forward / backward</td>
+<td>Play forward / backward (fast:x1~x32, slow:1/4~1/2), Step forward / backward</td>
 </tr>
 </tbody>
 </table>
@@ -162,7 +156,7 @@ image:
 </tr>
 <tr>
 <th>Internal</th>
-<td>3.5" HDD up to 8ea (12TB HDD, Max. 96TB)</td>
+<td>3.5" HDD up to 8ea (16TB HDD, Max. 128TB)</td>
 </tr>
 <tr>
 <th>RAID<br>(Optional)</th>

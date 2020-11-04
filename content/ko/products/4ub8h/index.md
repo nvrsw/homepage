@@ -50,9 +50,9 @@ image:
 - **생체 정보**를 이용한 사용자 인증 지원
 - Failover 지원 : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
 - 양방향 음성 기능 지원
-- 최대 96TB의 넉넉한 자체 저장 공간
+- 최대 128TB의 넉넉한 자체 저장 공간
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
-- 모델 라인업 : 16, 32 CH
+- 모델 라인업 : 16 CH
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
@@ -73,7 +73,6 @@ image:
 <tr>
 <th colspan="2">모델명</th>
 <th>EM-NHH16B8</th>
-<th>EM-NHH32B8</th>
 </tr>
 </thead>
 <tbody>
@@ -81,59 +80,54 @@ image:
 <th>영상입력</th>
 <th>아날로그 /<br>IP 카메라</th>
 <td>16CH (AHD / CVI / TVI or IP)</td>
-<td>32CH (AHD / CVI / TVI or IP)</td>
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td colspan="2">Dual Core 1.0GHz or Higher</td>
+<td>Dual Core 1.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
 <td>DDR3/4 8GB</td>
-<td>DDR3/4 16GB</td>
 </tr>
 <tr>
 <th rowspan="2">디스플레이</th>
 <th>모니터 출력</th>
-<td colspan="2">1xHDMI / 1xVGA</td>
+<td colspan="2">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>분할화면</th>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16</td>
-<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36</td>
 </tr>
 <tr>
 <th>라이브</th>
 <th>성능</th>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(5CH/150fps)<br>8M(8CH/240fps)<br>5M(12CH/360fps)<br>1080P(32CH/960fps)</td>
 </tr>
 <tr>
 <th rowspan="3">녹화</th>
 <th>녹화 모드</th>
-<td colspan="2">연속 / 스케줄 / 이벤트 연동</td>
+<td>연속 / 스케줄 / 이벤트 연동</td>
 </tr>
 <tr>
 <th>성능</th>
-<td colspan="2">최대 500Mbps<br>CIF~12MP</td>
+<td>최대 500Mbps<br>CIF~12MP</td>
 </tr>
 <tr>
 <th>압축방식</th>
-<td colspan="2">H.265 / H.264 / MPEG4 / MJPEG</td>
+<td>H.265 / H.264 / MPEG4 / MJPEG</td>
 </tr>
 <tr>
 <th rowspan="3">검색 / 재생</th>
 <th>검색 모드</th>
-<td colspan="2">날짜 / 시간 캘린더 검색, 개별 / 채널 묶음 검색, 이벤트 검색</td>
+<td>날짜 / 시간 캘린더 검색, 개별 / 채널 묶음 검색, 이벤트 검색</td>
 </tr>
 <tr>
 <th>성능</th>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(5CH/150fps)<br>8M(8CH/240fps)<br>5M(12CH/360fps)<br>1080P(32CH/960fps)</td>
 </tr>
 <tr>
 <th>재생 제어</th>
-<td colspan="2">정방향 / 역방향 재생 (고속:x1~x32, 저속:1/4~1/2), 스탭 전 / 후</td>
+<td>정방향 / 역방향 재생 (고속:x1~x32, 저속:1/4~1/2), 스탭 전 / 후</td>
 </tr>
 </tbody>
 </table>
@@ -164,7 +158,7 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>3.5" HDD 최대 8개 장착가능 (12TB HDD 인식, 최대 용량 96TB)</td>
+<td>3.5" HDD 최대 8개 장착가능 (16TB HDD 인식, 최대 용량 128TB)</td>
 </tr>
 <tr>
 <th>RAID(옵션)</th>
@@ -274,10 +268,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [4UB8H_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/4UB8H_카탈로그_20200313.pdf)
-외관도 | [4UB8H_외관도_20200313.dwg](https://www.emstone.com/data/sales/ko/4UB8H_외관도_20200313.dwg)<br>[4UB8H_외관도_20200313.png](https://www.emstone.com/data/sales/ko/4UB8H_외관도_20200313.png)
-사양서 | [4UB8H_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/4UB8H_사양서_20200313.xlsx)
-시방서 | [4UB8H_EM-NH16B8_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/4UB8H_EM-NH16B8_시방서_20200313.hwp)<br>[4UB8H_EM-NH32B8_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/4UB8H_EM-NH32B8_시방서_20200313.hwp)
-출하검사 결과 성적서 | [4UB8H_EM-NH16B8_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/4UB8H_EM-NH16B8_출하검사결과성적서_20200313.xls)<br>[4UB8H_EM-NH32B8_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/4UB8H_EM-NH32B8_출하검사결과성적서_20200313.xls)
-인증서 | [4UB8H_방송통신기자재등의적합등록필증_20200714.pdf](https://www.emstone.com/data/sales/ko/4UB8H_방송통신기자재등의적합등록필증_20200714.pdf)<br>[4UB8H_방송통신기자재등(전자파적합성)시험성적서_20180903.pdf](https://www.emstone.com/data/sales/ko/4UB8H_방송통신기자재등(전자파적합성)시험성적서_20180903.pdf)
-매뉴얼 | [NVR_동작매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20200313.pdf)<br>[NVR_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20200313.pdf)<br>[NVR_업그레이드매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20200313.pdf)
+카탈로그 | [4UB8H_카탈로그_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB8H_카탈로그_20201022.pdf)
+외관도 | [4UB8H_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/4UB8H_외관도_20201022.dwg)<br>[4UB8H_외관도_20201022.png](https://www.emstone.com/data/sales/ko/4UB8H_외관도_20201022.png)
+사양서 | [4UB8H_사양서_20201022.xlsx](https://www.emstone.com/data/sales/ko/4UB8H_사양서_20201022.xlsx)
+시방서 | [4UB8H_EM-NH16B8_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB8H_EM-NH16B8_시방서_20201022.hwp)
+출하검사 결과 성적서 | [4UB8H_EM-NH16B8_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB8H_EM-NH16B8_출하검사결과성적서_20201022.xls)
+인증서 | [4UB8H_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB8H_방송통신기자재등의적합등록필증_20201022.pdf)<br>[4UB8H_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB8H_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
+매뉴얼 | [NVR_동작매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20201022.pdf)<br>[NVR_사용자매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20201022.pdf)<br>[NVR_업그레이드매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20201022.pdf)
