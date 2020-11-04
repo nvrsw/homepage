@@ -35,16 +35,22 @@ align = "end"
 #   description = "3U 16Bay Storage Type PC based NVR"
 
 [[feature]]
+  image = "products/redbackvms/featured.png"
+  url = "products/redbackvms/"
+  name = "REDBACK VMS"
+  description = "Video Management System"
+
+[[feature]]
   image = "products/4ub24/featured.png"
   url = "products/4ub24/"
   name = "NVR 4U B24 Series"
   description = "4U 24Bay Storage Type PC based NVR"
 
-[[feature]]
-  image = "products/4ub8h/featured.png"
-  url = "products/4ub8h/"
-  name = "NVR 4U B8 Hybrid Series"
-  description = "4U 8Bay Storage Type PC based Hybrid NVR"
+# [[feature]]
+#   image = "products/4ub8h/featured.png"
+#   url = "products/4ub8h/"
+#   name = "NVR 4U B8 Hybrid Series"
+#   description = "4U 8Bay Storage Type PC based Hybrid NVR"
 
 [[feature]]
   image = "products/t2/featured.png"
