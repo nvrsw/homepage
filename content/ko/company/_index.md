@@ -57,14 +57,25 @@ cascade:
 - 팩스: {{< param "company_fax" >}}
 - 주소: {{< param "company_address" >}}
 
-<div id="daumRoughmapContainer1580878154123" class="root_daum_roughmap root_daum_roughmap_landing" style="width:100%"></div>
-<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
-<script charset="UTF-8">
-	new daum.roughmap.Lander({
-		"timestamp" : "1580878154123",
-		"key" : "wvbi",
-		"mapHeight" : "450"
-	}).render();
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=b38d90863b5a02a908e28cc28dccf318"></script>
+<div id="company-map" style="width:100%; height:500px"></div>
+<script>
+  var container = document.getElementById('company-map');
+  var options = {
+    center: new kakao.maps.LatLng(37.484480421641386, 126.89331072655492),
+    level: 4,
+    mapTypeId : kakao.maps.MapTypeId.ROADMAP
+  };
+  var map = new kakao.maps.Map(container, options);
+  var mapTypeControl = new kakao.maps.MapTypeControl();
+  map.addControl(mapTypeControl, kakao.maps.ControlPosition.TOPRIGHT);	
+  var zoomControl = new kakao.maps.ZoomControl();
+  map.addControl(zoomControl, kakao.maps.ControlPosition.RIGHT);
+  var marker = new kakao.maps.Marker({
+	position: map.getCenter(),
+	title: '{{< param "company_address" >}}'
+  });
+  marker.setMap(map);
 </script>
 
 ## 전국 지사 {#branches}
