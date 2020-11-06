@@ -62,7 +62,7 @@ cascade:
 <script>
   var container = document.getElementById('company-map');
   var options = {
-    center: new kakao.maps.LatLng(37.484480421641386, 126.89331072655492),
+    center: new kakao.maps.LatLng(37.4844101022522, 126.893265600121),
     level: 4,
     mapTypeId : kakao.maps.MapTypeId.ROADMAP
   };
@@ -72,10 +72,14 @@ cascade:
   var zoomControl = new kakao.maps.ZoomControl();
   map.addControl(zoomControl, kakao.maps.ControlPosition.RIGHT);
   var marker = new kakao.maps.Marker({
-	position: map.getCenter(),
-	title: '{{< param "company_address" >}}'
+    position: map.getCenter(),
+    title: '{{< param "company_address" >}}',
+    clickable: true
   });
   marker.setMap(map);
+  kakao.maps.event.addListener(marker, 'click', function() {
+    window.open('https://map.kakao.com/link/map/12939518');
+  });
 </script>
 
 ## 전국 지사 {#branches}
@@ -84,24 +88,139 @@ cascade:
 - 고객지원센터 운영으로 편리한 A/S 신청
 - 전용 ERP 시스템 운영을 통한 체계적인 관리
 
-{{< figure src="branch-map.png" lightbox="false" >}}
+<div id="branches-map" style="width:100%; height:600px"></div>
+<script>
+  var container = document.getElementById('branches-map');
+  var options = {
+    center: new kakao.maps.LatLng(35.46492657579976, 127.81048972306141),
+    level: 13,
+    mapTypeId : kakao.maps.MapTypeId.ROADMAP
+  };
+  var map = new kakao.maps.Map(container, options);
+  var mapTypeControl = new kakao.maps.MapTypeControl();
+  map.addControl(mapTypeControl, kakao.maps.ControlPosition.TOPRIGHT);	
+  var zoomControl = new kakao.maps.ZoomControl();
+  map.addControl(zoomControl, kakao.maps.ControlPosition.RIGHT);
+  var branches = [
+    {
+      title: '강남북지사',
+      address: '서울 성동구 광나루로8길 31, SK V1 센터 2동 406호',
+      latlng: new kakao.maps.LatLng(37.5471881065539, 127.066325845916)
+    },
+    {
+      title: '강서지사',
+      address: '경기도 의정부시 용현동 544-6 이지빌딩 3층',
+      latlng: new kakao.maps.LatLng(37.7510873133029, 127.08225158692)
+    },
+    {
+      title: '경기남부',
+      address: '경기도 수원시 권선구 칠보로 14번길 134-18',
+      latlng: new kakao.maps.LatLng(37.2629117256969, 126.942075842681)
+    },
+    {
+      title: '경기서부',
+      address: '경기도 안산시 단원구 별망로 555 타원타크라 5차 813호',
+      latlng: new kakao.maps.LatLng(37.3010365050936, 126.786946558547)
+    },
+    {
+      title: '강릉지사',
+      address: '강원도 강릉시 원호평길58번길 49',
+      latlng: new kakao.maps.LatLng(37.7423341304819, 128.941092005768)
+    },
+    {
+      title: '강원영서지사',
+      address: '강원도 홍천군 홍천읍 갈마로 77',
+      latlng: new kakao.maps.LatLng(37.6958814305287, 127.904238526586)
+    },
+    {
+      title: '광주지사',
+      address: '광주광역시 북구 버들로 40 서광빌딩 2층',
+      latlng: new kakao.maps.LatLng(35.1577391500073, 126.91123384065)
+    },
+    {
+      title: '전남지사',
+      address: '전라남도 순천시 원가곡1길 6-8 1층',
+      latlng: new kakao.maps.LatLng(34.9848948869031, 127.485635557558)
+    },
+    {
+      title: '대전충청지사',
+      address: '대전광역시 유성구 테크노4로 17 대덕비즈센터 D동 212호',
+      latlng: new kakao.maps.LatLng(36.4324105236722, 127.394988399765)
+    },
+    {
+      title: '대구지사',
+      address: '대구광역시 북구 유통단지로 25 전자상가 5동 114호',
+      latlng: new kakao.maps.LatLng(35.9059874027454, 128.605599780479)
+    },
+    {
+      title: '포항지사',
+      address: '경상북도 포항시 남구 대도동 120-2 홍제빌딩 4층',
+      latlng: new kakao.maps.LatLng(36.0155264392202, 129.36587360496)
+    },
+    {
+      title: '울산지사',
+      address: '울산광역시 북구 명촌1길 11-12',
+      latlng: new kakao.maps.LatLng(35.559595431881, 129.360273570116)
+    },
+    {
+      title: '창원지사',
+      address: '경상남도 창원시 마산회원구 봉암북 7길 21 정보산업진흥본부 5동 303호',
+      latlng: new kakao.maps.LatLng(35.2246964071696, 128.598326962526)
+    },
+    {
+      title: '부산경남지사',
+      address: '부산광역시 부산진구 동평로 405번길 118 7층',
+      latlng: new kakao.maps.LatLng(35.1782277288787, 129.07303471481)
+    },
+    {
+      title: '제주지사',
+      address: '제주특별자치도 제주시 연삼로 318 104호',
+      latlng: new kakao.maps.LatLng(33.491771033256, 126.526607223506)
+    },
+    {
+      title: 'EMSTONE LINK',
+      address: '경기도 안양시 동안구 엘에스로 92 17동 222호',
+      latlng: new kakao.maps.LatLng(37.3716115335068, 126.95143075168)
+    },
+    { title: 'EMSTONE RAIL',
+      address: '경기도 성남시 수정구 위례광장로 9-9 301호',
+      latlng: new kakao.maps.LatLng(37.4645205465071, 127.141135668958)
+    }
+  ];
+  for (var i = 0; i < branches.length; i++) {
+    var branch = branches[i];
+    var marker = new kakao.maps.Marker({
+      map: map,
+      position: branch.latlng,
+      title: branch.title,
+      clickable: true
+    });
+    marker.address = branch.address;
+    kakao.maps.event.addListener(marker, 'click', function() {
+      window.open('https://map.kakao.com/link/map/' +
+                  encodeURI(this.getTitle() + ' | ' + this.address + ',' +
+                            this.getPosition().getLat() + ',' +
+                            this.getPosition().getLng()));
+    });
+  }
+</script>
 
  |
 :-: | --
-**강남북지사** | [서울특별시 성동구 광나루로 8길 31, SK V1 센터 2동 406호](https://map.kakao.com/?q=서울특별시+성동구+광나루로+8길+31+SK+V1센터+2동+406호)
-**강서지사** | [경기도 의정부시 용현동 544-6 이지빌딩 3층](https://map.kakao.com/?q=경기도+의정부시+용현동+544-6+이지빌딩+3층)
-**경기남부** | [경기도 수원시 권선구 칠보로 14번길 134-18](https://map.kakao.com/?q=경기도+수원시+권선구+칠보로+14번길+134-18)
-**경기서부** | [경기도 안산시 단원구 별망로 555 타원타크라 5차 813호](https://map.kakao.com/?q=경기도+안산시+단원구+별망로+555+타원타크라+5차+813호)
-**강릉지사** | [강원도 강릉시 원호평길 58번길 49](https://map.kakao.com/?q=강원도+강릉시+원호평길+58번길+49)
-**강원영서지사** | [강원도 홍천군 홍천읍 갈마로 77](https://map.kakao.com/?q=강원도+홍천군+홍천읍+갈마로+77)
-**광주지사** | [광주광역시 북구 버들로 40 서광빌딩 2층](https://map.kakao.com/?q=광주광역시+북구+버들로+40+서광빌딩+2층)
-**전남지사** | [전라남도 순천시 원가곡1길 6-8 1층](https://map.kakao.com/?q=전라남도+순천시+원가곡1길+6-8+1층)
-**대전충청지사** | [대전광역시 유성구 테크노4로 17 대덕비즈센터 D동 212호](https://map.kakao.com/?q=대전광역시+유성구+테크노4로+17+대덕비즈센터+D동+212호)
-**대구지사** | [대구광역시 북구 유통단지로25길 전자상가 5동 114호](https://map.kakao.com/?q=대구광역시+북구+유통단지로25길+전자상가+5동+114호)
-**포항지사** | [경상북도 포항시 남구 대도동 120-2 홍제빌딩 4층](https://map.kakao.com/?q=경상북도+포항시+남구+대도동+120-2+홍제빌딩+4층)
-**울산지사** | [울산광역시 북구 명촌1길 11-12](https://map.kakao.com/?q=울산광역시+북구+명촌1길+11-12)
-**창원지사** | [경상남도 창원시 마산회원구 봉암북 7길 21 정보산업진흥본부 5동 303호](https://map.kakao.com/?q=경상남도+창원시+마산회원구+봉암북+7길+21+정보산업진흥본부+5동+303호)
-**부산경남지사** | [부산광역시 부산진구 동평로 405번길 118, 7층](https://map.kakao.com/?q=부산광역시+부산진구+동평로+405번길+118+7층)
-**제주지사** | [제주특별자치도 제주시 연삼로 318, 104호](https://map.kakao.com/?q=제주특별자치도+제주시+연삼로+318+104호)
-**EMSTONE LINK** | [경기도 안양시 동안구 엘에스로 92 17동 222호](https://map.kakao.com/?q=경기도+안양시+동안구+엘에스로+92+17동+222호)
-**EMSTONE RAIL** | [경기도 성남시 수정구 우례광장로 9-9, 301호](https://map.kakao.com/?q=경기도+성남시+수정구+우례광장로+9-9+301호)
+**강남북지사** | [서울 성동구 광나루로8길 31, SK V1 센터 2동 406호](https://map.kakao.com/link/search/서울+성동구+광나루로8길+31+SK+V1+센터+2동+406호)
+**강서지사** | [경기도 의정부시 용현동 544-6 이지빌딩 3층](https://map.kakao.com/link/search/경기도+의정부시+용현동+544-6+이지빌딩+3층)
+**경기남부** | [경기도 수원시 권선구 칠보로 14번길 134-18](https://map.kakao.com/link/search/경기도+수원시+권선구+칠보로+14번길+134-18)
+**경기서부** | [경기도 안산시 단원구 별망로 555 타원타크라 5차 813호](https://map.kakao.com/link/search/경기도+안산시+단원구+별망로+555+타원타크라+5차+813호)
+**강릉지사** | [강원도 강릉시 원호평길58번길 49](https://map.kakao.com/link/search/강원도+강릉시+원호평길58번길+49)
+**강원영서지사** | [강원도 홍천군 홍천읍 갈마로 77](https://map.kakao.com/link/search/강원도+홍천군+홍천읍+갈마로+77)
+**광주지사** | [광주광역시 북구 버들로 40 서광빌딩 2층](https://map.kakao.com/link/search/광주광역시+북구+버들로+40+서광빌딩+2층)
+**전남지사** | [전라남도 순천시 원가곡1길 6-8 1층](https://map.kakao.com/link/search/전라남도+순천시+원가곡1길+6-8+1층)
+**대전충청지사** | [대전광역시 유성구 테크노4로 17 대덕비즈센터 D동 212호](https://map.kakao.com/link/search/대전광역시+유성구+테크노4로+17+대덕비즈센터+D동+212호)
+**대구지사** | [대구광역시 북구 유통단지로 25 전자상가 5동 114호](https://map.kakao.com/link/search/대구광역시+북구+유통단지로+25+전자상가+5동+114호)
+**포항지사** | [경상북도 포항시 남구 대도동 120-2 홍제빌딩 4층](https://map.kakao.com/link/search/경상북도+포항시+남구+대도동+120-2+홍제빌딩+4층)
+**울산지사** | [울산광역시 북구 명촌1길 11-12](https://map.kakao.com/link/search/울산광역시+북구+명촌1길+11-12)
+**창원지사** | [경상남도 창원시 마산회원구 봉암북 7길 21 정보산업진흥본부 5동 303호](https://map.kakao.com/link/search/경상남도+창원시+마산회원구+봉암북+7길+21+정보산업진흥본부+5동+303호)
+**부산경남지사** | [부산광역시 부산진구 동평로 405번길 118 7층](https://map.kakao.com/link/search/부산광역시+부산진구+동평로+405번길+118+7층)
+**제주지사** | [제주특별자치도 제주시 연삼로 318 104호](https://map.kakao.com/link/search/제주특별자치도+제주시+연삼로+318+104호)
+**EMSTONE LINK** | [경기도 안양시 동안구 엘에스로 92 17동 222호](https://map.kakao.com/link/search/경기도+안양시+동안구+엘에스로+92+17동+222호)
+**EMSTONE RAIL** | [경기도 성남시 수정구 위례광장로 9-9 301호](https://map.kakao.com/link/search/경기도+성남시+수정구+위례광장로+9-9+301호)
