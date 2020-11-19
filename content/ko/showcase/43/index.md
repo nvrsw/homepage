@@ -27,15 +27,15 @@ CMS 클라이언트를 통해 IP Wall을 제어하는 모습을 한눈에 볼 �
 &nbsp;
 
 <div class="container"><div class="row no-gutters">
-<div class="col-sm-6">{{< figure src="youtube_beetG9_-o2TfU_01.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube_beetG9_-o2TfU_02.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube_beetG9_-o2TfU_03.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube_beetG9_-o2TfU_04.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube_beetG9_-o2TfU_05.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube_beetG9_-o2TfU_06.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_etG9_-o2TfU_01.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_etG9_-o2TfU_02.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_etG9_-o2TfU_03.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_etG9_-o2TfU_04.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_etG9_-o2TfU_05.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_etG9_-o2TfU_06.png" >}}</div>
 </div></div>
 
 &nbsp;
 
 **YouTube 동영상**
-{{< youtube beetG9_-o2TfU >}}
+{{< youtube etG9_-o2TfU >}}
