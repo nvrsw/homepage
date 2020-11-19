@@ -38,4 +38,4 @@ CMS 클라이언트를 통해 IP Wall을 제어하는 모습을 한눈에 볼 �
 &nbsp;
 
 **YouTube 동영상**
-{{< youtube beetG9_-o2TfU >}}
+{{< youtube etG9_-o2TfU >}}
