@@ -72,7 +72,7 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-NHH16B8</th>
+<th>EM-NH16B8</th>
 </tr>
 </thead>
 <tbody>

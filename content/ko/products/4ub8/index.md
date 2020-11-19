@@ -72,11 +72,11 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-NN16B8</th>
-<th>EM-NN25B8</th>
-<th>EM-NN36B8</th>
-<th>EM-NN49B8F</th>
-<th>EM-NN49B8H</th>
+<th>EM-N16B8</th>
+<th>EM-N25B8</th>
+<th>EM-N36B8</th>
+<th>EM-N49B8F</th>
+<th>EM-N49B8H</th>
 </tr>
 </thead>
 <tbody>
@@ -159,11 +159,11 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-NN64B8F</th>
-<th>EM-NN64B8H</th>
-<th>EM-NN81B8H</th>
-<th>EM-NN100B8H</th>
-<th>EM-NN128B8H</th>
+<th>EM-N64B8F</th>
+<th>EM-N64B8H</th>
+<th>EM-N81B8H</th>
+<th>EM-N100B8H</th>
+<th>EM-N128B8H</th>
 </tr>
 </thead>
 <tbody>
