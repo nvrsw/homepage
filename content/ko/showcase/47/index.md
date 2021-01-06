@@ -3,8 +3,8 @@ title: "AI PAD 응용편"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "" ]
-categories: [ "thermal" ]
+tags: [ "thermal" ]
+categories: [ "howto" ]
 date: 2020-11-23
 draft: false
 featured: true
