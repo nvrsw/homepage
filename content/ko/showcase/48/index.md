@@ -3,7 +3,7 @@ title: "신제품 소개 - 진/출입 솔루션"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "entry" "exit" ]
+tags: [ "entry", "exit" ]
 categories: [ "howto" ]
 date: 2020-12-05
 draft: false
