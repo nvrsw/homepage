@@ -48,7 +48,7 @@ image:
 - Smart Failover: Automatic takeover to spare units when system is stopped
 - Bidirectional audio transmission
 - Advanced **LPR(License Plate Recognition)** by 3rd party LPR server 
-- Model Line-up : 4, 9, 16 CH
+- Model Line-up : 4, 9, 16, 25 CH
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
@@ -71,6 +71,7 @@ image:
 <th>EM-04B2</th>
 <th>EM-09B2</th>
 <th>EM-16B2</th>
+<th>EM-25B2</th>
 </tr>
 </thead>
 <tbody>
@@ -80,26 +81,29 @@ image:
 <td>4CH</td>
 <td>9CH</td>
 <td>16CH</td>
+<td>25CH</td>
 </tr>
 <tr>
-<th colspan="2">CPU</th><td colspan="3">Dual Core 1.0GHz or Higher</td>
+<th colspan="2">CPU</th><td colspan="4">Dual Core 1.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>DDR3/4 2GB</td>
-<td>DDR3/4 4GB</td>
-<td>DDR3/4 8GB</td>
+<td>DDR3 2GB</td>
+<td>DDR3 4GB</td>
+<td>DDR3 8GB</td>
+<td>DDR3 16GB</td>
 </tr>
 <tr>
 <th rowspan="2">Display</th>
 <th>Monitor<br>Output</th>
-<td colspan="3">1xHDMI / 1xVGA</td>
+<td colspan="4">1xHDMI / 1xVGA</td>
 </tr>
 <tr>
 <th>Mode</th>
 <td>1 / 2 / 4</td>
 <td>1 / 2 / 4 / 6 / 7 / 9</td>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16</td>
+<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25</td>
 </tr>
 <tr>
 <th>Live</th>
@@ -107,34 +111,36 @@ image:
 <td>12M(-CH/-fps)<br>8M(1CH/30fps)<br>5M(2CH/60fps)<br>1080P(4CH/120fps)</td>
 <td>12M(1CH/30fps)<br>8M(2CH/60fps)<br>5M(4CH/120fps)<br>1080P(9CH/270fps)</td>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
+<td>12M(3CH/90fps)<br>8M(4CH/120fps)<br>5M(6CH/240fps)<br>1080P(25CH/750fps)</td>
 </tr>
 <tr>
 <th rowspan="3">Recording</th>
 <th>Mode</th>
-<td colspan="3">Continuous / Scheduled / Events</td>
+<td colspan="4">Continuous / Scheduled / Events</td>
 </tr>
 <tr>
 <th>Performance</th>
-<td colspan="3">Max. 500Mbps<br>CIF~12MP</td>
+<td colspan="4">Max. 500Mbps<br>CIF~12MP</td>
 </tr>
 <tr>
 <th>Compression</th>
-<td colspan="3">H.265 / H.264 / MPEG4 / MJPEG</td>
+<td colspan="4">H.265 / H.264 / MPEG4 / MJPEG</td>
 </tr>
 <tr>
 <th rowspan="3">Search /<br>Replay</th>
 <th>Method</th>
-<td colspan="3">Calendar / Channel Grouping / Events</td>
+<td colspan="4">Calendar / Channel Grouping / Events</td>
 </tr>
 <tr>
 <th>Performance</th>
 <td>12M(-CH/-fps)<br>8M(1CH/30fps)<br>5M(2CH/60fps)<br>1080P(4CH/120fps)</td>
 <td>12M(1CH/30fps)<br>8M(2CH/60fps)<br>5M(4CH/120fps)<br>1080P(9CH/270fps)</td>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
+<td>12M(3CH/90fps)<br>8M(4CH/120fps)<br>5M(6CH/240fps)<br>1080P(25CH/750fps)</td>
 </tr>
 <tr>
 <th>Replay<br>Control</th>
-<td colspan="3">Play forward / backward (fast:x1~x32, slow:1/4~1/2), Step forward / backward</td>
+<td colspan="4">Play forward / backward (fast:x1~x32, slow:1/4~1/2), Step forward / backward</td>
 </tr>
 </tbody>
 </table>

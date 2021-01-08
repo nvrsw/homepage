@@ -48,7 +48,7 @@ image:
 - フェールオーバ対応: 主システムが停止したとき、待機システムが自動的に作動
 - 双方向音声機能に対応
 - **LPR方向車両番号抽出** 連動
-- モデルラインナップ：4, 9, 16 CH
+- モデルラインナップ：4, 9, 16, 25 CH
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
@@ -71,6 +71,7 @@ image:
 <th>EM-04B2</th>
 <th>EM-09B2</th>
 <th>EM-16B2</th>
+<th>EM-25B2</th>
 </tr>
 </thead>
 <tbody>
@@ -80,26 +81,29 @@ image:
 <td>4CH</td>
 <td>9CH</td>
 <td>16CH</td>
+<td>25CH</td>
 </tr>
 <tr>
-<th colspan="2">CPU</th><td colspan="3">Dual Core 1.0GHz or Higher</td>
+<th colspan="2">CPU</th><td colspan="4">Dual Core 1.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>DDR3/4 2GB</td>
-<td>DDR3/4 4GB</td>
-<td>DDR3/4 8GB</td>
+<td>DDR3 2GB</td>
+<td>DDR3 4GB</td>
+<td>DDR3 8GB</td>
+<td>DDR3 16GB</td>
 </tr>
 <tr>
 <th rowspan="2">ディスプレイ</th>
 <th>モニター<br>出力</th>
-<td colspan="3">1xHDMI / 1xVGA</td>
+<td colspan="4">1xHDMI / 1xVGA</td>
 </tr>
 <tr>
 <th>分割画面</th>
 <td>1 / 2 / 4</td>
 <td>1 / 2 / 4 / 6 / 7 / 9</td>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16</td>
+<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25</td>
 </tr>
 <tr>
 <th>ライブ</th>
@@ -107,34 +111,36 @@ image:
 <td>12M(-CH/-fps)<br>8M(1CH/30fps)<br>5M(2CH/60fps)<br>1080P(4CH/120fps)</td>
 <td>12M(1CH/30fps)<br>8M(2CH/60fps)<br>5M(4CH/120fps)<br>1080P(9CH/270fps)</td>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
+<td>12M(3CH/90fps)<br>8M(4CH/120fps)<br>5M(6CH/240fps)<br>1080P(25CH/750fps)</td>
 </tr>
 <tr>
 <th rowspan="3">録画</th>
 <th>録画モード</th>
-<td colspan="3">連続/スケジュール/イベント連動</td>
+<td colspan="4">連続/スケジュール/イベント連動</td>
 </tr>
 <tr>
 <th>性能</th>
-<td colspan="3">最大500Mbps<br>CIF~12MP</td>
+<td colspan="4">最大500Mbps<br>CIF~12MP</td>
 </tr>
 <tr>
 <th>圧縮方式</th>
-<td colspan="3">H.265 / H.264 / MPEG4 / MJPEG</td>
+<td colspan="4">H.265 / H.264 / MPEG4 / MJPEG</td>
 </tr>
 <tr>
 <th rowspan="3">検索/再生</th>
 <th>検索モード</th>
-<td colspan="3">日付/時刻カレンダー検索、チャンネルの単独/複数による検索、イベント検索</td>
+<td colspan="4">日付/時刻カレンダー検索、チャンネルの単独/複数による検索、イベント検索</td>
 </tr>
 <tr>
 <th>性能</th>
 <td>12M(-CH/-fps)<br>8M(1CH/30fps)<br>5M(2CH/60fps)<br>1080P(4CH/120fps)</td>
 <td>12M(1CH/30fps)<br>8M(2CH/60fps)<br>5M(4CH/120fps)<br>1080P(9CH/270fps)</td>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
+<td>12M(3CH/90fps)<br>8M(4CH/120fps)<br>5M(6CH/240fps)<br>1080P(25CH/750fps)</td>
 </tr>
 <tr>
 <th>再生制御</th>
-<td colspan="3">前方/後方再生（高速：x1〜x32、低速：1/4〜1/2）、コマ戻し/送り</td>
+<td colspan="4">前方/後方再生（高速：x1〜x32、低速：1/4〜1/2）、コマ戻し/送り</td>
 </tr>
 </tbody>
 </table>
