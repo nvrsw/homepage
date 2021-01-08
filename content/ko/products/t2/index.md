@@ -6,7 +6,7 @@ authors: []
 tags: [ "failover" ]
 categories: [ "nvr" ]
 draft: false
-weight: 1080
+weight: 1090
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
