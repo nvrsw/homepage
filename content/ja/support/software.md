@@ -52,7 +52,7 @@ image:
 - バージョン: **1.8.20.9.25** (2020-09-25)
 - [ISO インストールイメージ](https://www.emstone.com/data/nds/nds-1.8.20.9.25.iso)
    : *アップグレードのみ/ライセンスキーが必要*
-- [変更](/docs/emx/ChangeLog.html)
+- [変更](/docs/nds/ChangeLog.html)
 
 ## Map Editor
 
