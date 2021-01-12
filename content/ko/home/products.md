@@ -41,6 +41,12 @@ align = "end"
   description = "Video Management System"
 
 [[feature]]
+  image = "products/nvr+/featured.png"
+  url = "products/nvr+/"
+  name = "NVR+ Professional Seriess"
+  description = "Channel Extensible Storage Type PC based NVR"
+
+[[feature]]
   image = "products/4ub24/featured.png"
   url = "products/4ub24/"
   name = "NVR 4U B24 Series"
@@ -88,11 +94,11 @@ align = "end"
   name = "EM-NDS-04"
   description = "Network Display Server"
 
-[[feature]]
-  image = "products/em-poe-amp/featured.png"
-  url = "products/em-poe-amp/"
-  name = "EM-PoE-AMP-PLUS"
-  description = "Audio Amplifier / PoE Repeater"
+# [[feature]]
+#   image = "products/em-poe-amp/featured.png"
+#   url = "products/em-poe-amp/"
+#   name = "EM-PoE-AMP-PLUS"
+#   description = "Audio Amplifier / PoE Repeater"
 
 [design.background]
   # Apply a background color, gradient, or image.

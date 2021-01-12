@@ -33,20 +33,17 @@ image:
 
 감사합니다.
 
-
-
 &nbsp;
 
 <div class="container"><div class="row no-gutters">
-<div class="col-sm-6">{{< figure src="youtube-6XchzlVQAtY-01.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube-6XchzlVQAtY-02.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube-6XchzlVQAtY-03.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube-6XchzlVQAtY-04.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube-6XchzlVQAtY-05.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube-6XchzlVQAtY-06.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube-6XchzlVQAtY-07.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube-6XchzlVQAtY-08.png" >}}</div>
-
+<div class="col-sm-6">{{< figure src="youtube_6XchzlVQAtY_01.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_6XchzlVQAtY_02.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_6XchzlVQAtY_03.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_6XchzlVQAtY_04.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_6XchzlVQAtY_05.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_6XchzlVQAtY_06.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_6XchzlVQAtY_07.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_6XchzlVQAtY_08.png" >}}</div>
 </div></div>
 
 &nbsp;
