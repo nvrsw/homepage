@@ -1,7 +1,7 @@
 ---
 title: "네트워크 IP 카메라 지원 목록"
-subtitle: "엠스톤 NVR / Hybrid NVR이 지원하는 네트워크 IP 카메라 목록입니다."
-summary: "엠스톤 NVR / Hybrid NVR이 지원하는 네트워크 IP 카메라 목록입니다."
+subtitle: "엠스톤 VMS / NVR / Hybrid NVR 이 지원하는 네트워크 IP 카메라 목록입니다."
+summary: "엠스톤 VMS / NVR / Hybrid NVR 이 지원하는 네트워크 IP 카메라 목록입니다."
 authors: []
 tags: []
 categories: []
