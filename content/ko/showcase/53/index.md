@@ -3,7 +3,7 @@ title: "지능형 영상감지 및 검색"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
-tags: [ "audio" ]
+tags: [ "AI" ]
 categories: [ "howto" ]
 date: 2021-01-31
 draft: false
