@@ -34,7 +34,7 @@ image:
 - ROI(Region of Interest)로 자연스러운 모니터 연결 부분 영상 구현
 - 최대 128대 연결 가능 (최대 512 모니터, 최대 8,192CH 디스플레이) 
 - CMS SW로 영상 관제와 IP 비디오 월 제어를 동시에 지원
-- 4 기가비트 이더넷
+- 2 기가비트 이더넷
 - 1U 랙타입 케이스
 
 ## 외관도
@@ -131,10 +131,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [NDS-04_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/NDS-04_카탈로그_20200313.pdf)
-외관도 | [NDS-04_외관도_20200313.dwg](https://www.emstone.com/data/sales/ko/NDS-04_외관도_20200313.dwg)<br>[NDS-04_외관도_20200313.png](https://www.emstone.com/data/sales/ko/NDS-04_외관도_20200313.png)
-사양서 | [NDS-04_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/NDS-04_사양서_20200313.xlsx)
-시방서 | [NDS-04_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/NDS-04_시방서_20200313.hwp)
-출하검사 결과 성적서 | [NDS-04_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/NDS-04_출하검사결과성적서_20200313.xls)
+카탈로그 | [NDS-04_카탈로그_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS-04_카탈로그_20210224.pdf)
+외관도 | [NDS-04_외관도_20210224.dwg](https://www.emstone.com/data/sales/ko/NDS-04_외관도_20210224.dwg)<br>[NDS-04_외관도_20210224.png](https://www.emstone.com/data/sales/ko/NDS-04_외관도_20210224.png)
+사양서 | [NDS-04_사양서_20210224.xlsx](https://www.emstone.com/data/sales/ko/NDS-04_사양서_20210224.xlsx)
+시방서 | [NDS-04_시방서_20210224.hwp](https://www.emstone.com/data/sales/ko/NDS-04_시방서_20210224.hwp)
+출하검사 결과 성적서 | [NDS-04_출하검사결과성적서_20210224.xls](https://www.emstone.com/data/sales/ko/NDS-04_출하검사결과성적서_20210224.xls)
 인증서 | [NDS-04_방송통신기자재등의적합등록필증_20180824.pdf](https://www.emstone.com/data/sales/ko/NDS-04_방송통신기자재등의적합등록필증_20180824.pdf)<br>[NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf](https://www.emstone.com/data/sales/ko/NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf)
-매뉴얼 | [NDS_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NDS_사용자매뉴얼_20200313.pdf)<br>[NDS_설치자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NDS_설치자매뉴얼_20200313.pdf)
+매뉴얼 | [NDS_사용자매뉴얼_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS_사용자매뉴얼_20210224.pdf)<br>[NDS_설치자매뉴얼_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS_설치자매뉴얼_20210224.pdf)

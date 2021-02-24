@@ -32,7 +32,7 @@ image:
 - ROI(Region of Interest) enables natural monitor connection part image
 - Up to 128 units can be connected (up to 512 monitors, up to 8,192 CH displays)
 - CMS video and video wall control at the same time
-- 4 Gigabit Ethernets 
+- 2 Gigabit Ethernets 
 - 1U rack type case 
 
 ## Dimensions
