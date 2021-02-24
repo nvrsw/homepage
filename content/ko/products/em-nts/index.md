@@ -70,9 +70,13 @@ image:
 <td>1xHDMI built-in audio</td>
 </tr>
 <tr>
-<th rowspan="4">Video</th>
+<th rowspan="5">Video</th>
 <th>Coding Type</th>
 <td>1x3.5mm external audio</td>
+</tr>
+<tr>
+<th>Compression</th>
+<td>H.264</td>
 </tr>
 <tr>
 <th>Input / Coding<br>Resolution</th>
@@ -136,10 +140,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [NTS_카탈로그_20200619.pdf](https://www.emstone.com/data/sales/ko/NTS_카탈로그_20200619.pdf)
-외관도 | [NTS_외관도_20200619.dwg](https://www.emstone.com/data/sales/ko/NTS_외관도_20200619.dwg)<br>[NTS_외관도_20200313.png](https://www.emstone.com/data/sales/ko/NTS_외관도_20200313.png)
-사양서 | [NTS_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/NTS_사양서_20200313.xlsx)<br>[NTS_Specification_20200313.doc](https://www.emstone.com/data/sales/ko/NTS_Specification_20200313.doc)
-시방서 | [NTS_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/NTS_시방서_20200313.hwp)
-출하검사 결과 성적서 | [NTS_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/NTS_출하검사결과성적서_20200313.xls)
-인증서 | [NTS_방송통신기자재등의적합등록필증_20181226.pdf](https://www.emstone.com/data/sales/ko/NTS_방송통신기자재등의적합등록필증_20181226.pdf)<br>[NTS_방송통신기자재등(전자파적합성)시험성적서_20181226.pdf](https://www.emstone.com/data/sales/ko/NTS_방송통신기자재등(전자파적합성)시험성적서_20181226.pdf)
-매뉴얼 | [NTS_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NTS_사용자매뉴얼_20200313.pdf)
+카탈로그 | [NTS_카탈로그_20210224.pdf](https://www.emstone.com/data/sales/ko/NTS_카탈로그_20210224.pdf)
+외관도 | [NTS_외관도_20210224.dwg](https://www.emstone.com/data/sales/ko/NTS_외관도_20210224.dwg)<br>[NTS_외관도_20210224.png](https://www.emstone.com/data/sales/ko/NTS_외관도_20210224.png)
+사양서 | [NTS_사양서_20210224.xlsx](https://www.emstone.com/data/sales/ko/NTS_사양서_20210224.xlsx)<br>[NTS_Specification_20210224.doc](https://www.emstone.com/data/sales/ko/NTS_Specification_20210224.doc)
+시방서 | [NTS_시방서_20210224.hwp](https://www.emstone.com/data/sales/ko/NTS_시방서_20210224.hwp)
+출하검사 결과 성적서 | [NTS_출하검사결과성적서_20210224.xls](https://www.emstone.com/data/sales/ko/NTS_출하검사결과성적서_20210224.xls)
+인증서 | [NTS_방송통신기자재등의적합등록필증_20210224.pdf](https://www.emstone.com/data/sales/ko/NTS_방송통신기자재등의적합등록필증_20210224.pdf)<br>[NTS_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf](https://www.emstone.com/data/sales/ko/NTS_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf)
+매뉴얼 | [NTS_사용자매뉴얼_20210224.pdf](https://www.emstone.com/data/sales/ko/NTS_사용자매뉴얼_20210224.pdf)

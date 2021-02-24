@@ -68,9 +68,13 @@ image:
 <td>1xHDMI built-in audio</td>
 </tr>
 <tr>
-<th rowspan="4">Video</th>
+<th rowspan="5">Video</th>
 <th>Coding Type</th>
 <td>1x3.5mm external audio</td>
+</tr>
+<tr>
+<th>Compression</th>
+<td>H.264</td>
 </tr>
 <tr>
 <th>Input / Coding<br>Resolution</th>
