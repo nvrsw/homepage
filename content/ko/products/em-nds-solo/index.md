@@ -27,11 +27,10 @@ image:
 
 ## 특징
 
-- 2개의 Full HD 모니터 또는 1개의 UHD 모니터 지원 
+- 1개의 Full HD 모니터 또는 1개의 UHD 모니터 지원 
 - 모니터별 최대 64CH 디스플레이 지원
 - 모니터 화면 피벗 기능 지원 (90°/180°/270°)
 - NVR 실시간 스트리밍 프로토콜을 이용한 지연 없는 디스플레이 
-- ROI(Region of Interest)로 자연스러운 모니터 연결 부분 영상 구현
 - CMS SW로 영상 관제와 IP 비디오 월 제어를 동시에 지원
 - 1 기가비트 이더넷
 
@@ -57,7 +56,7 @@ image:
 </tr>
 <tr>
 <th>출력성능</th>
-<td>Full-HD Moniter Display - Up to 2 EA(60Hz)<br>Ultra HD Moniter Display - Up to 1 EA(30Hz)</td>
+<td>Full-HD Moniter Display - Up to 1 EA(60Hz)<br>Ultra HD Moniter Display - Up to 1 EA(30Hz)</td>
 </tr>
 <tr>
 <th rowspan="2">영상출력<br>성능</th>
@@ -131,10 +130,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [NDS-Solo_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_카탈로그_20200313.pdf)
-외관도 | [NDS-Solo_외관도_20200313.dwg](https://www.emstone.com/data/sales/ko/NDS-Solo_외관도_20200313.dwg)<br>[NDS-Solo_외관도_20200313.png](https://www.emstone.com/data/sales/ko/NDS-Solo_외관도_20200313.png)
-사양서 | [NDS-Solo_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/NDS-Solo_사양서_20200313.xlsx)
-시방서 | [NDS-Solo_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/NDS-Solo_시방서_20200313.hwp)
-출하검사 결과 성적서 | [NDS-Solo_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/NDS-Solo_출하검사결과성적서_20200313.xls)
-인증서 | [NDS-Solo_방송통신기자재등의적합등록필증_20191108.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_방송통신기자재등의적합등록필증_20191108.pdf)<br>[NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20191108.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20191108.pdf)
-매뉴얼 | [NDS_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NDS_사용자매뉴얼_20200313.pdf)<br>[NDS_설치자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/NDS_설치자매뉴얼_20200313.pdf)
+카탈로그 | [NDS-Solo_카탈로그_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_카탈로그_20210224.pdf)
+외관도 | [NDS-Solo_외관도_20210224.dwg](https://www.emstone.com/data/sales/ko/NDS-Solo_외관도_20210224.dwg)<br>[NDS-Solo_외관도_20210224.png](https://www.emstone.com/data/sales/ko/NDS-Solo_외관도_20210224.png)
+사양서 | [NDS-Solo_사양서_20210224.xlsx](https://www.emstone.com/data/sales/ko/NDS-Solo_사양서_20210224.xlsx)
+시방서 | [NDS-Solo_시방서_20210224.hwp](https://www.emstone.com/data/sales/ko/NDS-Solo_시방서_20210224.hwp)
+출하검사 결과 성적서 | [NDS-Solo_출하검사결과성적서_20210224.xls](https://www.emstone.com/data/sales/ko/NDS-Solo_출하검사결과성적서_20210224.xls)
+인증서 | [NDS-Solo_방송통신기자재등의적합등록필증_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_방송통신기자재등의적합등록필증_20210224.pdf)<br>[NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf)
+매뉴얼 | [NDS_사용자매뉴얼_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS_사용자매뉴얼_20210224.pdf)<br>[NDS_설치자매뉴얼_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS_설치자매뉴얼_20200313.pdf)

@@ -25,11 +25,10 @@ image:
 
 ## 特長
 
-- 2つのFull HDモニタまたは1つのUHDモニタ対応
+- 1つのFull HDモニタまたは1つのUHDモニタ対応
 - モニターの最大64CH表示に対応
 - モニター画面ピボット機能に対応（90°/ 180°/ 270°）
 - NVRリアルタイムストリーミングプロトコルを利用した遅延のないディスプレイ
-- ROI（Region of Interest）と自然のモニターの接続部分の映像を実装
 - CMS SWで映像管制とIPビデオウォール制御を同時に対応
 - 1ギガビットイーサネット
 
@@ -55,7 +54,7 @@ image:
 </tr>
 <tr>
 <th>出力性能</th>
-<td>Full-HD Moniter Display - Up to 2 EA(60Hz)<br>Ultra HD Moniter Display - Up to 1 EA(30Hz)</td>
+<td>Full-HD Moniter Display - Up to 1 EA(60Hz)<br>Ultra HD Moniter Display - Up to 1 EA(30Hz)</td>
 </tr>
 <tr>
 <th rowspan="2">映像出力<br>性能</th>

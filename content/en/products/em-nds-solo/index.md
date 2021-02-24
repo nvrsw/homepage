@@ -25,11 +25,10 @@ image:
 
 ## Features
 
-- 2 full HD monitors or 1 UHD monitor
+- 1 full HD monitors or 1 UHD monitor
 - Support for up to 64CH display per monitor
 - Support monitor screen pivot (90°/180°/270°)
 - Delay-free display using NVR real time protocol
-- ROI (Region of Interest) enables natural monitor connection part image
 - CMS video and video wall control at the same time
 - 1 Gigabit Ethernets 
 
@@ -55,7 +54,7 @@ image:
 </tr>
 <tr>
 <th>Output<br>Performance</th>
-<td>Full-HD Moniter Display - Up to 2 EA(60Hz)<br>Ultra HD Moniter Display - Up to 1 EA(30Hz)</td>
+<td>Full-HD Moniter Display - Up to 1 EA(60Hz)<br>Ultra HD Moniter Display - Up to 1 EA(30Hz)</td>
 </tr>
 <tr>
 <th rowspan="2">Video Output<br>Performance</th>
