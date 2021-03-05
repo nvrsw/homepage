@@ -20,11 +20,11 @@ image:
 
 *Central Monitoring System for NVR / IP Video Wall*
 
-- 버전: **2.1.21.2.15** (2021-02-15)
+- 버전: **2.1.21.3.4** (2021-03-04)
 - Windows 설치 프로그램 (Windows 7 / Windows 8 / Windows 10)
-  - [32비트](https://www.emstone.com/data/cms/cms-2.1.21.2.15-win32-emstone.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.21.2.15-win64-emstone.exe)
+  - [32비트](https://www.emstone.com/data/cms/cms-2.1.21.3.4-win32-emstone.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.21.3.4-win64-emstone.exe)
 - Linux 설치 프로그램 (Ubuntu 19.04 / Arch Linux)
-  - [64비트](https://www.emstone.com/data/cms/cms-2.1.21.2.15-linux-x86_64.tar.bz2)
+  - [64비트](https://www.emstone.com/data/cms/cms-2.1.21.3.4-linux-x86_64.tar.bz2)
 - [변경사항](/docs/cms/changelog/cms21.html)
 
 ## 모바일 앱
@@ -40,8 +40,8 @@ image:
 
 *Network Hybrid Digital Video Recorder*
 
-- 버전: **2.9.21.2.3** (2021-02-15)
-- [ISO 설치 파일](https://www.emstone.com/data/dvr/nvr-2.9.21.2.15-emstone.iso) : *업그레이드 전용 / 제품키 필요*
+- 버전: **2.9.21.3.4** (2021-03-04)
+- [ISO 설치 파일](https://www.emstone.com/data/dvr/nvr-2.9.21.3.4-emstone.iso) : *업그레이드 전용 / 제품키 필요*
 - [변경사항](/docs/dvr/changelog/nvr29.html)
 - [HTTP API](/docs/dvr/http/)
 
@@ -75,5 +75,5 @@ image:
     / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/nvr-2.9.20.7.8.iso-sha256.txt)
   - 모델: EM-128B2, EM-100B2, EM-81B2, EM-64B2, EM-49B2, EM-36B2, EM-25B2, EM-16B2, EM-09B2, EM-04B2
 - CMS
-  - 버전: **2.1.20.9.28** (2020-09-16)
-  - [32비트](https://www.emstone.com/data/cms/cms-2.1.21.2.15-win32.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.21.2.15-win64.exe)
+  - 버전: **2.1.20.9.28** (2020-09-28)
+  - [32비트](https://www.emstone.com/data/cms/cms-2.1.20.9.28-win32.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.20.9.28-win64.exe)
