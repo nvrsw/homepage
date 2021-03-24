@@ -21,10 +21,10 @@ Smart IP WALL 기반 통합 방범 센터를 구축했습니다.
 
 **구성**
 
-NVR(EM-64B16F) * 1대<br>
-NDS-04 * 4대<br>
-CMS Station H 4대<br> 
-차량번호추출카메라 및 열화상카메라 각 4대
+- NVR(EM-64B16F) * 1대
+- NDS-04 * 4대
+- CMS Station H 4대
+- 차량번호추출카메라 및 열화상카메라 각 4대
 
 감사합니다.
 
