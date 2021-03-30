@@ -22,7 +22,7 @@ image:
 
 - 버전: **2.1.21.3.26** (2021-03-26)
 - Windows 설치 프로그램 (Windows 7 / Windows 8 / Windows 10)
-  - [32비트](https://www.emstone.com/data/cms/cms-2.1.21.3.26-win32-emstone.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.21.3.26-win64-emstone.exe)
+  - [32비트](https://www.emstone.com/data/cms/cms-2.1.21.3.30-win32-emstone.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.21.3.30-win64-emstone.exe)
 - Linux 설치 프로그램 (Ubuntu 19.04 / Arch Linux)
   - [64비트](https://www.emstone.com/data/cms/cms-2.1.21.3.26-linux-x86_64.tar.bz2)
 - [변경사항](/docs/cms/changelog/cms21.html)
