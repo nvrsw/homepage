@@ -274,4 +274,4 @@ image:
 시방서 | [4UB8H_EM-NH16B8_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB8H_EM-NH16B8_시방서_20201022.hwp)
 출하검사 결과 성적서 | [4UB8H_EM-NH16B8_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB8H_EM-NH16B8_출하검사결과성적서_20201022.xls)
 인증서 | [4UB8H_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB8H_방송통신기자재등의적합등록필증_20201022.pdf)<br>[4UB8H_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB8H_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
-매뉴얼 | [NVR_동작매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20201022.pdf)<br>[NVR_사용자매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20201022.pdf)<br>[NVR_업그레이드매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20201022.pdf)
+매뉴얼 | [NVR_동작매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_동작매뉴얼_20201022.pdf)<br>[NVR_사용자매뉴얼_20210215.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20210215.pdf)<br>[NVR_업그레이드매뉴얼_20201022.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20201022.pdf)
