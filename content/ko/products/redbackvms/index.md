@@ -65,6 +65,21 @@ image:
 
 
 
+## 인증
+<div class="container">
+<div class="row align-items-top">
+<div class="col-sm-3">
+{{< figure src="GS1.png" >}} 
+</div>
+<div class="col-sm-8">
+- 소프트웨어품질인증 1등급 <br>
+- REDBACK VMS v2.9
+</div>
+</div>
+</div>
+
+
+
 ## 개별 사양
 
 <div style="overflow-x: auto">
@@ -294,7 +309,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [REDBACKVMS_카탈로그_20201022.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_카탈로그_20201022.pdf)
+카탈로그 | [REDBACKVMS_카탈로그_20210415.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_카탈로그_20210415.pdf)
 외관도 | [REDBACKVMS_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/REDBACKVMS_외관도_20201022.dwg)<br>[REDBACKVMS_외관도_20201022.png](https://www.emstone.com/data/sales/ko/REDBACKVMS_외관도_20201022.png)
 사양서 | [REDBACKVMS_사양서_20201022.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS_사양서_20201022.xlsx)
-인증서 | [REDBACKVMS_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신기자재등의적합등록필증_20201022.pdf)<br>[REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
+시방서 | [REDBACKVMS_EM-VMS256+_시방서_20210225.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS256+_시방서_20210225.hwp)<br>[REDBACKVMS_EM-VMS512+_시방서_20210225.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512+_시방서_20210225.hwp)<br>[REDBACKVMS_EM-VMS1024_시방서_20210225.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024_시방서_20210225.hwp)<br>
+출하검사 결과 성적서 | [REDBACKVMS_EM-VMS256+_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS256+_출하검사결과성적서_20201025.xls)<br>[REDBACKVMS_EM-VMS512+_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512+_출하검사결과성적서_20201025.xls)<br>[REDBACKVMS_EM-VMS1024_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024_출하검사결과성적서_20201025.xls)<br>
+인증서 | [REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf)<br>[REDBACKVMS_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신기자재등의적합등록필증_20201022.pdf)<br>[REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
