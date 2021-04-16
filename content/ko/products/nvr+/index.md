@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "nvr" ]
 draft: false
-weight: 1080
+weight: 1003
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
