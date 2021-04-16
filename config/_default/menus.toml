@@ -39,35 +39,41 @@
   url = "categories/vms/"
   weight = 10
 
+  [[main]]
+  parent = "products"
+  name = "REDBACK Storage"
+  url = "categories/storage/"
+  weight = 20
+
 [[main]]
   parent = "products"
   name = "NVR / 하이브리드"
   url = "categories/nvr/"
-  weight = 20
+  weight = 30
 
 [[main]]
   parent = "products"
   name = "카메라"
   url = "categories/camera/"
-  weight = 30
+  weight = 40
 
 [[main]]
   parent = "products"
   name = "CMS 통합 모니터링"
   url = "categories/cms/"
-  weight = 40
+  weight = 50
 
 [[main]]
   parent = "products"
   name = "NDS 디스플레이 서버"
   url = "categories/nds/"
-  weight = 50
+  weight = 60
 
 [[main]]
   parent = "products"
   name = "PoE 앰프 / 비상벨"
   url = "categories/etc/"
-  weight = 60
+  weight = 70
 
 [[main]]
   parent = "solutions"
