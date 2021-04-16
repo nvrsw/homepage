@@ -2,10 +2,13 @@
 name = "EMSTONE"
 
 # Optional Google font URL
-google_fonts = "Noto+Sans+KR:400,500,700|Noto+Sans+JP:400,500,700"
+#google_fonts = "Noto+Sans+KR:400,500,700|Noto+Sans+JP:400,500,700"
 
 # Font families
-heading_font = "'Noto Sans KR', 'Noto Sans JP'"
-body_font = "'Noto Sans KR', 'Noto Sans JP'"
-nav_font = "'Noto Sans KR', 'Noto Sans JP'"
+#heading_font = "'Noto Sans KR', 'Noto Sans JP'"
+#body_font = "'Noto Sans KR', 'Noto Sans JP'"
+#nav_font = "'Noto Sans KR', 'Noto Sans JP'"
+heading_font = "sans"
+body_font = "sans"
+nav_font = "sans"
 mono_font = "monospace"
