@@ -72,52 +72,56 @@ image:
 <tbody>
 <tr>
 <th>Form factor</th>
-<th>4U Rack Mount</th>
+<td>4U Rack Mount</td>
 </tr>
 <tr>
 <th>Processors</th>
-<th>-</th>
+<td>-</td>
 </tr>
 <tr>
 <th>Cache memory</th>
-<th>-</th>
+<td>-</td>
 </tr>
 <tr>
 <th>System memory</th>
-<th>-</th>
+<td>-</td>
 </tr>
 <tr>
 <th>File access protocols</th>
-<th>SFF-8644 6G/12Gb SAS</th>
+<td>SFF-8644 6G/12Gb SAS</td>
+</tr>
+<tr>
+<th>RAID options</th>
+<td>Depend on Host’s HBA Card(RAID or Non-RAID)</td>
 </tr>
 <tr>
 <th>HDDs</th>
-<th>Non-RAID mode(Surveillance Level SATA) : 10TB, 12TB, 14TB, 16TB, 18TB<br>RAID mode(Enterprise Level SAS/SATA) :  10TB, 12TB, 14TB, 16TB, 18TB
-</th>
+<td>Non-RAID mode(Surveillance Level SATA) : 10TB, 12TB, 14TB, 16TB, 18TB<br>RAID mode(Enterprise Level SAS/SATA) :  10TB, 12TB, 14TB, 16TB, 18TB
+</td>
 </tr>
 <tr>
 <th>Max internal capacity</th>
-<th>432TB(18TB HDD 기준)</th>
+<td>432TB(18TB HDD 기준)</td>
 </tr>
 <tr>
 <th>External expansion</th>
-<th>1 additional EM-JBOD24B</th>
+<td>1 additional EM-JBOD24B</td>
 </tr>
 <tr>
 <th>동작 온도 / 습도</th>
-<th>온도 - ASHRAE A3, 5°C to 40°C (41°F to 104°F)<br>습도 - –12°C DP 및 10% RH에서 21°C DP 및 80% RH까지, 최대 DP 21°C</th>
+<td>온도 - ASHRAE A3, 5°C to 40°C (41°F to 104°F)<br>습도 - –12°C DP 및 10% RH에서 21°C DP 및 80% RH까지, 최대 DP 21°C</td>
 </tr>
 <tr>
 <th>사용전원 / 소비전력</th>
-<th>100V~240V AC 60Hz/50Hz / 400W x 2ea(DP)</th>
+<td>100V~240V AC 60Hz/50Hz / 400W x 2ea(DP)</td>
 </tr>
 <tr>
 <th>크기(W x H x D)</th>
-<th>481(W) Ⅹ 176.4(H) Ⅹ550(D)mm</th>
+<td>481(W) Ⅹ 176.4(H) Ⅹ550(D)mm</td>
 </tr>
 <tr>
 <th>중량</th>
-<th>20.5Kg(HDD 미포함) / 50Kg(HDD 포함)</th>
+<td>20.5Kg(HDD 미포함) / 50Kg(HDD 포함)</td>
 </tr>
 </tbody>
 </table>
