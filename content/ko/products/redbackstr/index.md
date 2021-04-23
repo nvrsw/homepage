@@ -32,7 +32,7 @@ image:
 
 <div class="container">
 <div class="row align-items-top">
-<div class="col-12 col-sm-8 pl-0">
+<div class="col-12 col-sm-7 pl-0">
 
 ## 특징
 
@@ -45,6 +45,13 @@ image:
 - VMS 이중화를 위한 데이터에 다중 액세스 하도록 보장
 - 공간 효율적인 구성으로 비용 및 리소스 감소
 - 각 모델별 추가 확장 JBOD Storage 장착 가능
+
+</div>
+<div class="col-12 col-sm-5 pl-0">
+
+## 외관도
+
+{{< figure src="str-drawing.png" >}}
 
 
 </div>
