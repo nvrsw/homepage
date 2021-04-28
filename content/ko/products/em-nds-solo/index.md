@@ -25,6 +25,10 @@ image:
 </div>
 </div>
 
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-sm-8 pl-0">
+
 ## 특징
 
 - 1개의 Full HD 모니터 또는 1개의 UHD 모니터 지원 
@@ -34,9 +38,16 @@ image:
 - CMS SW로 영상 관제와 IP 비디오 월 제어를 동시에 지원
 - 1 기가비트 이더넷
 
+</div>
+<div class="col-sm-4 pl-0">
+
 ## 외관도
 
 {{< figure src="em-nds-solo-drawing.png" >}}
+
+</div>
+</div>
+</div>
 
 ## 사양
 
