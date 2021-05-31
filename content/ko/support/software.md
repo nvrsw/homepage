@@ -75,5 +75,5 @@ image:
     / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/nvr-2.9.20.7.8.iso-sha256.txt)
   - 모델: EM-128B2, EM-100B2, EM-81B2, EM-64B2, EM-49B2, EM-36B2, EM-25B2, EM-16B2, EM-09B2, EM-04B2
 - CMS
-  - 버전: **2.1.20.9.28** (2020-09-28)
-  - [32비트](https://www.emstone.com/data/cms/cms-2.1.20.9.28-win32.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.20.9.28-win64.exe)
+  - 버전: **2.1.20.6.23** (2020-06-23)
+  - [32비트](https://www.emstone.com/data/tta/emstone/cms-2.1.20.6.23-win32.exe) / [64비트](https://www.emstone.com/data/tta/emstone/cms-2.1.20.6.23-win64.exe)
