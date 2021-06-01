@@ -195,7 +195,7 @@ image:
 </tr>
 <tr>
 <th>External expansion</th>
-<td>EM-JBOD12B+ 2EA</td>
+<td>EM-JBOD84B+ 2EA</td>
 <td>-</td>
 </tr>
 <tr>
