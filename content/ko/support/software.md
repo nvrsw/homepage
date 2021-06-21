@@ -77,3 +77,10 @@ image:
 - CMS
   - 버전: **2.1.20.6.23** (2020-06-23)
   - [32비트](https://www.emstone.com/data/tta/emstone/cms-2.1.20.6.23-win32.exe) / [64비트](https://www.emstone.com/data/tta/emstone/cms-2.1.20.6.23-win64.exe)
+
+- 카메라
+  - 버전: **HS19_SWU1_V1.0.0.19**
+  - [펌웨어](https://www.emstone.com/data/tta/camera/hs19_fw_all.dat)
+    / [SHA-256 Checksum](https://www.emstone.com/data/tta/camera/hash_code.txt)
+  - 모델: EM-IQS(IR36x)
+  
