@@ -32,9 +32,9 @@ image:
 *Linux NVR Mobile Viewer*
 
 - iOS Version: **1.3.3** (2018-11-14)
-  <a href="https://apps.apple.com/kr/app/linux-nvr-mobile-viewer/id561848768" target="_blank"><img src="/img/app-store-badge.png" alt="Download on the App Store" class="d-inline-block py-0 my-2"></a>
+  <a href="https://apps.apple.com/kr/app/linux-nvr-mobile-viewer/id561848768" target="_blank"><img width="100px" src="/img/app-store-badge.png" alt="Download on the App Store" class="d-inline-block py-0 my-2"></a>
 - Android Version: **1.3.3** (2019-05-30)
-  <a href="https://play.google.com/store/apps/details?id=com.emstone.moview" target="_blank"><img src="/img/google-play-badge.png" alt="GET IT ON Google Play" class="d-inline-block py-0 my-2"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.emstone.moview" target="_blank"><img width="100px" src="/img/google-play-badge.png" alt="GET IT ON Google Play" class="d-inline-block py-0 my-2"></a>
 
 ## NVR
 
