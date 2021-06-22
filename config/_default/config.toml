@@ -78,7 +78,7 @@ expiryDate = ["expiryDate"]
 [[deployment.targets]]
 name = "www.emstone.com"
 URL = "s3://www.emstone.com?region=ap-northeast-2"
-#cloudFrontDistributionID = "E25OIC4F6N9LOY"
+cloudFrontDistributionID = "E25OIC4F6N9LOY"
 exclude = "{data,docs}/**"
 
 #[[deployment.matchers]]
