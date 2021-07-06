@@ -17,8 +17,9 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.83.1'
+          extended: true
 
-      # Builds www.emstone.com repo
+          # Builds www.emstone.com repo
       - name: Build website
         run: hugo --minify
 
