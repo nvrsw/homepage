@@ -1,0 +1,41 @@
+name: Deploy website to S3 bucket
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Sets up Hugo
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      # Builds www.emstone.com repo
+      - name: Build website
+        run: hugo --minify
+
+      # Update home index file to check browser language code.
+      - name: Update index.html
+        run: cp -f assets/index.html public/
+
+      # Let Korean RSS feeds be global RSS feeds.
+      - name: 
+        run: |
+          cp -f public/ko/index.xml public/
+          cp -f public/ko/index.json public/
+          cp -f public/ko/index.webmanifest public/
+
+      # Deploys built website to S3
+      - name: Deploy to S3
+        run: hugo deploy --maxDeletes -1 --invalidateCDN
+        env:
+          AWS_ACCESS_KEY_ID: $
+          AWS_SECRET_ACCESS_KEY: $
