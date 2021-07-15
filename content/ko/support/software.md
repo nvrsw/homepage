@@ -1,7 +1,7 @@
 ---
 title: "소프트웨어 / 펌웨어 다운로드"
-subtitle: "CMS 소프트웨어, NVR / NDS 펌웨어 등 다운로드"
-summary: "CMS 소프트웨어, NVR / NDS 펌웨어 등 다운로드"
+subtitle: "CMS 소프트웨어, NVR / NDS 펌웨어 다운로드"
+summary: "CMS 소프트웨어, NVR / NDS 펌웨어 다운로드"
 authors: []
 tags: []
 categories: []

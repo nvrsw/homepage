@@ -13,9 +13,6 @@ cp -f public/ko/index.xml public/
 cp -f public/ko/index.json public/
 cp -f public/ko/index.webmanifest public/
 
-dry=""
-[ "$1" = "dry" ] && dry="--dryRun" && shift
-
-hugo deploy $dry --target=www.emstone.com --maxDeletes -1 --invalidateCDN
+hugo deploy --maxDeletes -1 --invalidateCDN
 
 exit $?
