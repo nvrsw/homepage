@@ -1,7 +1,7 @@
 ---
-title: "CMS 소프트웨어"
-subtitle: "통합 모니터링 시스템"
-summary: "통합 모니터링 시스템"
+title: "CMS SW"
+subtitle: "통합 모니터링 프로그램"
+summary: "통합 모니터링 프로그램"
 authors: []
 tags: [ "" ]
 categories: [ "cms" ]
@@ -27,10 +27,9 @@ image:
 
 ## 특징
 
-- 최대 25,600개 카메라 접속 가능 (256 x 100ch)
-- 최대 32개의 FullHD 영상 동시 모니터링 지원
+- 최대 32,768개 카메라 접속 가능 (256 x 128ch)
 - 멀티 스트리밍 지원을 통한 효율적인 관리
-- 이벤트 기반 라이브 모니터링 지원
+- 이벤트 기반 라이브 모니터링 지원 (선별관제 대응)
 - E-MAP 지도 위에 카메라 위치 표시 및 해당 영상 확인 가능
 - 원격 검색 / 원격 백업 (수동 / 스케쥴)
 - 이벤트 기반 지능형 대응 프로그래밍 기능
@@ -80,5 +79,5 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [CMS_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/CMS_카탈로그_20200313.pdf)
-매뉴얼 | [CMS_Box_참고설명서_20200313.pdf](https://www.emstone.com/data/sales/ko/CMS_Box_참고설명서_20200313.pdf)
+카탈로그 | [CMSSW_카탈로그_20210803.pdf](https://www.emstone.com/data/sales/ko/CMSSW_카탈로그_20210803.pdf)
+매뉴얼 | [CMS_매뉴얼_20210803.pdf](https://www.emstone.com/data/sales/ko/CMS_매뉴얼_20210803.pdf)

@@ -1,5 +1,5 @@
 ---
-title: "EM-CMS 스테이션 H"
+title: "CMS Station H"
 subtitle: "통합 모니터링 서버"
 summary: "통합 모니터링 서버"
 authors: []
@@ -31,10 +31,9 @@ image:
 
 ## 특징
 
-- 최대 25,600개 카메라 접속 가능 (256 x 100ch)
-- 최대 32개의 FullHD 영상 동시 모니터링 지원
+- 최대 32,768개 카메라 접속 가능 (256 x 128ch)
 - 멀티 스트리밍 지원을 통한 효율적인 관리
-- 이벤트 기반 라이브 모니터링 지원
+- 이벤트 기반 라이브 모니터링 지원 (선별관제 대응)
 - E-MAP 지도 위에 카메라 위치 표시 및 해당 영상 확인 가능
 - 원격 검색 / 원격 백업 (수동 / 스케쥴)
 - 이벤트 기반 지능형 대응 프로그래밍 기능
@@ -177,10 +176,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [CMS_Station_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/CMS_Station_카탈로그_20200313.pdf)
-외관도 | [CMS_Station_외관도_20200313.dwg](https://www.emstone.com/data/sales/ko/CMS_Station_외관도_20200313.dwg)<br>[CMS_Station_외관도_20200313.png](https://www.emstone.com/data/sales/ko/CMS_Station_외관도_20200313.png)
-사양서 | [CMS_Station_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/CMS_Station_사양서_20200313.xlsx)
-시방서 | [CMS_Station_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/CMS_Station_시방서_20200313.hwp)
-출하검사 결과 성적서 | [CMS_Station_출하검사결과성적서_20200313.xls](https://www.emstone.com/data/sales/ko/CMS_Station_출하검사결과성적서_20200313.xls)
-인증서 | [CMS_Station_방송통신기자재등의적합등록필증_20180824.pdf](https://www.emstone.com/data/sales/ko/CMS_Station_방송통신기자재등의적합등록필증_20180824.pdf)<br>[CMS_Station_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf](https://www.emstone.com/data/sales/ko/CMS_Station_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf)
-매뉴얼 | [CMS_Box_참고설명서_20200313.pdf](https://www.emstone.com/data/sales/ko/CMS_Box_참고설명서_20200313.pdf)
+카탈로그 | [CMSSTATIONH_카탈로그_20210803.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_카탈로그_20210803.pdf)
+외관도 | [CMSSTATIONH_외관도_20210803.dwg](https://www.emstone.com/data/sales/ko/CMSSTATIONH_외관도_20210803.dwg)<br>[CMSSTATIONH_외관도_20210803.png](https://www.emstone.com/data/sales/ko/CMSSTATIONH_외관도_20210803.png)
+사양서 | [CMSSTATIONH_사양서_20210803.xlsx](https://www.emstone.com/data/sales/ko/CMSSTATIONH_사양서_20210803.xlsx)
+시방서 | [CMSSTATIONH_시방서_20210803.hwp](https://www.emstone.com/data/sales/ko/CMSSTATIONH_시방서_20210803.hwp)
+출하검사 결과 성적서 | [CMSSTATIONH_출하검사결과성적서_20210803.xls](https://www.emstone.com/data/sales/ko/CMSSTATIONH_출하검사결과성적서_20210803.xls)
+인증서 | [CMSSTATIONH_방송통신기자재등의적합등록필증_20210803.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_방송통신기자재등의적합등록필증_20210803.pdf)<br>[CMSSTATIONH_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf)
+매뉴얼 | [CMS_매뉴얼_20210803.pdf](https://www.emstone.com/data/sales/ko/CMS_매뉴얼_20210803.pdf)
