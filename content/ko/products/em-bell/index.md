@@ -57,64 +57,59 @@ image:
 <tr>
 <th colspan="2">모델명</th>
 <th>EM-E-BELL</th>
+<th>EM-E-BELL-VOICE</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th rowspan="2">네트워크</th>
 <th>전송속도</th>
-<td>10/100Mbps</td>
+<td colspan="2">10/100Mbps</td>
 </tr>
 <tr>
 <th>전송규격</th>
-<td>IEEE802.3af/at</td>
+<td colspan="2">IEEE802.3af/at</td>
 </tr>
 <tr>
-<th rowspan="2">PoE 출력</th>
-<th>PoE 연결시</th>
-<td>45~55V, 8W</td>
+<th colspan="2">PoE 출력</th>
+<td colspan="2">45~55V, 15W</td>
 </tr>
 <tr>
-<th>PoE+ 연결시</th>
-<td>45~55V, 15W</td>
+<th colspan="2">경고음</th>
+<td colspan="2">100dB@ 12V, 경고음 작동시간 조절가능</td>
 </tr>
 <tr>
-<th rowspan="3">MIC</th>
-<th>입력</th>
-<td>Condensor MIC</td>
+<th colspan="2">버튼</th>
+<td colspan="2">Red LED 버튼, 작동 시 깜빡임</td>
 </tr>
 <tr>
-<th>출력</th>
-<td>0.5W</td>
+<th colspan="2">원격제어</th>
+<td colspan="2">Bluetooth LE, Remote switch, Up to 15M</td>
 </tr>
 <tr>
-<th>볼륨제어</th>
-<td>지원</td>
+<th colspan="2">알람</th>
+<td colspan="2">Dry contact(rating 12V 1A)</td>
 </tr>
 <tr>
-<th rowspan="2">Speaker</th>
-<th>출력</th>
-<td>15W</td>
+<th colspan="2">마이크</th>
+<td>Not suppot</td>
+<td>Built-in microphone</td>
 </tr>
 <tr>
-<th>볼륨제어</th>
-<td>지원</td>
+<th colspan="2">동작 온도/습도</th>
+<td colspan="2">+5℃~+40℃ / 0% ~ 90%</td>
 </tr>
 <tr>
-<th colspan="2">동작 온도 / 습도</th>
-<td>+5℃~+40℃ / 0% ~ 90%</td>
-</tr>
-<tr>
-<th colspan="2">사용전원 / 소비전력</th>
-<td>PoE</td>
+<th colspan="2">사용전원/소비전력</th>
+<td colspan="2">PoE</td>
 </tr>
 <tr>
 <th colspan="2">크기(W x H x D)</th>
-<td>84(W) x35(H) x 138(D) mm</td>
+<td colspan="2">120(W) x 170(H) x 42(D) mm</td>
 </tr>
 <tr>
 <th colspan="2">중량</th>
-<td>Approx. 300g</td>
+<td colspan="2">Approx. 300 kg</td>
 </tr>
 </tbody>
 </table>
@@ -128,8 +123,8 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [BELL_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/BELL_카탈로그_20200313.pdf)
-외관도 | [BELL_외관도_20200313.png](https://www.emstone.com/data/sales/ko/BELL_외관도_20200313.png)
-사양서 | [BELL_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/BELL_사양서_20200313.xlsx)
-시방서 | [BELL_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/BELL_시방서_20200313.hwp)
-인증서 | [BELL_방송통신기자재등의적합등록필증_20191115.pdf](https://www.emstone.com/data/sales/ko/BELL_방송통신기자재등의적합등록필증_20191115.pdf)<br>[BELL_방송통신기자재등(전자파적합성)시험성적서_20191111.pdf](https://www.emstone.com/data/sales/ko/BELL_방송통신기자재등(전자파적합성)시험성적서_20191111.pdf)
+카탈로그 | [EM-E-BELL_카탈로그_20210806.pdf](https://www.emstone.com/data/sales/ko/EM-E-BELL_카탈로그_20210806.pdf)
+외관도 | [EM-E-BELL_외관도_20210806.dwg](https://www.emstone.com/data/sales/ko/EM-E-BELL_외관도_20210806.dwg)<br>[EM-E-BELL_외관도_20210806.png](https://www.emstone.com/data/sales/ko/EM-E-BELL_외관도_20210806.png)
+사양서 | [EM-E-BELL_사양서_20210806.xlsx](https://www.emstone.com/data/sales/ko/EM-E-BELL_사양서_20210806.xlsx)
+시방서 | [EM-E-BELL_시방서_20210806.hwp](https://www.emstone.com/data/sales/ko/EM-E-BELL_시방서_20210806.hwp)<br>[EM-E-BELL-VOICE_시방서_20210806.hwp](https://www.emstone.com/data/sales/ko/EM-E-BELL-VOICE_시방서_20210806.hwp)
+인증서 | [EM-E-BELL_방송통신기자재등의적합등록필증_20210806.pdf](https://www.emstone.com/data/sales/ko/EM-E-BELL_방송통신기자재등의적합등록필증_20210806.pdf)<br>[EM-E-BELL_방송통신기자재등(전자파적합성)시험성적서_20210806.pdf](https://www.emstone.com/data/sales/ko/EM-E-BELL_방송통신기자재등(전자파적합성)시험성적서_20210806.pdf)
