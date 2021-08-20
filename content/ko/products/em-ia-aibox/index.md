@@ -214,4 +214,3 @@ image:
 ---- | ----
 카탈로그 | [EM-IA-AIBOX_카탈로그_20210803.pdf](https://www.emstone.com/data/sales/ko/EM-IA-AIBOX_카탈로그_20210803.pdf)
 사양서 | [EM-IA-AIBOX_사양서_20210803.xlsx](https://www.emstone.com/data/sales/ko/EM-IA-AIBOX_사양서_20210803.xlsx)
-매뉴얼 | [EM-IA-AIBOX_매뉴얼_20210813.pdf](https://www.emstone.com/data/sales/ko/EM-IA-AIBOX_매뉴얼_20210813.pdf)
