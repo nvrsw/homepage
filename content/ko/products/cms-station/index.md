@@ -181,5 +181,5 @@ image:
 사양서 | [CMSSTATIONH_사양서_20210803.xlsx](https://www.emstone.com/data/sales/ko/CMSSTATIONH_사양서_20210803.xlsx)
 시방서 | [CMSSTATIONH_시방서_20210803.hwp](https://www.emstone.com/data/sales/ko/CMSSTATIONH_시방서_20210803.hwp)
 출하검사 결과 성적서 | [CMSSTATIONH_출하검사결과성적서_20210803.xls](https://www.emstone.com/data/sales/ko/CMSSTATIONH_출하검사결과성적서_20210803.xls)
-인증서 | [CMSSTATIONH_방송통신기자재등의적합등록필증_20210803.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_방송통신기자재등의적합등록필증_20210803.pdf)<br>[CMSSTATIONH_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf)
+인증서 | [CMSSTATIONH_방송통신기자재등의적합등록필증_20210803.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_방송통신기자재등의적합등록필증_20210825.pdf)<br>[CMSSTATIONH_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf)
 매뉴얼 | [CMS_매뉴얼_20210803.pdf](https://www.emstone.com/data/sales/ko/CMS_매뉴얼_20210803.pdf)
