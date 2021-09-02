@@ -20,11 +20,11 @@ image:
 
 *Central Monitoring System for NVR / IP Video Wall*
 
-- Version: **2.1.21.8.9** (2021-08-09)
+- Version: **2.1.21.8.31** (2021-08-31)
 - Windows Installation Program (Windows 7 / Windows 8 / Windows 10)
-  - [32-bits](https://www.emstone.com/data/cms/cms-2.1.21.8.9-win32-emstone.exe) / [64-bits](https://www.emstone.com/data/cms/cms-2.1.21.8.9-win64-emstone.exe)
+  - [32-bits](https://www.emstone.com/data/cms/cms-2.1.21.8.31-win32-emstone.exe) / [64-bits](https://www.emstone.com/data/cms/cms-2.1.21.8.31-win64-emstone.exe)
 - Linux Installation Program (Ubuntu 19.04 / Arch Linux)
-  - [64-bits](https://www.emstone.com/data/cms/cms-2.1.21.8.9-linux-x86_64.tar.bz2)
+  - [64-bits](https://www.emstone.com/data/cms/cms-2.1.21.8.31-linux-x86_64.tar.bz2)
 - [Change Log](/docs/cms/changelog/cms21.html)
 
 ## Mobile App
@@ -40,8 +40,8 @@ image:
 
 *Network Hybrid Digital Video Recorder*
 
-- Version: **2.9.21.8.24** (2021-08-24)
-- [ISO Installation File](https://www.emstone.com/data/dvr/nvr-2.9.21.8.24-emstone.iso) : *Upgrade only / License key required*
+- Version: **2.9.21.8.31** (2021-08-31)
+- [ISO Installation File](https://www.emstone.com/data/dvr/nvr-2.9.21.8.31-emstone.iso) : *Upgrade only / License key required*
 - [Change Log](/docs/dvr/changelog/nvr29.html)
 - [HTTP API](/docs/dvr/http/)
 
@@ -49,8 +49,8 @@ image:
 
 *Network Display Server for IP Video Wall*
 
-- Version: **1.10.21.5.10** (2021-05-10)
-- [ISO Installation File](https://www.emstone.com/data/nds/nds-1.10.21.5.10.iso)
+- Version: **1.11.21.8.31** (2021-08-31)
+- [ISO Installation File](https://www.emstone.com/data/nds/nds-1.11.21.8.31.iso)
    : *Upgrade only / License key required*
 - [Change Log](/docs/nds/ChangeLog.html)
 
