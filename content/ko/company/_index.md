@@ -220,7 +220,6 @@ cascade:
 **포항지사** | [경상북도 포항시 남구 대도동 120-2 홍제빌딩 4층](https://map.kakao.com/link/search/경상북도+포항시+남구+대도동+120-2+홍제빌딩+4층)
 **울산지사** | [울산광역시 북구 명촌1길 11-12](https://map.kakao.com/link/search/울산광역시+북구+명촌1길+11-12)
 **창원지사** | [경상남도 창원시 마산회원구 봉암북 7길 21 정보산업진흥본부 5동 303호](https://map.kakao.com/link/search/경상남도+창원시+마산회원구+봉암북+7길+21+정보산업진흥본부+5동+303호)
-**부산경남지사** | [부산광역시 부산진구 동평로 405번길 118 7층](https://map.kakao.com/link/search/부산광역시+부산진구+동평로+405번길+118+7층)
 **제주지사** | [제주특별자치도 제주시 연삼로 318 104호](https://map.kakao.com/link/search/제주특별자치도+제주시+연삼로+318+104호)
 **EMSTONE LINK** | [경기도 안양시 동안구 엘에스로 92 17동 222호](https://map.kakao.com/link/search/경기도+안양시+동안구+엘에스로+92+17동+222호)
-**EMSTONE RAIL** | [경기도 성남시 수정구 위례광장로 9-9 301호](https://map.kakao.com/link/search/경기도+성남시+수정구+위례광장로+9-9+301호)
+**EMSTONE RAIL** | [경기도 성남시 수정구 위례광장로 9-9 226호](https://map.kakao.com/link/search/경기도+성남시+수정구+위례광장로+9-9+301호)
