@@ -1,6 +1,6 @@
 ---
 title: "NVR"
-subtitle: "네트워크 디지털 영상 녹화기 / Hybrid NVR / NVR+ / Failover 서버"
+subtitle: "네트워크 디지털 영상 녹화기 / NVR+ / Failover 서버"
 
 # View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 3
