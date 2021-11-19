@@ -168,11 +168,6 @@ cascade:
       latlng: new kakao.maps.LatLng(35.2246964071696, 128.598326962526)
     },
     {
-      title: '부산경남지사',
-      address: '부산광역시 부산진구 동평로 405번길 118 7층',
-      latlng: new kakao.maps.LatLng(35.1782277288787, 129.07303471481)
-    },
-    {
       title: '제주지사',
       address: '제주특별자치도 제주시 연삼로 318 104호',
       latlng: new kakao.maps.LatLng(33.491771033256, 126.526607223506)
@@ -183,7 +178,7 @@ cascade:
       latlng: new kakao.maps.LatLng(37.3716115335068, 126.95143075168)
     },
     { title: 'EMSTONE RAIL',
-      address: '경기도 성남시 수정구 위례광장로 9-9 301호',
+      address: '경기도 성남시 수정구 위례광장로 9-9 226호',
       latlng: new kakao.maps.LatLng(37.4645205465071, 127.141135668958)
     }
   ];
