@@ -1,7 +1,7 @@
 <head>
 
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#141622">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic {{ site.Data.academic.version }}">
@@ -44,9 +44,6 @@
   {{ partial "functions/parse_theme" . }}
   {{ $css := site.Data.assets.css }}
   {{ $js := site.Data.assets.js }}
-  {{ if ne ($scr.Get "primary") "#fff" }}
-  <meta name="theme-color" content="{{ $scr.Get "primary" }}">
-  {{ end }}
 
   {{/* Config LaTeX math rendering. */}}
   {{ if or .Params.math site.Params.math }}
