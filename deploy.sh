@@ -11,7 +11,7 @@ cp -f assets/index.html public/
 # Let Korean RSS feeds be global RSS feeds.
 cp -f public/ko/index.xml public/
 cp -f public/ko/index.json public/
-cp -f public/ko/index.webmanifest public/
+cp -f public/ko/manifest.webmanifest public/
 
 hugo deploy --maxDeletes -1 --invalidateCDN
 
