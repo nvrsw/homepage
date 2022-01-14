@@ -124,7 +124,7 @@ cascade:
     },
     {
       title: '강릉지사',
-      address: '강원도 강릉시 원호평길58번길 49',
+      address: '강원도 강릉시 월호평길58번길 49',
       latlng: new kakao.maps.LatLng(37.7423341304819, 128.941092005768)
     },
     {
