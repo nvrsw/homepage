@@ -11,15 +11,17 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: '0'
 
       # Sets up Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.83.1'
+          hugo-version: '0.91.2'
           extended: true
 
-          # Builds www.emstone.com repo
+      # Builds www.emstone.com repo
       - name: Build website
         run: hugo --minify
 
@@ -32,7 +34,7 @@ jobs:
         run: |
           cp -f public/ko/index.xml public/
           cp -f public/ko/index.json public/
-          cp -f public/ko/index.webmanifest public/
+          cp -f public/ko/manifest.webmanifest public/
 
       # Deploys built website to S3
       - name: Deploy to S3
