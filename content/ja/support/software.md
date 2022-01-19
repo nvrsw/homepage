@@ -20,11 +20,11 @@ image:
 
 *Central Monitoring System for NVR / IP Video Wall*
 
-- バージョン: **2.1.21.11.24** (2021-11-24)
+- バージョン: **2.1.22.1.19** (2022-01-19)
 - Windows インストールプログラム (Windows 7 / Windows 8 / Windows 10)
-  - [32ビット](https://www.emstone.com/data/cms/cms-2.1.21.11.24-win32-emstone.exe) / [64ビット](https://www.emstone.com/data/cms/cms-2.1.21.11.24-win64-emstone.exe)
+  - [32ビット](https://www.emstone.com/data/cms/cms-2.1.22.1.19-win32-emstone.exe) / [64ビット](https://www.emstone.com/data/cms/cms-2.1.22.1.19-win64-emstone.exe)
 - Linux インストールプログラム (Ubuntu 19.04 / Arch Linux)
-  - [64ビット](https://www.emstone.com/data/cms/cms-2.1.21.11.24-linux-x86_64.tar.bz2)
+  - [64ビット](https://www.emstone.com/data/cms/cms-2.1.22.1.19-linux-x86_64.tar.bz2)
 - [変更](/docs/cms/changelog/cms21.html)
 
 ## モバイルアプリ
@@ -40,7 +40,7 @@ image:
 
 *Network Hybrid Digital Video Recorder*
 
-- バージョン: **2.9.22.1.10** (2022-1-10)
+- バージョン: **2.9.22.1.10** (2022-01-10)
 - [ISO インストールイメージ](https://www.emstone.com/data/dvr/nvr-2.9.22.1.10-emstone.iso) : *アップグレードのみ/ライセンスキーが必要*
 - [変更](/docs/dvr/changelog/nvr29.html)
 - [HTTP API](/docs/dvr/http/)
@@ -49,8 +49,8 @@ image:
 
 *Network Display Server for IP Video Wall*
 
-- バージョン: **1.12.22.1.4** (2022-01-04)
-- [ISO インストールイメージ](https://www.emstone.com/data/nds/nds-1.12.22.1.4.iso)
+- バージョン: **1.12.22.1.19** (2022-01-19)
+- [ISO インストールイメージ](https://www.emstone.com/data/nds/nds-1.12.22.1.19.iso)
    : *アップグレードのみ/ライセンスキーが必要*
 - [変更](/docs/nds/ChangeLog.html)
 
