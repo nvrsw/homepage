@@ -195,8 +195,7 @@ image:
 </tr>
 <tr>
 <th>Streaming</th>
-<td colspan="2">N/A</td>
-<td colspan="2">Two way</td>
+<td colspan="4">N/A</td>
 </tr>
 <tr>
 <th rowspan="2">Event</th>

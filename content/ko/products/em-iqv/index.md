@@ -177,7 +177,8 @@ image:
 </tr>
 <tr>
 <th>Streaming</th>
-<td colspan="2">Two way</td>
+<td>N/A</td>
+<td>Two way</td>
 </tr>
 <tr>
 <th rowspan="2">Event</th>
