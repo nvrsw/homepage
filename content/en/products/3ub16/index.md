@@ -352,7 +352,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">Power Supply / Current</th>
-<td>100~240VAC, 50/60Hz, 400W, Dual Power Option</td>
+<td>100~240VAC, 50/60Hz, 750W, Dual Power Option</td>
 </tr>
 <tr>
 <th colspan="2">Dimension (W x H x D)</th>

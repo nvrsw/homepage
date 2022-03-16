@@ -354,7 +354,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">사용전원 / 소비전력</th>
-<td>100~240VAC, 50/60Hz, 400W, Dual Power Option</td>
+<td>100~240VAC, 50/60Hz, 750W, Dual Power Option</td>
 </tr>
 <tr>
 <th colspan="2">크기(W x H x D)</th>
