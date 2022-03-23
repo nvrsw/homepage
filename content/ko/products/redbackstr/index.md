@@ -84,7 +84,7 @@ image:
 </tr>
 <tr>
 <th>Cache memory</th>
-<td>8GB</td>
+<td>48GB</td>
 <td>-</td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ image:
 </tr>
 <tr>
 <th>Cache memory</th>
-<td>8GB</td>
+<td>48GB</td>
 <td>-</td>
 </tr>
 <tr>
