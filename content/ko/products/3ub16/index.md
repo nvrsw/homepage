@@ -65,6 +65,20 @@ image:
 </div>
 </div>
 
+
+## 인증
+<div class="container">
+<div class="row align-items-top">
+<div class="col-sm-1">
+{{< figure src="TTA.png" >}} 
+</div>
+<div class="col-sm-6">
+- 공공기관용 NVR 보안성능품질 Ver.1 (TTA-V-21-216)
+</div>
+</div>
+</div>
+
+
 ## 개별 사양
 
 <div style="overflow-x: auto">
@@ -380,5 +394,5 @@ image:
 사양서 | [3UB16_사양서_20201022.xlsx](https://www.emstone.com/data/sales/ko/3UB16_사양서_20201022.xlsx)
 시방서 | [3UB16_EM-16B16_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-16B16_시방서_20201022.hwp)<br>[3UB16_EM-25B16_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-25B16_시방서_20201022.hwp)<br>[3UB16_EM-36B16_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-36B16_시방서_20201022.hwp)<br>[3UB16_EM-49B16F_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-49B16F_시방서_20201022.hwp)<br>[3UB16_EM-49B16H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-49B16H_시방서_20201022.hwp)<br>[3UB16_EM-64B16F_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-64B16F_시방서_20201022.hwp)<br>[3UB16_EM-64B16H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-64B16H_시방서_20201022.hwp)<br>[3UB16_EM-81B16H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-81B16H_시방서_20201022.hwp)<br>[3UB16_EM-100B16H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-100B16H_시방서_20201022.hwp)<br>[3UB16_EM-128B16H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-128B16H_시방서_20201022.hwp)
 출하검사 결과 성적서 | [3UB16_EM-16B16_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-16B16_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-25B16_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-25B16_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-36B16_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-36B16_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-49B16F_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-49B16F_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-49B16H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-49B16H_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-64B16F_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-64B16F_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-64B16H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-64B16H_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-81B16H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-81B16H_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-100B16H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-100B16H_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-128B16H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-128B16H_출하검사결과성적서_20201022.xls)
-인증서 | [3UB16_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/3UB16_방송통신기자재등의적합등록필증_20201022.pdf)<br>[3UB16_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/3UB16_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
+인증서 | [3UB16_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/3UB16_방송통신기자재등의적합등록필증_20201022.pdf)<br>[3UB16_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/3UB16_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)<br>[3UB16_TTA인증서_20211129.pdf](https://www.emstone.com/data/sales/ko/3UB16_TTA인증서_20211129.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20210710.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20210710.pdf)<br>[NVR_사용자매뉴얼_20210215.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20210215.pdf)<br>[NVR_업그레이드매뉴얼_20210710.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20210710.pdf)
