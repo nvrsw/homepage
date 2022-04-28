@@ -41,8 +41,8 @@ align = "end"
   description = "Video Management System"
 
 [[feature]]
-  image = "products/nvr+/featured.png"
-  url = "products/nvr+/"
+  image = "products/nvr-plus/featured.png"
+  url = "products/nvr-plus/"
   name = "NVR+ Professional Seriess"
   description = "Channel Extensible Storage Type PC based NVR"
 
