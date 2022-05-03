@@ -112,11 +112,11 @@ image:
 </tr>
 <tr>
 <th>Stream Capability</th>
-<td>8M(3840x2160)/6M(3072x2048)/5M(3072x1728/2592x1944)/4M(2688x1520)/3M(2048x1536)/<br>2304x1296(2304x1296)/1080p(1920x1080)/1.3M (1280 x 960)/720p(1280x720)/<br>D1(704x 576/704x480)/VGA(640x480)/CIF(352x288/352x240)</td>
+<td>3 streams</td>
 </tr>
 <tr>
 <th>Resolution</th>
-<td>3 streams</td>
+<td>8M(3840x2160)/6M(3072x2048)/5M(3072x1728/2592x1944)/4M(2688x1520)/3M(2048x1536)/<br>2304x1296(2304x1296)/1080p(1920x1080)/1.3M (1280 x 960)/720p(1280x720)/<br>D1(704x 576/704x480)/VGA(640x480)/CIF(352x288/352x240)</td>
 </tr>
 <th rowspan="9">Function</th>
 <th>Day/Night</th>
@@ -209,6 +209,6 @@ image:
 카탈로그 | [EM-IUV(IR2713ZD)_카탈로그_20220223.pdf](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_카탈로그_20220223.pdf)
 외관도 | [EM-IUV(IR2713ZD)_외관도_20220223.png](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_외관도_20220223.png)
 사양서 | [EM-IUV(IR2713ZD)_사양서_20220223.xlsx](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_사양서_20220223.xlsx)
-시방서 | [EM-IUV(IR2713ZD)_시방서_20220426.hwp](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_시방서_20220426.hwp)
+시방서 | [EM-IUV(IR2713ZD)_시방서_20220502.hwp](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_시방서_20220502.hwp)
 출하검사 결과 성적서 | [EM-IUV(IR2713ZD)_출하검사성적서_20220223.xlsx](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_출하검사성적서_20220223.xlsx)
 인증서 | [EM-IUV(IR2713ZD)_방송통신기자재등의적합등록필증_20220223.pdf](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_방송통신기자재등의적합등록필증_20220223.pdf)
