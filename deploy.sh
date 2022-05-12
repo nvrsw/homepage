@@ -2,7 +2,6 @@
 
 set -xe
 
-[ "$1" = "clean" ] && rm -rf public && shift
 hugo --minify
 
 # Update home index file to check browser language code.
