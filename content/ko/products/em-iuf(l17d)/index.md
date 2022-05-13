@@ -207,4 +207,5 @@ Sub stream: 704x576 (1 fps-25 fps) / 704x480 (1 fps-30 fps)</td>
 외관도 | [EM-IUF(L17D)_외관도_20220223.png](https://www.emstone.com/data/sales/ko/EM-IUF(L17D)_외관도_20220223.png)
 사양서 | [EM-IUF(L17D)_사양서_20220223.xlsx](https://www.emstone.com/data/sales/ko/EM-IUF(L17D)_사양서_20220223.xlsx)
 시방서 | [EM-IUF(L17D)_시방서_20220426.hwp](https://www.emstone.com/data/sales/ko/EM-IUF(L17D)_시방서_20220426.hwp)
+출하검사 결과 성적서 | [EM-IUF(L17D)_출하검사성적서_20220513.xlsx](https://www.emstone.com/data/sales/ko/EM-IUF(L17D)_출하검사성적서_20220513.xlsx)
 인증서 | [EM-IUF(L17D)_방송통신기자재등의적합등록필증_20220304.pdf](https://www.emstone.com/data/sales/ko/EM-IUF(L17D)_방송통신기자재등의적합등록필증_20220304.pdf)<br>[EM-IUF(L17D)_방송통신기자재등(전자파적합성)시험성적서_20220304.pdf](https://www.emstone.com/data/sales/ko/EM-IUF(L17D)_방송통신기자재등(전자파적합성)시험성적서_20220304.pdf)<br>[EM-IUF(L17D)_방송통신기자재등(유선영상정보처리기기)시험성적서_20220304.pdf](https://www.emstone.com/data/sales/ko/EM-IUF(L17D)_방송통신기자재등(유선영상정보처리기기)시험성적서_20220304.pdf)
