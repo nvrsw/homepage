@@ -81,7 +81,7 @@ image:
 </tr>
 <tr>
 <th>Minimum<br>Illumination</th>
-<td colspan="2">0.02 lux(Color), 0 lux(BW, IR on)</td>
+<td colspan="2">0.002 lux(Color), 0 lux(BW, IR on)</td>
 </tr>
 <tr>
 <th rowspan="4">Video</th>
@@ -198,11 +198,13 @@ image:
 <tr>
 <th rowspan="2">Event</th>
 <th>Sensor In</th>
-<td colspan="2">1 port</td>
+<td>1 port</td>
+<td>-</td>
 </tr>
 <tr>
 <th>Alarm Out</th>
-<td colspan="2">1 port</td>
+<td>1 port</td>
+<td>-</td>
 </tr>
 <tr>
 <th rowspan="4">Network</th>
@@ -246,10 +248,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IHP_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/IHP_카탈로그_20200313.pdf)
+카탈로그 | [IHP_카탈로그_20220615.pdf](https://www.emstone.com/data/sales/ko/IHP_카탈로그_20220615.pdf)
 외관도 | [IHP_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHP_외관도_20200313.png)
-사양서 | [IHP_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IHP_사양서_20200313.xlsx)
-시방서 | [IHP(IR12x)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHP(IR12x)_시방서_20200313.hwp)<br>[IHP(IR12xP)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHP(IR12xP)_시방서_20200313.hwp)
-출하검사 결과 성적서 | [IHP(IR12x)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IHP(IR12x)_출하검사성적서_20200313.xls)<br>[IHP(IR12xP)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IHP(IR12xP)_출하검사성적서_20200313.xls)
+사양서 | [IHP_사양서_20220615.xlsx](https://www.emstone.com/data/sales/ko/IHP_사양서_20220615.xlsx)
+시방서 | [IHP(IR12x)_시방서_20220615.hwp](https://www.emstone.com/data/sales/ko/IHP(IR12x)_시방서_20220615.hwp)<br>[IHP(IR12xP)_시방서_20220615.hwp](https://www.emstone.com/data/sales/ko/IHP(IR12xP)_시방서_20220615.hwp)
+출하검사 결과 성적서 | [IHP(IR12x)_출하검사성적서_20220615.xls](https://www.emstone.com/data/sales/ko/IHP(IR12x)_출하검사성적서_20220615.xls)<br>[IHP(IR12xP)_출하검사성적서_20220615.xls](https://www.emstone.com/data/sales/ko/IHP(IR12xP)_출하검사성적서_20220615.xls)
 인증서 | [IHP_방송통신기자재등의적합등록필증_20190910.pdf](https://www.emstone.com/data/sales/ko/IHP_방송통신기자재등의적합등록필증_20190910.pdf)<br>[IHP_방송통신기자재등(전자파적합성)시험성적서_20190909.pdf](https://www.emstone.com/data/sales/ko/IHP_방송통신기자재등(전자파적합성)시험성적서_20190909.pdf)<br>[IHP_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190909.pdf](https://www.emstone.com/data/sales/ko/IHP_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190909.pdf)
 소프트웨어 | [EM-IHP_Smart_Tools_2.3.0.3_Setup.exe](https://www.emstone.com/data/sales/ko/EM-IHP_Smart_Tools_2.3.0.3_Setup.exe)
