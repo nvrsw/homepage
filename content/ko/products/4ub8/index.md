@@ -36,7 +36,7 @@ image:
 
 ## 특징
 
-- HDD 최대 8개 장착 (RAID 0/1/5, RAID 0/1/5/6 옵션 가능)
+- HDD 최대 8개 장착 ( RAID 0/1/5/6 옵션 가능 )
 - 추가 옵션 적용 가능 (LAN, DI/DO)
 - 높은 신뢰도의 64비트 리눅스(Linux) 기반 디지털 비디오 녹화기
 - 고효율 H.265 / H.264 압축방식을 통하여 선명한 화질의 영상
@@ -50,8 +50,9 @@ image:
 - **생체 정보**를 이용한 사용자 인증 지원
 - Failover 지원 : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
 - 양방향 음성 기능 지원
-- 최대 128TB의 넉넉한 자체 저장 공간
+- 최대 144TB의 넉넉한 자체 저장 공간
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
+- **화재/연기 감지** 라이선스 1CH 기본 제공
 - 모델 라인업 : 16, 25, 36, 49(F/H), 64(F/H), 81H, 100H, 128H CH
 
 </div>
@@ -114,13 +115,9 @@ image:
 <td colspan="2">1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49</td>
 </tr>
 <tr>
-<th>라이브</th>
 <th>성능</th>
-<td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(4CH/120fps)<br>8M(6CH/180fps)<br>5M(10CH/300fps)<br>1080P(25CH/750fps)</td>
-<td>12M(6CH/180fps)<br>8M(9CH/270fps)<br>5M(14CH/420fps)<br>1080P(36CH/1080fps)</td>
-<td>12M(8CH/240fps)<br>8M(12CH/360fps)<br>5M(19CH/570fps)<br>1080P(49CH/1470fps)</td>
-<td>12M(4CH/120fps)<br>8M(6CH/180fps)<br>5M(10CH/300fps)<br>1080P(25CH/750fps)<br>720P(49CH/1470fps)</td>
+<th>라이브/검색/재생</th>
+<td colspan="5">최대 12M 지원</td>
 </tr>
 <tr>
 <th rowspan="3">녹화</th>
@@ -136,17 +133,9 @@ image:
 <td colspan="5">H.265 / H.264 / MPEG4 / MJPEG</td>
 </tr>
 <tr>
-<th rowspan="3">검색 / 재생</th>
+<th rowspan="2">검색 / 재생</th>
 <th>검색 모드</th>
 <td colspan="5">날짜 / 시간 캘린더 검색, 개별 / 채널 묶음 검색, 이벤트 검색</td>
-</tr>
-<tr>
-<th>성능</th>
-<td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(4CH/120fps)<br>8M(6CH/180fps)<br>5M(10CH/300fps)<br>1080P(25CH/750fps)</td>
-<td>12M(6CH/180fps)<br>8M(9CH/270fps)<br>5M(14CH/420fps)<br>1080P(36CH/1080fps)</td>
-<td>12M(8CH/240fps)<br>8M(12CH/360fps)<br>5M(19CH/570fps)<br>1080P(49CH/1470fps)</td>
-<td>12M(4CH/120fps)<br>8M(6CH/180fps)<br>5M(10CH/300fps)<br>1080P(25CH/750fps)<br>720P(49CH/1470fps)</td>
 </tr>
 <tr>
 <th>재생 제어</th>
@@ -198,13 +187,9 @@ image:
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64 / 81 / 100 / 121 / 128</td>
 </tr>
 <tr>
-<th>라이브</th>
 <th>성능</th>
-<td>12M(10CH/300fps)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)</td>
-<td>12M(5CH/150fsp)<br>8M(8CH/240fps)<br>5M(12CH/360fps)<br>1080P(32CH/960fps)<br>720P(64CH/1920fps)</td>
-<td>12M(6CH/180fsp)<br>8M(10CH/300fps)<br>5M(16CH/480fps)<br>1080P(40CH/1200fps)<br>720P(81CH/2430fps)</td>
-<td>12M(8CH/240fsp)<br>8M(12CH/360fps)<br>5M(20CH/600fps)<br>1080P(50CH/1500fps)<br>720P(100CH/3000fps)</td>
-<td>12M(10CH/300fsp)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)<br>720P(128CH/3840fps)</td>
+<th>라이브/검색/재생</th>
+<td colspan="5">최대 12M 지원</td>
 </tr>
 <tr>
 <th rowspan="3">녹화</th>
@@ -220,17 +205,9 @@ image:
 <td colspan="5">H.265 / H.264 / MPEG4 / MJPEG</td>
 </tr>
 <tr>
-<th rowspan="3">검색 / 재생</th>
+<th rowspan="2">검색 / 재생</th>
 <th>검색 모드</th>
 <td colspan="5">날짜 / 시간 캘린더 검색, 개별 / 채널 묶음 검색, 이벤트 검색</td>
-</tr>
-<tr>
-<th>성능</th>
-<td>12M(10CH/300fps)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)</td>
-<td>12M(5CH/150fsp)<br>8M(8CH/240fps)<br>5M(12CH/360fps)<br>1080P(32CH/960fps)<br>720P(64CH/1920fps)</td>
-<td>12M(6CH/180fsp)<br>8M(10CH/300fps)<br>5M(16CH/480fps)<br>1080P(40CH/1200fps)<br>720P(81CH/2430fps)</td>
-<td>12M(8CH/240fsp)<br>8M(12CH/360fps)<br>5M(20CH/600fps)<br>1080P(50CH/1500fps)<br>720P(100CH/3000fps)</td>
-<td>12M(10CH/300fsp)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)<br>720P(128CH/3840fps)</td>
 </tr>
 <tr>
 <th>재생 제어</th>
@@ -252,7 +229,7 @@ image:
 </tr>
 <tr>
 <th>프로토콜</th>
-<td>IP 카메라 및 ONVIF / RTSP 지원 IP 카메라 UDP / Axis / Dynacolor / Sony / Panasonic / 한화테크윈 등 70개 이상 제조사 전용 프로토콜</td>
+<td>IP 카메라 및 ONVIF / RTSP 지원 IP 카메라 UDP / Axis / Dynacolor / Sony / Panasonic / 한화테크윈 등 100개 이상 제조사 전용 프로토콜</td>
 </tr>
 <tr>
 <th colspan="2">운영체제</th>
@@ -265,7 +242,7 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>3.5" HDD 최대 8개 장착가능 (16TB HDD 인식, 최대 용량 128TB)</td>
+<td>3.5" HDD 최대 8개 장착가능 (18TB HDD 인식, 최대 용량 144TB)</td>
 </tr>
 <tr>
 <th>RAID(옵션)</th>
@@ -337,7 +314,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">날짜 / 시간 동기화</th>
-<td>Windows / NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능, RFTC를 통한 자체 동기화</td>
+<td>Windows / NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능, RFTC를 통한 자체 동기화, GPS를 통한 자체 동기화(옵션)</td>
 </tr>
 <tr>
 <th rowspan="2">지능형<br>솔루션</th>
@@ -375,10 +352,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [4UB8_카탈로그_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB8_카탈로그_20201022.pdf)
+카탈로그 | [4UB8_카탈로그_20220617.pdf](https://www.emstone.com/data/sales/ko/4UB8_카탈로그_20220617.pdf)
 외관도 | [4UB8_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/4UB8_외관도_20201022.dwg)<br>[4UB8_외관도_20201022.png](https://www.emstone.com/data/sales/ko/4UB8_외관도_20201022.png)
-사양서 | [4UB8_사양서_20201022.xlsx](https://www.emstone.com/data/sales/ko/4UB8_사양서_20201022.xlsx)
-시방서 | [4UB8_EM-N16B8_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N16B8_시방서_20201022.hwp)<br>[4UB8_EM-N25B8_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N25B8_시방서_20201022.hwp)<br>[4UB8_EM-N36B8_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N36B8_시방서_20201022.hwp)<br>[4UB8_EM-N49B8F_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N49B8F_시방서_20201022.hwp)<br>[4UB8_EM-N49B8H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N49B8H_시방서_20201022.hwp)<br>[4UB8_EM-N64B8F_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N64B8F_시방서_20201022.hwp)<br>[4UB8_EM-N64B8H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N64B8H_시방서_20201022.hwp)<br>[4UB8_EM-N81B8H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N81B8H_시방서_20201022.hwp)<br>[4UB8_EM-N100B8H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N100B8H_시방서_20201022.hwp)<br>[4UB8_EM-N128B8H_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N128B8H_시방서_20201022.hwp)
+사양서 | [4UB8_사양서_20220617.xlsx](https://www.emstone.com/data/sales/ko/4UB8_사양서_20220617.xlsx)
+시방서 | [4UB8_EM-N16B8_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N16B8_시방서_20220617.hwp)<br>[4UB8_EM-N25B8_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N25B8_시방서_20220617.hwp)<br>[4UB8_EM-N36B8_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N36B8_시방서_20220617.hwp)<br>[4UB8_EM-N49B8F_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N49B8F_시방서_20220617.hwp)<br>[4UB8_EM-N49B8H_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N49B8H_시방서_20220617.hwp)<br>[4UB8_EM-N64B8F_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N64B8F_시방서_20220617.hwp)<br>[4UB8_EM-N64B8H_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N64B8H_시방서_20220617.hwp)<br>[4UB8_EM-N81B8H_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N81B8H_시방서_20220617.hwp)<br>[4UB8_EM-N100B8H_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N100B8H_시방서_20220617.hwp)<br>[4UB8_EM-N128B8H_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB8_EM-N128B8H_시방서_20220617.hwp)
 출하검사 결과 성적서 | [4UB8_EM-N16B8_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB8_EM-N16B8_출하검사결과성적서_20201022.xls)<br>[4UB8_EM-N25B8_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB8_EM-N25B8_출하검사결과성적서_20201022.xls)<br>[4UB8_EM-N36B8_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB8_EM-N36B8_출하검사결과성적서_20201022.xls)<br>[4UB8_EM-N49B8F_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB8_EM-N49B8F_출하검사결과성적서_20201022.xls)<br>[4UB8_EM-N49B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB8_EM-N49B8H_출하검사결과성적서_20201022.xls)<br>[4UB8_EM-N64B8F_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB8_EM-N64B8F_출하검사결과성적서_20201022.xls)<br>[4UB8_EM-N64B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB8_EM-N64B8H_출하검사결과성적서_20201022.xls)<br>[4UB8_EM-N81B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB8_EM-N81B8H_출하검사결과성적서_20201022.xls)<br>[4UB8_EM-N100B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB8_EM-N100B8H_출하검사결과성적서_20201022.xls)<br>[4UB8_EM-N128B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB8_EM-N128B8H_출하검사결과성적서_20201022.xls)
 인증서 | [4UB8_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB8_방송통신기자재등의적합등록필증_20201022.pdf)<br>[4UB8_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB8_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20210710.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20210710.pdf)<br>[NVR_사용자매뉴얼_20210215.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20210215.pdf)<br>[NVR_업그레이드매뉴얼_20210710.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20210710.pdf)
