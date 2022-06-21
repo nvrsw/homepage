@@ -37,8 +37,8 @@ image:
 - 순간 오류 회피를 위한 지연시간 설정(주기x횟수) 가능
 - D1(640x360)~12M(4000x3000@30fps) 최대 128채널 동시 녹화 가능
 - 긴급영상 확인을 위한 1채널 동시 라이브 / 검색 가능
-- H.265 / H.264 / MJPEG 압축 방식 지원
-- 최대 32TB 장착 지원
+- H.265 / H.264 / MPEG4 / MJPEG 압축 방식 지원
+- 최대 36TB 장착 지원
 - **Smart Failover** 지원
 - **생체 정보**를 이용한 사용자 인증 지원
 - 모델 라인업 : 64, 128 CH
@@ -79,8 +79,8 @@ image:
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>DDR3 8GB</td>
-<td>DDR3 16GB</td>
+<td>DDR3/4 8GB</td>
+<td>DDR3/4 16GB</td>
 </tr>
 <tr>
 <th rowspan="2">디스플레이</th>
@@ -92,10 +92,9 @@ image:
 <td colspan="2">1</td>
 </tr>
 <tr>
-<th>라이브</th>
 <th>성능</th>
-<td colspan="2">CIF~12MP 1CH 30FPS</td>
-</tr>
+<th>라이브/검색/재생</th>
+<td colspan=2>최대 12M 지원 (1CH)</td>
 <tr>
 <th rowspan="3">녹화</th>
 <th>녹화 모드</th>
@@ -111,13 +110,9 @@ image:
 <td colspan="2">H.265 / H.264 / MPEG4 / MJPEG</td>
 </tr>
 <tr>
-<th rowspan="3">검색 / 재생</th>
+<th rowspan="2">검색 / 재생</th>
 <th>검색 모드</th>
 <td colspan="2">날짜 / 시간 캘린더 검색, 개별 / 채널 묶음 검색, 이벤트 검색</td>
-</tr>
-<tr>
-<th>성능</th>
-<td colspan="2">CIF~12MP 1CH 30FPS</td>
 </tr>
 <tr>
 <th>재생 제어</th>
@@ -130,7 +125,7 @@ image:
 </tr>
 <tr>
 <th>프로토콜</th>
-<td colspan="2">IP 카메라 및 ONVIF / RTSP 지원 IP 카메라 UDP / Axis / Dynacolor / Sony / Panasonic / 한화테크윈 등 70개 이상 제조사 전용 프로토콜</td>
+<td colspan="2">IP 카메라 및 ONVIF / RTSP 지원 IP 카메라 UDP / Axis / Dynacolor / Sony / Panasonic / 한화테크윈 등 100개 이상 제조사 전용 프로토콜</td>
 </tr>
 <tr>
 <th colspan="2">운영체제</th>
@@ -143,7 +138,7 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td colspan="2">3.5" HDD 최대 2개 장착가능 (16TB HDD 인식, 최대 용량 32TB)</td>
+<td colspan="2">3.5" HDD 최대 2개 장착가능 (18TB HDD 인식, 최대 용량 36TB)</td>
 </tr>
 <tr>
 <th>RAID(옵션)</th>
@@ -229,7 +224,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">날짜 / 시간 동기화</th>
-<td colspan="2">Windows / NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능, RFTC를 통한 자체 동기화</td>
+<td colspan="2">Windows / NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능</td>
 </tr>
 <tr>
 <th rowspan="2">지능형<br>솔루션</th>
@@ -268,10 +263,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [T2_카탈로그_20201022.pdf](https://www.emstone.com/data/sales/ko/T2_카탈로그_20201022.pdf)
+카탈로그 | [T2_카탈로그_20220617.pdf](https://www.emstone.com/data/sales/ko/T2_카달로그_20220617.pdf)
 외관도 | [T2_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/T2_외관도_20201022.dwg)<br>[T2_외관도_20201022.png](https://www.emstone.com/data/sales/ko/T2_외관도_20201022.png)
-사양서 | [T2_사양서_20201022.xlsx](https://www.emstone.com/data/sales/ko/T2_사양서_20201022.xlsx)
-시방서 | [T2_F64_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/T2_F64_시방서_20201022.hwp)<br>[T2_F128_시방서_20201022.hwp](https://www.emstone.com/data/sales/ko/T2_F128_시방서_20201022.hwp)
+사양서 | [T2_사양서_20220617.xlsx](https://www.emstone.com/data/sales/ko/T2_사양서_20220617.xlsx)
+시방서 | [T2_F64_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/T2_F64_시방서_20220617.hwp)<br>[T2_F128_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/T2_F128_시방서_20220617.hwp)
 출하검사 결과 성적서 | [T2_F64_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/T2_F64_출하검사결과성적서_20201022.xls)<br>[T2_F128_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/T2_F128_출하검사결과성적서_20201022.xls)
 인증서 | [T2_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/T2_방송통신기자재등의적합등록필증_20201022.pdf)<br>[T2_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/T2_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20210710.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20210710.pdf)<br>[NVR_사용자매뉴얼_20210215.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20210215.pdf)<br>[NVR_업그레이드매뉴얼_20210710.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20210710.pdf)
