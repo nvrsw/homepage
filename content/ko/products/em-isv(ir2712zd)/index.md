@@ -95,7 +95,7 @@ image:
 </tr>
 <tr>
 <th>Focal Length</th>
-<td>2.7mm - 12m</td>
+<td>2.7mm - 12mm</td>
 </tr>
 <tr>
 <th>Field of View</th>
