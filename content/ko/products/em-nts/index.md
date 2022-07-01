@@ -146,4 +146,3 @@ image:
 시방서 | [NTS_시방서_20210224.hwp](https://www.emstone.com/data/sales/ko/NTS_시방서_20210224.hwp)
 출하검사 결과 성적서 | [NTS_출하검사결과성적서_20210224.xls](https://www.emstone.com/data/sales/ko/NTS_출하검사결과성적서_20210224.xls)
 인증서 | [NTS_방송통신기자재등의적합등록필증_20210224.pdf](https://www.emstone.com/data/sales/ko/NTS_방송통신기자재등의적합등록필증_20210224.pdf)<br>[NTS_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf](https://www.emstone.com/data/sales/ko/NTS_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf)
-매뉴얼 | [NTS_사용자매뉴얼_20210224.pdf](https://www.emstone.com/data/sales/ko/NTS_사용자매뉴얼_20210224.pdf)

@@ -91,7 +91,7 @@ image:
 </tr>
 <tr>
 <th>Focal Length</th>
-<td>1.85m</td>
+<td>1.85mm</td>
 </tr>
 <tr>
 <th>Max.Aperture</th>
