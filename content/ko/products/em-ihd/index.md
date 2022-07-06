@@ -248,7 +248,7 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [IHD_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/IHD_카탈로그_20200313.pdf)
-외관도 | [IHD_non_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHD_non_IR_외관도_20200313.png)<br>[IHD_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHD_IR_외관도_20200313.png)
+외관도 | [IHD_non_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHD_non_IR_외관도_20200313.png)<br>[IHD_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHD_IR_외관도_20200313.png)<br>[IHD_IR_외관도_20220701.dwg](https://www.emstone.com/data/sales/ko/IHD_IR_외관도_20220701.dwg)
 사양서 | [IHD_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IHD_사양서_20200313.xlsx)
 시방서 | [IHD(F21)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHD(F21)_시방서_20200313.hwp)<br>[IHD(F28)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHD(F28)_시방서_20200313.hwp)<br>[IHD(IRF36)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHD(IRF36)_시방서_20200313.hwp)<br>[IHD(IR2812Z)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHD(IR2812Z)_시방서_20200313.hwp)
 출하검사 결과 성적서 | [IHD(F21)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IHD(F21)_출하검사성적서_20200313.xls)<br>[IHD(F28)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IHD(F28)_출하검사성적서_20200313.xls)<br>[IHD(IRF36)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IHD(IRF36)_출하검사성적서_20200313.xls)<br>[IHD(IR2812Z)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IHD(IR2812Z)_출하검사성적서_20200313.xls)
