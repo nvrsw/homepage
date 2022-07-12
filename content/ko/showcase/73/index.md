@@ -1,5 +1,5 @@
 ---
-title: "EMSOTNE 8K 영상처리"
+title: "EMSTONE 8K 영상처리"
 subtitle: ""
 summary: ""
 authors: [ "emsr" ]
