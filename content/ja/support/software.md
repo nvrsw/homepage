@@ -40,8 +40,8 @@ image:
 
 *Network Hybrid Digital Video Recorder*
 
-- バージョン: **2.9.22.7.13** (2022-07-13)
-- [ISO インストールイメージ](https://www.emstone.com/data/dvr/nvr-2.9.22.7.13-emstone.iso) : *アップグレードのみ/ライセンスキーが必要*
+- バージョン: **2.9.22.7.26** (2022-07-26)
+- [ISO インストールイメージ](https://www.emstone.com/data/dvr/nvr-2.9.22.7.26-emstone.iso) : *アップグレードのみ/ライセンスキーが必要*
 - [変更](/docs/dvr/changelog/nvr29.html)
 - [HTTP API](/docs/dvr/http/)
 
