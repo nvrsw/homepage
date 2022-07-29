@@ -177,6 +177,7 @@ image:
 </tr>
 <tr>
 <th>Streaming</th>
+<td>N/A</td>
 <td colspan="2">Two way</td>
 </tr>
 <tr>
@@ -231,7 +232,7 @@ image:
 ---- | ----
 카탈로그 | [IQV_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/IQV_카탈로그_20200313.pdf)
 외관도 | [IQV_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IQV_외관도_20200313.png)<br>[IQV_외관도_20220701.dwg](https://www.emstone.com/data/sales/ko/IQV_외관도_20220701.dwg)
-사양서 | [IQV_사양서_20220728.xlsx](https://www.emstone.com/data/sales/ko/IQV_사양서_20220728.xlsx)
+사양서 | [IQV_사양서_20220729.xlsx](https://www.emstone.com/data/sales/ko/IQV_사양서_20220729.xlsx)
 시방서 | [IQV(IRF36)_시방서_20220728.hwp](https://www.emstone.com/data/sales/ko/IQV(IRF36)_시방서_20220728.hwp)<br>[IQV(IR2812Z)_시방서_20220728.hwp](https://www.emstone.com/data/sales/ko/IQV(IR2812Z)_시방서_20220728.hwp)
 출하검사 결과 성적서 | [IQV(IRF36)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQV(IRF36)_출하검사성적서_20200313.xls)<br>[IQV(IR2812Z)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQV(IR2812Z)_출하검사성적서_20200313.xls)
 인증서 | [IQV_방송통신기자재등의적합등록필증_20191030.pdf](https://www.emstone.com/data/sales/ko/IQV_방송통신기자재등의적합등록필증_20191030.pdf)<br>[IQV_방수방진(IP66)시험성적서_20211201.pdf](https://www.emstone.com/data/sales/ko/IQV_방수방진(IP66)시험성적서_20211201.pdf)
