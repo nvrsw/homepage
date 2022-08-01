@@ -207,7 +207,7 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [EM-IUV(IR2713ZD)_카탈로그_20220223.pdf](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_카탈로그_20220223.pdf)
-외관도 | [EM-IUV(IR2713ZD)_외관도_20220223.png](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_외관도_20220223.png)
+외관도 | [EM-IUV(IR2713ZD)_외관도_20220223.png](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_외관도_20220223.png)<br>[EM-IUV(IR2713ZD)_외관도_20220801.dwg](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_외관도_20220801.dwg)
 사양서 | [EM-IUV(IR2713ZD)_사양서_20220223.xlsx](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_사양서_20220223.xlsx)
 시방서 | [EM-IUV(IR2713ZD)_시방서_20220628.hwp](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_시방서_20220628.hwp)
 출하검사 결과 성적서 | [EM-IUV(IR2713ZD)_출하검사성적서_20220223.xlsx](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_출하검사성적서_20220223.xlsx)
