@@ -207,7 +207,7 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [EM-IQD(IR28D)_카탈로그_20220127.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_카탈로그_20220127.pdf)
-외관도 | [EM-IQD(IR28D)-외관도_20220127.png](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)-외관도_20220127.png)
+외관도 | [EM-IQD(IR28D)-외관도_20220127.png](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)-외관도_20220127.png)<br>[EM-IQD(IR28D)-외관도_20220801.dwg](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)-외관도_20220801.dwg)
 사양서 | [EM-IQD(IR28D)_사양서_20220628.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_사양서_20220628.xlsx)
 시방서 | [EM-IQD(IR28D)_시방서_20220628.hwp](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_시방서_20220628.hwp)
 출하검사 결과 성적서 | [EM-IQD(IR28D)_출하검사성적서_20220127.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_출하검사성적서_20220127.xlsx)
