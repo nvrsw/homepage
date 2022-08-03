@@ -104,7 +104,7 @@ image:
 <td>DDR3/4 32GB</td>
 </tr>
 <tr>
-<th rowspan="2">디스플레이</th>
+<th rowspan="4">디스플레이</th>
 <th>모니터 출력</th>
 <td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
@@ -117,9 +117,17 @@ image:
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64</td>
 </tr>
 <tr>
-<th>성능</th>
-<th>라이브/검색/재생</th>
+<th>라이브/검색<br>성능</th>
 <td colspan="5">최대 12M 지원</td>
+</tr>
+<tr>
+<th>지원 해상도<br>
+(채널/fps)</th>
+<td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
+<td>12M(4CH/120fps)<br>8M(6CH/180fps)<br>5M(10CH/300fps)<br>1080P(25CH/750fps)</td>
+<td>12M(6CH/180fps)<br>8M(9CH/270fps)<br>5M(14CH/420fps)<br>1080P(36CH/1080fps)</td>
+<td>12M(8CH/240fps)<br>8M(12CH/360fps)<br>5M(19CH/570fps)<br>1080P(49CH/1470fps)</td>
+<td>12M(10CH/300fps)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)</td>
 </tr>
 <tr>
 <th rowspan="3">녹화</th>
@@ -220,7 +228,7 @@ image:
 <tr>
 <th rowspan="4">네트워크</th>
 <th>인터페이스</th>
-<td>10/100/1000 Base-Tx Ethernet (RJ45) - 1ea for 16/25/36CH, 2ea for 49/64/81/100/128CH</td>
+<td>10/100/1000 Base-Tx Ethernet (RJ45) - 1ea for 16/25CH, 2ea for 36/49/64/81/100/128CH</td>
 </tr>
 <tr>
 <th>최대 사용자</th>
@@ -284,8 +292,8 @@ image:
 ---- | ----
 카탈로그 | [2UB4_카탈로그_20220616.pdf](https://www.emstone.com/data/sales/ko/2UB4_카탈로그_20220616.pdf)
 외관도 | [2UB4_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/2UB4_외관도_20201022.dwg)<br>[2UB4_외관도_20201022.png](https://www.emstone.com/data/sales/ko/2UB4_외관도_20201022.png)
-사양서 | [2UB4_사양서_20220616.xlsx](https://www.emstone.com/data/sales/ko/2UB4_사양서_20220616.xlsx)
-시방서 | [2UB4_EM-16B4_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_시방서_20220616.hwp)<br>[2UB4_EM-25B4_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_시방서_20220616.hwp)<br>[2UB4_EM-36B4_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_시방서_20220616.hwp)<br>[2UB4_EM-49B4F_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4F_시방서_20220616.hwp)<br>[2UB4_EM-64B4F_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4F_시방서_20220616.hwp)
+사양서 | [2UB4_사양서_20220803.xlsx](https://www.emstone.com/data/sales/ko/2UB4_사양서_20220803.xlsx)
+시방서 | [2UB4_EM-16B4_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_시방서_20220616.hwp)<br>[2UB4_EM-25B4_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_시방서_20220616.hwp)<br>[2UB4_EM-36B4_시방서_20220803.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_시방서_20220803.hwp)<br>[2UB4_EM-49B4F_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4F_시방서_20220616.hwp)<br>[2UB4_EM-64B4F_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4F_시방서_20220616.hwp)
 출하검사 결과 성적서 | [2UB4_EM-16B4_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_출하검사결과성적서_20220616.xls)<br>[2UB4_EM-25B4_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_출하검사결과성적서_20220616.xls)<br>[2UB4_EM-36B4_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_출하검사결과성적서_20220616.xls)<br>[2UB4_EM-49B4F_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4F_출하검사결과성적서_20220616.xls)<br>[2UB4_EM-64B4F_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4F_출하검사결과성적서_20220616.xls)
 인증서 | [2UB4_방송통신기자재등의적합등록필증_20220616.pdf](https://www.emstone.com/data/sales/ko/2UB4_방송통신기자재등의적합등록필증_20220616.pdf)<br>[2UB4_방송통신기자재등(전자파적합성)시험성적서_20220616.pdf](https://www.emstone.com/data/sales/ko/2UB4_방송통신기자재등(전자파적합성)시험성적서_20220616.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20210710.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20210710.pdf)<br>[NVR_사용자매뉴얼_20210215.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20210215.pdf)<br>[NVR_업그레이드매뉴얼_20210710.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20210710.pdf)

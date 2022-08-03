@@ -86,7 +86,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>DDR3/4 16G RAM(8G*2EA)</td>
+<td>DDR4 16G RAM(8G*2EA)</td>
 </tr>
 <tr>
 <th colspan="2">VGA</th>
@@ -94,12 +94,12 @@ image:
 </tr>
 <tr>
 <th colspan="2">Disk</th>
-<td>M.2 SSD 32G</td>
+<td>M.2 SSD 128G</td>
 </tr>
 <tr>
 <th rowspan="3">디스플레이</th>
 <th>모니터 출력</th>
-<td>1xHDMI / 1xVGA</td>
+<td>2xHDMI</td>
 </tr>
 <tr>
 <th>분할화면</th>
@@ -143,7 +143,7 @@ image:
 <tr>
 <th rowspan="2">네트워크</th>
 <th>인터페이스</th>
-<td>10/100/1000 Base-Tx Ethernet (RJ45) - 1ea</td>
+<td>10/100/1000 Base-Tx Ethernet (RJ45) - 2ea</td>
 </tr>
 <tr>
 <th>대역폭 제어</th>
@@ -155,7 +155,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">사용전원 / 소비전력</th>
-<td>DC19V 3.42A</td>
+<td>DC12V 5A</td>
 </tr>
 <tr>
 <th colspan="2">크기(W x H x D)</th>
@@ -178,8 +178,8 @@ image:
 ---- | ----
 카탈로그 | [CMSSTATIONH_카탈로그_20210803.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_카탈로그_20210803.pdf)
 외관도 | [CMSSTATIONH_외관도_20210803.dwg](https://www.emstone.com/data/sales/ko/CMSSTATIONH_외관도_20210803.dwg)<br>[CMSSTATIONH_외관도_20210803.png](https://www.emstone.com/data/sales/ko/CMSSTATIONH_외관도_20210803.png)
-사양서 | [CMSSTATIONH_사양서_20210803.xlsx](https://www.emstone.com/data/sales/ko/CMSSTATIONH_사양서_20210803.xlsx)
-시방서 | [CMSSTATIONH_시방서_20210803.hwp](https://www.emstone.com/data/sales/ko/CMSSTATIONH_시방서_20210803.hwp)
+사양서 | [CMSSTATIONH_사양서_20220803.xlsx](https://www.emstone.com/data/sales/ko/CMSSTATIONH_사양서_20220803.xlsx)
+시방서 | [CMSSTATIONH_시방서_20220803.hwp](https://www.emstone.com/data/sales/ko/CMSSTATIONH_시방서_20220803.hwp)
 출하검사 결과 성적서 | [CMSSTATIONH_출하검사결과성적서_20210803.xls](https://www.emstone.com/data/sales/ko/CMSSTATIONH_출하검사결과성적서_20210803.xls)
 인증서 | [CMSSTATIONH_방송통신기자재등의적합등록필증_20220620.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_방송통신기자재등의적합등록필증_20220620.pdf)<br>[CMSSTATIONH_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf)
 매뉴얼 | [CMS_매뉴얼_20210803.pdf](https://www.emstone.com/data/sales/ko/CMS_매뉴얼_20210803.pdf)<br>[CMS_작업매뉴얼_20220110.pdf](https://www.emstone.com/data/sales/ko/CMS_작업매뉴얼_20220110.pdf)<br>[CMS_단축키매뉴얼_20220110.pdf](https://www.emstone.com/data/sales/ko/CMS_단축키매뉴얼_20220110.pdf)
