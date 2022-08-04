@@ -114,7 +114,7 @@ image:
 <td>DDR3/4 16GB</td>
 </tr>
 <tr>
-<th rowspan="2">디스플레이</th>
+<th rowspan="4">디스플레이</th>
 <th>모니터 출력</th>
 <td colspan="4">1xHDMI / 1xVGA</td>
 </tr>
@@ -126,9 +126,15 @@ image:
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25</td>
 </tr>
 <tr>
-<th>성능</th>
-<th>라이브/검색/재생</th>
+<th>라이브/검색 성능</th>
 <td colspan=4>최대 12M 지원</td>
+</tr>
+<tr>
+<th>지원 해상도<br>(채널/fps)</th>
+<td>12M(1CH/15fps)<br>8M(1CH/30fps)<br>5M(2CH/60fps)<br>1080P(4CH/120fps)</td>
+<td>12M(1CH/30fps)<br>8M(2CH/60fps)<br>5M(4CH/120fps)<br>1080P(9CH/270fps)</td>
+<td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
+<td>12M(3CH/90fps)<br>8M(4CH/120fps)<br>5M(6CH/240fps)<br>1080P(25CH/750fps)</td>
 </tr>
 <tr>
 <th rowspan="3">녹화</th>
@@ -293,7 +299,7 @@ image:
 ---- | ----
 카탈로그 | [1UB2_카탈로그_20220613.pdf](https://www.emstone.com/data/sales/ko/1UB2_카탈로그_20220613.pdf)
 외관도 | [1UB2_외관도_20210106.dwg](https://www.emstone.com/data/sales/ko/1UB2_외관도_20210106.dwg)<br>[1UB2_외관도_20210106.png](https://www.emstone.com/data/sales/ko/1UB2_외관도_20210106.png)
-사양서 | [1UB2_사양서_20220613.xlsx](https://www.emstone.com/data/sales/ko/1UB2_사양서_20220613.xlsx)
+사양서 | [1UB2_사양서_20220802.xlsx](https://www.emstone.com/data/sales/ko/1UB2_사양서_20220802.xlsx)
 시방서 | [1UB2_EM-04B2_시방서_20220613.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2_시방서_20220613.hwp)<br>[1UB2_EM-09B2_시방서_20220613.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2_시방서_20220613.hwp)<br>[1UB2_EM-16B2_시방서_20220613.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2_시방서_20220613.hwp)<br>[1UB2_EM-25B2_시방서_20220613.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-25B2_시방서_20220613.hwp)
 출하검사 결과 성적서 | [1UB2_EM-04B2_출하검사결과성적서_20220613.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2_출하검사결과성적서_20220613.xls)<br>[1UB2_EM-09B2_출하검사결과성적서_20220613.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2_출하검사결과성적서_20220613.xls)<br>[1UB2_EM-16B2_출하검사결과성적서_20220613.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2_출하검사결과성적서_20220613.xls)<br>[1UB2_EM-25B2_출하검사결과성적서_20220613.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-25B2_출하검사결과성적서_20220613.xls)
 인증서 | [1UB2_방송통신기자재등의적합등록필증_20210106.pdf](https://www.emstone.com/data/sales/ko/1UB2_방송통신기자재등의적합등록필증_20210106.pdf)<br>[1UB2_방송통신기자재등(유선영상정보처리기기)시험성적서_20210106.pdf](https://www.emstone.com/data/sales/ko/1UB2_방송통신기자재등(유선영상정보처리기기)시험성적서_20210106.pdf)<br>[1UB2_방송통신기자재등(전자파적합성)시험성적서_20210106.pdf](https://www.emstone.com/data/sales/ko/1UB2_방송통신기자재등(전자파적합성)시험성적서_20210106.pdf)<br>[1UB2_TTA인증서_20210106.pdf](https://www.emstone.com/data/sales/ko/1UB2_TTA인증서_20210106.pdf)

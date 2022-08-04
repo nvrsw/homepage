@@ -96,7 +96,7 @@ image:
 <td colspan="4">DDR3/4 32GB</td>
 </tr>
 <tr>
-<th rowspan="2">디스플레이</th>
+<th rowspan="4">디스플레이</th>
 <th>모니터 출력</th>
 <td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
@@ -109,9 +109,17 @@ image:
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64 / 81 / 100 / 121 / 128</td>
 </tr>
 <tr>
-<th>성능</th>
-<th>라이브/검색/재생</th>
+<th>라이브/검색<br>성능</th>
 <td colspan="5">최대 12M 지원</td>
+</tr>
+<tr>
+<th>지원 해상도<br>
+(채널/fps)</th>
+<td>12M(6CH/180fps)<br>8M(9CH/270fps)<br>5M(14CH/420fps)<br>1080P(36CH/1080fps)</td>
+<td>12M(10CH/300fps)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)</td>
+<td>12M(6CH/180fps)<br>8M(10CH/300fps)<br>5M(16CH/480fps)<br>1080P(40CH/1200fps)<br>720P(81CH/2430fps)</td>
+<td>12M(8CH/240fps)<br>8M(12CH/360fps)<br>5M(20CH/600fps)<br>1080P(50CH/1500fps)<br>720P(100CH/3000fps)</td>
+<td>12M(10CH/300fps)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)<br>720P(128CH/3840fps)</td>
 </tr>
 <tr>
 <th rowspan="3">녹화</th>
@@ -212,7 +220,7 @@ image:
 <tr>
 <th rowspan="4">네트워크</th>
 <th>인터페이스</th>
-<td>10/100/1000 Base-Tx Ethernet (RJ45) - 1ea for 16/25/36CH, 2ea for 49/64/81/100/128CH</td>
+<td>10/100/1000 Base-Tx Ethernet (RJ45) - 2ea</td>
 </tr>
 <tr>
 <th>최대 사용자</th>
@@ -276,8 +284,8 @@ image:
 ---- | ----
 카탈로그 | [4UB24_카탈로그_20220617.pdf](https://www.emstone.com/data/sales/ko/4UB24_카탈로그_20220617.pdf)
 외관도 | [4UB24_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/4UB24_외관도_20201022.dwg)<br>[4UB24_외관도_20201022.png](https://www.emstone.com/data/sales/ko/4UB24_외관도_20201022.png)
-사양서 | [4UB24_사양서_20220617.xlsx](https://www.emstone.com/data/sales/ko/4UB24_사양서_20220617.xlsx)
-시방서 | [4UB24_EM-36B24_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-36B24_시방서_20220617.hwp)<br>[4UB24_EM-64B24F_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-64B24F_시방서_20220617.hwp)<br>[4UB24_EM-81B24H_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-81B24H_시방서_20220617.hwp)<br>[4UB24_EM-100B24H_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-100B24H_시방서_20220617.hwp)<br>[4UB24_EM-128B24H_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-128B24H_시방서_20220617.hwp)
+사양서 | [4UB24_사양서_20220803.xlsx](https://www.emstone.com/data/sales/ko/4UB24_사양서_20220803.xlsx)
+시방서 | [4UB24_EM-36B24_시방서_20220803.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-36B24_시방서_20220803.hwp)<br>[4UB24_EM-64B24F_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-64B24F_시방서_20220617.hwp)<br>[4UB24_EM-81B24H_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-81B24H_시방서_20220617.hwp)<br>[4UB24_EM-100B24H_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-100B24H_시방서_20220617.hwp)<br>[4UB24_EM-128B24H_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/4UB24_EM-128B24H_시방서_20220617.hwp)
 출하검사 결과 성적서 | [4UB24_EM-36B24_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-36B24_출하검사결과성적서_20201022.xls)<br>[4UB24_EM-64B24F_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-64B24F_출하검사결과성적서_20201022.xls)<br>[4UB24_EM-81B24H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-81B24H_출하검사결과성적서_20201022.xls)<br>[4UB24_EM-100B24H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-100B24H_출하검사결과성적서_20201022.xls)<br>[4UB24_EM-128B24H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/4UB24_EM-128B24H_출하검사결과성적서_20201022.xls)
 인증서 | [4UB24_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB24_방송통신기자재등의적합등록필증_20201022.pdf)<br>[4UB24_방송통신기자재등(유선영상정보처리기기)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB24_방송통신기자재등(유선영상정보처리기기)시험성적서_20201022.pdf)<br>[4UB24_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/4UB24_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20210710.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20210710.pdf)<br>[NVR_사용자매뉴얼_20210215.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20210215.pdf)<br>[NVR_업그레이드매뉴얼_20210710.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20210710.pdf)
