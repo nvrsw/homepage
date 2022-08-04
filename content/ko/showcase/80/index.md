@@ -26,17 +26,19 @@ image:
 &nbsp;
 
 <div class="container"><div class="row no-gutters">
-<div class="col-sm-6">{{< figure src="youtube_10za1SS6ksw_01.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube_10za1SS6ksw_02.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube_10za1SS6ksw_03.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube_10za1SS6ksw_04.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube_10za1SS6ksw_05.png" >}}</div>
-<div class="col-sm-6">{{< figure src="youtube_10za1SS6ksw_06.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_QgucLrd-jNI_01.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_QgucLrd-jNI_02.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_QgucLrd-jNI_03.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_QgucLrd-jNI_04.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_QgucLrd-jNI_05.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_QgucLrd-jNI_06.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_QgucLrd-jNI_07.png" >}}</div>
+<div class="col-sm-6">{{< figure src="youtube_QgucLrd-jNI_08.png" >}}</div>
 </div></div>
 
 &nbsp;
 
 **YouTube 동영상**
-{{< youtube 10za1SS6ksw >}}
+{{< youtube QgucLrd-jNI >}}
 
 
