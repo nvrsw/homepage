@@ -263,7 +263,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [T2_카탈로그_20220617.pdf](https://www.emstone.com/data/sales/ko/T2_카달로그_20220617.pdf)
+카탈로그 | [T2_카탈로그_20220617.pdf](https://www.emstone.com/data/sales/ko/T2_카탈로그_20220617.pdf)
 외관도 | [T2_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/T2_외관도_20201022.dwg)<br>[T2_외관도_20201022.png](https://www.emstone.com/data/sales/ko/T2_외관도_20201022.png)
 사양서 | [T2_사양서_20220617.xlsx](https://www.emstone.com/data/sales/ko/T2_사양서_20220617.xlsx)
 시방서 | [T2_F64_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/T2_F64_시방서_20220617.hwp)<br>[T2_F128_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/T2_F128_시방서_20220617.hwp)
