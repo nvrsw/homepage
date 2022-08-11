@@ -381,7 +381,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB8_카탈로그_20220616.pdf](https://www.emstone.com/data/sales/ko/2UB8_카탈로그_20220616.pdf)
+카탈로그 | [2UB8_카탈로그_20220803.pdf](https://www.emstone.com/data/sales/ko/2UB8_카탈로그_20220803.pdf)
 외관도 | [2UB8_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/2UB8_외관도_20201022.dwg)<br>[2UB8_외관도_20201022.png](https://www.emstone.com/data/sales/ko/2UB8_외관도_20201022.png)
 사양서 | [2UB8_사양서_20220803.xlsx](https://www.emstone.com/data/sales/ko/2UB8_사양서_20220803.xlsx)
 시방서 | [2UB8_EM-16B8_시방서_20220803.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-16B8_시방서_20220803.hwp)<br>[2UB8_EM-25B8_시방서_20220803.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-25B8_시방서_20220803.hwp)<br>[2UB8_EM-36B8_시방서_20220803.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8_시방서_20220803.hwp)<br>[2UB8_EM-49B8F_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F_시방서_20220616.hwp)<br>[2UB8_EM-49B8H_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8H_시방서_20220616.hwp)<br>[2UB8_EM-64B8F_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F_시방서_20220616.hwp)<br>[2UB8_EM-64B8H_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8H_시방서_20220616.hwp)<br>[2UB8_EM-81B8H_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H_시방서_20220616.hwp)<br>[2UB8_EM-100B8H_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H_시방서_20220616.hwp)<br>[2UB8_EM-128B8H_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H_시방서_20220616.hwp)
