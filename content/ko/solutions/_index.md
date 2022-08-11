@@ -12,4 +12,4 @@ cascade:
     image: "solution-header.jpg"
 ---
 
-[VSLS 솔루션 가이드(PDF) 다운로드](https://www.emstone.com/data/sales/ko/EMSTONE_VSLS_카탈로그_20220725.pdf)
+[VSLS 솔루션 가이드(PDF) 다운로드](https://www.emstone.com/data/sales/ko/EMSTONE_VSLS_카탈로그_20220811.pdf)
