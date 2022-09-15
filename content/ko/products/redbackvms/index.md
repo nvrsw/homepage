@@ -50,7 +50,7 @@ image:
 - 생체정보를 이용한 사용자인증 지원
 - Failover 지원. 시스템이 정지되면 예비 장치가 자동 대체 작동
 - 각 종 3rd party 장비에 연동을 위한 API안정적인 제공 가능
-- 모델 라인업 : 256+, 512+ 1024 ch
+- 모델 라인업 : 128+, 256+, 512+ 1024 ch
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
@@ -87,6 +87,7 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
+<th>EM-VMS128+</th>
 <th>EM-VMS256+</th>
 <th>EM-VMS512+</th>
 <th>EM-VMS1024</th>
@@ -96,11 +97,13 @@ image:
 <tr>
 <th rowspan="2">영상입력</th>
 <th>Default</th>
+<td>128CH</td>
 <td>256CH</td>
 <td>512CH</td>
 <td>1024CH</td>
 </tr>
 <th>최대라이선스</th>
+<td>up to 256CH</td>
 <td>up to 512CH</td>
 <td>up to 1024CH</td>
 <td>up to 1024CH</td>
@@ -108,54 +111,54 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td>Xeon 4Core(4T) 3.4GHz or Higher</td>
+<td colspan="2">Xeon 4Core(4T) 3.4GHz or Higher</td>
 <td>Xeon 6Core(12T) 3.4GHz or Higher</td>
 <td>Xeon 6Core(12T) 3.4GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>ECC DDR4 16GB</td>
+<td colspan="2">ECC DDR4 16GB</td>
 <td>ECC DDR4 32GB</td>
 <td>ECC DDR4 32GB</td>
 </tr>
 <tr>
 <th rowspan="2">디스플레이</th>
 <th>모니터 출력</th>
-<td colspan="3">1xHDMI / 1xDP(orVGA)</td>
+<td colspan="4">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>분할화면</th>
-<td colspan="3">1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64 / 81 / 100 / 128</td>
+<td colspan="4">1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64 / 81 / 100 / 128</td>
 </tr>
 <tr>
 <th>성능</th>
 <th>라이브/검색/재생</th>
-<td colspan="3">최대 12M 지원</td>
+<td colspan="4">최대 12M 지원</td>
 </tr>
 <tr>
 <th rowspan="5">네트워크</th>
 <th>인터페이스</th>
-<td>1GbE - 2ea<br>10GbE - 1ea(or 1GbE 4EA)</td>
+<td colspan="2">1GbE - 2ea<br>10GbE - 1ea(or 1GbE 4EA)</td>
 <td>1GbE - 2ea, 10GbE - 2ea</td>
 <td>1GbE - 2ea, 10GbE - 2ea</td>
 </tr>
 <tr>
 <th>물리적대역폭</th>
-<td>12Gbps or 6Gbps</td>
+<td colspan="2">12Gbps or 6Gbps</td>
 <td>22Gbps</td>
 <td>22Gbps</td>
 </tr>
 <tr>
 <th>최대사용자</th>
-<td colspan="3">1024(네트워크 대역폭 내에서)</td>
+<td colspan="4">1024(네트워크 대역폭 내에서)</td>
 </tr>
 <tr>
 <th>프로토콜</th>
-<td colspan="3">TCP/IP, UDP, DNS, DDNS, HTTP, NTP, RTP/RTCP, RTSP</td>
+<td colspan="4">TCP/IP, UDP, DNS, DDNS, HTTP, NTP, RTP/RTCP, RTSP</td>
 </tr>
 <tr>
 <th>대역폭제어</th>
-<td colspan="3">자동/수동</td>
+<td colspan="4">자동/수동</td>
 </tr>
 
 <tr>
@@ -305,9 +308,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [REDBACKVMS_카탈로그_20220622.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_카탈로그_20220622.pdf)
+카탈로그 | [REDBACKVMS_카탈로그_20220915.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_카탈로그_20220915.pdf)
 외관도 | [REDBACKVMS_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/REDBACKVMS_외관도_20201022.dwg)<br>[REDBACKVMS_외관도_20201022.png](https://www.emstone.com/data/sales/ko/REDBACKVMS_외관도_20201022.png)
-사양서 | [REDBACKVMS_사양서_20220622.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS_사양서_20220622.xlsx)
-시방서 | [REDBACKVMS_EM-VMS256+_시방서_20220622.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS256%2B_시방서_20220622.hwp)<br>[REDBACKVMS_EM-VMS512+_시방서_20220622.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B_시방서_20220622.hwp)<br>[REDBACKVMS_EM-VMS1024_시방서_20220622.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024_시방서_20220622.hwp)<br>
-출하검사 결과 성적서 | [REDBACKVMS_EM-VMS256+_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS256%2B_출하검사결과성적서_20201025.xls)<br>[REDBACKVMS_EM-VMS512+_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B_출하검사결과성적서_20201025.xls)<br>[REDBACKVMS_EM-VMS1024_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024_출하검사결과성적서_20201025.xls)<br>
+사양서 | [REDBACKVMS_사양서_20220915.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS_사양서_20220915.xlsx)
+시방서 | [REDBACKVMS_EM-VMS128+_시방서_20220915.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS128%2B_시방서_20220915.hwp)<br>[REDBACKVMS_EM-VMS256+_시방서_20220622.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS256%2B_시방서_20220622.hwp)<br>[REDBACKVMS_EM-VMS512+_시방서_20220622.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B_시방서_20220622.hwp)<br>[REDBACKVMS_EM-VMS1024_시방서_20220622.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024_시방서_20220622.hwp)<br>
+출하검사 결과 성적서 | [REDBACKVMS_EM-VMS128+_출하검사결과성적서_20220915.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS128%2B_출하검사결과성적서_20220915.xls)<br>[REDBACKVMS_EM-VMS256+_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS256%2B_출하검사결과성적서_20201025.xls)<br>[REDBACKVMS_EM-VMS512+_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B_출하검사결과성적서_20201025.xls)<br>[REDBACKVMS_EM-VMS1024_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024_출하검사결과성적서_20201025.xls)<br>
 인증서 | [REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf)<br>[REDBACKVMS_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신기자재등의적합등록필증_20201022.pdf)<br>[REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
