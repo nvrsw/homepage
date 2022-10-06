@@ -219,4 +219,4 @@ Fifth stream: 704 × 576 @1-25 fps; 704 × 480 @1-30 fps</td>
 사양서 | [EM-ISV(IR2712ZD)_사양서_20220502.xlsx](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_사양서_20220502.xlsx)
 시방서 | [EM-ISV(IR2712ZD)_시방서_20220502.hwp](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_시방서_20220502.hwp)
 출하검사 결과 성적서 | [EM-ISV(IR2712ZD)_출하검사성적서_20220502.xlsx](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_출하검사성적서_20220502.xlsx)
-소프트웨어 | [ConfigTool.zip](https://www.emstone.com/data/sales/ko/ConfigTool.zip)
+소프트웨어 | [EMSTONE_D_Config_tool.exe](https://www.emstone.com/data/sales/ko/EMSTONE_D_Config_tool.exe)
