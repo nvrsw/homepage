@@ -252,7 +252,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IHP_카탈로그_20220615.pdf](https://www.emstone.com/data/sales/ko/IHP_카탈로그_20220615.pdf)
+카탈로그 | [IHP_카탈로그_20221007.pdf](https://www.emstone.com/data/sales/ko/IHP_카탈로그_20221007.pdf)
 외관도 | [IHP_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHP_외관도_20200313.png)
 사양서 | [IHP_사양서_20220615.xlsx](https://www.emstone.com/data/sales/ko/IHP_사양서_20220615.xlsx)
 시방서 | [IHP(IR12x)_시방서_20220729.hwp](https://www.emstone.com/data/sales/ko/IHP(IR12x)_시방서_20220729.hwp)<br>[IHP(IR12xP)_시방서_20220729.hwp](https://www.emstone.com/data/sales/ko/IHP(IR12xP)_시방서_20220729.hwp)
