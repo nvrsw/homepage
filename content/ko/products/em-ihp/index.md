@@ -233,6 +233,10 @@ image:
 <td colspan="2">-30℃ ~ +60℃ / 0% ~ 90%</td>
 </tr>
 <tr>
+<th colspan="2">Protection</th>
+<td colspan="2">IP66</td>
+</tr>
+<tr>
 <th colspan="2">Dimension</th>
 <td colspan="2">291mm X 207mm X 95mm</td>
 </tr>
