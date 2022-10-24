@@ -80,4 +80,4 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [CMSSW_카탈로그_20210803.pdf](https://www.emstone.com/data/sales/ko/CMSSW_카탈로그_20210803.pdf)
-매뉴얼 | [CMS_매뉴얼_20210803.pdf](https://www.emstone.com/data/sales/ko/CMS_매뉴얼_20210803.pdf)<br>[CMS_작업매뉴얼_20220110.pdf](https://www.emstone.com/data/sales/ko/CMS_작업매뉴얼_20220110.pdf)<br>[CMS_단축키매뉴얼_20220110.pdf](https://www.emstone.com/data/sales/ko/CMS_단축키매뉴얼_20220110.pdf)
+매뉴얼 | [CMS_사용자매뉴얼_20221020.pdf](https://www.emstone.com/data/sales/ko/CMS_사용자매뉴얼_20221020.pdf)<br>[CMS_작업매뉴얼_20220110.pdf](https://www.emstone.com/data/sales/ko/CMS_작업매뉴얼_20220110.pdf)<br>[CMS_단축키매뉴얼_20220110.pdf](https://www.emstone.com/data/sales/ko/CMS_단축키매뉴얼_20220110.pdf)
