@@ -147,4 +147,4 @@ image:
 시방서 | [NDS-Solo_시방서_20210224.hwp](https://www.emstone.com/data/sales/ko/NDS-Solo_시방서_20210224.hwp)
 출하검사 결과 성적서 | [NDS-Solo_출하검사결과성적서_20210224.xls](https://www.emstone.com/data/sales/ko/NDS-Solo_출하검사결과성적서_20210224.xls)
 인증서 | [NDS-Solo_방송통신기자재등의적합등록필증_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_방송통신기자재등의적합등록필증_20210224.pdf)<br>[NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf)
-매뉴얼 | [NDS_사용자매뉴얼_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS_사용자매뉴얼_20210224.pdf)<br>[NDS_설치자매뉴얼_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS_설치자매뉴얼_20200313.pdf)
+매뉴얼 | [NDS_사용_매뉴얼_20220511.pdf](https://www.emstone.com/data/sales/ko/NDS_사용_매뉴얼_20220511.pdf)
