@@ -20,7 +20,7 @@ image:
 
 *Central Monitoring System for NVR / IP Video Wall*
 
-- バージョン: **2.1.22.11.11** (2022-11-11)
+- バージョン: **2.1.22.11.11** (2022-11-25)
 - Windows インストールプログラム (Windows 7 / Windows 8 / Windows 10)
   - [32ビット](https://www.emstone.com/data/cms/cms-2.1.22.11.11-win32-emstone.exe) / [64ビット](https://www.emstone.com/data/cms/cms-2.1.22.11.11-win64-emstone.exe)
 - Linux インストールプログラム (Ubuntu 19.04 / Arch Linux)
