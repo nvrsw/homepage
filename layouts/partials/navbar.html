@@ -51,14 +51,19 @@
         {{ range site.Menus.main }}
 
         {{ if .HasChildren }}
+        {{ $menu_item_url := .URL | relLangURL }}
+        {{ $menu_item_url := substr $menu_item_url 0 -1 }}
+        {{ $page_url := $current_page.Section | relLangURL }}
         <li class="nav-item dropdown">
-          <a href="{{ .URL | relLangURL }}" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <a href="{{ .URL | relLangURL }}" class="nav-link dropdown-toggle{{ if eq $menu_item_url $page_url }} active{{ end }}" data-toggle="dropdown" aria-haspopup="true">
             {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
             <span class="caret"></span>
           </a>
           <div class="dropdown-menu">
             {{ range .Children }}
-              <a class="dropdown-item" {{ if eq "http" (slicestr .URL 0 4) }}href="{{ .URL }}"{{ else }}href="{{ .URL | relLangURL }}"{{ end }}{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}{{ if eq "http" (slicestr .URL 0 4) }}target="_blank" rel="noopener"{{ end }}>
+            {{ $menu_item_url2 := .URL | relLangURL }}
+            {{ $page_url2 := $current_page.RelPermalink | relLangURL }}
+              <a class="dropdown-item{{ if eq $menu_item_url2 $page_url2 }} active{{ end }}" {{ if eq "http" (slicestr .URL 0 4) }}href="{{ .URL }}"{{ else }}href="{{ .URL | relLangURL }}"{{ end }}{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}{{ if eq "http" (slicestr .URL 0 4) }}target="_blank" rel="noopener"{{ end }}>
                 {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
               </a>
             {{ end }}
