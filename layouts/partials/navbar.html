@@ -55,6 +55,7 @@
         {{ $menu_item_url := substr $menu_item_url 0 -1 }}
         {{ $page_url := $current_page.Section | relLangURL }}
         <li class="nav-item dropdown">
+          <div class="morebtn" data-toggle="dropdown" aria-haspopup="true"><a href="javascript:;"><i class="fas fa-caret-square-down"></i></a></div>
           <a href="{{ .URL | relLangURL }}" class="nav-link dropdown-toggle{{ if eq $menu_item_url $page_url }} active{{ end }}" data-toggle="dropdown" aria-haspopup="true">
             {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
             <span class="caret"></span>
