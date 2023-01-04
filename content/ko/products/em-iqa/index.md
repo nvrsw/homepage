@@ -85,6 +85,10 @@ IP67 등급의 방수 / 방진, IK10 등급의 파손 방지를 지원하며 카
 </div>
 </div>
 
+## 외관도
+
+{{< figure src="em-iqa-drawing.png" caption="EM-IQA(IRF16)" >}}
+
 ## 사양
 
 <div style="overflow-x: auto">
@@ -228,6 +232,7 @@ IP67 등급의 방수 / 방진, IK10 등급의 파손 방지를 지원하며 카
 종류 | 파일
 ---- | ----
 카탈로그 | [IQA_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/IQA_카탈로그_20200313.pdf)
+외관도 | [IQA_외관도_20230104.png](https://www.emstone.com/data/sales/ko/IQA_외관도_20230104.png)<br>[IQA_외관도_20230104.dwg](https://www.emstone.com/data/sales/ko/IQA_외관도_20230104.dwg)
 사양서 | [IQA_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IQA_사양서_20200313.xlsx)
 시방서 | [IQA(IRF16)_시방서_20220728.hwp](https://www.emstone.com/data/sales/ko/IQA(IRF16)_시방서_20220728.hwp)
 출하검사 결과 성적서 | [IQA(IRF16)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQA(IRF16)_출하검사성적서_20200313.xls)
