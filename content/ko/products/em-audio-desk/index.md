@@ -6,7 +6,7 @@ authors: []
 tags: [ "broadcast" ]
 categories: [ "etc" ]
 draft: false
-weight: 5020
+weight: 5040
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
@@ -106,6 +106,6 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-Audio-Desk_카탈로그_20210803.pdf](https://www.emstone.com/data/sales/ko/EM-Audio-Desk_카탈로그_20210803.pdf)
+카탈로그 | [EM-Audio-Desk_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/EM-Audio-Desk_CATALOG_KO_20230110.pdf)
 외관도 | [EM-Audio-Desk_외관도_20210803.dwg](https://www.emstone.com/data/sales/ko/EM-Audio-Desk_외관도_20210803.dwg)<br>[EM-Audio-Desk_외관도_20210803.png](https://www.emstone.com/data/sales/ko/EM-Audio-Desk_외관도_20210803.png)
 사양서 | [EM-Audio-Desk_사양서_20210803.xlsx](https://www.emstone.com/data/sales/ko/EM-Audio-Desk_사양서_20210803.xlsx)

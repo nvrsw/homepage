@@ -6,7 +6,7 @@ authors: []
 tags: ["AI"]
 categories: [ "etc" ]
 draft: false
-weight: 5040
+weight: 5020
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:

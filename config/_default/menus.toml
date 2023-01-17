@@ -71,7 +71,7 @@
 
 [[main]]
   parent = "products"
-  name = "PoE 앰프 / 비상벨"
+  name = "ETC"
   url = "categories/etc/"
   weight = 70
 
