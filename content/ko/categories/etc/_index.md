@@ -1,6 +1,6 @@
 ---
-title: "PoE 앰프 / 비상벨 / 기타"
-subtitle: "PoE Amp / Emergency Bell / Etc"
+title: "ETC"
+subtitle: "AI BOX / PoE Amp / Etc"
 
 # View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 3
