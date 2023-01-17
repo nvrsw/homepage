@@ -123,7 +123,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-E-Bell_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/EM-E-Bell_CATALOG_KO_20230110.pdf)
+카탈로그 | [EM-E-BELL_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/EM-E-BELL_CATALOG_KO_20230110.pdf)
 외관도 | [EM-E-BELL_외관도_20210806.dwg](https://www.emstone.com/data/sales/ko/EM-E-BELL_외관도_20210806.dwg)<br>[EM-E-BELL_외관도_20210806.png](https://www.emstone.com/data/sales/ko/EM-E-BELL_외관도_20210806.png)
 사양서 | [EM-E-BELL_사양서_20210806.xlsx](https://www.emstone.com/data/sales/ko/EM-E-BELL_사양서_20210806.xlsx)
 시방서 | [EM-E-BELL_시방서_20210806.hwp](https://www.emstone.com/data/sales/ko/EM-E-BELL_시방서_20210806.hwp)<br>[EM-E-BELL-VOICE_시방서_20210806.hwp](https://www.emstone.com/data/sales/ko/EM-E-BELL-VOICE_시방서_20210806.hwp)
