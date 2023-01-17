@@ -1,12 +1,12 @@
 ---
-title: "EM-NDS-04"
+title: "EM-NDS-04-4K"
 subtitle: "네트워크 디스플레이 서버 / IP 비디오 월"
 summary: "네트워크 디스플레이 서버 / IP 비디오 월"
 authors: []
 tags: [ "ipwall" ]
 categories: [ "nds" ]
 draft: false
-weight: 4040
+weight: 4010
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
@@ -19,7 +19,7 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-6">
 
-{{< figure src="em-nds-04-case.png" >}}
+{{< figure src="em-nds-04-4k-case.png" >}}
 
 </div>
 </div>
@@ -27,7 +27,7 @@ image:
 
 ## 특징
 
-- 4개의 FullHD 모니터 또는 2개의 UHD 모니터 지원 
+- 4개의 FullHD 모니터 또는 UHD 모니터 지원 
 - 모니터별 최대 64CH 디스플레이 지원
 - 모니터 화면 피벗기능 지원 (90°/180°/270°)
 - NVR 실시간 스트리밍 프로토콜을 이용한 지연 없는 디스플레이 
@@ -39,7 +39,7 @@ image:
 
 ## 외관도
 
-{{< figure src="em-nds-04-drawing.png" >}}
+{{< figure src="em-nds-04-4k-drawing.png" >}}
 
 ## 사양
 
@@ -48,18 +48,18 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-NDS-04</th>
+<th>EM-NDS-04-4K</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th rowspan="2">모니터</th>
 <th>출력단자</th>
-<td>2 of HDMI, 2 of Display Port</td>
+<td>4 of HDMI</td>
 </tr>
 <tr>
 <th>출력성능</th>
-<td>Full-HD Moniter Display - Up to 4 EA<br>Ultra HD Moniter Display - Up to 2 EA</td>
+<td>Full-HD Moniter Display - Up to 4 EA<br>Ultra HD Moniter Display - Up to 4 EA</td>
 </tr>
 <tr>
 <th rowspan="2">영상출력<br>성능</th>
@@ -82,7 +82,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td>2ea of Dual Core 2.0GHz or Higher</td>
+<td>2ea of Quad Core 2.4GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -90,16 +90,16 @@ image:
 </tr>
 <tr>
 <th colspan="2">VGA</th>
-<td>Integrated Graphic</td>
+<td>Integrated Graphic (인텔® Iris® Xᵉ 그래픽)</td>
 </tr>
 <tr>
 <th colspan="2">Disk</th>
-<td>M.2 SSD 32G</td>
+<td>M.2 SSD 32GB</td>
 </tr>
 <tr>
 <th rowspan="2">네트워크</th>
 <th>인터페이스</th>
-<td>4ea of 10/100/1000 Base-Tx Ethernet (RJ45)</td>
+<td>4ea of 1/2.5Gbps Ethernet (RJ45)</td>
 </tr>
 <tr>
 <th>대역폭 제어</th>
@@ -111,7 +111,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">사용전원 / 소비전력</th>
-<td>2ea of DC19V 6.32A</td>
+<td>2ea of DC 12V 5A</td>
 </tr>
 <tr>
 <th colspan="2">크기(W x H x D)</th>
@@ -131,10 +131,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [NDS-04_카탈로그_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS-04_카탈로그_20210224.pdf)
-외관도 | [NDS-04_외관도_20210224.dwg](https://www.emstone.com/data/sales/ko/NDS-04_외관도_20210224.dwg)<br>[NDS-04_외관도_20210224.png](https://www.emstone.com/data/sales/ko/NDS-04_외관도_20210224.png)
-사양서 | [NDS-04_사양서_20210224.xlsx](https://www.emstone.com/data/sales/ko/NDS-04_사양서_20210224.xlsx)
-시방서 | [NDS-04_시방서_20210224.hwp](https://www.emstone.com/data/sales/ko/NDS-04_시방서_20210224.hwp)
-출하검사 결과 성적서 | [NDS-04_출하검사결과성적서_20210224.xls](https://www.emstone.com/data/sales/ko/NDS-04_출하검사결과성적서_20210224.xls)
-인증서 | [NDS-04_방송통신기자재등의적합등록필증_20180824.pdf](https://www.emstone.com/data/sales/ko/NDS-04_방송통신기자재등의적합등록필증_20180824.pdf)<br>[NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf](https://www.emstone.com/data/sales/ko/NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf)
+카탈로그 | [NDS-04-4K_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/NDS-04-4K_CATALOG_KO_20230110.pdf)
+외관도 | [NDS-04-4K_외관도_20230110.dwg](https://www.emstone.com/data/sales/ko/NDS-04-4K_외관도_20230110.dwg)<br>[NDS-04-4K_외관도_20230110.png](https://www.emstone.com/data/sales/ko/NDS-04-4K_외관도_20230110.png)
+사양서 | [NDS-04-4K_사양서_20230110.xlsx](https://www.emstone.com/data/sales/ko/NDS-04-4K_사양서_20230110.xlsx)
+시방서 | [NDS-04-4K_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/NDS-04-4K_시방서_20230110.hwp)
+출하검사 결과 성적서 | [NDS-04-4K_출하검사결과성적서_20230110.xls](https://www.emstone.com/data/sales/ko/NDS-04-4K_출하검사결과성적서_20230110.xls)
 매뉴얼 | [NDS_사용_매뉴얼_20220511.pdf](https://www.emstone.com/data/sales/ko/NDS_사용_매뉴얼_20220511.pdf)
+<!--인증서 | [NDS-04_방송통신기자재등의적합등록필증_20180824.pdf](https://www.emstone.com/data/sales/ko/NDS-04_방송통신기자재등의적합등록필증_20180824.pdf)<br>[NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf](https://www.emstone.com/data/sales/ko/NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf)-->
