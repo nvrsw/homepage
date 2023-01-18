@@ -109,30 +109,21 @@ image:
 <th rowspan="2">영상입력</th>
 <th>Default</th>
 <td>64CH</td>
-<td>128CH</td>
-<td>128CH</td>
-<td>128CH</td>
+<td colspan="3">128CH</td>
 </tr>
 <tr>
 <th>최대라이선스</th>
 <td>up to 128CH</td>
-<td>up to 256CH</td>
-<td>up to 256CH</td>
-<td>up to 256CH</td>
+<td colspan="3">up to 256CH</td>
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td>i5 3.0GHz or Higher</td>
-<td>i5 3.0GHz or Higher</td>
-<td>Xeon 4Core(4T) <br> 2.5GHz or Higher</td>
-<td>Xeon 4Core(4T) <br> 2.5GHz or Higher</td>
+<td colspan="2">i5 3.0GHz or Higher</td>
+<td colspan="2">Xeon 4Core(4T) 2.5GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>DDR4 32GB</td>
-<td>DDR4 32GB</td>
-<td>DDR4 32GB</td>
-<td>DDR4 32GB</td>
+<td colspan="4">DDR4 32GB</td>
 </tr>
 <tr>
 <th rowspan="2">디스플레이</th>
@@ -153,15 +144,13 @@ image:
 <th>인터페이스</th>
 <td>1GbE-2ea</td>
 <td>1GbE-4ea</td>
-<td>1GbE-6ea</td>
-<td>1GbE-6ea</td>
+<td colspan="2">1GbE-6ea</td>
 </tr>
 <tr>
 <th>물리적대역폭</th>
 <td>2Gbps</td>
 <td>4Gbps</td>
-<td>6Gbps</td>
-<td>6Gbps</td>
+<td colspan="2">6Gbps</td>
 </tr>
 <tr>
 <th>최대사용자</th>
@@ -182,13 +171,13 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td colspan="2">3.5" HDD 최대 8개 장착가능(18TB HDD 인식, 최대 용량 144TB)</td>
-<td>3.5" HDD 최대 16개 <br> (최대 용량 288TB)</td>
-<td>3.5" HDD 최대 24개 <br> (최대 용량 432TB)</td>
+<td colspan="2">3.5" HDD 최대 8개 장착가능(20TB HDD 인식, 최대 용량 160TB)</td>
+<td>3.5" HDD 최대 16개 <br> (최대 용량 320TB)</td>
+<td>3.5" HDD 최대 24개 <br> (최대 용량 480TB)</td>
 </tr>
 <tr>
 <th>외부장착용</th>
-<td colspan="2">1x SFF-8080 port</td>
+<td colspan="2">미지원</td>
 <td colspan="2">미지원(RAID, SAS 옵션 필요)</td>
 </tr>
 <tr>
@@ -214,7 +203,7 @@ image:
 <th>확장저장장치</th>
 <th>EM-JOBD24B</th>
 <td colspan="2">미지원</td>
-<td colspan="2">1개의 24bay 외장저장장치 연결 <br> (18TB x 24bay = 최대 432TB)</td>
+<td colspan="2">1개의 24bay 외장저장장치 연결 <br> (20TB x 24bay = 최대 480TB)</td>
 </tr>
 <tr>
 <th colspan="2">동작온도/습도</th>
@@ -222,7 +211,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">사용전원 / 소비전력</th>
-<td colspan="2">Single Power(400W)</td>
+<td colspan="2">Single Power(500W)</td>
 <td>Single Power(750W)</td>
 <td>Redundant Dual Power <br> (800W x 2ea)</td>
 </tr>
@@ -258,7 +247,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">운영체제</th>
-<td>Linux 64bit(Embedded) / mSATA 8GB(OS, NVR SW 전용 디스크)</td>
+<td>Linux 64bit(Embedded) / mSATA 16GB(OS, NVR SW 전용 디스크)</td>
 </tr>
 <tr>
 <th rowspan="3">녹화</th>
@@ -315,7 +304,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">보안</th>
-<td>Multi User Level, 생체인식 인증(지문마우스 옵션) 지원</td>
+<td>Multi User Level, 생체인증지원</td>
 </tr>
 <tr>
 <th colspan="2">Failover</th>
@@ -351,7 +340,7 @@ image:
 ---- | ----
 카탈로그 | [NVR+_카탈로그_20220617.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_카탈로그_20220617.pdf)
 외관도 | [NVR+_2UB8(64,128ch)_외관도_20210104.dwg](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8(64,128ch)_외관도_20210104.dwg)<br>[NVR+_2UB8(64,128ch)_외관도_20210104.png](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8(64,128ch)_외관도_20210104.png)<br>[NVR+_3UB16(128ch)_외관도_20210104.dwg](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16(128ch)_외관도_20210104.dwg)<br>[NVR+_3UB16(128ch)_외관도_20210104.png](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16(128ch)_외관도_20210104.png)<br>[NVR+_4UB24(128ch)_외관도_20210104.dwg](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24(128ch)_외관도_20210104.dwg)<br>[NVR+_4UB24(128ch)_외관도_20210104.png](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24(128ch)_외관도_20210104.png)
-사양서 | [NVR+_사양서_20220617.xlsx](https://www.emstone.com/data/sales/ko/NVR%2B_사양서_20220617.xlsx)
-시방서 | [NVR+_2UB8_EM-64B8+_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8_EM-64B8%2B_시방서_20220617.hwp)<br>[NVR+_2UB8_EM-128B8+_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8_EM-128B8%2B_시방서_20220617.hwp)<br>[NVR+_3UB16_EM-128B16+_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16_EM-128B16%2B_시방서_20220617.hwp)<br>[NVR+_4UB24_EM-128B24+_시방서_20220617.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24_EM-128B24%2B_시방서_20220617.hwp)
+사양서 | [NVR+_사양서_20230110.xlsx](https://www.emstone.com/data/sales/ko/NVR%2B_사양서_20230110.xlsx)
+시방서 | [NVR+_2UB8_EM-64B8+_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8_EM-64B8%2B_시방서_20230110.hwp)<br>[NVR+_2UB8_EM-128B8+_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8_EM-128B8%2B_시방서_20230110.hwp)<br>[NVR+_3UB16_EM-128B16+_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16_EM-128B16%2B_시방서_20230110.hwp)<br>[NVR+_4UB24_EM-128B24+_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24_EM-128B24%2B_시방서_20230110.hwp)
 출하검사 결과 성적서 | [NVR+_2UB8_EM-64B8+_출하검사결과성적서_20210104.xls](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8_EM-64B8%2B_출하검사결과성적서_20210104.xls)<br>[NVR+_2UB8_EM-128B8+_출하검사결과성적서_20210104.xls](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8_EM-128B8%2B_출하검사결과성적서_20210104.xls)<br>[NVR+_3UB16_EM-128B16+_출하검사결과성적서_20210104.xls](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16_EM-128B16%2B_출하검사결과성적서_20210104.xls)<br>[NVR+_4UB24_EM-128B24+_출하검사결과성적서_20210104.xls](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24_EM-128B24%2B_출하검사결과성적서_20210104.xls)
 인증서 | [NVR+_2UB8(64,128ch)_방송통신기자재등의적합등록필증_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8(64,128ch)_방송통신기자재등의적합등록필증_20210104.pdf)<br>[NVR+_2UB8(64,128ch)_방송통신기자재등(전자파적합성)시험성적서_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8(64,128ch)_방송통신기자재등(전자파적합성)시험성적서_20210104.pdf)<br>[NVR+_3UB16(128ch)_방송통신기자재등의적합등록필증_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16(128ch)_방송통신기자재등의적합등록필증_20210104.pdf)<br>[NVR+_3UB16(128ch)_방송통신기자재등(전자파적합성)시험성적서_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16(128ch)_방송통신기자재등(전자파적합성)시험성적서_20210104.pdf)<br>[NVR+_4UB24(128ch)_방송통신기자재등의적합등록필증_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24(128ch)_방송통신기자재등의적합등록필증_20210104.pdf)<br>[NVR+_4UB24(128ch)_방송통신기자재등(전자파적합성)시험성적서_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24(128ch)_방송통신기자재등(전자파적합성)시험성적서_20210104.pdf)<br>[NVR+_4UB24(128ch)_방송통신기자재등(유선영상정보처리기기)시험성적서_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24(128ch)_방송통신기자재등(유선영상정보처리기기)시험성적서_20210104.pdf)

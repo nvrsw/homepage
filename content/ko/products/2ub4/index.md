@@ -50,10 +50,10 @@ image:
 - **생체 정보**를 이용한 사용자 인증 지원
 - Failover 지원 : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
 - 양방향 음성 기능 지원
-- 최대 72TB의 넉넉한 자체 저장 공간
+- 최대 80TB의 넉넉한 자체 저장 공간
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
 - **화재/연기 감지** 라이선스 1CH 기본 제공
-- 모델 라인업 : 16, 25, 36, 49, 64 CH
+- 모델 라인업 : 16, 25, 36, 49, 64CH
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
@@ -97,11 +97,11 @@ image:
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>DDR3/4 8GB</td>
-<td>DDR3/4 12GB</td>
-<td>DDR3/4 16GB</td>
-<td>DDR3/4 24GB</td>
-<td>DDR3/4 32GB</td>
+<td>DDR4 8GB</td>
+<td>DDR4 12GB</td>
+<td>DDR4 16GB</td>
+<td>DDR4 32GB</td>
+<td>DDR4 32GB</td>
 </tr>
 <tr>
 <th rowspan="4">디스플레이</th>
@@ -171,7 +171,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">운영체제</th>
-<td>Linux 64bit(Embedded) / mSATA 8GB(OS, NVR SW 전용 디스크)</td>
+<td>Linux 64bit(Embedded) / mSATA SSD 16GB(OS, NVR SW 전용 디스크)</td>
 </tr>
 <tr>
 <th rowspan="5">저장장치</th>
@@ -180,11 +180,11 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>3.5" HDD 최대 4개 장착가능 (18TB HDD 인식, 최대 용량 72TB)</td>
+<td>3.5" HDD 최대 4개 장착가능 (20TB HDD 인식, 최대 용량 80TB)</td>
 </tr>
 <tr>
-<th>RAID(옵션)</th>
-<td>0 / 1 / 5 / 6 (옵션)</td>
+<th>RAID</th>
+<td>미지원</td>
 </tr>
 <tr>
 <th>Hot Swap</th>
@@ -192,7 +192,7 @@ image:
 </tr>
 <tr>
 <th>외장 스토리지</th>
-<td>iSCSI 지원</td>
+<td>iSCSI 지원 (36채널 이상만 가능)</td>
 </tr>
 <tr>
 <th rowspan="2">백업</th>
@@ -228,7 +228,7 @@ image:
 <tr>
 <th rowspan="4">네트워크</th>
 <th>인터페이스</th>
-<td>10/100/1000 Base-Tx Ethernet (RJ45) - 1ea for 16/25CH, 2ea for 36/49/64/81/100/128CH</td>
+<td>10/100/1000 Base-Tx Ethernet (RJ45) - 1ea for 16/25CH, 2ea for 36/49/64CH</td>
 </tr>
 <tr>
 <th>최대 사용자</th>
@@ -244,7 +244,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">보안</th>
-<td>Multi User Level</td>
+<td>Multi User Level, 생체인증지원</td>
 </tr>
 <tr>
 <th colspan="2">Failover</th>
@@ -269,7 +269,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">사용전원 / 소비전력</th>
-<td>DC12V 8A Adapter (AC100 ~ 240V 50/60Hz) for 16/25CH<br>DC12V 10A Adapter (AC100 ~ 240V 50/60Hz) for 36/49/64CH</td>
+<td>DC12V 10A Adapter (AC100 ~ 240V 50/60Hz)</td>
 </tr>
 <tr>
 <th colspan="2">크기(W x H x D)</th>
@@ -290,10 +290,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB4_카탈로그_20220803.pdf](https://www.emstone.com/data/sales/ko/2UB4_카탈로그_20220803.pdf)
+카탈로그 | [2UB4_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/2UB4_CATALOG_KO_20230110.pdf)
 외관도 | [2UB4_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/2UB4_외관도_20201022.dwg)<br>[2UB4_외관도_20201022.png](https://www.emstone.com/data/sales/ko/2UB4_외관도_20201022.png)
-사양서 | [2UB4_사양서_20220803.xlsx](https://www.emstone.com/data/sales/ko/2UB4_사양서_20220803.xlsx)
-시방서 | [2UB4_EM-16B4_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_시방서_20220616.hwp)<br>[2UB4_EM-25B4_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_시방서_20220616.hwp)<br>[2UB4_EM-36B4_시방서_20220803.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_시방서_20220803.hwp)<br>[2UB4_EM-49B4F_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4F_시방서_20220616.hwp)<br>[2UB4_EM-64B4F_시방서_20220616.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4F_시방서_20220616.hwp)
+사양서 | [2UB4_사양서_20230110.xlsx](https://www.emstone.com/data/sales/ko/2UB4_사양서_20230110.xlsx)
+시방서 | [2UB4_EM-16B4_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_시방서_20230110.hwp)<br>[2UB4_EM-25B4_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_시방서_20230110.hwp)<br>[2UB4_EM-36B4_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_시방서_20230110.hwp)<br>[2UB4_EM-49B4F_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4F_시방서_20230110.hwp)<br>[2UB4_EM-64B4F_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4F_시방서_20230110.hwp)
 출하검사 결과 성적서 | [2UB4_EM-16B4_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_출하검사결과성적서_20220616.xls)<br>[2UB4_EM-25B4_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_출하검사결과성적서_20220616.xls)<br>[2UB4_EM-36B4_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_출하검사결과성적서_20220616.xls)<br>[2UB4_EM-49B4F_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4F_출하검사결과성적서_20220616.xls)<br>[2UB4_EM-64B4F_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4F_출하검사결과성적서_20220616.xls)
 인증서 | [2UB4_방송통신기자재등의적합등록필증_20220616.pdf](https://www.emstone.com/data/sales/ko/2UB4_방송통신기자재등의적합등록필증_20220616.pdf)<br>[2UB4_방송통신기자재등(전자파적합성)시험성적서_20220616.pdf](https://www.emstone.com/data/sales/ko/2UB4_방송통신기자재등(전자파적합성)시험성적서_20220616.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20210710.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20210710.pdf)<br>[NVR_사용자매뉴얼_20221020.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20221020.pdf)<br>[NVR_업그레이드매뉴얼_20220812.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20220812.pdf)

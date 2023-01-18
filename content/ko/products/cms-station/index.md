@@ -1,7 +1,7 @@
 ---
 title: "CMS Station H"
-subtitle: "통합 모니터링 서버"
-summary: "통합 모니터링 서버"
+subtitle: "통합 모니터링 시스템"
+summary: "통합 모니터링 시스템"
 authors: []
 tags: [ "" ]
 categories: [ "cms" ]
@@ -31,8 +31,8 @@ image:
 
 ## 특징
 
-- 최대 32,768개 카메라 접속 가능 (256 x 128ch)
-- 멀티 스트리밍 지원을 통한 효율적인 관리
+- 최대 131,072대 카메라 접속 가능 (1024 x 128ch)
+- 멀티 스트리밍 지원을 통한 효율적인 트래픽 관리
 - 이벤트 기반 라이브 모니터링 지원 (선별관제 대응)
 - E-MAP 지도 위에 카메라 위치 표시 및 해당 영상 확인 가능
 - 원격 검색 / 원격 백업 (수동 / 스케쥴)
@@ -74,11 +74,11 @@ image:
 </tr>
 <tr>
 <th>옵션</th>
-<td>CMS Standard Version(16 host), CMS professional Version(64 host), CMS Enterprise Version(256 host)</td>
+<td>16/64/128/256/512/1024 Host</td>
 </tr>
 <tr>
 <th colspan="2">운영체제</th>
-<td>Ubuntu Linux with OpenGL and X-Windows</td>
+<td>Ubuntu 22.04 with modified Linux Kernel, OpenGL and X-Windows</td>
 </tr>
 <tr>
 <th colspan="2">CPU</th>
@@ -90,7 +90,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">VGA</th>
-<td>Integrated Graphic</td>
+<td>Integrated Graphic (included 48 Execution Unit)</td>
 </tr>
 <tr>
 <th colspan="2">Disk</th>
@@ -99,7 +99,7 @@ image:
 <tr>
 <th rowspan="3">디스플레이</th>
 <th>모니터 출력</th>
-<td>2xHDMI</td>
+<td>2xHDMI (up to 4K 60Hz support)</td>
 </tr>
 <tr>
 <th>분할화면</th>
@@ -107,7 +107,7 @@ image:
 </tr>
 <tr>
 <th>성능</th>
-<td>12M(5CH/150fsp), 8M(8CH/240fps), 5M(12CH/360fps), 1080P(32CH/960fps)</td>
+<td>Full HD 32CH 동시 디코딩, 최대 8K(7680x4320) 디코딩 가능</td>
 </tr>
 <tr>
 <th rowspan="2">검색 / 재생</th>
@@ -121,15 +121,15 @@ image:
 <tr>
 <th rowspan="2">백업</th>
 <th>백업 모드</th>
-<td>동영상, 정지화면</td>
+<td>동영상, 정지화면, 이벤트 기반 동영상/ 정지영상 백업 기능</td>
 </tr>
 <tr>
 <th>파일 포맷</th>
-<td>MP4, JPG</td>
+<td>MP4, JPG, Encrypted Backup</td>
 </tr>
 <tr>
 <th colspan="2">Video Wall</th>
-<td>EMSTONE IP 비디오 월 시스템 설정 / 제어</td>
+<td>EMSTONE 비디오 월 시스템 설정 / 제어</td>
 </tr>
 <tr>
 <th rowspan="2">이벤트</th>
@@ -143,7 +143,7 @@ image:
 <tr>
 <th rowspan="2">네트워크</th>
 <th>인터페이스</th>
-<td>10/100/1000 Base-Tx Ethernet (RJ45) - 2ea</td>
+<td>1/2.5Gbps Ethernet (RJ45) – 2ea</td>
 </tr>
 <tr>
 <th>대역폭 제어</th>
@@ -176,10 +176,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [CMSSTATIONH_카탈로그_20220803.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_카탈로그_20220803.pdf)
+카탈로그 | [CMSSTATIONH_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_CATALOG_KO_20230110.pdf)
 외관도 | [CMSSTATIONH_외관도_20210803.dwg](https://www.emstone.com/data/sales/ko/CMSSTATIONH_외관도_20210803.dwg)<br>[CMSSTATIONH_외관도_20210803.png](https://www.emstone.com/data/sales/ko/CMSSTATIONH_외관도_20210803.png)
-사양서 | [CMSSTATIONH_사양서_20220803.xlsx](https://www.emstone.com/data/sales/ko/CMSSTATIONH_사양서_20220803.xlsx)
-시방서 | [CMSSTATIONH_시방서_20220803.hwp](https://www.emstone.com/data/sales/ko/CMSSTATIONH_시방서_20220803.hwp)
+사양서 | [CMSSTATIONH_사양서_20230110.xlsx](https://www.emstone.com/data/sales/ko/CMSSTATIONH_사양서_20230110.xlsx)
+시방서 | [CMSSTATIONH_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/CMSSTATIONH_시방서_20230110.hwp)
 출하검사 결과 성적서 | [CMSSTATIONH_출하검사결과성적서_20210803.xls](https://www.emstone.com/data/sales/ko/CMSSTATIONH_출하검사결과성적서_20210803.xls)
 인증서 | [CMSSTATIONH_방송통신기자재등의적합등록필증_20220620.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_방송통신기자재등의적합등록필증_20220620.pdf)<br>[CMSSTATIONH_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf](https://www.emstone.com/data/sales/ko/CMSSTATIONH_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf)
 매뉴얼 | [CMS_사용자매뉴얼_20221031.pdf](https://www.emstone.com/data/sales/ko/CMS_사용자매뉴얼_20221031.pdf)<br>[CMS_작업매뉴얼_20230106.pdf](https://www.emstone.com/data/sales/ko/CMS_작업매뉴얼_20230106.pdf)<br>[CMS_단축키매뉴얼_20220110.pdf](https://www.emstone.com/data/sales/ko/CMS_단축키매뉴얼_20220110.pdf)
