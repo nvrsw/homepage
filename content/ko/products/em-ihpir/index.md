@@ -6,7 +6,7 @@ authors: []
 tags: [ "intrusion" ]
 categories: [ "camera" ]
 draft: false
-weight: 2110
+weight: 2060
 
 # Featured Image:](httpe, add an image named `featured.jpg/png`](httpur page's folder.)
 image:
@@ -223,7 +223,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IHPIR_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/IHPIR_카탈로그_20200313.pdf)
+카탈로그 | [IHPIR_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/IHPIR_CATALOG_KO_20230110.pdf)
 외관도 | [IHD_PIR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHD_PIR_외관도_20200313.png)<br>[IHV_PIR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHV_PIR_외관도_20200313.png)
 사양서 | [IHPIR_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IHPIR_사양서_20200313.xlsx)
 시방서 | [IHD(PIR2812Z)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHD(PIR2812Z)_시방서_20200313.hwp)<br>[IHV(PIR2812Z)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHV(PIR2812Z)_시방서_20200313.hwp)

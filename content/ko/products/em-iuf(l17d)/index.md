@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 2005
+weight: 2008
 
 # Featured Image:
 image:
@@ -203,7 +203,7 @@ Sub stream: 704x576 (1 fps-25 fps) / 704x480 (1 fps-30 fps)</td>
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IUF(L17D)_카탈로그_20220223.pdf](https://www.emstone.com/data/sales/ko/EM-IUF(L17D)_카탈로그_20220223.pdf)
+카탈로그 | [EM-IUF(L17D)_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/EM-IUF(L17D)_CATALOG_KO_20230110.pdf)
 외관도 | [EM-IUF(L17D)_외관도_20220223.png](https://www.emstone.com/data/sales/ko/EM-IUF(L17D)_외관도_20220223.png)
 사양서 | [EM-IUF(L17D)_사양서_20220223.xlsx](https://www.emstone.com/data/sales/ko/EM-IUF(L17D)_사양서_20220223.xlsx)
 시방서 | [EM-IUF(L17D)_시방서_20220426.hwp](https://www.emstone.com/data/sales/ko/EM-IUF(L17D)_시방서_20220426.hwp)

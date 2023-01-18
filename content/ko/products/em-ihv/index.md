@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 2040
+weight: 2020
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
@@ -231,7 +231,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IHV_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/IHV_카탈로그_20200313.pdf)
+카탈로그 | [IHV_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/IHV_CATALOG_KO_20230110.pdf)
 외관도 | [IHV_외관도_20230105.png](https://www.emstone.com/data/sales/ko/IHV_외관도_20230105.png)<br>[IHV_외관도_20230105.dwg](https://www.emstone.com/data/sales/ko/IHV_외관도_20230105.dwg)
 사양서 | [IHV_사양서_20220729.xlsx](https://www.emstone.com/data/sales/ko/IHV_사양서_20220729.xlsx)
 시방서 | [IHV(IRF36)_시방서_20220729.hwp](https://www.emstone.com/data/sales/ko/IHV(IRF36)_시방서_20220729.hwp)<br>[IHV(IR2812Z)_시방서_20220729.hwp](https://www.emstone.com/data/sales/ko/IHV(IR2812Z)_시방서_20220729.hwp)

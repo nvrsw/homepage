@@ -6,7 +6,7 @@ authors: []
 tags: [ "lpr" ]
 categories: [ "camera" ]
 draft: false
-weight: 2090
+weight: 2070
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
@@ -238,7 +238,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IHI_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/IHI_카탈로그_20200313.pdf)
+카탈로그 | [IHI_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/IHI_CATALOG_KO_20230110.pdf)
 외관도 | [IHI(IR2812Z_IR0550Z)_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHI(IR2812Z_IR0550Z)_외관도_20200313.png)<br>[IHI(IR5151Z)_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHI(IR5151Z)_외관도_20200313.png)
 사양서 | [IHI_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IHI_사양서_20200313.xlsx)
 시방서 | [IHI(IR2812Z)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHI(IR2812Z)_시방서_20200313.hwp)<br>[IHI(IR0550Z)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHI(IR0550Z)_시방서_20200313.hwp)<br>[IHI(IR5151Z)_시방서_20220728.hwp](https://www.emstone.com/data/sales/ko/IHI(IR5151Z)_시방서_20220728.hwp)

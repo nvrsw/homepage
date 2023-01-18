@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 2020
+weight: 2010
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
@@ -248,7 +248,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IHD_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/IHD_카탈로그_20200313.pdf)
+카탈로그 | [IHD_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/IHD_CATALOG_KO_20230110.pdf)
 외관도 | [IHD_non_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHD_non_IR_외관도_20200313.png)<br>[IHD_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHD_IR_외관도_20200313.png)<br>[IHD_IR_외관도_20220701.dwg](https://www.emstone.com/data/sales/ko/IHD_IR_외관도_20220701.dwg)
 사양서 | [IHD_사양서_20220728.xlsx](https://www.emstone.com/data/sales/ko/IHD_사양서_20220728.xlsx)
 시방서 | [IHD(F21)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHD(F21)_시방서_20200313.hwp)<br>[IHD(F28)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHD(F28)_시방서_20200313.hwp)<br>[IHD(IRF36)_시방서_20220728.hwp](https://www.emstone.com/data/sales/ko/IHD(IRF36)_시방서_20220728.hwp)<br>[IHD(IR2812Z)_시방서_20220728.hwp](https://www.emstone.com/data/sales/ko/IHD(IR2812Z)_시방서_20220728.hwp)

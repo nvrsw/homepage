@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 2010
+weight: 2011
 
 # Featured Image:
 image:
@@ -248,7 +248,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IQD_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/IQD_카탈로그_20200313.pdf)
+카탈로그 | [IQD_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/IQD_CATALOG_KO_20230110.pdf)
 외관도 | [IQD_non_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IQD_non_IR_외관도_20200313.png)<br>[IQD_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IQD_IR_외관도_20200313.png)<br>[IQD_IR_외관도_20220701.dwg](https://www.emstone.com/data/sales/ko/IQD_IR_외관도_20220701.dwg)
 사양서 | [IQD_사양서_20220728.xlsx](https://www.emstone.com/data/sales/ko/IQD_사양서_20220728.xlsx)
 시방서 | [IQD(F21)_시방서_20200720.hwp](https://www.emstone.com/data/sales/ko/IQD(F21)_시방서_20200720.hwp)<br>[IQD(F28)_시방서_20200720.hwp](https://www.emstone.com/data/sales/ko/IQD(F28)_시방서_20200720.hwp)<br>[IQD(IRF36)_시방서_20220728.hwp](https://www.emstone.com/data/sales/ko/IQD(IRF36)_시방서_20220728.hwp)<br>[IQD(IR2812Z)_시방서_20200720.hwp](https://www.emstone.com/data/sales/ko/IQD(IR2812Z)_시방서_20200720.hwp)

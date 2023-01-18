@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 2004
+weight: 2007
 
 # Featured Image:
 image:
@@ -214,7 +214,7 @@ Fifth stream: 704 × 576 @1-25 fps; 704 × 480 @1-30 fps</td>
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-ISV(IR2712ZD)_카탈로그_20220502.pdf](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_카탈로그_20220502.pdf)
+카탈로그 | [EM-ISV(IR2712ZD)_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_CATALOG_KO_20230110.pdf)
 외관도 | [EM-ISV(IR2712ZD)_외관도_20220502.png](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_외관도_20220502.png)
 사양서 | [EM-ISV(IR2712ZD)_사양서_20220502.xlsx](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_사양서_20220502.xlsx)
 시방서 | [EM-ISV(IR2712ZD)_시방서_20220502.hwp](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_시방서_20220502.hwp)

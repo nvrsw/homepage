@@ -47,27 +47,28 @@
 
 [[main]]
   parent = "products"
-  name = "NVR"
+  name = "Network Video Recorder"
   url = "categories/nvr/"
   weight = 30
 
+
 [[main]]
   parent = "products"
-  name = "카메라"
-  url = "categories/camera/"
+  name = "Central Monitoring System"
+  url = "categories/cms/"
   weight = 40
 
 [[main]]
   parent = "products"
-  name = "CMS 통합 모니터링"
-  url = "categories/cms/"
+  name = "Network Diplay Server"
+  url = "categories/nds/"
   weight = 50
 
 [[main]]
   parent = "products"
-  name = "NDS 디스플레이 서버"
-  url = "categories/nds/"
-  weight = 60
+  name = "Camera"
+  url = "categories/camera/"
+  weight = 60  
 
 [[main]]
   parent = "products"

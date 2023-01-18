@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 2072
+weight: 2040
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
@@ -261,7 +261,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IHS(IR36x)_카탈로그_20220512.pdf](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_카탈로그_20220512.pdf)
+카탈로그 | [EM-IHS(IR36x)_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_CATALOG_KO_20230110.pdf)
 외관도 | [EM-IHS(IR36x)_외관도_20220512.png](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_외관도_20220512.png)
 사양서 | [EM-IHS(IR36x)_사양서_20220512.xlsx](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_사양서_20220512.xlsx)
 시방서 | [EM-IHS(IR36x)_시방서_20220512.hwp](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_시방서_20220512.hwp)

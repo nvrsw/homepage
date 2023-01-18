@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 2060
+weight: 2030
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
@@ -223,7 +223,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IHE_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/IHE_카탈로그_20200313.pdf)
+카탈로그 | [IHE_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/IHE_CATALOG_KO_20230110.pdf)
 외관도 | [IHE_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHE_외관도_20200313.png)<br>[IHE_외관도_20220701.dwg](https://www.emstone.com/data/sales/ko/IHE_외관도_20220701.dwg)
 사양서 | [IHE_사양서_20220729.xlsx](https://www.emstone.com/data/sales/ko/IHE_사양서_20220729.xlsx)
 시방서 | [IHE(N2812Z)_시방서_20220729.hwp](https://www.emstone.com/data/sales/ko/IHE(N2812Z)_시방서_20220729.hwp)<br>[IHE(IR2812Z)_시방서_20220729.hwp](https://www.emstone.com/data/sales/ko/IHE(IR2812Z)_시방서_20220729.hwp)<br>[IHE(IR0550Z)_시방서_20220729.hwp](https://www.emstone.com/data/sales/ko/IHE(IR0550Z)_시방서_20220729.hwp)

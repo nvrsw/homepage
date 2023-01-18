@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 2009
+weight: 2004
 
 # Featured Image:
 image:
@@ -206,7 +206,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IQD(IR28D)_카탈로그_20220127.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_카탈로그_20220127.pdf)
+카탈로그 | [EM-IQD(IR28D)_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_CATALOG_KO_20230110.pdf)
 외관도 | [EM-IQD(IR28D)-외관도_20220127.png](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)-외관도_20220127.png)<br>[EM-IQD(IR28D)-외관도_20220801.dwg](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)-외관도_20220801.dwg)
 사양서 | [EM-IQD(IR28D)_사양서_20220628.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_사양서_20220628.xlsx)
 시방서 | [EM-IQD(IR28D)_시방서_20220628.hwp](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_시방서_20220628.hwp)

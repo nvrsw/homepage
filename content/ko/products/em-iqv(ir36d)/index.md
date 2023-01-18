@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 2008
+weight: 2005
 
 # Featured Image:
 image:
@@ -206,7 +206,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IQV(IR36D)_카탈로그_20220127.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_카탈로그_20220127.pdf)
+카탈로그 | [EM-IQV(IR36D)_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_CATALOG_KO_20230110.pdf)
 외관도 | [EM-IQV(IR36D)_외관도_20220127.png](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_외관도_20220127.png)
 사양서 | [EM-IQV(IR36D)_사양서_20220127.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_사양서_20220127.xlsx)
 시방서 | [EM-IQV(IR36D)_시방서_20220127.hwp](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_시방서_20220127.hwp)

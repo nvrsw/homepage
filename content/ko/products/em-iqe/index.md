@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 2050
+weight: 2031
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
@@ -223,7 +223,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IQE_카탈로그_20200313.pdf](https://www.emstone.com/data/sales/ko/IQE_카탈로그_20200313.pdf)
+카탈로그 | [IQE_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/IQE_CATALOG_KO_20230110.pdf)
 외관도 | [IQE_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IQE_외관도_20200313.png)<br>[IQE_외관도_20220701.dwg](https://www.emstone.com/data/sales/ko/IQE_외관도_20220701.dwg)
 사양서 | [IQE_사양서_20220729.xlsx](https://www.emstone.com/data/sales/ko/IQE_사양서_20220729.xlsx)
 시방서 | [IQE(N2812Z)_시방서_20220729.hwp](https://www.emstone.com/data/sales/ko/IQE(N2812Z)_시방서_20220729.hwp)<br>[IQE(IR2812Z)_시방서_20220729.hwp](https://www.emstone.com/data/sales/ko/IQE(IR2812Z)_시방서_20220729.hwp)<br>[IQE(IR0550Z)_시방서_20220729.hwp](https://www.emstone.com/data/sales/ko/IQE(IR0550Z)_시방서_20220729.hwp)
