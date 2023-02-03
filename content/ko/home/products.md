@@ -59,28 +59,22 @@ align = "end"
 #   description = "4U 8Bay Storage Type PC based Hybrid NVR"
 
 [[feature]]
-  image = "products/t2/featured.png"
-  url = "products/t2/"
-  name = "NVR T2 Failover Server"
-  description = "2Bay Storage Type Failover Server"
+  image = "products/em-isvir2712zd/featured.png"
+  url = "products/em-isvir2712zd/"
+  name = "EMSTONE_D_AI SHD 스카이뷰카메라"
+  description = "EMSTONE_D_AI 12MP Sky View Camera"
 
 [[feature]]
-  image = "products/em-iqd/featured.png"
-  url = "products/em-iqd/"
-  name = "EM-IQD QHD 돔 카메라"
-  description = "5MP Dome Type Network IP Camera Series"
+  image = "products/em-ixq27d/featured.png"
+  url = "products/em-ixq27d/"
+  name = "EMSTONE_D_AI 열화상 듀얼센서 카메라"
+  description = "EMSTONE_D_AI 4MP Thermal Camera"
 
 [[feature]]
-  image = "products/em-ihi/featured.png"
-  url = "products/em-ihi/"
-  name = "EM-IHI 차량번호 식별 카메라"
-  description = "License Plate Recognition Network IP Camera Series"
-
-[[feature]]
-  image = "products/em-ix/featured.png"
-  url = "products/em-ix/"
-  name = "EM-IX 열화상 카메라"
-  description = "Thermal Imaging Network IP Camera Series"
+  image = "products/em-iufl17d/featured.png"
+  url = "products/em-iufl17d/"
+  name = "EMSTONE_D_AI 주차유도 어안카메라"
+  description = "EMSTONE_D_AI 12MP Fisheye Camera"
 
 [[feature]]
   image = "products/cms-station/featured.png"
@@ -89,10 +83,18 @@ align = "end"
   description = "Central Monitoring Server"
 
 [[feature]]
-  image = "products/em-nds-04/featured.png"
-  url = "products/em-nds-04/"
-  name = "EM-NDS-04"
+  image = "products/em-nds-04-4k/featured.png"
+  url = "products/em-nds-04-4k/"
+  name = "EM-NDS-04-4K"
   description = "Network Display Server"
+
+[[feature]]
+  image = "products/em-nds-mini/featured.png"
+  url = "products/em-nds-mini/"
+  name = "EM-NDS-mini"
+  description = "Network Display Server"
+
+
 
 # [[feature]]
 #   image = "products/em-poe-amp/featured.png"
