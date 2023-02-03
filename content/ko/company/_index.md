@@ -107,12 +107,12 @@ cascade:
     });
     var branches = [
       {
-        title: '강남북지사',
-        address: '서울 성동구 광나루로8길 31, SK V1 센터 2동 406호',
-        latlng: new naver.maps.LatLng(37.5471881065539, 127.066325845916)
+        title: '강남지사',
+        address: '서울 중랑구 봉화산로 59나길 10',
+        latlng: new naver.maps.LatLng(37.61080311877664, 127.10400795414643)
       },
       {
-        title: '강서지사',
+        title: '경기북부',
         address: '경기도 의정부시 용현동 544-6 이지빌딩 3층',
         latlng: new naver.maps.LatLng(37.7510873133029, 127.08225158692)
       },
