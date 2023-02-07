@@ -146,6 +146,5 @@ image:
 사양서 | [NDS-MINI_사양서_20230110.xlsx](https://www.emstone.com/data/sales/ko/NDS-MINI_사양서_20230110.xlsx)
 시방서 | [NDS-MINI_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/NDS-MINI_시방서_20230110.hwp)
 출하검사 결과 성적서 | [NDS-MINI_출하검사결과성적서_20230110.xls](https://www.emstone.com/data/sales/ko/NDS-MINI_출하검사결과성적서_20230110.xls)
+인증서 | [NDS-MINI_방송통신기자재등의적합등록필증_20230206.pdf](https://www.emstone.com/data/sales/ko/NDS-MINI_방송통신기자재등의적합등록필증_20230206.pdf)
 매뉴얼 | [NDS_사용_매뉴얼_20220511.pdf](https://www.emstone.com/data/sales/ko/NDS_사용_매뉴얼_20220511.pdf)
-<!--
-인증서 | [NDS-Solo_방송통신기자재등의적합등록필증_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_방송통신기자재등의적합등록필증_20210224.pdf)<br>[NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf)-->
