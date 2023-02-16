@@ -223,7 +223,7 @@ image:
 <tr>
 <th rowspan="2">백업</th>
 <th>백업 모드</th>
-<td>동영상(다중 백업, 날짜 / 시간 / 이벤트정보 표시, 암호화기능 지원), 정지 화면(부분 모자이크 지원)</td>
+<td>동영상(다중 백업, 날짜 / 시간 / 이벤트정보 표시, 암호화기능, 부분 마스킹 지원), 정지 화면(부분 모자이크 지원)</td>
 </tr>
 <tr>
 <th>파일 포맷</th>
@@ -303,9 +303,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [REDBACKVMS_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_CATALOG_KO_20230110.pdf)
+카탈로그 | [REDBACKVMS_CATALOG_KO_20230216.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_CATALOG_KO_20230216.pdf)
 외관도 | [REDBACKVMS_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/REDBACKVMS_외관도_20201022.dwg)<br>[REDBACKVMS_외관도_20201022.png](https://www.emstone.com/data/sales/ko/REDBACKVMS_외관도_20201022.png)
-사양서 | [REDBACKVMS_사양서_20230110.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS_사양서_20230110.xlsx)
-시방서 | [REDBACKVMS_EM-VMS128+_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS128%2B_시방서_20230110.hwp)<br>[REDBACKVMS_EM-VMS256+_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS256%2B_시방서_20230110.hwp)<br>[REDBACKVMS_EM-VMS512+_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B_시방서_20230110.hwp)<br>[REDBACKVMS_EM-VMS1024_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024_시방서_20230110.hwp)<br>
+사양서 | [REDBACKVMS_사양서_20230216.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS_사양서_20230216.xlsx)
+시방서 | [REDBACKVMS_EM-VMS128+_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS128%2B_시방서_20230216.hwp)<br>[REDBACKVMS_EM-VMS256+_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS256%2B_시방서_20230216.hwp)<br>[REDBACKVMS_EM-VMS512+_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B_시방서_20230216.hwp)<br>[REDBACKVMS_EM-VMS1024_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024_시방서_20230216.hwp)<br>
 출하검사 결과 성적서 | [REDBACKVMS_EM-VMS128+_출하검사결과성적서_20220915.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS128%2B_출하검사결과성적서_20220915.xls)<br>[REDBACKVMS_EM-VMS256+_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS256%2B_출하검사결과성적서_20201025.xls)<br>[REDBACKVMS_EM-VMS512+_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B_출하검사결과성적서_20201025.xls)<br>[REDBACKVMS_EM-VMS1024_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024_출하검사결과성적서_20201025.xls)<br>
 인증서 | [REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf)<br>[REDBACKVMS_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신기자재등의적합등록필증_20201022.pdf)<br>[REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)

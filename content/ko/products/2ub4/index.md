@@ -197,7 +197,7 @@ image:
 <tr>
 <th rowspan="2">백업</th>
 <th>백업 모드</th>
-<td>동영상(다중 백업, 날짜 / 시간 / 이벤트정보 표시, 암호화기능 지원), 정지 화면(부분 모자이크 지원)</td>
+<td>동영상(다중 백업, 날짜 / 시간 / 이벤트정보 표시, 암호화기능, 부분 마스킹 지원), 정지 화면(부분 모자이크 지원)</td>
 </tr>
 <tr>
 <th>파일 포맷</th>
@@ -290,10 +290,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB4_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/2UB4_CATALOG_KO_20230110.pdf)
+카탈로그 | [2UB4_CATALOG_KO_20230216.pdf](https://www.emstone.com/data/sales/ko/2UB4_CATALOG_KO_20230216.pdf)
 외관도 | [2UB4_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/2UB4_외관도_20201022.dwg)<br>[2UB4_외관도_20201022.png](https://www.emstone.com/data/sales/ko/2UB4_외관도_20201022.png)
-사양서 | [2UB4_사양서_20230110.xlsx](https://www.emstone.com/data/sales/ko/2UB4_사양서_20230110.xlsx)
-시방서 | [2UB4_EM-16B4_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_시방서_20230110.hwp)<br>[2UB4_EM-25B4_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_시방서_20230110.hwp)<br>[2UB4_EM-36B4_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_시방서_20230110.hwp)<br>[2UB4_EM-49B4F_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4F_시방서_20230110.hwp)<br>[2UB4_EM-64B4F_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4F_시방서_20230110.hwp)
+사양서 | [2UB4_사양서_20230216.xlsx](https://www.emstone.com/data/sales/ko/2UB4_사양서_20230216.xlsx)
+시방서 | [2UB4_EM-16B4_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_시방서_20230216.hwp)<br>[2UB4_EM-25B4_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_시방서_20230216.hwp)<br>[2UB4_EM-36B4_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_시방서_20230216.hwp)<br>[2UB4_EM-49B4F_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4F_시방서_20230216.hwp)<br>[2UB4_EM-64B4F_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4F_시방서_20230216.hwp)
 출하검사 결과 성적서 | [2UB4_EM-16B4_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_출하검사결과성적서_20220616.xls)<br>[2UB4_EM-25B4_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_출하검사결과성적서_20220616.xls)<br>[2UB4_EM-36B4_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_출하검사결과성적서_20220616.xls)<br>[2UB4_EM-49B4F_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4F_출하검사결과성적서_20220616.xls)<br>[2UB4_EM-64B4F_출하검사결과성적서_20220616.xls](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4F_출하검사결과성적서_20220616.xls)
 인증서 | [2UB4_방송통신기자재등의적합등록필증_20220616.pdf](https://www.emstone.com/data/sales/ko/2UB4_방송통신기자재등의적합등록필증_20220616.pdf)<br>[2UB4_방송통신기자재등(전자파적합성)시험성적서_20220616.pdf](https://www.emstone.com/data/sales/ko/2UB4_방송통신기자재등(전자파적합성)시험성적서_20220616.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20210710.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20210710.pdf)<br>[NVR_사용자매뉴얼_20221020.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20221020.pdf)<br>[NVR_업그레이드매뉴얼_20220812.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20220812.pdf)
