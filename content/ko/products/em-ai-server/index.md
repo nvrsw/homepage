@@ -113,12 +113,12 @@ image:
 </tr>
 <tr>
 <th>메모리</th>
-<td>DDR4 8GB 128GB SSD</td>
-<td>DDR4 16GB 128GB SSD</td>
-<td>DDR4 16GB 128GB SSD</td>
-<td>DDR4 8GB 128GB SSD</td>
-<td>DDR4 16GB 128GB SSD</td>
-<td>DDR4 32GB 128GB SSD</td>
+<td>DDR4 8GB <br> 128GB SSD</td>
+<td>DDR4 16GB <br> 128GB SSD</td>
+<td>DDR4 16GB <br> 128GB SSD</td>
+<td>DDR4 8GB <br> 128GB SSD</td>
+<td>DDR4 16GB <br> 128GB SSD</td>
+<td>DDR4 32GB <br> 128GB SSD</td>
 </tr>
 <tr>
 <th>동시 접속자 수</th>
