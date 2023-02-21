@@ -222,7 +222,7 @@ DHCP; DNS; DDNS; PPPOE; IPv4/v6; SNMP; QoS; UPnP; NTP</td>
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IX(Q27D)_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_CATALOG_KO_20230110.pdf)
+카탈로그 | [EM-IX(Q27D)_CATALOG_KO_20230221.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_CATALOG_KO_20230221.pdf)
 외관도 | [EM-IX(Q27D)_외관도_20220224.png](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_외관도_20220224.png)<br>[EM-IX(Q27D)_외관도_20220801.dwg](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_외관도_20220801.dwg)
 사양서 | [EM-IX(Q27D)_사양서_20220628.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_사양서_20220628.xlsx)
 시방서 | [EM-IX(Q27D)_시방서_20220426.hwp](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_시방서_20220426.hwp)
