@@ -1,5 +1,5 @@
 ---
-title: "EM-AI-SERVER"
+title: "AI-SERVER"
 subtitle: "지능형 영상분석 서버"
 summary: "지능형 영상분석 서버"
 authors: []
@@ -42,7 +42,7 @@ image:
 
 ## 외관도
 
-{{< figure src="em-ai-server-drawing.png" >}}
+{{< figure src="ai-server-drawing.png" >}}
 
 </div>
 </div>
@@ -55,8 +55,8 @@ image:
 <thead>
 <tr>
 <th rowspan="6" colspan="2">모델명</th>
-<th colspan="3">EM-AI-SERVER-LPR</th>
-<th colspan="3">EM-AI-SERVER-Fire</th>
+<th colspan="3">AI-SERVER-LPR</th>
+<th colspan="3">AI-SERVER-Fire</th>
 </tr>
 <tr>
 <th>04</th>
@@ -162,6 +162,6 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-AI-SERVER_CATALOG_KO_20230220.pdf](https://www.emstone.com/data/sales/ko/EM-AI-SERVER_CATALOG_KO_20230220.pdf)
-외관도 | [EM-AI-SERVER_외관도_20230220.png](https://www.emstone.com/data/sales/ko/EM-AI-SERVER_외관도_20230220.png)
-사양서 | [EM-AI-SERVER_사양서_20230220.xlsx](https://www.emstone.com/data/sales/ko/EM-AI-SERVER_사양서_20230220.xlsx)
+카탈로그 | [AI-SERVER_CATALOG_KO_20230220.pdf](https://www.emstone.com/data/sales/ko/AI-SERVER_CATALOG_KO_20230220.pdf)
+외관도 | [AI-SERVER_외관도_20230220.dwg](https://www.emstone.com/data/sales/ko/AI-SERVER_외관도_20230220.dwg)<br>[AI-SERVER_외관도_20230220.png](https://www.emstone.com/data/sales/ko/AI-SERVER_외관도_20230220.png)
+사양서 | [AI-SERVER_사양서_20230220.xlsx](https://www.emstone.com/data/sales/ko/AI-SERVER_사양서_20230220.xlsx)
