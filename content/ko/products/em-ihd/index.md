@@ -114,7 +114,7 @@ image:
 <tr>
 <th rowspan="4">Video</th>
 <th>Compress<br>Format</th>
-<td colspan="4">H.264 / MJPEG </td>
+<td colspan="4">H.265 / H.264 / MJPEG </td>
 </tr>
 <tr>
 <th>Resolution</th>
@@ -195,8 +195,7 @@ image:
 </tr>
 <tr>
 <th>Streaming</th>
-<td colspan="2">N/A</td>
-<td colspan="2">Two way</td>
+<td colspan="4">N/A</td>
 </tr>
 <tr>
 <th rowspan="2">Event</th>
@@ -248,10 +247,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IHD_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/IHD_CATALOG_KO_20230110.pdf)
+카탈로그 | [IHD_CATALOG_KO_20230404.pdf](https://www.emstone.com/data/sales/ko/IHD_CATALOG_KO_20230404.pdf)
 외관도 | [IHD_non_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHD_non_IR_외관도_20200313.png)<br>[IHD_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IHD_IR_외관도_20200313.png)<br>[IHD_IR_외관도_20220701.dwg](https://www.emstone.com/data/sales/ko/IHD_IR_외관도_20220701.dwg)
-사양서 | [IHD_사양서_20220728.xlsx](https://www.emstone.com/data/sales/ko/IHD_사양서_20220728.xlsx)
-시방서 | [IHD(F21)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHD(F21)_시방서_20200313.hwp)<br>[IHD(F28)_시방서_20200313.hwp](https://www.emstone.com/data/sales/ko/IHD(F28)_시방서_20200313.hwp)<br>[IHD(IRF36)_시방서_20220728.hwp](https://www.emstone.com/data/sales/ko/IHD(IRF36)_시방서_20220728.hwp)<br>[IHD(IR2812Z)_시방서_20220728.hwp](https://www.emstone.com/data/sales/ko/IHD(IR2812Z)_시방서_20220728.hwp)
+사양서 | [IHD_사양서_20230404.xlsx](https://www.emstone.com/data/sales/ko/IHD_사양서_20230404.xlsx)
+시방서 | [IHD(F21)_시방서_20230404.hwp](https://www.emstone.com/data/sales/ko/IHD(F21)_시방서_20230404.hwp)<br>[IHD(F28)_시방서_20230404.hwp](https://www.emstone.com/data/sales/ko/IHD(F28)_시방서_20230404.hwp)<br>[IHD(IRF36)_시방서_20230404.hwp](https://www.emstone.com/data/sales/ko/IHD(IRF36)_시방서_20230404.hwp)<br>[IHD(IR2812Z)_시방서_20230404.hwp](https://www.emstone.com/data/sales/ko/IHD(IR2812Z)_시방서_20230404.hwp)
 출하검사 결과 성적서 | [IHD(F21)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IHD(F21)_출하검사성적서_20200313.xls)<br>[IHD(F28)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IHD(F28)_출하검사성적서_20200313.xls)<br>[IHD(IRF36)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IHD(IRF36)_출하검사성적서_20200313.xls)<br>[IHD(IR2812Z)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IHD(IR2812Z)_출하검사성적서_20200313.xls)
 인증서 | [IHD_방송통신기자재등의적합등록필증_20191030.pdf](https://www.emstone.com/data/sales/ko/IHD_방송통신기자재등의적합등록필증_20191030.pdf)
 매뉴얼 | [EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf)<br>[EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf)<br>[EM-IHD_IP_Camera_User_Manual_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_User_Manual_20200313.pdf)
