@@ -327,7 +327,7 @@ image:
 <tr>
 <th rowspan="2">지능형<br>솔루션</th>
 <th>내장 SW</th>
-<td>LPR, 영상분석 화재/연기 감지, VPM(Video Privacy Mgt) (※ 라이선스 옵션)</td>
+<td>EMSTONE 영상분석 AI 기반 LPR 및 불꽃/연기 감지 각 1채널 기본 탑재 (※ 추가 라이선스 옵션)</td>
 </tr>
 <tr>
 <th>외부 연동</th>
@@ -360,9 +360,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [3UB16_CATALOG_KO_20230216.pdf](https://www.emstone.com/data/sales/ko/3UB16_CATALOG_KO_20230216.pdf)
+카탈로그 | [3UB16_CATALOG_KO_20230404.pdf](https://www.emstone.com/data/sales/ko/3UB16_CATALOG_KO_20230404.pdf)
 외관도 | [3UB16_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/3UB16_외관도_20201022.dwg)<br>[3UB16_외관도_20201022.png](https://www.emstone.com/data/sales/ko/3UB16_외관도_20201022.png)
-사양서 | [3UB16_사양서_20230216.xlsx](https://www.emstone.com/data/sales/ko/3UB16_사양서_20230216.xlsx)
+사양서 | [3UB16_사양서_20230404.xlsx](https://www.emstone.com/data/sales/ko/3UB16_사양서_20230404.xlsx)
 시방서 | [3UB16_EM-16B16_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-16B16_시방서_20230216.hwp)<br>[3UB16_EM-25B16_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-25B16_시방서_20230216.hwp)<br>[3UB16_EM-36B16_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-36B16_시방서_20230216.hwp)<br>[3UB16_EM-49B16F_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-49B16F_시방서_20230216.hwp)<br>[3UB16_EM-49B16H_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-49B16H_시방서_20230216.hwp)<br>[3UB16_EM-64B16F_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-64B16F_시방서_20230216.hwp)<br>[3UB16_EM-64B16H_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-64B16H_시방서_20230216.hwp)<br>[3UB16_EM-81B16H_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-81B16H_시방서_20230216.hwp)<br>[3UB16_EM-100B16H_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-100B16H_시방서_20230216.hwp)<br>[3UB16_EM-128B16H_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/3UB16_EM-128B16H_시방서_20230216.hwp)
 출하검사 결과 성적서 | [3UB16_EM-16B16_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-16B16_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-25B16_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-25B16_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-36B16_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-36B16_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-49B16F_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-49B16F_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-49B16H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-49B16H_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-64B16F_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-64B16F_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-64B16H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-64B16H_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-81B16H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-81B16H_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-100B16H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-100B16H_출하검사결과성적서_20201022.xls)<br>[3UB16_EM-128B16H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/3UB16_EM-128B16H_출하검사결과성적서_20201022.xls)
 인증서 | [3UB16_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/3UB16_방송통신기자재등의적합등록필증_20201022.pdf)<br>[3UB16_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/3UB16_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)<br>[3UB16_TTA인증서_20211129.pdf](https://www.emstone.com/data/sales/ko/3UB16_TTA인증서_20211129.pdf)

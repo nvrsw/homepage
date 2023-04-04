@@ -102,7 +102,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">Disk</th>
-<td>SSD 8G</td>
+<td>SSD mSATA 8G</td>
 </tr>
 <tr>
 <th rowspan="2">네트워크</th>
@@ -141,9 +141,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [NDS-Solo_카탈로그_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_카탈로그_20210224.pdf)
+카탈로그 | [NDS-Solo_CATALOG_KO_20230404.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_CATALOG_KO_20230404.pdf)
 외관도 | [NDS-Solo_외관도_20210428.dwg](https://www.emstone.com/data/sales/ko/NDS-Solo_외관도_20210428.dwg)<br>[NDS-Solo_외관도_20210428.png](https://www.emstone.com/data/sales/ko/NDS-Solo_외관도_20210428.png)
-사양서 | [NDS-Solo_사양서_20210224.xlsx](https://www.emstone.com/data/sales/ko/NDS-Solo_사양서_20210224.xlsx)
+사양서 | [NDS-Solo_사양서_20230404.xlsx](https://www.emstone.com/data/sales/ko/NDS-Solo_사양서_20230404.xlsx)
 시방서 | [NDS-Solo_시방서_20210224.hwp](https://www.emstone.com/data/sales/ko/NDS-Solo_시방서_20210224.hwp)
 출하검사 결과 성적서 | [NDS-Solo_출하검사결과성적서_20210224.xls](https://www.emstone.com/data/sales/ko/NDS-Solo_출하검사결과성적서_20210224.xls)
 인증서 | [NDS-Solo_방송통신기자재등의적합등록필증_20230206.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_방송통신기자재등의적합등록필증_20230206.pdf)<br>[NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf)
