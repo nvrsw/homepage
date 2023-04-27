@@ -1,5 +1,5 @@
 ---
-title: "EM-NDS-mini"
+title: "EM-NDS-mini-4K"
 subtitle: "네트워크 디스플레이 서버 / IP 비디오 월"
 summary: "네트워크 디스플레이 서버 / IP 비디오 월"
 authors: []
@@ -56,7 +56,7 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-NDS-mini</th>
+<th>EM-NDS-mini-4K</th>
 </tr>
 </thead>
 <tbody>
@@ -141,10 +141,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [NDS-MINI_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/NDS-MINI_CATALOG_KO_20230110.pdf)
-외관도 | [NDS-MINI_외관도_20230110.dwg](https://www.emstone.com/data/sales/ko/NDS-MINI_외관도_20230110.dwg)<br>[NDS-MINI_외관도_20230110.png](https://www.emstone.com/data/sales/ko/NDS-MINI_외관도_20230110.png)
-사양서 | [NDS-MINI_사양서_20230110.xlsx](https://www.emstone.com/data/sales/ko/NDS-MINI_사양서_20230110.xlsx)
-시방서 | [NDS-MINI_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/NDS-MINI_시방서_20230110.hwp)
-출하검사 결과 성적서 | [NDS-MINI_출하검사결과성적서_20230110.xls](https://www.emstone.com/data/sales/ko/NDS-MINI_출하검사결과성적서_20230110.xls)
-인증서 | [NDS-MINI_방송통신기자재등의적합등록필증_20230206.pdf](https://www.emstone.com/data/sales/ko/NDS-MINI_방송통신기자재등의적합등록필증_20230206.pdf)
+카탈로그 | [NDS-mini-4K_CATALOG_KO_20230427.pdf](https://www.emstone.com/data/sales/ko/NDS-mini-4K_CATALOG_KO_20230427.pdf)
+외관도 | [NDS-mini-4K_외관도_20230110.dwg](https://www.emstone.com/data/sales/ko/NDS-mini-4K_외관도_20230110.dwg)<br>[NDS-mini-4K_외관도_20230110.png](https://www.emstone.com/data/sales/ko/NDS-mini-4K_외관도_20230110.png)
+사양서 | [NDS-mini-4K_사양서_20230427.xlsx](https://www.emstone.com/data/sales/ko/NDS-mini-4K_사양서_20230427.xlsx)
+시방서 | [NDS-mini-4K_시방서_20230427.hwp](https://www.emstone.com/data/sales/ko/NDS-mini-4K_시방서_20230427.hwp)
+출하검사 결과 성적서 | [NDS-mini-4K_출하검사결과성적서_20230427.xls](https://www.emstone.com/data/sales/ko/NDS-mini-4K_출하검사결과성적서_20230427.xls)
+인증서 | [NDS-mini-4K_방송통신기자재등의적합등록필증_20230206.pdf](https://www.emstone.com/data/sales/ko/NDS-mini-4K_방송통신기자재등의적합등록필증_20230206.pdf)
 매뉴얼 | [NDS_사용_매뉴얼_20220511.pdf](https://www.emstone.com/data/sales/ko/NDS_사용_매뉴얼_20220511.pdf)
