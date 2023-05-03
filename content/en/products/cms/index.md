@@ -25,8 +25,7 @@ image:
 
 ## Features
 
-- Access up to 25,600 cameras (256 x 100ch)
-- Simultaneous monitoring of up to 32 Full HD videos
+- Access up to 131,072 cameras (1024 x 128ch)
 - Efficient management with multistreaming support
 - Event-based live monitoring support
 - E-MAP function allows camera position to be displayed on the map and corresponding video
@@ -46,10 +45,10 @@ image:
 
  &nbsp; | Windows OS | Linux OS
 -----|------------|---------
-**OS** | Windows 8, 10 32/64bit | Ubuntu 18.04 64bit
-**CPU** | Intel i7 Quad Core | Intel i3 Dual Care
-**RAM** | DDR3/4 16G | DDR3/4 32G
-**HDD** | SSD 128G | SSD 32G
+**OS** | Windows 10, 11 64bit | Modified Ubuntu 22.04<br>64bit (EMSTONE)
+**CPU** | Minimum  Intel i3 Dual Care <br> Recommend Intel i7 Quad Care | only CMS Station 
+**RAM** | Minimum DDR3/4 4G <br> Recommend DDR3/4 16G | DDR4 16G
+**HDD** | SSD 128G | SSD 128G
 **NETWORK** | 1000Mbps bandwidth
 
 </div>

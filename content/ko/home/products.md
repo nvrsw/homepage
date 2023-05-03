@@ -89,9 +89,9 @@ align = "end"
   description = "Network Display Server"
 
 [[feature]]
-  image = "products/em-nds-mini/featured.png"
-  url = "products/em-nds-mini/"
-  name = "EM-NDS-mini"
+  image = "products/em-nds-mini-4k/featured.png"
+  url = "products/em-nds-mini-4k/"
+  name = "EM-NDS-mini-4k"
   description = "Network Display Server"
 
 

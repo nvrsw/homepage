@@ -1,5 +1,5 @@
 ---
-title: "EM-NDS-04"
+title: "EM-NDS-04-4K"
 subtitle: "Network Display Server / IP Video Wall"
 summary: "Network Display Server / IP Video Wall"
 authors: []
@@ -25,7 +25,7 @@ image:
 
 ## Features
 
-- 4 full HD monitors or 2 UHD monitors
+- 4 full HD monitors or UHD monitors
 - Support for up to 64CH display per monitor
 - Support monitor screen pivot (90°/180°/270°)
 - Delay-free display using NVR real time protocol
@@ -46,33 +46,33 @@ image:
 <thead>
 <tr>
 <th colspan="2">Model</th>
-<th>EM-NDS-04</th>
+<th>EM-NDS-04-4K</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th rowspan="2">Monitor</th>
 <th>Output</th>
-<td>2 of HDMI, 2 of Display Port</td>
+<td>4 of HDMI</td>
 </tr>
 <tr>
 <th>Output<br>Performance</th>
-<td>Full-HD Moniter Display - Up to 4 EA<br>Ultra HD Moniter Display - Up to 2 EA</td>
+<td>Full-HD Moniter Display - Up to 4 EA<br>Ultra HD Moniter Display - Up to 4 EA</td>
 </tr>
 <tr>
 <th rowspan="2">Video Output<br>Performance</th>
 <th>Full-HD<br>Monitor</th>
 <td>D1(720x480): 4 x 1,920fps (each monitor: 1,920fps)<br>
-    HD(1280x720): 4 x 960fps<br>
-    Full HD(1920x1080): 4 x 480fps<br>
-    Ultra HD(3840x2160): 4 x 120fps</td>
+HD(1280x720): 4 x 960fps<br>
+Full HD(1920x1080): 4 x 480fps<br>
+Ultra HD(3840x2160): 4 x 120fpss</td>
 </tr>
 <tr>
 <th>Ultra HD<br>Monitor</th>
 <td>D1(720x480): 2 x 1,920fps<br>
-    HD(1280x720): 2 x 960fps<br>
-    Full HD(1920x1080): 2 x 480fps<br>
-    Ultra HD(3840x2160): 2 x 120fps</td>
+HD(1280x720): 2 x 960fps<br>
+Full HD(1920x1080): 2 x 480fps<br>
+Ultra HD(3840x2160): 2 x 120fps</td>
 </tr>
 <tr>
 <th colspan="2">Operating System</th>
@@ -80,7 +80,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td>2ea of Dual Core 2.0GHz or Higher</td>
+<td>2ea of Dual Core 2.4GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
@@ -88,7 +88,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">VGA</th>
-<td>Integrated Graphic</td>
+<td>Integrated Graphic(Intel® Iris® Xᵉ) </td>
 </tr>
 <tr>
 <th colspan="2">Disk</th>
@@ -109,7 +109,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">Power Supply / Current</th>
-<td>2ea of DC19V 6.32A</td>
+<td>2ea of DC12V 5A</td>
 </tr>
 <tr>
 <th colspan="2">Dimension (W x H x D)</th>

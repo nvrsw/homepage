@@ -29,10 +29,8 @@ image:
 
 ## Features
 
-- Access up to 25,600 cameras (256 x 100ch)
-- Simultaneous monitoring of up to 32 Full HD videos
+- Access up to 131,072 cameras (1024 x 128ch)
 - Efficient management with multistreaming support
-- Efficient management due to dual monitoring support
 - Event-based live monitoring support
 - E-MAP function allows camera position to be displayed on the map and corresponding video
 - Remote search, remote backup (manual, schedule)
@@ -74,11 +72,11 @@ image:
 </tr>
 <tr>
 <th>Options</th>
-<td>CMS Standard Version(16 host), CMS professional Version(64 host), CMS Enterprise Version(256 host)</td>
+<td>16/64/128/256/512/1024 Host</td>
 </tr>
 <tr>
 <th colspan="2">Operating System</th>
-<td>Ubuntu Linux with OpenGL and X-Windows</td>
+<td>Ubuntu 22.04 with modified Linux Kernel, OpenGL and X-Windows</td>
 </tr>
 <tr>
 <th colspan="2">CPU</th>
@@ -86,20 +84,20 @@ image:
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>DDR3/4 16G RAM(8G*2EA)</td>
+<td>DDR4 16G RAM(8G*2EA)</td>
 </tr>
 <tr>
 <th colspan="2">VGA</th>
-<td>Integrated Graphic</td>
+<td>Integrated Graphic (included 48 Execution Unit)</td>
 </tr>
 <tr>
 <th colspan="2">Disk</th>
-<td>M.2 SSD 32G</td>
+<td>M.2 SSD 128G</td>
 </tr>
 <tr>
 <th rowspan="3">Display</th>
 <th>Monitor<br>Output</th>
-<td>1xHDMI / 1xVGA</td>
+<td>2xHDMI(up to 4K 60Hz support)</td>
 </tr>
 <tr>
 <th>Mode</th>
@@ -107,7 +105,7 @@ image:
 </tr>
 <tr>
 <th>Performance</th>
-<td>12M(5CH/150fsp), 8M(8CH/240fps), 5M(12CH/360fps), 1080P(32CH/960fps)</td>
+<td>Full HD 32ch at the same time decoding</td>
 </tr>
 <tr>
 <th rowspan="2">Search /<br>Replay</th>
@@ -125,7 +123,7 @@ image:
 </tr>
 <tr>
 <th>File Format</th>
-<td>MP4, JPG</td>
+<td>MP4, JPG, Encrypted Back up</td>
 </tr>
 <tr>
 <th colspan="2">Video Wall</th>
@@ -144,7 +142,7 @@ Elevator CRT, Fire / Smoke Detection, Abnormal Sound Detection, Thermal Imaging 
 <tr>
 <th rowspan="2">Network</th>
 <th>Interface</th>
-<td>10/100/1000 Base-Tx Ethernet (RJ45) - 1ea</td>
+<td>10/100/1000 Base-Tx Ethernet (RJ45) - 2ea</td>
 </tr>
 <tr>
 <th>Bandwidth<br>Control</th>
@@ -156,7 +154,7 @@ Elevator CRT, Fire / Smoke Detection, Abnormal Sound Detection, Thermal Imaging 
 </tr>
 <tr>
 <th colspan="2">Power Supply / Current</th>
-<td>DC19V 3.42A</td>
+<td>DC12V 5A</td>
 </tr>
 <tr>
 <th colspan="2">Dimension (W x H x D)</th>

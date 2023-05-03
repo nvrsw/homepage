@@ -60,6 +60,18 @@ align = "end"
   name = "EM-NDS-04"
   description = "Network Display Server"
 
+[[feature]]
+  image = "products/em-nds-mini-4k/featured.png"
+  url = "products/em-nds-mini-4k/"
+  name = "EM-NDS-mini-4k"
+  description = "Network Display Server"
+
+[[feature]]
+  image = "products/em-nts/featured.png"
+  url = "products/em-nts/"
+  name = "EM-Nts"
+  description = "Network HDMI Encoder"
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.

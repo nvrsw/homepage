@@ -1,5 +1,5 @@
 ---
-title: "EM-NDS-Solo"
+title: "EM-NDS-mini-4K"
 subtitle: "Network Display Server / IP Video Wall"
 summary: "Network Display Server / IP Video Wall"
 authors: []
@@ -17,7 +17,7 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-6">
 
-{{< figure src="em-nds-solo-case.png" >}}
+{{< figure src="em-nds-mini-case.png" >}}
 
 </div>
 </div>
@@ -25,12 +25,12 @@ image:
 
 ## Features
 
-- 1 full HD monitors or 1 UHD monitor
+- Support for 1ea 4K-UHD monitors
 - Support for up to 64CH display per monitor
 - Support monitor screen pivot (90°/180°/270°)
 - Delay-free display using NVR real time protocol
 - CMS video and video wall control at the same time
-- 1 Gigabit Ethernets 
+- ROI(Region of Interest) enables natural monitor connection part image
 
 ## Dimensions
 
@@ -43,18 +43,18 @@ image:
 <thead>
 <tr>
 <th colspan="2">Model</th>
-<th>EM-NDS-Solo</th>
+<th>EM-NDS-mini-4K</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th rowspan="2">Monitor</th>
 <th>Output</th>
-<td>1 of HDMI 1.4, 1 of VGA</td>
+<td>1 of HDMI</td>
 </tr>
 <tr>
 <th>Output<br>Performance</th>
-<td>Full-HD Moniter Display - Up to 1 EA(60Hz)<br>Ultra HD Moniter Display - Up to 1 EA(30Hz)</td>
+<td>Full-HD Moniter Display - Up to 1 EA(60Hz)<br>Ultra HD Moniter Display - Up to 1 EA(60Hz)</td>
 </tr>
 <tr>
 <th rowspan="2">Video Output<br>Performance</th>
@@ -66,10 +66,10 @@ image:
 </tr>
 <tr>
 <th>Ultra HD<br>Monitor</th>
-<td>D1(720x480): 960fps<br>
-    HD(1280x720): 480fps<br>
-    Full HD(1920x1080): 120fps<br>
-    Ultra HD(3840x2160): 30fps</td>
+<td>D1(720x480): 1,920fps<br>
+    HD(1280x720): 960fps<br>
+    Full HD(1920x1080): 480fps<br>
+    Ultra HD(3840x2160): 120fps</td>
 </tr>
 <tr>
 <th colspan="2">Operating System</th>
@@ -77,11 +77,11 @@ image:
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td>Dual Core 1.0GHz or Higher</td>
+<td>Dual Core 1.8GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>DDR3 8G RAM</td>
+<td>DDR4 16G RAM</td>
 </tr>
 <tr>
 <th colspan="2">VGA</th>
@@ -89,12 +89,12 @@ image:
 </tr>
 <tr>
 <th colspan="2">Disk</th>
-<td>SSD 8G</td>
+<td>SSD mSATA 16GB</td>
 </tr>
 <tr>
 <th rowspan="2">Network</th>
 <th>Interface</th>
-<td>1ea of 10/100/1000 Base-Tx Ethernet (RJ45)</td>
+<td>2ea of 1/2.5Gbps Ethernet (RJ45)</td>
 </tr>
 <tr>
 <th>Bandwidth<br>Control</th>
