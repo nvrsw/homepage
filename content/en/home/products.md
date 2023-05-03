@@ -55,9 +55,9 @@ align = "end"
   description = "Central Monitoring Server"
 
 [[feature]]
-  image = "products/em-nds-04/featured.png"
-  url = "products/em-nds-04/"
-  name = "EM-NDS-04"
+  image = "products/em-nds-04-4k/featured.png"
+  url = "products/em-nds-04-4k/"
+  name = "EM-NDS-04-4K"
   description = "Network Display Server"
 
 [[feature]]
@@ -69,7 +69,7 @@ align = "end"
 [[feature]]
   image = "products/em-nts/featured.png"
   url = "products/em-nts/"
-  name = "EM-Nts"
+  name = "EM-NTS"
   description = "Network HDMI Encoder"
 
 [design.background]
