@@ -1,6 +1,6 @@
 ---
 title: Products
-subtitle: NVR / Camera / CMS / NDS / Etc.
+subtitle: NVR / CMS / NDS
 
 # View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 3

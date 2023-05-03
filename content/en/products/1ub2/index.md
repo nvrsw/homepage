@@ -34,7 +34,7 @@ image:
 
 ## Features
 
-- 3.5" HDD up to 2ea (Max. 32TB)
+- 3.5" HDD up to 2ea (Max. 40TB)
 - Highly reliable 64-bit Linux-based network video recorder
 - Clear video quality with H.265 / H.264 compression
 - Support **all resolutions** including 12M / 8M / 5M / 2M / 1.3M
@@ -47,7 +47,6 @@ image:
 - User Authentication with **Fingerprint Mouse**
 - Smart Failover: Automatic takeover to spare units when system is stopped
 - Bidirectional audio transmission
-- Advanced **LPR(License Plate Recognition)** by 3rd party LPR server 
 - Model Line-up : 4, 9, 16, 25 CH
 
 </div>
@@ -88,10 +87,10 @@ image:
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>DDR3 2GB</td>
-<td>DDR3 4GB</td>
-<td>DDR3 8GB</td>
-<td>DDR3 16GB</td>
+<td>DDR4 2GB</td>
+<td>DDR4 4GB</td>
+<td>DDR4 8GB</td>
+<td>DDR4 16GB</td>
 </tr>
 <tr>
 <th rowspan="2">Display</th>
@@ -158,11 +157,11 @@ image:
 </tr>
 <tr>
 <th>Protocol</th>
-<td>ONVIF / RTSP and Proprietary protocols for more than 70 vendors including UDP / Axis / Dynacolor / Sony / Panasonic / Hanwha Techwin</td>
+<td>ONVIF / RTSP and Proprietary protocols for more than 100 vendors including UDP / Axis / Dynacolor / Sony / Panasonic / Hanwha Techwin</td>
 </tr>
 <tr>
 <th colspan="2">Operating System</th>
-<td>Linux 64bit(Embedded) / mSATA 8GB(dedicated for OS, NVR SW)</td>
+<td>Linux 64bit(Embedded) / mSATA SSD 16GB(dedicated for OS, NVR SW)</td>
 </tr>
 <tr>
 <th rowspan="5">Storage</th>
@@ -171,7 +170,7 @@ image:
 </tr>
 <tr>
 <th>Internal</th>
-<td>3.5" HDD up to 2ea (16TB HDD, Max. 32TB)</td>
+<td>3.5" HDD up to 2ea (20TB HDD, Max. 40TB)</td>
 </tr>
 <tr>
 <th>RAID<br>(Optional)</th>
@@ -248,7 +247,7 @@ image:
 <tr>
 <th rowspan="2">Intelligence<br>Solution</th>
 <th>Built-in</th>
-<td>LPR, Flame/Smoke Detection, VP(Video Privacy Mgt) (※ License Option)</td>
+<td>EMSTONE AI-based video analysis LPR and Flame/Smoke detection each 1CH (※ Additional License Option)</td>
 </tr>
 <tr>
 <th>External</th>

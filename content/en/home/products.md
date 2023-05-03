@@ -5,10 +5,10 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Products"
-subtitle = "NVR / Camera / CMS / NDS / Etc"
+subtitle = "NVR / CMS / NDS "
 url = "products/"
 align = "end"
 
@@ -37,40 +37,16 @@ align = "end"
 #   description = "3U 16Bay Storage Type PC based NVR"
 
 [[feature]]
-  image = "products/4ub24/featured.png"
-  url = "products/4ub24/"
-  name = "NVR 4U B24 Series"
-  description = "4U 24Bay Storage Type PC based NVR"
+  image = "products/1ub2/featured.png"
+  url = "products/1ub2/"
+  name = "NVR 1U B2 Series"
+  description = "1U 2Bay Storage Type PC based NVR"
 
 [[feature]]
-  image = "products/4ub8h/featured.png"
-  url = "products/4ub8h/"
-  name = "NVR 4U B8 Hybrid Series"
-  description = "4U 8Bay Storage Type PC based Hybrid NVR"
-
-[[feature]]
-  image = "products/t2/featured.png"
-  url = "products/t2/"
-  name = "NVR T2 Failover Server"
-  description = "2Bay Storage Type Failover Server"
-
-[[feature]]
-  image = "products/em-iqd/featured.png"
-  url = "products/em-iqd/"
-  name = "EM-IQD QHD Dome Camera"
-  description = "5MP Dome Type Network IP Camera Series"
-
-[[feature]]
-  image = "products/em-ihi/featured.png"
-  url = "products/em-ihi/"
-  name = "EM-IHI LPR Camera"
-  description = "License Plate Recognition Network IP Camera Series"
-
-[[feature]]
-  image = "products/em-ix/featured.png"
-  url = "products/em-ix/"
-  name = "EM-IX Thermal Imaging Camera"
-  description = "Thermal Imaging Network IP Camera Series"
+  image = "products/2ub8/featured.png"
+  url = "products/2ub8/"
+  name = "NVR 2U B8 Series"
+  description = "2U 8Bay Storage Type PC based NVR"
 
 [[feature]]
   image = "products/cms-station/featured.png"
@@ -83,12 +59,6 @@ align = "end"
   url = "products/em-nds-04/"
   name = "EM-NDS-04"
   description = "Network Display Server"
-
-[[feature]]
-  image = "products/em-poe-amp/featured.png"
-  url = "products/em-poe-amp/"
-  name = "EM-PoE-AMP-PLUS"
-  description = "Audio Amplifier / PoE Repeater"
 
 [design.background]
   # Apply a background color, gradient, or image.

@@ -1,6 +1,6 @@
 ---
 title: "NVR"
-subtitle: "Network Digital Video Recorders / NVR+ / Failover Servers"
+subtitle: "Network Digital Video Recorders"
 
 # View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 3

@@ -34,7 +34,7 @@ image:
 
 ## Features
 
-- 3.5" HDD up to 4ea (RAID unavailable)
+- 3.5" HDD up to 4ea (RAID Option)
 - Optional devices can be added (LAN, DI/DO)
 - Highly reliable 64-bit Linux-based network video recorder
 - Clear video quality with H.265 / H.264 compression
@@ -48,8 +48,7 @@ image:
 - User Authentication with **Fingerprint Mouse**
 - Smart Failover: Automatic takeover to spare units when system is stopped
 - Bidirectional audio transmission
-- Max. 64TB with internal storage space
-- Advanced **LPR(License Plate Recognition)** by 3rd party LPR server 
+- Max. 80TB with internal storage space
 - Model Line-up : 16, 25, 36, 49, 64 CH
 
 </div>
@@ -90,18 +89,18 @@ image:
 <tr>
 <th colspan="2">CPU</th>
 <td colspan="2">Dual Core 1.0GHz or Higher</td>
-<td colspan="3">i3 3.0GHz or Higher</td>
+<td colspan="3">i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>DDR3/4 8GB</td>
-<td>DDR3/4 12GB</td>
-<td>DDR3/4 16GB</td>
-<td>DDR3/4 24GB</td>
-<td>DDR3/4 32GB</td>
+<td>DDR4 8GB</td>
+<td>DDR4 12GB</td>
+<td>DDR4 16GB</td>
+<td>DDR4 32GB</td>
+<td>DDR4 32GB</td>
 </tr>
 <tr>
-<th rowspan="2">Display</th>
+<th rowspan="4">Display</th>
 <th>Monitor<br>Output</th>
 <td colspan="5">1xHDMI / 1xDP(orVGA)</td>
 </tr>
@@ -114,8 +113,11 @@ image:
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64</td>
 </tr>
 <tr>
-<th>Live</th>
-<th>Performance</th>
+<th>Live/Search<br>Performance</th>
+<td colspan="5"> Max. 12M supported</td>
+</tr>
+<tr>
+<th>Resolution<br>(CH/fps)</th>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
 <td>12M(4CH/120fps)<br>8M(6CH/180fps)<br>5M(10CH/300fps)<br>1080P(25CH/750fps)</td>
 <td>12M(6CH/180fps)<br>8M(9CH/270fps)<br>5M(14CH/420fps)<br>1080P(36CH/1080fps)</td>
@@ -136,17 +138,9 @@ image:
 <td colspan="5">H.265 / H.264 / MPEG4 / MJPEG</td>
 </tr>
 <tr>
-<th rowspan="3">Search /<br>Replay</th>
+<th rowspan="2">Search /<br>Replay</th>
 <th>Method</th>
 <td colspan="5">Calendar / Channel Grouping / Events</td>
-</tr>
-<tr>
-<th>Performance</th>
-<td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(4CH/120fps)<br>8M(6CH/180fps)<br>5M(10CH/300fps)<br>1080P(25CH/750fps)</td>
-<td>12M(6CH/180fps)<br>8M(9CH/270fps)<br>5M(14CH/420fps)<br>1080P(36CH/1080fps)</td>
-<td>12M(8CH/240fps)<br>8M(12CH/360fps)<br>5M(19CH/570fps)<br>1080P(49CH/1470fps)</td>
-<td>12M(10CH/300fps)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)</td>
 </tr>
 <tr>
 <th>Replay<br>Control</th>
@@ -168,11 +162,11 @@ image:
 </tr>
 <tr>
 <th>Protocol</th>
-<td>ONVIF / RTSP and Proprietary protocols for more than 70 vendors including UDP / Axis / Dynacolor / Sony / Panasonic / Hanwha Techwin</td>
+<td>ONVIF / RTSP and Proprietary protocols for more than 100 vendors including UDP / Axis / Dynacolor / Sony / Panasonic / Hanwha Techwin</td>
 </tr>
 <tr>
 <th colspan="2">Operating System</th>
-<td>Linux 64bit(Embedded) / mSATA 8GB(dedicated for OS, NVR SW)</td>
+<td>Linux 64bit(Embedded) / mSATA SSD 16GB(dedicated for OS, NVR SW)</td>
 </tr>
 <tr>
 <th rowspan="5">Storage</th>
@@ -181,10 +175,10 @@ image:
 </tr>
 <tr>
 <th>Internal</th>
-<td>3.5" HDD up to 4ea (16TB HDD, Max. 64TB)</td>
+<td>3.5" HDD up to 4ea (20TB HDD, Max. 80TB)</td>
 </tr>
 <tr>
-<th>RAID<br>(Optional)</th>
+<th>RAID</th>
 <td>Not Supported</td>
 </tr>
 <tr>
@@ -193,7 +187,7 @@ image:
 </tr>
 <tr>
 <th>External</th>
-<td>iSCSI</td>
+<td>iSCSI(more than 36ch only)</td>
 </tr>
 <tr>
 <th rowspan="2">Backup</th>
@@ -229,7 +223,7 @@ image:
 <tr>
 <th rowspan="4">Network</th>
 <th>Interface</th>
-<td>10/100/1000 Base-Tx Ethernet (RJ45) - 1ea for 16/25/36CH, 2ea for 49/64/81/100/128CH</td>
+<td>10/100/1000 Base-Tx Ethernet (RJ45) - 1ea for 16/25CH, 2ea for 36/49/64CH</td>
 </tr>
 <tr>
 <th>Simultaneous<br>Access</th>
@@ -258,7 +252,7 @@ image:
 <tr>
 <th rowspan="2">Intelligence<br>Solution</th>
 <th>Built-in</th>
-<td>LPR, Flame/Smoke Detection, VP(Video Privacy Mgt) (※ License Option)</td>
+<td>EMSTONE AI-based video analysis LPR and Flame/Smoke detection each 1CH (※ Additional License Option)</td>
 </tr>
 <tr>
 <th>External</th>
@@ -270,8 +264,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">Power Supply / Current</th>
-<td>DC12V 5A Adapter (AC100 ~ 240V 50/60Hz)<br>DC12V 10A Adapter (AC100 ~ 240V 50/60Hz)</td>
-</tr>
+<td>DC12V 5A Adapter (AC100 ~ 240V 50/60Hz)</tr>
 <tr>
 <th colspan="2">Dimension (W x H x D)</th>
 <td>482(W) Ⅹ 88.4(H) Ⅹ 400(D)mm</td>
