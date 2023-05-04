@@ -6,7 +6,7 @@ authors: []
 tags: [ "ipwall" ]
 categories: [ "nds" ]
 draft: false
-weight: 4020
+weight: 4040
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
