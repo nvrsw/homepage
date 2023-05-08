@@ -1,6 +1,6 @@
 ---
-title: Products
-subtitle: REDBACK / NVR / CMS / NDS
+title: "REDBACK Series"
+subtitle: "REDBACK VMS / REDBACK DAS"
 
 # View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 3

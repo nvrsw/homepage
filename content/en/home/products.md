@@ -49,6 +49,18 @@ align = "end"
   description = "2U 8Bay Storage Type PC based NVR"
 
 [[feature]]
+  image = "products/redbackvms/featured.png"
+  url = "products/redbackvms/"
+  name = "REDBACK VMS Series"
+  description = "Video Management System"
+
+[[feature]]
+  image = "products/redbackdas/featured.png"
+  url = "products/redbackdas/"
+  name = "REDBACK DAS Series"
+  description = "Direct-attached Storage"
+
+[[feature]]
   image = "products/cms-station/featured.png"
   url = "products/cms-station/"
   name = "EM-CMS Station H"

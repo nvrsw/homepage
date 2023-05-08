@@ -33,23 +33,30 @@
   url = "company/"
   weight = 50
 
+
+[[main]]
+  parent = "products"
+  name = "REDBACK Series"
+  url = "categories/redback/"
+  weight = 10
+
 [[main]]
   parent = "products"
   name = "Netwrok Video Recorder"
   url = "categories/nvr/"
-  weight = 10
+  weight = 20
 
 [[main]]
   parent = "products"
   name = "Central Monitoring System"
   url = "categories/cms/"
-  weight = 20
+  weight = 30
 
 [[main]]
   parent = "products"
   name = "Network Display Server"
   url = "categories/nds/"
-  weight = 30
+  weight = 40
 
 [[main]]
   parent = "solutions"
