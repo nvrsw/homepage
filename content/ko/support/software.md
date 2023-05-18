@@ -20,11 +20,11 @@ image:
 
 *Central Monitoring System for NVR / IP Video Wall*
 
-- 버전: **2.1.23.5.15** (2023-05-15)
+- 버전: **2.1.23.5.18** (2023-05-18)
 - Windows 설치 프로그램 (Windows 7 / Windows 8 / Windows 10)
-  - [32비트](https://www.emstone.com/data/cms/cms-2.1.23.5.15-win32-emstone.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.23.5.15-win64-emstone.exe)
+  - [32비트](https://www.emstone.com/data/cms/cms-2.1.23.5.18-win32-emstone.exe) / [64비트](https://www.emstone.com/data/cms/cms-2.1.23.5.18-win64-emstone.exe)
 - Linux 설치 프로그램 (Ubuntu 19.04 / Arch Linux)
-  - [64비트](https://www.emstone.com/data/cms/cms-2.1.23.5.15-linux-x86_64.tar.bz2)
+  - [64비트](https://www.emstone.com/data/cms/cms-2.1.23.5.18-linux-x86_64.tar.bz2)
 - [변경사항](/docs/cms/changelog/cms21.html)
 
 ## 모바일 앱
