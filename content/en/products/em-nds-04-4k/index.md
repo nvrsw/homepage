@@ -117,7 +117,7 @@ Ultra HD(3840x2160): 2 x 120fps</td>
 </tr>
 <tr>
 <th colspan="2">Weight</th>
-<td>Approx. 2.32 kg</td>
+<td>Approx. 2.98 kg</td>
 </tr>
 </tbody>
 </table>

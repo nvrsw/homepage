@@ -119,7 +119,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">중량</th>
-<td>Approx. 2.32 kg</td>
+<td>Approx. 2.98 kg</td>
 </tr>
 </tbody>
 </table>
@@ -131,10 +131,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [NDS-04-4K_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/NDS-04-4K_CATALOG_KO_20230110.pdf)
+카탈로그 | [NDS-04-4K_CATALOG_KO_20230612.pdf](https://www.emstone.com/data/sales/ko/NDS-04-4K_CATALOG_KO_20230612.pdf)
 외관도 | [NDS-04-4K_외관도_20230110.dwg](https://www.emstone.com/data/sales/ko/NDS-04-4K_외관도_20230110.dwg)<br>[NDS-04-4K_외관도_20230110.png](https://www.emstone.com/data/sales/ko/NDS-04-4K_외관도_20230110.png)
-사양서 | [NDS-04-4K_사양서_20230110.xlsx](https://www.emstone.com/data/sales/ko/NDS-04-4K_사양서_20230110.xlsx)
-시방서 | [NDS-04-4K_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/NDS-04-4K_시방서_20230110.hwp)
+사양서 | [NDS-04-4K_사양서_20230612.xlsx](https://www.emstone.com/data/sales/ko/NDS-04-4K_사양서_20230612.xlsx)
+시방서 | [NDS-04-4K_시방서_20230612.hwp](https://www.emstone.com/data/sales/ko/NDS-04-4K_시방서_20230612.hwp)
 출하검사 결과 성적서 | [NDS-04-4K_출하검사결과성적서_20230110.xls](https://www.emstone.com/data/sales/ko/NDS-04-4K_출하검사결과성적서_20230110.xls)
 인증서 | [NDS-04-4K_방송통신기자재등의적합등록필증_20230206.pdf](https://www.emstone.com/data/sales/ko/NDS-04-4K_방송통신기자재등의적합등록필증_20230206.pdf)
 매뉴얼 | [NDS_사용_매뉴얼_20220511.pdf](https://www.emstone.com/data/sales/ko/NDS_사용_매뉴얼_20220511.pdf)
