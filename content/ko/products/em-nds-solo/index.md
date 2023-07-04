@@ -141,7 +141,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [NDS-Solo_CATALOG_KO_20230404.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_CATALOG_KO_20230404.pdf)
+카탈로그 | [NDS-Solo_CATALOG_KO_20230703.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_CATALOG_KO_20230703.pdf)
 외관도 | [NDS-Solo_외관도_20210428.dwg](https://www.emstone.com/data/sales/ko/NDS-Solo_외관도_20210428.dwg)<br>[NDS-Solo_외관도_20210428.png](https://www.emstone.com/data/sales/ko/NDS-Solo_외관도_20210428.png)
 사양서 | [NDS-Solo_사양서_20230404.xlsx](https://www.emstone.com/data/sales/ko/NDS-Solo_사양서_20230404.xlsx)
 시방서 | [NDS-Solo_시방서_20210224.hwp](https://www.emstone.com/data/sales/ko/NDS-Solo_시방서_20210224.hwp)
