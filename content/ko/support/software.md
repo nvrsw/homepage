@@ -34,6 +34,13 @@ image:
       - Linux
         - 64비트: [cms-2.1.23.5.18-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.23.5.18-linux-x86_64.tar.bz2)
 
+  - **CMS-DEV**
+    - 버전: **2.1.23.7.4** (2023.07.04)
+    - 다운로드
+      - Windows
+        - 32비트: [cms-2.1.23.7.4-win32.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.7.4-win32.exe)
+        - 64비트: [cms-2.1.23.7.4-win64.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.7.4-win64.exe)
+
   - **2.1.20.6.23**
     - 버전: **2.1.20.6.23** (2020.06.23)
     - 다운로드
@@ -62,6 +69,11 @@ image:
     - 설치 파일: [nvr-2.9.23.6.2-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.6.2-emstone.iso)
                  / [SHA-256 Checksum](www.emstone.com/data/dvr/nvr-2.9.23.6.2-emstone.iso-sha256.txt)
     - 모델: 모든 모델
+  - **EM-DEV**
+    - 버전: **2.9.23.7.4** (2023-07-04)
+    - 다운로드: [nvr-2.9.23.7.4.iso](https://www.emstone.com/data/tta/emstone/EM-DEV/nvr-2.9.23.7.4.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/EM-DEV/nvr-2.9.23.7.4.iso-sha256.txt)
+    - 모델: 개발지원
   - **EM-128B16H**
     - 버전: **2.9.21.9.13** (2021-09-13)
     - 다운로드: [nvr-2.9.21.9.13.iso](https://www.emstone.com/data/tta/emstone/EM-128B16H/nvr-2.9.21.9.13.iso)
