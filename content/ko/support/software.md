@@ -35,11 +35,11 @@ image:
         - 64비트: [cms-2.1.23.5.18-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.23.5.18-linux-x86_64.tar.bz2)
 
   - **CMS-DEV**
-    - 버전: **2.1.23.7.4** (2023.07.04)
+    - 버전: **2.1.23.7.5** (2023.07.05)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.23.7.4-win32.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.7.4-win32.exe)
-        - 64비트: [cms-2.1.23.7.4-win64.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.7.4-win64.exe)
+        - 32비트: [cms-2.1.23.7.5-win32.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.7.5-win32.exe)
+        - 64비트: [cms-2.1.23.7.5-win64.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.7.5-win64.exe)
 
   - **2.1.20.6.23**
     - 버전: **2.1.20.6.23** (2020.06.23)
