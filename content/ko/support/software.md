@@ -26,7 +26,7 @@ image:
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - 설치 프로그램
   - **최신 버전**
-    - 버전: **2.1.23.7.6** (2023.05.18)
+    - 버전: **2.1.23.7.6** (2023.07.06)
     - 다운로드
       - Windows
         - 32비트: [cms-2.1.23.7.6-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.23.7.6-win32-emstone.exe)
