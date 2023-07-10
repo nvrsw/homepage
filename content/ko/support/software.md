@@ -67,7 +67,7 @@ image:
   - **최신 버전**
     - 버전: **2.9.23.7.10** (2023-07-10)
     - 설치 파일: [nvr-2.9.23.7.10-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.7.10-emstone.iso)
-                 / [SHA-256 Checksum](www.emstone.com/data/dvr/nvr-2.9.23.7.10-emstone.iso-sha256.txt)
+                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.7.10-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   - **EM-DEV**
     - 버전: **2.9.23.7.4** (2023-07-04)

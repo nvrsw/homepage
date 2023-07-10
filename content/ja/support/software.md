@@ -60,7 +60,7 @@ image:
   - **最新バージョン**
     - バージョン: **2.9.23.7.10** (2023-07-10)
     - ダウンロード: [nvr-2.9.23.7.10-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.7.10-emstone.iso)
-                / [SHA-256 Checksum](www.emstone.com/data/dvr/nvr-2.9.23.7.10-emstone.iso-sha256.txt)
+                / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.7.10-emstone.iso-sha256.txt)
     - モデル: 全モデル
 
 ## NDS
