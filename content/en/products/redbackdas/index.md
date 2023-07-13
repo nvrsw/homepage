@@ -39,9 +39,9 @@ image:
 - Storage/search performance of 128 ~ 256 IP camera data
 - High-performance, high-capacity platform capable of handling rapid data growth
 - Data transfer at 6/1212Gb/s with SATA/SAS interface
-- Direct connection to RAID and SAS cards on REDBACK VMS
-- Provides a multipurpose architecture (SAN, iSCSI) designed for expansion
-- Provides enterprise-class stability and performance for public institutions
+- Direct connection to RAID and SAS cards on NVR+ & REDBACK VMS
+- Provides flexible architecture (RAID, Non-RAID) according to the purpose of use
+- Providing professional-grade stability and performance
 - Space-efficient configuration reduces cost and resources
 - Available by connecting one additional DAS
 
