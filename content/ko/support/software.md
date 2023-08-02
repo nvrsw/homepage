@@ -115,3 +115,7 @@ image:
             / [SHA-256 Checksum](https://www.emstone.com/data/tta/camera/hash_code.txt)
   - 모델: EM-IQD(IR2812Z), EM-IQV(IR2812Z), EM-IQE(IR2812Z)
 
+- **AS3L_SWU1_V1.0.0.17**
+  - 펌웨어: [s3l_fw_all.dat](https://www.emstone.com/data/tta/camera/EM-IQS/s3l_fw_all.dat)
+            / [SHA-256 Checksum](https://www.emstone.com/data/tta/camera/EM-IQS/hash_code.txt)
+  - 모델: EM-IQS(IR36x)
