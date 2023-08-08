@@ -66,14 +66,14 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.23.8.9** (2023-08-08)
-    - 설치 파일: [nvr-2.9.23.8.9-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.8.9-emstone.iso)
-                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.8.9-emstone.iso-sha256.txt)
+    - 버전: **2.9.23.8.8** (2023-08-08)
+    - 설치 파일: [nvr-2.9.23.8.8-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.8.8-emstone.iso)
+                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.8.8-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   - **EM-128B8H**
-    - 버전: **2.9.23.8.9** (2023-08-08)
-    - 다운로드: [nvr-2.9.23.8.9.iso](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.9.iso)
-                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.9.iso-sha256.txt)
+    - 버전: **2.9.23.8.8** (2023-08-08)
+    - 다운로드: [nvr-2.9.23.8.8.iso](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso-sha256.txt)
     - 모델: EM-1090B8H, EM-81B8H, EM-64B8F, EM-49B8F, EM-36B8, EM-25B8, EM-16B8
   - **EM-128B16H**
     - 버전: **2.9.21.9.13** (2021-09-13)
