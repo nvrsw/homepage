@@ -34,19 +34,19 @@ image:
       - Linux
         - 64비트: [cms-2.1.23.7.6-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.23.7.6-linux-x86_64.tar.bz2)
 
-  - **CMS-DEV**
-    - 버전: **2.1.23.7.5** (2023.07.05)
+  - **2.1.23.8.8**
+    - 버전: **2.1.23.8.8** (2023.08.08)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.23.7.5-win32.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.7.5-win32.exe)
-        - 64비트: [cms-2.1.23.7.5-win64.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.7.5-win64.exe)
+        - 32비트: [cms-2.1.23.8.8-win32.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.8.8-win32.exe)
+        - 64비트: [cms-2.1.23.8.8-win64.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.8.8-win64.exe)
 
   - **2.1.20.6.23**
     - 버전: **2.1.20.6.23** (2020.06.23)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.20.6.23-win32.exe](https://www.emstone.com/data/tta/emstone/cms-2.1.20.6.23-win32.exe)
-        - 64비트: [cms-2.1.20.6.23-win64.exe](https://www.emstone.com/data/tta/emstone/cms-2.1.20.6.23-win64.exe)
+        - 32비트: [cms-2.1.20.6.23-win32.exe](https://www.emstone.com/data/tta/cms/cms-2.1.20.6.23-win32.exe)
+        - 64비트: [cms-2.1.20.6.23-win64.exe](https://www.emstone.com/data/tta/cms/cms-2.1.20.6.23-win64.exe)
 
 ## 모바일 앱
 
