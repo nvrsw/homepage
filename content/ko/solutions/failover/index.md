@@ -1,7 +1,7 @@
 ---
-title: "NVR 장애 대응"
-subtitle: "Smart NVR Failover"
-summary: "예기치 않은 시스템의 결함이나 외부 공격에 의한 영상 데이터 손실을 방지하기 위한 NVR 장애 대응 솔루션입니다."
+title: "Failover 장애 대응 시스템"
+subtitle: "Smart Failover System"
+summary: "예기치 않은 시스템의 결함이나 외부 공격에 의한 영상 데이터 손실을 방지하기 위한 장애 대응 솔루션입니다."
 authors: []
 tags: [ "failover" ]
 categories: []
@@ -13,40 +13,7 @@ image:
   preview_only: true
 ---
 
-예기치 않은 시스템의 결함이나 외부 공격에 의한 영상 데이터 손실을 방지하기 위한 NVR 장애 대응 솔루션입니다.
+감시장비 장애(Fail) 발생 시 자동으로 절체되며, 장애 장비 복구 시 기본 감시 모드로 자동으로 전환합니다. <br> 장애대응 외 가상 IP, Failover 데이터 타임라인 검색 등 고급 모드도 지원합니다.
 
-- 최대 256대의 NVR / 스트리밍 서버 동시 감시 가능
-- 감시 대상 장비의 장애(Fail) 발생 시 자동 절체
-- 장애 장비 복구 시 기본 감시 모드로 자동 전환
-- CMS / IP 월 등의 구성 시스템과 연동 지원
-- NVR 1:1 장애 대응 외 고급 모드 지원
-
-<div class="container">
-<div class="row">
-<div class="col-12 col-sm-6 pl-0">
-
-## 구성에 필요한 장비
-
-|
-:-: | ---
-**필수장비** | Failover 서버<br>녹화기(NVR / Hybrid NVR)
-
-</div>
-<div class="col-12 col-sm-6 pl-0">
-
-## 적용 가능 제품
-
-|
-:-: | ---
-**Failover 서버** | EM-F64T2<br>EM-F128T2
-**녹화기** | NVR 전제품<br>Hybrid NVR 전제품
-
-</div>
-</div>
-</div>
-
-## 사용 사례
-
-{{< figure src="failover-normal.png" caption="시스템 정상 구동 상황" >}}
-
-{{< figure src="failover-failure.png" caption="NVR 장애 발생 상황" >}}
+## Failover 장애대응 시스템
+{{< figure src="failover1.png" >}}
