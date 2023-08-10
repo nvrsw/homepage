@@ -114,7 +114,7 @@ cascade:
       {
         title: '강남지사',
         address: '서울 중랑구 봉화산로 59나길 10',
-        latlng: new naver.maps.LatLng(37.61080311877664, 127.10400795414643)
+        latlng: new naver.maps.LatLng(37.6107960, 127.1042533)
       },
       {
         title: '경기북부',
@@ -138,13 +138,13 @@ cascade:
       },
       {
         title: '강원영서지사',
-        address: '강원도 홍천군 홍천읍 갈마로 77',
-        latlng: new naver.maps.LatLng(37.6958814305287, 127.904238526586)
+        address: '강원도 춘천시 퇴계공단2길 55',
+        latlng: new naver.maps.LatLng(37.8429083, 127.7375769)
       },
       {
         title: '광주지사',
         address: '광주광역시 북구 버들로 40 서광빌딩 2층',
-        latlng: new naver.maps.LatLng(35.1577391500073, 126.91123384065)
+        latlng: new naver.maps.LatLng(35.1602991, 126.9047373)
       },
       {
         title: '전남지사',
@@ -179,7 +179,7 @@ cascade:
       {
         title: '제주지사',
         address: '제주특별자치도 제주시 남학길 2-9',
-        latlng: new naver.maps.LatLng(33.491771033256, 126.526607223506)
+        latlng: new naver.maps.LatLng(33.4627065, 126.5283146)
       },
       {
         title: 'EMSTONE LINK',
@@ -215,7 +215,7 @@ cascade:
 **경기남부** | [경기도 수원시 권선구 칠보로 14번길 134-18](https://map.naver.com/v5/search/경기도+수원시+권선구+칠보로+14번길+134-18)
 **경기서부** | [경기도 안산시 단원구 별망로 555 타원타크라 5차 813호](https://map.naver.com/v5/search/경기도+안산시+단원구+별망로+555+타원타크라+5차+813호)
 **강릉지사** | [강원도 강릉시 월호평길58번길 49](https://map.naver.com/v5/search/강원도+강릉시+월호평길58번길+49)
-**강원영서지사** | [강원도 홍천군 홍천읍 갈마로 77](https://map.naver.com/v5/search/강원도+홍천군+홍천읍+갈마로+77)
+**강원영서지사** | [강원도 춘천시 퇴계공단2길 55](https://map.naver.com/v5/search/춘천시+퇴계공단2길+55)
 **광주지사** | [광주광역시 북구 중가로37번길 10-1](https://map.naver.com/v5/search/광주광역시+북구+중가로37번길+10-1+1층)
 **전남지사** | [전라남도 순천시 원가곡1길 6-8 1층](https://map.naver.com/v5/search/전라남도+순천시+원가곡1길+6-8+1층)
 **대전충청지사** | [대전광역시 유성구 테크노4로 17 대덕비즈센터 D동 212호](https://map.naver.com/v5/search/대전광역시+유성구+테크노4로+17+대덕비즈센터+D동+212호)
