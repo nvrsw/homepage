@@ -34,19 +34,19 @@ image:
       - Linux
         - 64비트: [cms-2.1.23.7.6-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.23.7.6-linux-x86_64.tar.bz2)
 
-  - **CMS-DEV**
-    - 버전: **2.1.23.7.5** (2023.07.05)
+  - **2.1.23.8.8**
+    - 버전: **2.1.23.8.8** (2023.08.08)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.23.7.5-win32.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.7.5-win32.exe)
-        - 64비트: [cms-2.1.23.7.5-win64.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.7.5-win64.exe)
+        - 32비트: [cms-2.1.23.8.8-win32.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.8.8-win32.exe)
+        - 64비트: [cms-2.1.23.8.8-win64.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.8.8-win64.exe)
 
   - **2.1.20.6.23**
     - 버전: **2.1.20.6.23** (2020.06.23)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.20.6.23-win32.exe](https://www.emstone.com/data/tta/emstone/cms-2.1.20.6.23-win32.exe)
-        - 64비트: [cms-2.1.20.6.23-win64.exe](https://www.emstone.com/data/tta/emstone/cms-2.1.20.6.23-win64.exe)
+        - 32비트: [cms-2.1.20.6.23-win32.exe](https://www.emstone.com/data/tta/cms/cms-2.1.20.6.23-win32.exe)
+        - 64비트: [cms-2.1.20.6.23-win64.exe](https://www.emstone.com/data/tta/cms/cms-2.1.20.6.23-win64.exe)
 
 ## 모바일 앱
 
@@ -66,30 +66,30 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.23.7.12** (2023-07-12)
-    - 설치 파일: [nvr-2.9.23.7.12-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.7.12-emstone.iso)
-                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.7.12-emstone.iso-sha256.txt)
+    - 버전: **2.9.23.8.8** (2023-08-08)
+    - 설치 파일: [nvr-2.9.23.8.8-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.8.8-emstone.iso)
+                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.8.8-emstone.iso-sha256.txt)
     - 모델: 모든 모델
-  - **EM-DEV**
-    - 버전: **2.9.23.7.4** (2023-07-04)
-    - 다운로드: [nvr-2.9.23.7.4.iso](https://www.emstone.com/data/tta/emstone/EM-DEV/nvr-2.9.23.7.4.iso)
-                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/EM-DEV/nvr-2.9.23.7.4.iso-sha256.txt)
-    - 모델: 개발지원
+  - **EM-128B8H**
+    - 버전: **2.9.23.8.8** (2023-08-08)
+    - 다운로드: [nvr-2.9.23.8.8.iso](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso-sha256.txt)
+    - 모델: EM-1090B8H, EM-81B8H, EM-64B8F, EM-49B8F, EM-36B8, EM-25B8, EM-16B8
   - **EM-128B16H**
     - 버전: **2.9.21.9.13** (2021-09-13)
-    - 다운로드: [nvr-2.9.21.9.13.iso](https://www.emstone.com/data/tta/emstone/EM-128B16H/nvr-2.9.21.9.13.iso)
-                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/EM-128B16H/nvr-2.9.21.9.13.iso-sha256.txt)
-    - 모델: EM-128B16H, EM-04B16, EM-09B16, EM-16B16, EM-25B16,EM-36B16, EM-49B16F, EM-64B16F, EM-81B16H, EM-100B16H
+    - 다운로드: [nvr-2.9.21.9.13.iso](https://www.emstone.com/data/tta/emstone/2021/nvr-2.9.21.9.13.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2021/nvr-2.9.21.9.13.iso-sha256.txt)
+    - 모델: EM-128B16H, EM-04B16, EM-09B16, EM-16B16, EM-25B16, EM-36B16, EM-49B16F, EM-64B16F, EM-81B16H, EM-100B16H
   - **EM-128B2**
     - 버전: **2.9.20.7.8** (2020-07-08)
-    - 다운로드: [nvr-2.9.20.7.8.iso](https://www.emstone.com/data/tta/emstone/nvr-2.9.20.7.8.iso)
-                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/nvr-2.9.20.7.8.iso-sha256.txt)
+    - 다운로드: [nvr-2.9.20.7.8.iso](https://www.emstone.com/data/tta/emstone/2020/nvr-2.9.20.7.8.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2020/nvr-2.9.20.7.8.iso-sha256.txt)
     - 모델: EM-25B2, EM-16B2, EM-09B2, EM-04B2
   - **EM-128B8H**
     - 버전: **2.9.19.4.10** (2019-04-10)
-    - 다운로드: [nvr-2.9.19.4.10.iso](https://www.emstone.com/data/tta/emstone/nvr-2.9.19.4.10.iso)
-                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/nvr-2.9.19.4.10.iso-sha256.txt)
-    - 모델: 모든 모델
+    - 다운로드: [nvr-2.9.19.4.10.iso](https://www.emstone.com/data/tta/emstone/2019/nvr-2.9.19.4.10.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2019/nvr-2.9.19.4.10.iso-sha256.txt)
+    - 모델: EM-128B8H, EM-100B8H, EM-81B8H, EM-64B8F, EM-49B8F, EM-36B8, EM-25B8, EM-16B8
 
 ## NDS
 
@@ -115,3 +115,7 @@ image:
             / [SHA-256 Checksum](https://www.emstone.com/data/tta/camera/hash_code.txt)
   - 모델: EM-IQD(IR2812Z), EM-IQV(IR2812Z), EM-IQE(IR2812Z)
 
+- **AS3L_SWU1_V1.0.0.17**
+  - 펌웨어: [s3l_fw_all.dat](https://www.emstone.com/data/tta/camera/EM-IQS/s3l_fw_all.dat)
+            / [SHA-256 Checksum](https://www.emstone.com/data/tta/camera/EM-IQS/hash_code.txt)
+  - 모델: EM-IQS(IR36x)
