@@ -17,58 +17,58 @@ align = "end"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  image = "solutions/ipwall/featured.jpg"
-  url = "solutions/ipwall/"
-  name = "IP 비디오 월"
-  description = "IP Video Wall"
+  image = "solutions/vms/featured.png"
+  url = "solutions/vms/"
+  name = "통합영상관제시스템"
+  description = "Video Management System"
   
 [[feature]]
-  image = "solutions/fingerprint/featured.png"
-  url = "solutions/fingerprint/"
-  name = "지문 인증"
-  description = "Fingerprint Authentication"
+  image = "solutions/smartipwall/featured.png"
+  url = "solutions/smartipwall/"
+  name = "IP 비디오 월 시스템"
+  description = "IP Wall Control System"
   
 [[feature]]
-  image = "solutions/thermal/featured.png"
-  url = "solutions/thermal/"
-  name = "열화상 카메라"
-  description = "Thermal Imaging Camera"
+  image = "solutions/daiseries/featured.png"
+  url = "solutions/daiseries/"
+  name = "지능형 영상 분석 솔루션"
+  description = "EMSTONE D-AI Series"
 
 [[feature]]
-  image = "solutions/lpr/featured.jpg"
-  url = "solutions/lpr/"
-  name = "차량번호 추출"
-  description = "License Plate Recognition"
+  image = "solutions/parkingenforcement/featured.png"
+  url = "solutions/parkingenforcement/"
+  name = "공동주택 불법 주∙정차 솔루션"
+  description = "Parking Enforcement System"
 
 [[feature]]
-  image = "solutions/entrance/featured.jpg"
-  url = "solutions/entrance/"
-  name = "안전 입출차"
-  description = "Safe Entry Vehicles"
+  image = "solutions/leadparking/featured.png"
+  url = "solutions/leadparking/"
+  name = "주차 유도 솔루션"
+  description = "Lead Parking Solution"
 
 [[feature]]
-  image = "solutions/elevator/featured.jpg"
-  url = "solutions/elevator/"
-  name = "엘리베이터 CRT 연동"
-  description = "Elevator CRT System Integration"
+  image = "solutions/evcharging/featured.png"
+  url = "solutions/evcharging/"
+  name = "전기차 안전 충전 솔루션"
+  description = "Safe EV Charging Station"
 
 [[feature]]
-  image = "solutions/sound/featured.png"
-  url = "solutions/sound/"
-  name = "이상음원 감지"
-  description = "Abnormal Sound Detection"
+  image = "solutions/interworkinglpr/featured.png"
+  url = "solutions/interworkinglpr/"
+  name = "LPR 시스템 연동 솔루션"
+  description = "Interworking with LPR Solution"
 
 [[feature]]
-  image = "solutions/emcall/featured.png"
-  url = "solutions/emcall/"
-  name = "비상벨"
-  description = "Emergency Call"
+  image = "solutions/licenseplate/featured.png"
+  url = "solutions/licenseplate/"
+  name = "차량번호 추출 솔루션"
+  description = "License Plate Identification"
 
 [[feature]]
-  image = "solutions/failover/featured.png"
-  url = "solutions/failover/"
-  name = "NVR 장애 대응"
-  description = "Smart NVR Failover"
+  image = "solutions/flamesmoke/featured.png"
+  url = "solutions/flamesmoke/"
+  name = "불꽃/연기 지능형 분석 솔루션"
+  description = "Flame/Smoke Deep Learning Analysis"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -77,8 +77,8 @@ align = "end"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "#222222"
-  
+  # color = "#111111"
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"

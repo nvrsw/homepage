@@ -78,75 +78,100 @@
 
 [[main]]
   parent = "solutions"
-  name = "IP 비디오 월"
-  url = "solutions/ipwall/"
+  name = "통합영상관제시스템"
+  url = "solutions/vms/"
   weight = 10
 
 [[main]]
   parent = "solutions"
-  name = "지문 인증"
-  url = "solutions/fingerprint/"
+  name = "IP 비디오 월 시스템"
+  url = "solutions/smartipwall/"
+  weight = 11
+
+[[main]]
+  parent = "solutions"
+  name = "지능형 영상분석 솔루션"
+  url = "solutions/daiseries/"
+  weight = 12
+
+[[main]]
+  parent = "solutions"
+  name = "공동주택 불법 주∙정차 솔루션"
+  url = "solutions/parkingenforcement/"
+  weight = 13
+
+
+[[main]]
+  parent = "solutions"
+  name = "주차 유도 솔루션"
+  url = "solutions/leadparking/"
+  weight = 14
+
+[[main]]
+  parent = "solutions"
+  name = "전기차 안전 충전 솔루션"
+  url = "solutions/evcharging/"
+  weight = 15
+
+[[main]]
+  parent = "solutions"
+  name = "LPR 시스템 연동 솔루션"
+  url = "solutions/interworkinglpr/"
+  weight = 16
+
+[[main]]
+  parent = "solutions"
+  name = "차량번호 추출 솔루션"
+  url = "solutions/licenseplate/"
+  weight = 17
+
+[[main]]
+  parent = "solutions"
+  name = "불꽃/연기 지능형 분석 솔루션"
+  url = "solutions/flamesmoke/"
+  weight = 18
+
+[[main]]
+  parent = "solutions"
+  name = "안전 입출차/진출입 솔루션"
+  url = "solutions/safetyentranceexit/"
+  weight = 19
+
+[[main]]
+  parent = "solutions"
+  name = "이상음원 감지 솔루션"
+  url = "solutions/sounddetection/"
   weight = 20
 
+  [[main]]
+  parent = "solutions"
+  name = "생체정보(지문) 인증 시스템"
+  url = "solutions/biometricauthentication/"
+  weight = 21
+
 [[main]]
   parent = "solutions"
-  name = "안전 입출차"
-  url = "solutions/entrance/"
+  name = "Failover 장애 대응 시스템"
+  url = "solutions/failoversystem/"
+  weight = 22
+
+[[main]]
+  parent = "solutions"
+  name = "시간 동기화 시스템"
+  url = "solutions/servertimesync/"
+  weight = 23
+
+[[main]]
+  parent = "solutions"
+  name = "경고방송/비상벨 시스템 연동"
+  url = "solutions/emergencycall/"
+  weight = 24
+
+[[main]]
+  parent = "solutions"
+  name = "엘리베이터 CRT 시스템 연동"
+  url = "solutions/elevatorcrt/"
   weight = 25
-
-[[main]]
-  parent = "solutions"
-  name = "NVR 장애 대응"
-  url = "solutions/failover/"
-  weight = 30
-
-[[main]]
-  parent = "solutions"
-  name = "엘리베이터 CRT 연동"
-  url = "solutions/elevator/"
-  weight = 40
-
-[[main]]
-  parent = "solutions"
-  name = "이상음원 감지"
-  url = "solutions/sound/"
-  weight = 50
-
-[[main]]
-  parent = "solutions"
-  name = "차량번호 추출"
-  url = "solutions/lpr/"
-  weight = 60
-
-[[main]]
-  parent = "solutions"
-  name = "열화상 카메라"
-  url = "solutions/thermal/"
-  weight = 80
-
-[[main]]
-  parent = "solutions"
-  name = "화염 / 연기 감지"
-  url = "solutions/fire/"
-  weight = 90
-
-[[main]]
-  parent = "solutions"
-  name = "출입 감지"
-  url = "solutions/intrusion/"
-  weight = 100
-
-[[main]]
-  parent = "solutions"
-  name = "경고 방송"
-  url = "solutions/broadcast/"
-  weight = 110
-
-[[main]]
-  parent = "solutions"
-  name = "비상벨"
-  url = "solutions/emcall/"
-  weight = 120
 
 [[main]]
   parent = "showcase"
