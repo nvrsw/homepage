@@ -109,7 +109,7 @@ align = "end"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "#111111"
+   color = "#f7f7f7"
 
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
