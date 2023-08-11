@@ -56,6 +56,18 @@ image:
 </div>
 </div>
 
+## 인증
+<div class="container">
+<div class="row align-items-top">
+<div class="col-sm-1">
+{{< figure src="TTA.png" >}} 
+</div>
+<div class="col-sm-8">
+- 영상보안시스템용 IP카메라 보안 성능품질 Ver.1 (TTA-V-23-496)
+</div>
+</div>
+</div>
+
 ## 사양
 
 <div style="overflow-x: auto">
@@ -252,6 +264,6 @@ image:
 사양서 | [IQD_사양서_20230404.xlsx](https://www.emstone.com/data/sales/ko/IQD_사양서_20230404.xlsx)
 시방서 | [IQD(F21)_시방서_20200720.hwp](https://www.emstone.com/data/sales/ko/IQD(F21)_시방서_20200720.hwp)<br>[IQD(F28)_시방서_20200720.hwp](https://www.emstone.com/data/sales/ko/IQD(F28)_시방서_20200720.hwp)<br>[IQD(IRF36)_시방서_20220728.hwp](https://www.emstone.com/data/sales/ko/IQD(IRF36)_시방서_20220728.hwp)<br>[IQD(IR2812Z)_시방서_20200720.hwp](https://www.emstone.com/data/sales/ko/IQD(IR2812Z)_시방서_20200720.hwp)
 출하검사 결과 성적서 | [IQD(F21)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQD(F21)_출하검사성적서_20200313.xls)<br>[IQD(F28)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQD(F28)_출하검사성적서_20200313.xls)<br>[IQD(IRF36)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQD(IRF36)_출하검사성적서_20200313.xls)<br>[IQD(IR2812Z)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQD(IR2812Z)_출하검사성적서_20200313.xls)
-인증서 | [IQD_방송통신기자재등의적합등록필증_20191030.pdf](https://www.emstone.com/data/sales/ko/IQD_방송통신기자재등의적합등록필증_20191030.pdf)
+인증서 | [IQD_방송통신기자재등의적합등록필증_20191030.pdf](https://www.emstone.com/data/sales/ko/IQD_방송통신기자재등의적합등록필증_20191030.pdf)<br>[EM-IQD(IR2812Z)_TTA인증서_20230728.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR2812Z)_TTA인증서_20230728.pdf)
 매뉴얼 | [EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf)<br>[EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf)<br>[EM-IHD_IP_Camera_User_Manual_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_User_Manual_20200313.pdf)
 소프트웨어 | [EM-IHD_IP_Manager_1.4.8.exe](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Manager_1.4.8.exe)
