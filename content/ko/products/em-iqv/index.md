@@ -57,6 +57,7 @@ image:
 {{< figure src="TTA.png" >}} 
 </div>
 <div class="col-sm-8">
+- EM-IQV(IR2812Z)<br>
 - 영상보안시스템용 IP카메라 보안 성능품질 Ver.1 (TTA-V-23-497)
 </div>
 </div>
