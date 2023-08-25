@@ -1,7 +1,7 @@
 ---
-title: "ESTS SERVER Series"
+title: "ESTS SERVER"
 subtitle: "스트리밍서버"
-summary: "스리밍서버"
+summary: "스트리밍서버"
 authors: []
 tags: []
 categories: [ "etc" ]
