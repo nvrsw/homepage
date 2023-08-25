@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - 설치 프로그램
   - **최신 버전**
-    - 버전: **2.1.23.7.6** (2023.07.06)
+    - 버전: **2.1.23.8.21** (2023.08.21)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.23.7.6-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.23.7.6-win32-emstone.exe)
-        - 64비트: [cms-2.1.23.7.6-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.23.7.6-win64-emstone.exe)
+        - 32비트: [cms-2.1.23.8.21-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.23.8.21-win32-emstone.exe)
+        - 64비트: [cms-2.1.23.8.21-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.23.8.21-win64-emstone.exe)
       - Linux
-        - 64비트: [cms-2.1.23.7.6-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.23.7.6-linux-x86_64.tar.bz2)
+        - 64비트: [cms-2.1.23.8.21-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.23.8.21-linux-x86_64.tar.bz2)
 
   - **2.1.23.8.8**
     - 버전: **2.1.23.8.8** (2023.08.08)
@@ -66,15 +66,15 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.23.8.8** (2023-08-08)
-    - 설치 파일: [nvr-2.9.23.8.8-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.8.8-emstone.iso)
-                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.8.8-emstone.iso-sha256.txt)
+    - 버전: **2.9.23.8.24** (2023-08-24)
+    - 설치 파일: [nvr-2.9.23.8.24-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.8.24-emstone.iso)
+                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.8.24-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   - **EM-128B8H**
     - 버전: **2.9.23.8.8** (2023-08-08)
     - 다운로드: [nvr-2.9.23.8.8.iso](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso-sha256.txt)
-    - 모델: EM-1090B8H, EM-81B8H, EM-64B8F, EM-49B8F, EM-36B8, EM-25B8, EM-16B8
+    - 모델: EM-128B8H, EM-100B8H, EM-81B8H, EM-64B8F, EM-49B8F, EM-36B8, EM-25B8, EM-16B8
   - **EM-128B16H**
     - 버전: **2.9.21.9.13** (2021-09-13)
     - 다운로드: [nvr-2.9.21.9.13.iso](https://www.emstone.com/data/tta/emstone/2021/nvr-2.9.21.9.13.iso)

@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - Installation Program
   - **Latest Version**
-    - Version: **2.1.23.7.6** (2023.07.06)
+    - Version: **2.1.23.8.21** (2023.08.21)
     - Download
       - Windows
-        - 32 bits: [cms-2.1.23.7.6-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.23.7.6-win32-emstone.exe)
-        - 64 bits: [cms-2.1.23.7.6-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.23.7.6-win64-emstone.exe)
+        - 32 bits: [cms-2.1.23.8.21-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.23.8.21-win32-emstone.exe)
+        - 64 bits: [cms-2.1.23.8.21-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.23.8.21-win64-emstone.exe)
       - Linux
-        - 64 bits: [cms-2.1.23.7.6-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.23.7.6-linux-x86_64.tar.bz2)
+        - 64 bits: [cms-2.1.23.8.21-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.23.8.21-linux-x86_64.tar.bz2)
 
 ## Mobile App
 
@@ -52,9 +52,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - Installation Program (*Upgrade only / License key required*)
   - **Latest Version**
-    - Version: **2.9.23.8.8** (2023-08-08)
-    - Download: [nvr-2.9.23.8.8-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.8.8-emstone.iso)
-                / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.8.8-emstone.iso-sha256.txt)
+    - Version: **2.9.23.8.24** (2023-08-24)
+    - Download: [nvr-2.9.23.8.24-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.8.24-emstone.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.8.24-emstone.iso-sha256.txt)
     - Model: All Models
 
 ## NDS
