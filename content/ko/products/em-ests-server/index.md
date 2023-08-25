@@ -114,7 +114,7 @@ image:
 </tr>
 <tr>
 <th>성능</th>
-<th>라이브/검색/재생</th>
+<th>라이브성능</th>
 <td colspan="2">최대 12M 지원</td>
 </tr>
 <tr>
