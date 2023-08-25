@@ -59,22 +59,10 @@ align = "end"
 #   description = "4U 8Bay Storage Type PC based Hybrid NVR"
 
 [[feature]]
-  image = "products/em-isvir2712zd/featured.png"
-  url = "products/em-isvir2712zd/"
-  name = "EMSTONE_D_AI SHD 스카이뷰카메라"
-  description = "EMSTONE_D_AI 12MP Sky View Camera"
-
-[[feature]]
-  image = "products/em-ixq27d/featured.png"
-  url = "products/em-ixq27d/"
-  name = "EMSTONE_D_AI 열화상 듀얼센서 카메라"
-  description = "EMSTONE_D_AI 4MP Thermal Camera"
-
-[[feature]]
-  image = "products/em-iufl17d/featured.png"
-  url = "products/em-iufl17d/"
-  name = "EMSTONE_D_AI 주차유도 어안카메라"
-  description = "EMSTONE_D_AI 12MP Fisheye Camera"
+  image = "products/em-ests-server/featured.png"
+  url = "products/em-ests-server/"
+  name = "ESTS-SERVER"
+  description = "Streaming Server"
 
 [[feature]]
   image = "products/cms-station/featured.png"
@@ -93,6 +81,19 @@ align = "end"
   url = "products/em-nds-mini-4k/"
   name = "EM-NDS-mini-4k"
   description = "Network Display Server"
+
+  [[feature]]
+  image = "products/em-isvir2712zd/featured.png"
+  url = "products/em-isvir2712zd/"
+  name = "EMSTONE_D_AI SHD 스카이뷰카메라"
+  description = "EMSTONE_D_AI 12MP Sky View Camera"
+
+
+[[feature]]
+  image = "products/em-iufl17d/featured.png"
+  url = "products/em-iufl17d/"
+  name = "EMSTONE_D_AI 주차유도 어안카메라"
+  description = "EMSTONE_D_AI 12MP Fisheye Camera"
 
 
 

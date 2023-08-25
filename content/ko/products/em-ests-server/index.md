@@ -1,5 +1,5 @@
 ---
-title: "ESTS SERVER"
+title: "ESTS-SERVER"
 subtitle: "스트리밍서버"
 summary: "스트리밍서버"
 authors: []
