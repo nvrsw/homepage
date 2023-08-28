@@ -44,7 +44,7 @@ image:
 - Android: Version **1.3.5** (2023-07-17)
   <a href="https://play.google.com/store/apps/details?id=com.emstone.moview" target="_blank"><img width="100px" src="/img/google-play-badge.png" alt="GET IT ON Google Play" class="d-inline-block py-0 my-2"></a>
 
-## NVR
+## VMS / NVR
 
 *Network Hybrid Digital Video Recorder*
 
