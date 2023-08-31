@@ -59,7 +59,7 @@ image:
 <div class="row justify-content-center">
 <div class="col-sm-6">
 
-{{< figure src="128-drawing.png" caption="EM-ESTS-SERVER-128" >}}
+{{< figure src="128-drawing2.png" caption="EM-ESTS-SERVER-128" >}}
 
 </div>
 
