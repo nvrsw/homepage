@@ -76,6 +76,12 @@
   url = "categories/etc/"
   weight = 70
 
+  [[main]]
+  parent = "products"
+  name = "TTA 인증제품"
+  url = "categories/tta/"
+  weight = 80
+
 [[main]]
   parent = "solutions"
   name = "통합영상관제시스템"
