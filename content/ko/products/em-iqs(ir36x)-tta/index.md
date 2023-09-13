@@ -1,5 +1,5 @@
 ---
-title: "EM-IQS(x36)"
+title: "EM-IQS(IR36x)"
 subtitle: "4MP PTZ Type Network IP Camera"
 summary: "4MP PTZ Type Network IP Camera"
 authors: []
