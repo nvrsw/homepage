@@ -29,8 +29,8 @@ image:
     - 버전: **2.1.23.9.22** (2023.09.22)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.23.9.22-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.23.9.22-win32-emstone.exe)
-        - 64비트: [cms-2.1.23.9.22-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.23.9.22-win64-emstone.exe)
+        - 32비트: [cms-2.1.23.9.27-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.23.9.27-win32-emstone.exe)
+        - 64비트: [cms-2.1.23.9.27-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.23.9.27-win64-emstone.exe)
       - Linux
         - 64비트: [cms-2.1.23.9.22-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.23.9.22-linux-x86_64.tar.bz2)
 
