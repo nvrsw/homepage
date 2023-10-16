@@ -117,7 +117,7 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [EM-PoE-AMP-Mini_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/EM-PoE-AMP-Mini_CATALOG_KO_20230110.pdf)
-외관도 | [EM-PoE-AMP-Mini_외관도_20210803.dwg](https://www.emstone.com/data/sales/ko/EM-PoE-AMP-Mini_외관도_20210803.dwg)<br>[EM-PoE-AMP-Mini_외관도_20210803.png](https://www.emstone.com/data/sales/ko/EM-PoE-AMP-Mini_외관도_20210803.png)
-사양서 | [EM-PoE-AMP-Mini_사양서_20210803.xlsx](https://www.emstone.com/data/sales/ko/EM-PoE-AMP-Mini_사양서_20210803.xlsx)
-시방서 | [EM-PoE-AMP-Mini_시방서_20210803.hwp](https://www.emstone.com/data/sales/ko/EM-PoE-AMP-Mini_시방서_20210803.hwp)
-인증서 | [EM-PoE-AMP-Mini_방송통신기자재등의적합등록필증_20210803.pdf](https://www.emstone.com/data/sales/ko/EM-PoE-AMP-Mini_방송통신기자재등의적합등록필증_20210803.pdf)<br>[AEM-PoE-AMP-Mini_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf](https://www.emstone.com/data/sales/ko/EM-PoE-AMP-Mini_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf)
+외관도 | [EM-PoE-AMP-Mini_외관도_20210803.dwg](https://www.emstone.com/data/sales/ko/EM-PoE-AMP-Mini_외관도_20210803.dwg)<br>[EM-PoE-AMP-Mini_외관도_20210803.png](https://www.emstone.com/data/sales/ko/EM-PoE-AMP-Mini_외관도_20210803.png)
+사양서 | [EM-PoE-AMP-Mini_사양서_20210803.xlsx](https://www.emstone.com/data/sales/ko/EM-PoE-AMP-Mini_사양서_20210803.xlsx)
+시방서 | [EM-PoE-AMP-Mini_시방서_20210803.hwp](https://www.emstone.com/data/sales/ko/EM-PoE-AMP-Mini_시방서_20210803.hwp)
+인증서 | [EM-PoE-AMP-Mini_방송통신기자재등의적합등록필증_20210803.pdf](https://www.emstone.com/data/sales/ko/EM-PoE-AMP-Mini_방송통신기자재등의적합등록필증_20210803.pdf)<br>[AEM-PoE-AMP-Mini_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf](https://www.emstone.com/data/sales/ko/EM-PoE-AMP-Mini_방송통신기자재등(전자파적합성)시험성적서_20210803.pdf)

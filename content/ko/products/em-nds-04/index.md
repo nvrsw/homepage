@@ -133,8 +133,8 @@ image:
 ---- | ----
 카탈로그 | [NDS-04_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/NDS-04_CATALOG_KO_20230110.pdf)
 외관도 | [NDS-04_외관도_20210224.dwg](https://www.emstone.com/data/sales/ko/NDS-04_외관도_20210224.dwg)<br>[NDS-04_외관도_20210224.png](https://www.emstone.com/data/sales/ko/NDS-04_외관도_20210224.png)
-사양서 | [NDS-04_사양서_20230110.xlsx](https://www.emstone.com/data/sales/ko/NDS-04_사양서_20230110.xlsx)
-시방서 | [NDS-04_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/NDS-04_시방서_20230110.hwp)
+사양서 | [NDS-04_사양서_20230110.xlsx](https://www.emstone.com/data/sales/ko/NDS-04_사양서_20230110.xlsx)
+시방서 | [NDS-04_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/NDS-04_시방서_20230110.hwp)
 출하검사 결과 성적서 | [NDS-04_출하검사결과성적서_20210224.xls](https://www.emstone.com/data/sales/ko/NDS-04_출하검사결과성적서_20210224.xls)
-인증서 | [NDS-04_방송통신기자재등의적합등록필증_20230206.pdf](https://www.emstone.com/data/sales/ko/NDS-04_방송통신기자재등의적합등록필증_20230206.pdf)<br>[NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf](https://www.emstone.com/data/sales/ko/NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf)
+인증서 | [NDS-04_방송통신기자재등의적합등록필증_20230206.pdf](https://www.emstone.com/data/sales/ko/NDS-04_방송통신기자재등의적합등록필증_20230206.pdf)<br>[NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf](https://www.emstone.com/data/sales/ko/NDS-04_방송통신기자재등(전자파적합성)시험성적서_20180824.pdf)
 매뉴얼 | [NDS_사용_매뉴얼_20220511.pdf](https://www.emstone.com/data/sales/ko/NDS_사용_매뉴얼_20220511.pdf)

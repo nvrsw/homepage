@@ -239,10 +239,10 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [IQE_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/IQE_CATALOG_KO_20230110.pdf)
-외관도 | [IQE_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IQE_외관도_20200313.png)<br>[IQE_외관도_20220701.dwg](https://www.emstone.com/data/sales/ko/IQE_외관도_20220701.dwg)
+외관도 | [IQE_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IQE_외관도_20200313.png)<br>[IQE_외관도_20220701.dwg](https://www.emstone.com/data/sales/ko/IQE_외관도_20220701.dwg)
 사양서 | [IQE_사양서_20220729.xlsx](https://www.emstone.com/data/sales/ko/IQE_사양서_20220729.xlsx)
 시방서 | [IQE(N2812Z)_시방서_20220729.hwp](https://www.emstone.com/data/sales/ko/IQE(N2812Z)_시방서_20220729.hwp)<br>[IQE(IR2812Z)_시방서_20220729.hwp](https://www.emstone.com/data/sales/ko/IQE(IR2812Z)_시방서_20220729.hwp)<br>[IQE(IR0550Z)_시방서_20220729.hwp](https://www.emstone.com/data/sales/ko/IQE(IR0550Z)_시방서_20220729.hwp)
 출하검사 결과 성적서 | [IQE(N2812Z)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQE(N2812Z)_출하검사성적서_20200313.xls)<br>[IQE(IR2812Z)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQE(IR2812Z)_출하검사성적서_20200313.xls)<br>[IQE(IR0550Z)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQE(IR0550Z)_출하검사성적서_20200313.xls)
-인증서 | [IQE_방송통신기자재등의적합등록필증_20200114.pdf](https://www.emstone.com/data/sales/ko/IQE_방송통신기자재등의적합등록필증_20200114.pdf)<br>[EM-IQE(IR2812Z)_TTA인증서_20230728.pdf](https://www.emstone.com/data/sales/ko/EM-IQE(IR2812Z)_TTA인증서_20230728.pdf)
+인증서 | [IQE_방송통신기자재등의적합등록필증_20200114.pdf](https://www.emstone.com/data/sales/ko/IQE_방송통신기자재등의적합등록필증_20200114.pdf)<br>[EM-IQE(IR2812Z)_TTA인증서_20230728.pdf](https://www.emstone.com/data/sales/ko/EM-IQE(IR2812Z)_TTA인증서_20230728.pdf)
 매뉴얼 | [EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf)<br>[EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf)<br>[EM-IHD_IP_Camera_User_Manual_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_User_Manual_20200313.pdf)
-소프트웨어 | [EM-IHD_IP_Manager_1.4.8.exe](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Manager_1.4.8.exe)
+소프트웨어 | [EM-IHD_IP_Manager_1.4.8.zip](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Manager_1.4.8.zip)
