@@ -142,9 +142,9 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [NDS-mini-4K_CATALOG_KO_20230427.pdf](https://www.emstone.com/data/sales/ko/NDS-mini-4K_CATALOG_KO_20230427.pdf)
-외관도 | [NDS-mini-4K_외관도_20230110.dwg](https://www.emstone.com/data/sales/ko/NDS-mini-4K_외관도_20230110.dwg)<br>[NDS-mini-4K_외관도_20230110.png](https://www.emstone.com/data/sales/ko/NDS-mini-4K_외관도_20230110.png)
-사양서 | [NDS-mini-4K_사양서_20230427.xlsx](https://www.emstone.com/data/sales/ko/NDS-mini-4K_사양서_20230427.xlsx)
-시방서 | [NDS-mini-4K_시방서_20230427.hwp](https://www.emstone.com/data/sales/ko/NDS-mini-4K_시방서_20230427.hwp)
-출하검사 결과 성적서 | [NDS-mini-4K_출하검사결과성적서_20230427.xls](https://www.emstone.com/data/sales/ko/NDS-mini-4K_출하검사결과성적서_20230427.xls)
-인증서 | [NDS-mini-4K_방송통신기자재등의적합등록필증_20230206.pdf](https://www.emstone.com/data/sales/ko/NDS-mini-4K_방송통신기자재등의적합등록필증_20230206.pdf)
+외관도 | [NDS-mini-4K_외관도_20230110.dwg](https://www.emstone.com/data/sales/ko/NDS-mini-4K_외관도_20230110.dwg)<br>[NDS-mini-4K_외관도_20230110.png](https://www.emstone.com/data/sales/ko/NDS-mini-4K_외관도_20230110.png)
+사양서 | [NDS-mini-4K_사양서_20230427.xlsx](https://www.emstone.com/data/sales/ko/NDS-mini-4K_사양서_20230427.xlsx)
+시방서 | [NDS-mini-4K_시방서_20230427.hwp](https://www.emstone.com/data/sales/ko/NDS-mini-4K_시방서_20230427.hwp)
+출하검사 결과 성적서 | [NDS-mini-4K_출하검사성적서_20230427.xls](https://www.emstone.com/data/sales/ko/NDS-mini-4K_출하검사성적서_20230427.xls)
+인증서 | [NDS-mini-4K_방송통신기자재등의적합등록필증_20230206.pdf](https://www.emstone.com/data/sales/ko/NDS-mini-4K_방송통신기자재등의적합등록필증_20230206.pdf)
 매뉴얼 | [NDS_사용_매뉴얼_20220511.pdf](https://www.emstone.com/data/sales/ko/NDS_사용_매뉴얼_20220511.pdf)
