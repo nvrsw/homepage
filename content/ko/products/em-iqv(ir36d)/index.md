@@ -19,7 +19,7 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="em-iqv(ir36d)-case.png" caption="EM-IQV(IR36D)" >}}
+{{< figure src="em-iqv(ir36d)-case2.png" caption="EM-IQV(IR36D)" >}}
 
 </div>
 </div>
@@ -42,7 +42,7 @@ image:
 
 ## 외관도
 
-{{< figure src="em-iqv(ir36d)-drawing.png" >}}
+{{< figure src="em-iqv(ir36d)-drawing2.png" >}}
 
 </div>
 </div>
@@ -152,7 +152,14 @@ image:
 </tr>
 <tr>
 <th>IVS</th>
-<td>Tripwire, Intusion</td>
+<td>Intrusion, tripwire(the two functions support the classification and accurate detection of vehicle and human)</td>
+</tr>
+<th rowspan="2">Audio</th>
+<th>Built-in MIC</th>
+<td>Yes</td>
+<tr>
+<th>Audio Compression</th>
+<td>G.711a; G.711Mu; PCM; G.726</td>
 </tr>
 <th rowspan="5">Network</th>
 <th>Interface</th>
@@ -192,11 +199,11 @@ image:
 </tr>
 <th rowspan="2">Structure</th>
 <th>Dimensions</th>
-<td>244.1mm x Φ90.4mm (9.61" x Φ3.26")</td>
+<td>238.5 mm × 90.7 mm × 90.7 mm (9.39" × 3.57" × 3.57")</td>
 </tr>
 <tr>
 <th>Net Weigt</th>
-<td>0.91 kg (2.0 lb)</td>
+<td>0.72 kg (1.59 lb)</td>
 </tr>
 </tbody>
 </table>
@@ -206,10 +213,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IQV(IR36D)_CATALOG_KO_20230404.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_CATALOG_KO_20230404.pdf)
-외관도 | [EM-IQV(IR36D)_외관도_20220127.png](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_외관도_20220127.png)
+카탈로그 | [EM-IQV(IR36D)_CATALOG_KO_20231019.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_CATALOG_KO_20231019.pdf)
+외관도 | [EM-IQV(IR36D)_외관도_20231019.png](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_외관도_20231019.png)
 사양서 | [EM-IQV(IR36D)_사양서_20230404.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_사양서_20230404.xlsx)
-시방서 | [EM-IQV(IR36D)_시방서_20220127.hwp](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_시방서_20220127.hwp)
+시방서 | [EM-IQV(IR36D)_사양서_20231019.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_사양서_20231019.xlsx)
 출하검사 결과 성적서 | [EM-IQV(IR36D)_출하검사성적서_20220127.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_출하검사성적서_20220127.xlsx)
 인증서 | [EM-IQV(IR36D)_방송통신기자재등의적합등록필증_20220127.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_방송통신기자재등의적합등록필증_20220127.pdf)<br>[EM-IQV(IR36D)_방송통신기자재등(전자파적합성)시험성적서_20220127.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_방송통신기자재등(전자파적합성)시험성적서_20220127.pdf)<br>[EM-IQV(IR36D)_방송통신기자재등(유선영상정보처리기기)시험성적서_20220127.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36D)_방송통신기자재등(유선영상정보처리기기)시험성적서_20220127.pdf)
 소프트웨어 | [EMSTONE_D_Config_tool.exe](https://www.emstone.com/data/sales/ko/EMSTONE_D_Config_tool.exe)

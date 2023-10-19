@@ -154,6 +154,13 @@ image:
 <th>IVS</th>
 <td>Tripwire, Intusion(support the classification and accurate detection of vehicle and human)</td>
 </tr>
+<th rowspan="2">Audio</th>
+<th>Built-in MIC</th>
+<td>Yes</td>
+<tr>
+<th>Audio Compression</th>
+<td>G.711a; G.711Mu; PCM; G.726; G.723</td>
+</tr>
 <th rowspan="5">Network</th>
 <th>Interface</th>
 <td>RJ-45 (10/100 Base-T)</td>
@@ -206,9 +213,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IUV(IR2713ZD)_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_CATALOG_KO_20230110.pdf)
+카탈로그 | [EM-IUV(IR2713ZD)_CATALOG_KO_20231019.pdf](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_CATALOG_KO_20231019.pdf)
 외관도 | [EM-IUV(IR2713ZD)_외관도_20220223.png](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_외관도_20220223.png)<br>[EM-IUV(IR2713ZD)_외관도_20220801.dwg](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_외관도_20220801.dwg)
-사양서 | [EM-IUV(IR2713ZD)_사양서_20220223.xlsx](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_사양서_20220223.xlsx)
+사양서 | [EM-IUV(IR2713ZD)_사양서_20231019.xlsx](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_사양서_20231019.xlsx)
 시방서 | [EM-IUV(IR2713ZD)_시방서_20220628.hwp](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_시방서_20220628.hwp)
 출하검사 결과 성적서 | [EM-IUV(IR2713ZD)_출하검사성적서_20220223.xlsx](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_출하검사성적서_20220223.xlsx)
 인증서 | [EM-IUV(IR2713ZD)_방송통신기자재등의적합등록필증_20220223.pdf](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_방송통신기자재등의적합등록필증_20220223.pdf)
