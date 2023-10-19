@@ -12,4 +12,4 @@ cascade:
     image: "product-header.jpg"
 ---
 
-[종합카탈로그(PDF) 다운로드](https://www.emstone.com/data/sales/ko/EMSTONE_2023종합카탈로그.pdf)
+[종합카탈로그(PDF) 다운로드](https://www.emstone.com/data/sales/ko/EMSTONE_2023종합카탈로그_20231019.pdf)
