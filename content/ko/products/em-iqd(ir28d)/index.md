@@ -214,8 +214,8 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [EM-IQD(IR28D)_CATALOG_KO_20231019.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_CATALOG_KO_20231019.pdf)
-외관도 | [EM-IQD(IR28D)-외관도_20220127.png](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)-외관도_20220127.png)<br>[EM-IQD(IR28D)-외관도_20220801.dwg](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)-외관도_20220801.dwg)
-사양서 | [EM-IQD(IR28D)_사양서_20231019.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_사양서_20231019.xlsx)
+외관도 | [EM-IQD(IR28D)-외관도_20220127.png](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)-외관도_20220127.png)<br>[EM-IQD(IR28D)-외관도_20220801.dwg](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)-외관도_20220801.dwg)
+사양서 | [EM-IQD(IR28D)_사양서_20231019.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_사양서_20231019.xlsx)
 시방서 | [EM-IQD(IR28D)_시방서_20220628.hwp](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_시방서_20220628.hwp)
 출하검사 결과 성적서 | [EM-IQD(IR28D)_출하검사성적서_20220127.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_출하검사성적서_20220127.xlsx)
 인증서 | [EM-IQD(IR28D)_방송통신기자재등의적합등록필증_20220127.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_방송통신기자재등의적합등록필증_20220127.pdf)<br>[EM-IQD(IR28D)_방송통신기자재등(전자파적합성)시험성적서_20220127.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_방송통신기자재등(전자파적합성)시험성적서_20220127.pdf)<br>[EM-IQD(IR28D)_방송통신기자재등(유선영상정보처리기기)시험성적서_20220127.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_방송통신기자재등(유선영상정보처리기기)시험성적서_20220127.pdf)
