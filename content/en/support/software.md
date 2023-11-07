@@ -52,9 +52,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - Installation Program (*Upgrade only / License key required*)
   - **Latest Version**
-    - Version: **2.9.23.10.20** (2023-10-20)
-    - Download: [nvr-2.9.23.10.20-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.10.20-emstone.iso)
-                / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.10.20-emstone.iso-sha256.txt)
+    - Version: **2.9.23.11.6** (2023-11-06)
+    - Download: [nvr-2.9.23.11.6-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.11.6-emstone.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.11.6-emstone.iso-sha256.txt)
     - Model: All Models
 
 ## NDS
