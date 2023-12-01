@@ -66,9 +66,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.23.11.10** (2023-11-10)
-    - 설치 파일: [nvr-2.9.23.11.10-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.11.10-emstone.iso)
-                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.11.10-emstone.iso-sha256.txt)
+    - 버전: **2.9.23.12.1** (2023-12-01)
+    - 설치 파일: [nvr-2.9.23.12.1-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.23.12.1-emstone.iso)
+                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.23.12.1-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   - **EM-128B8H**
     - 버전: **2.9.23.8.8** (2023-08-08)
