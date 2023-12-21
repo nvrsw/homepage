@@ -219,4 +219,4 @@ image:
 시방서 | [EM-IUV(IR2713ZD)_시방서_20220628.hwp](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_시방서_20220628.hwp)
 출하검사 결과 성적서 | [EM-IUV(IR2713ZD)_출하검사성적서_20220223.xlsx](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_출하검사성적서_20220223.xlsx)
 인증서 | [EM-IUV(IR2713ZD)_방송통신기자재등의적합등록필증_20220223.pdf](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_방송통신기자재등의적합등록필증_20220223.pdf)
-소프트웨어 | [EMSTONE_D_Config_tool.zip](https://www.emstone.com/data/sales/ko/EMSTONE_D_Config_tool.zip)
+소프트웨어 | [EMSTONE_D_Config_tool_20231209.zip](https://www.emstone.com/data/sales/ko/EMSTONE_D_Config_tool_20231209.zip)
