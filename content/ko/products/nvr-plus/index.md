@@ -312,7 +312,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">날짜 / 시간 동기화</th>
-<td>Windows / NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능, RFTC를 통한 자체 동기화, GPS를 통한 자체 동기화(옵션)</td>
+<td>Windows / NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능, RFTC를 통한 자체 동기화(옵션), GPS를 통한 자체 동기화(옵션)</td>
 </tr>
 <tr>
 <th rowspan="3">지능형<br>솔루션</th>
@@ -338,9 +338,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [NVR+_CATALOG_KO_2023725.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_CATALOG_KO_2023725.pdf)
+카탈로그 | [NVR+_CATALOG_KO_20231229.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_CATALOG_KO_20231229.pdf)
 외관도 | [NVR+_2UB8(64,128ch)_외관도_20210104.dwg](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8(64,128ch)_외관도_20210104.dwg)<br>[NVR+_2UB8(64,128ch)_외관도_20210104.png](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8(64,128ch)_외관도_20210104.png)<br>[NVR+_3UB16(128ch)_외관도_20210104.dwg](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16(128ch)_외관도_20210104.dwg)<br>[NVR+_3UB16(128ch)_외관도_20210104.png](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16(128ch)_외관도_20210104.png)<br>[NVR+_4UB24(128ch)_외관도_20210104.dwg](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24(128ch)_외관도_20210104.dwg)<br>[NVR+_4UB24(128ch)_외관도_20210104.png](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24(128ch)_외관도_20210104.png)
-사양서 | [NVR+_사양서_20230725.xlsx](https://www.emstone.com/data/sales/ko/NVR%2B_사양서_20230725.xlsx)
-시방서 | [NVR+_2UB8_EM-64B8+_시방서_20230725.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8_EM-64B8%2B_시방서_20230725.hwp)<br>[NVR+_2UB8_EM-128B8+_시방서_20230725.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8_EM-128B8%2B_시방서_20230725.hwp)<br>[NVR+_3UB16_EM-128B16+_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16_EM-128B16%2B_시방서_20230216.hwp)<br>[NVR+_4UB24_EM-128B24+_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24_EM-128B24%2B_시방서_20230216.hwp)
+사양서 | [NVR+_사양서_20231229.xlsx](https://www.emstone.com/data/sales/ko/NVR%2B_사양서_20231229.xlsx)
+시방서 | [NVR+_2UB8_EM-64B8+_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8_EM-64B8%2B_시방서_20231229.hwp)<br>[NVR+_2UB8_EM-128B8+_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8_EM-128B8%2B_시방서_20231229.hwp)<br>[NVR+_3UB16_EM-128B16+_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16_EM-128B16%2B_시방서_20231229.hwp)<br>[NVR+_4UB24_EM-128B24+_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24_EM-128B24%2B_시방서_20231229.hwp)
 출하검사 결과 성적서 | [NVR+_2UB8_EM-64B8+_출하검사결과성적서_20210104.xls](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8_EM-64B8%2B_출하검사결과성적서_20210104.xls)<br>[NVR+_2UB8_EM-128B8+_출하검사결과성적서_20210104.xls](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8_EM-128B8%2B_출하검사결과성적서_20210104.xls)<br>[NVR+_3UB16_EM-128B16+_출하검사결과성적서_20210104.xls](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16_EM-128B16%2B_출하검사결과성적서_20210104.xls)<br>[NVR+_4UB24_EM-128B24+_출하검사결과성적서_20210104.xls](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24_EM-128B24%2B_출하검사결과성적서_20210104.xls)
 인증서 | [NVR+_2UB8(64,128ch)_방송통신기자재등의적합등록필증_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8(64,128ch)_방송통신기자재등의적합등록필증_20210104.pdf)<br>[NVR+_2UB8(64,128ch)_방송통신기자재등(전자파적합성)시험성적서_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_2UB8(64,128ch)_방송통신기자재등(전자파적합성)시험성적서_20210104.pdf)<br>[NVR+_3UB16(128ch)_방송통신기자재등의적합등록필증_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16(128ch)_방송통신기자재등의적합등록필증_20210104.pdf)<br>[NVR+_3UB16(128ch)_방송통신기자재등(전자파적합성)시험성적서_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_3UB16(128ch)_방송통신기자재등(전자파적합성)시험성적서_20210104.pdf)<br>[NVR+_4UB24(128ch)_방송통신기자재등의적합등록필증_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24(128ch)_방송통신기자재등의적합등록필증_20210104.pdf)<br>[NVR+_4UB24(128ch)_방송통신기자재등(전자파적합성)시험성적서_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24(128ch)_방송통신기자재등(전자파적합성)시험성적서_20210104.pdf)<br>[NVR+_4UB24(128ch)_방송통신기자재등(유선영상정보처리기기)시험성적서_20210104.pdf](https://www.emstone.com/data/sales/ko/NVR%2B_4UB24(128ch)_방송통신기자재등(유선영상정보처리기기)시험성적서_20210104.pdf)
