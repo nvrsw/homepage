@@ -34,7 +34,6 @@ jobs:
         run: |
           cp -f public/ko/index.xml public/
           cp -f public/ko/index.json public/
-          cp -f public/ko/manifest.webmanifest public/
 
       # Deploys built website to S3
       - name: Deploy to S3
