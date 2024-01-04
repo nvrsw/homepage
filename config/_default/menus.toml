@@ -259,8 +259,3 @@
   name = "전국 지사"
   url = "company/#branches"
   weight = 40
-
-[[main]]
-  name = "채용 공고"
-  url = "company/recruitment"
-  weight = 60
