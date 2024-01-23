@@ -25,16 +25,15 @@ jobs:
       - name: Build website
         run: hugo --minify
 
-      # Update home index file to check browser language code.
+      # Update home index file to check browser language code and update icon links.
       - name: Update index.html
-        run: cp -f assets/index.html public/
+        run: grep -o -E -e '<link rel="?(manifest|icon|apple-touch-icon)[ "0-9a-z=/_\.]*>' public/en/index.html | sed -e '/<!--icon-link-->/{r /dev/stdin' -e 'd;}' assets/index.html > public/index.html
 
       # Let Korean RSS feeds be global RSS feeds.
       - name: Update Korean RSS
         run: |
           cp -f public/ko/index.xml public/
           cp -f public/ko/index.json public/
-          cp -f public/ko/manifest.webmanifest public/
 
       # Deploys built website to S3
       - name: Deploy to S3
