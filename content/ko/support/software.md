@@ -71,14 +71,14 @@ image:
                  / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.1.26-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   - **EM-VMS1024**
-    - 버전: **2.9.24.1.30** (2024-01-30)
-    - 다운로드: [nvr-2.9.24.1.30.iso](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.30.iso)
-                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.30.iso-sha256.txt)
+    - 버전: **2.9.24.1.31** (2024-01-31)
+    - 다운로드: [nvr-2.9.24.1.31.iso](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso-sha256.txt)
     - 모델: EM-VMS1024, EM-VMS512+, EM-VMS1024-T, EM-VMS512+-T
   - **EM-128B8H-T**
-    - 버전: **2.9.24.1.30** (2024-01-30)
-    - 다운로드: [nvr-2.9.24.1.30.iso](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.30.iso)
-                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.30.iso-sha256.txt)
+    - 버전: **2.9.24.1.31** (2024-01-31)
+    - 다운로드: [nvr-2.9.24.1.30.iso](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso-sha256.txt)
     - 모델: EM-128B8H-T, EM-100B8H-T, EM-81B8H-T, EM-44B8F-T, EM-49B8F-T, EM-36B8-T, EM-128B8H, EM-100B8H, EM-81B8H, EM-64B8F, EM-49B8F, EM-36B8
   - **EM-128B8H**
     - 버전: **2.9.23.8.8** (2023-08-08)
