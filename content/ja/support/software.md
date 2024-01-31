@@ -63,6 +63,8 @@ image:
     - ダウンロード: [nvr-2.9.24.1.26-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.1.26-emstone.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.1.26-emstone.iso-sha256.txt)
     - モデル: 全モデル
+- NVRバックアップ・ビデオ・プレーヤー
+  - オペレーティングシステム: [Windows](https://www.emstone.com/data/nvrplay/nvrplay.exe)
 
 ## NDS
 
