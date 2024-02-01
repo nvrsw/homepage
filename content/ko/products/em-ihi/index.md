@@ -36,7 +36,6 @@ image:
 - 인식 속도: **30~120Km/h**
 - 인식 거리: **20M**
 - **FullHD** 2 메가 픽셀 1920x1080p@30fps
-- **PoE**(Power over Ethernet) 지원
 - ONVIF / RTSP 표준 프로토콜 지원 (**ONVIF Profile S**)
 - H.265 / H.264 압축 방식을 통한 선명한 화질 구현
 
