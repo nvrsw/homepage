@@ -66,10 +66,20 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.24.1.11** (2024-01-11)
-    - 설치 파일: [nvr-2.9.24.1.11-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.1.11-emstone.iso)
-                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.1.11-emstone.iso-sha256.txt)
+    - 버전: **2.9.24.1.31** (2024-01-31)
+    - 설치 파일: [nvr-2.9.24.1.31-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.1.31-emstone.iso)
+                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.1.31-emstone.iso-sha256.txt)
     - 모델: 모든 모델
+  - **EM-VMS1024**
+    - 버전: **2.9.24.1.31** (2024-01-31)
+    - 다운로드: [nvr-2.9.24.1.31.iso](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso-sha256.txt)
+    - 모델: EM-VMS1024, EM-VMS512+, EM-VMS1024-T, EM-VMS512+-T
+  - **EM-128B8H-T**
+    - 버전: **2.9.24.1.31** (2024-01-31)
+    - 다운로드: [nvr-2.9.24.1.31.iso](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso-sha256.txt)
+    - 모델: EM-128B8H-T, EM-100B8H-T, EM-81B8H-T, EM-44B8F-T, EM-49B8F-T, EM-36B8-T, EM-128B8H, EM-100B8H, EM-81B8H, EM-64B8F, EM-49B8F, EM-36B8
   - **EM-128B8H**
     - 버전: **2.9.23.8.8** (2023-08-08)
     - 다운로드: [nvr-2.9.23.8.8.iso](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso)
@@ -94,6 +104,8 @@ image:
     - 다운로드: [nvr-2.9.20.7.8.iso](https://www.emstone.com/data/tta/emstone/2020/nvr-2.9.20.7.8.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2020/nvr-2.9.20.7.8.iso-sha256.txt)
     - 모델: EM-25B2, EM-16B2, EM-09B2, EM-04B2
+- NVR 백업 동영상 재생기
+  - 운영체제: [Windows](https://www.emstone.com/data/nvrplay/nvrplay.exe)
 
 ## NDS
 
