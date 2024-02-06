@@ -70,8 +70,8 @@ image:
 
 *Network Display Server for IP Video Wall*
 
-- バージョン: **1.16.23.8.31** (2023-08-31)
-- [ISO インストールイメージ](https://www.emstone.com/data/nds/nds-1.16.23.8.31.iso)
+- バージョン: **1.16.24.2.6** (2024-02-06)
+- [ISO インストールイメージ](https://www.emstone.com/data/nds/nds-1.16.24.2.6.iso)
    : *アップグレードのみ/ライセンスキーが必要*
 - [変更](/docs/nds/ChangeLog.html)
 
