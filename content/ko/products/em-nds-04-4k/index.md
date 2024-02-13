@@ -71,10 +71,10 @@ image:
 </tr>
 <tr>
 <th>Ultra HD<br>모니터</th>
-<td>D1(720x480): 2 x 1,920fps<br>
-    HD(1280x720): 2 x 960fps<br>
-    Full HD(1920x1080): 2 x 480fps<br>
-    Ultra HD(3840x2160): 2 x 120fps</td>
+<td>D1(720x480): 4 x 1,920fps<br>
+    HD(1280x720): 4 x 960fps<br>
+    Full HD(1920x1080): 4 x 480fps<br>
+    Ultra HD(3840x2160): 4 x 120fps</td>
 </tr>
 <tr>
 <th colspan="2">운영체제</th>
