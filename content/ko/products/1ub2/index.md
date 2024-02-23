@@ -73,7 +73,7 @@ image:
 {{< figure src="TTA.png" >}} 
 </div>
 <div class="col-sm-6">
-- 공공기관용 NVR 보안성능품질 Ver.1 (TTA-V-20-124)
+- 공공기관용 NVR 보안성능품질 Ver.1 (TTA-V-24-300)
 </div>
 </div>
 </div>
@@ -302,5 +302,5 @@ image:
 사양서 | [1UB2_사양서_20230404.xlsx](https://www.emstone.com/data/sales/ko/1UB2_사양서_20230404.xlsx)
 시방서 | [1UB2_EM-04B2_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2_시방서_20231229.hwp)<br>[1UB2_EM-09B2_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2_시방서_20230216.hwp)<br>[1UB2_EM-16B2_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2_시방서_20230216.hwp)<br>[1UB2_EM-25B2_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-25B2_시방서_20230216.hwp)
 출하검사 결과 성적서 | [1UB2_EM-04B2_출하검사결과성적서_20220613.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2_출하검사결과성적서_20220613.xls)<br>[1UB2_EM-09B2_출하검사결과성적서_20220613.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2_출하검사결과성적서_20220613.xls)<br>[1UB2_EM-16B2_출하검사결과성적서_20220613.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2_출하검사결과성적서_20220613.xls)<br>[1UB2_EM-25B2_출하검사결과성적서_20220613.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-25B2_출하검사결과성적서_20220613.xls)
-인증서 | [1UB2_방송통신기자재등의적합등록필증_20231128.pdf](https://www.emstone.com/data/sales/ko/1UB2_방송통신기자재등의적합등록필증_20231128.pdf)<br>[1UB2_방송통신기자재등(유선영상정보처리기기)시험성적서_20210106.pdf](https://www.emstone.com/data/sales/ko/1UB2_방송통신기자재등(유선영상정보처리기기)시험성적서_20210106.pdf)<br>[1UB2_방송통신기자재등(전자파적합성)시험성적서_20210106.pdf](https://www.emstone.com/data/sales/ko/1UB2_방송통신기자재등(전자파적합성)시험성적서_20210106.pdf)<br>[1UB2_TTA인증서_20210106.pdf](https://www.emstone.com/data/sales/ko/1UB2_TTA인증서_20210106.pdf)
+인증서 | [1UB2_방송통신기자재등의적합등록필증_20231128.pdf](https://www.emstone.com/data/sales/ko/1UB2_방송통신기자재등의적합등록필증_20231128.pdf)<br>[1UB2_방송통신기자재등(유선영상정보처리기기)시험성적서_20210106.pdf](https://www.emstone.com/data/sales/ko/1UB2_방송통신기자재등(유선영상정보처리기기)시험성적서_20210106.pdf)<br>[1UB2_방송통신기자재등(전자파적합성)시험성적서_20210106.pdf](https://www.emstone.com/data/sales/ko/1UB2_방송통신기자재등(전자파적합성)시험성적서_20210106.pdf)<br>[1UB2_TTA인증서_20240131.pdf](https://www.emstone.com/data/sales/ko/1UB2_TTA인증서_20240131.pdf)<br>[1UB2_TTA시험성적서_20240131.pdf](https://www.emstone.com/data/sales/ko/1UB2_TTA시험성적서_20240131.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20231107.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20231107.pdf)<br>[NVR_사용자매뉴얼_20231204.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20231204.pdf)<br>[NVR_업그레이드매뉴얼_20230728.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20230728.pdf)
