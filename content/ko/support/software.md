@@ -96,7 +96,7 @@ image:
     - 다운로드: [nvr-2.9.21.9.13.iso](https://www.emstone.com/data/tta/emstone/2021/nvr-2.9.21.9.13.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2021/nvr-2.9.21.9.13.iso-sha256.txt)
     - 모델: EM-128B16H, EM-04B16, EM-09B16, EM-16B16, EM-25B16, EM-36B16, EM-49B16F, EM-64B16F, EM-81B16H, EM-100B16H
-  - **EM-128B2**
+  - **EM-25B2**
     - 버전: **2.9.23.8.8** (2023-08-08)
     - 다운로드: [nvr-2.9.23.8.8.iso](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso-sha256.txt)
