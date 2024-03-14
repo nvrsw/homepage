@@ -32,7 +32,7 @@ image:
         - 32 bits: [cms-2.1.24.3.8-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.3.8-win32-emstone.exe)
         - 64 bits: [cms-2.1.24.3.8-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.3.8-win64-emstone.exe)
       - Linux
-        - 64 bits: [cms-2.1.24.3.8-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.3.8-linux-x86_64.tar.bz2)
+        - 64 bits: [cms-2.1.24.3.14-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.3.14-linux-x86_64.tar.bz2)
 
 ## Mobile App
 
