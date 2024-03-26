@@ -273,7 +273,7 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [EM-IQS(IR36x)_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/EM-IQS(IR36x)_CATALOG_KO_20230110.pdf)
-외관도 | [EM-IQS(IR36x)_외관도_20220512.png](https://www.emstone.com/data/sales/ko/EM-IQS(IR36x)_외관도_20220512.png)
+외관도 | [EM-IQS(IR36x)_외관도_20220512.png](https://www.emstone.com/data/sales/ko/EM-IQS(IR36x)_외관도_20220512.png)<br>[EM-IQS(IR36x)_외관도_20220512.dwg](https://www.emstone.com/data/sales/ko/EM-IQS(IR36x)_외관도_20220512.dwg)
 사양서 | [EM-IQS(IR36x)_사양서_20220512.xlsx](https://www.emstone.com/data/sales/ko/EM-IQS(IR36x)_사양서_20220512.xlsx)
 시방서 | [EM-IQS(IR36x)_시방서_20220512.hwp](https://www.emstone.com/data/sales/ko/EM-IQS(IR36x)_시방서_20220512.hwp)
 출하검사 결과 성적서 | [EM-IQS(IR36x)_출하검사성적서_20220512.xlsx](https://www.emstone.com/data/sales/ko/EM-IQS(IR36x)_출하검사성적서_20220512.xlsx)
