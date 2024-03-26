@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - Installation Program
   - **Latest Version**
-    - Version: **2.1.24.2.2** (2024.02.02)
+    - Version: **2.1.24.3.18** (2024.03.18)
     - Download
       - Windows
-        - 32 bits: [cms-2.1.24.2.2-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.2.2-win32-emstone.exe)
-        - 64 bits: [cms-2.1.24.2.2-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.2.2-win64-emstone.exe)
+        - 32 bits: [cms-2.1.24.3.18-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.3.18-win32-emstone.exe)
+        - 64 bits: [cms-2.1.24.3.18-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.3.18-win64-emstone.exe)
       - Linux
-        - 64 bits: [cms-2.1.24.2.2-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.2.2-linux-x86_64.tar.bz2)
+        - 64 bits: [cms-2.1.24.3.18-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.3.18-linux-x86_64.tar.bz2)
 
 ## Mobile App
 
@@ -52,9 +52,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - Installation Program (*Upgrade only / License key required*)
   - **Latest Version**
-    - Version: **2.9.24.1.31** (2024-01-31)
-    - Download: [nvr-2.9.24.1.31-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.1.31-emstone.iso)
-                / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.1.31-emstone.iso-sha256.txt)
+    - Version: **2.9.24.3.18** (2024-03-18)
+    - Download: [nvr-2.9.24.3.18-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.3.18-emstone.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.3.18-emstone.iso-sha256.txt)
     - Model: All Models
 - NVR Backup Video Player
   - Platform: [Windows](https://www.emstone.com/data/nvrplay/nvrplay.exe)
@@ -63,8 +63,8 @@ image:
 
 *Network Display Server for IP Video Wall*
 
-- Version: **1.16.24.2.6** (2024-02-06)
-- [ISO Installation File](https://www.emstone.com/data/nds/nds-1.16.24.2.6.iso)
+- Version: **1.16.24.3.13** (2024-03-13)
+- [ISO Installation File](https://www.emstone.com/data/nds/nds-1.16.24.3.13.iso)
    : *Upgrade only / License key required*
 - [Change Log](/docs/nds/ChangeLog.html)
 

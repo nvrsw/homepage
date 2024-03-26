@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - 설치 프로그램
   - **최신 버전**
-    - 버전: **2.1.24.2.2** (2024.02.02)
+    - 버전: **2.1.24.3.18** (2024.03.18)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.24.2.2-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.2.2-win32-emstone.exe)
-        - 64비트: [cms-2.1.24.2.2-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.2.2-win64-emstone.exe)
+        - 32비트: [cms-2.1.24.3.18-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.3.18-win32-emstone.exe)
+        - 64비트: [cms-2.1.24.3.18-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.3.18-win64-emstone.exe)
       - Linux
-        - 64비트: [cms-2.1.24.2.2-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.2.2-linux-x86_64.tar.bz2)
+        - 64비트: [cms-2.1.24.3.18-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.3.18-linux-x86_64.tar.bz2)
 
   - **2.1.23.8.8**
     - 버전: **2.1.23.8.8** (2023.08.08)
@@ -66,9 +66,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.24.1.31** (2024-01-31)
-    - 설치 파일: [nvr-2.9.24.1.31-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.1.31-emstone.iso)
-                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.1.31-emstone.iso-sha256.txt)
+    - 버전: **2.9.24.3.18** (2024-03-18)
+    - 설치 파일: [nvr-2.9.24.3.18-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.3.18-emstone.iso)
+                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.3.18-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   - **EM-VMS1024**
     - 버전: **2.9.24.1.31** (2024-01-31)
@@ -111,8 +111,8 @@ image:
 
 *Network Display Server for IP Video Wall*
 
-- 버전: **1.16.24.2.6** (2024-02-06)
-- [ISO 설치 파일](https://www.emstone.com/data/nds/nds-1.16.24.2.6.iso)
+- 버전: **1.16.24.3.13** (2024-03-13)
+- [ISO 설치 파일](https://www.emstone.com/data/nds/nds-1.16.24.3.13.iso)
    : *업그레이드 전용 / 제품키 필요*
 - [변경사항](/docs/nds/ChangeLog.html)
 
