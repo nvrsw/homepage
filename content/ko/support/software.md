@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - 설치 프로그램
   - **최신 버전**
-    - 버전: **2.1.24.3.18** (2024.03.18)
+    - 버전: **2.1.24.4.5** (2024.04.05)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.24.3.18-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.3.18-win32-emstone.exe)
-        - 64비트: [cms-2.1.24.3.18-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.3.18-win64-emstone.exe)
+        - 32비트: [cms-2.1.24.4.5-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.4.5-win32-emstone.exe)
+        - 64비트: [cms-2.1.24.4.5-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.4.5-win64-emstone.exe)
       - Linux
-        - 64비트: [cms-2.1.24.3.18-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.3.18-linux-x86_64.tar.bz2)
+        - 64비트: [cms-2.1.24.4.5-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.4.5-linux-x86_64.tar.bz2)
 
   - **2.1.23.8.8**
     - 버전: **2.1.23.8.8** (2023.08.08)
