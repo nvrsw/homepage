@@ -26,19 +26,19 @@ image:
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - インストールプログラム
   - **最新バージョン**
-    - バージョン: **2.1.24.3.18** (2024.03.18)
+    - バージョン: **2.1.24.4.5** (2024.04.05)
     - ダウンロード
       - Windows
-        - 32 bits: [cms-2.1.24.3.18-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.3.18-win32-emstone.exe)
-        - 64 bits: [cms-2.1.24.3.18-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.3.18-win64-emstone.exe)
+        - 32 bits: [cms-2.1.24.4.5-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.4.5-win32-emstone.exe)
+        - 64 bits: [cms-2.1.24.4.5-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.4.5-win64-emstone.exe)
       - Linux
-        - 64 bits: [cms-2.1.24.3.18-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.3.18-linux-x86_64.tar.bz2)
+        - 64 bits: [cms-2.1.24.4.5-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.4.5-linux-x86_64.tar.bz2)
 
-- バージョン: **2.1.24.3.18** (2024.03.18)
+- バージョン: **2.1.24.4.5** (2024.04.05)
 - Windows インストールプログラム (Windows 7 / Windows 8 / Windows 10)
-  - [32ビット](https://www.emstone.com/data/cms/cms-2.1.24.3.18-win32-emstone.exe) / [64ビット](https://www.emstone.com/data/cms/cms-2.1.24.3.18-win64-emstone.exe)
+  - [32ビット](https://www.emstone.com/data/cms/cms-2.1.24.4.5-win32-emstone.exe) / [64ビット](https://www.emstone.com/data/cms/cms-2.1.24.4.5-win64-emstone.exe)
 - Linux インストールプログラム (Ubuntu 19.04 / Arch Linux)
-  - [64ビット](https://www.emstone.com/data/cms/cms-2.1.24.3.18-linux-x86_64.tar.bz2)
+  - [64ビット](https://www.emstone.com/data/cms/cms-2.1.24.4.5-linux-x86_64.tar.bz2)
 - [変更](/docs/cms/changelog/cms21.html)
 
 ## モバイルアプリ
@@ -46,9 +46,9 @@ image:
 *NVR Viewer iOS / Android Apps*
 
 - [Change Log](/docs/nvr-viewer/ChangeLog.html)
-- iOS: バージョン **1.3.8** (2023-11-22)
+- iOS: バージョン **1.3.9** (2024-04-03)
   <a href="https://apps.apple.com/kr/app/linux-nvr-mobile-viewer/id561848768" target="_blank"><img width="100px" src="/img/app-store-badge.png" alt="Download on the App Store" class="d-inline-block py-0 my-2"></a>
-- Android: バージョン **1.3.8** (2023-11-22)
+- Android: バージョン **1.3.9** (2024-04-03)
   <a href="https://play.google.com/store/apps/details?id=com.emstone.moview" target="_blank"><img width="100px" src="/img/google-play-badge.png" alt="GET IT ON Google Play" class="d-inline-block py-0 my-2"></a>
 
 ## NVR
@@ -59,9 +59,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - インストレーション・プログラム (*アップグレードのみ/ライセンスキーが必要*)
   - **最新バージョン**
-    - バージョン: **2.9.24.3.18** (2024-03-18)
-    - ダウンロード: [nvr-2.9.24.3.18-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.3.18-emstone.iso)
-                / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.3.18-emstone.iso-sha256.txt)
+    - バージョン: **2.9.24.4.5** (2024-04-05)
+    - ダウンロード: [nvr-2.9.24.4.5-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.4.5-emstone.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.4.5-emstone.iso-sha256.txt)
     - モデル: 全モデル
 - NVRバックアップ・ビデオ・プレーヤー
   - オペレーティングシステム: [Windows](https://www.emstone.com/data/nvrplay/nvrplay.exe)
@@ -70,8 +70,8 @@ image:
 
 *Network Display Server for IP Video Wall*
 
-- バージョン: **1.16.24.3.13** (2024-03-13)
-- [ISO インストールイメージ](https://www.emstone.com/data/nds/nds-1.16.24.3.13.iso)
+- バージョン: **1.16.24.4.18** (2024-04-18)
+- [ISO インストールイメージ](https://www.emstone.com/data/nds/nds-1.16.24.4.18.iso)
    : *アップグレードのみ/ライセンスキーが必要*
 - [変更](/docs/nds/ChangeLog.html)
 
