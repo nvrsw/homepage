@@ -10,7 +10,7 @@ cascade:
     image: "solution-header.jpg"
 ---
 
-[공사지명원(PDF) 다운로드](https://www.emstone.com/data/sales/ko/EMSTONE_2024공사지명원_20240423.pdf)
+[공사지명원(PDF) 다운로드](https://www.emstone.com/data/sales/ko/EMSTONE_2024공사지명원_20240509.pdf)
 
 
 > 네트워크로 연결된 세상  
