@@ -78,6 +78,7 @@ image:
 <th colspan="2">모델명</th>
 <th>EM-IQD(F21)</th>
 <th>EM-IQD(F28)</th>
+<th>EM-IQD(IR28)</th>
 <th>EM-IQD(IRF36)</th>
 <th>EM-IQD(IR2812Z)</th>
 </tr>
@@ -87,170 +88,170 @@ image:
 <th rowspan="3">Lens</th>
 <th>Focal Length</th>
 <td>2.1mm</td>
-<td>2.8mm</td>
+<td colspan="2">2.8mm</td>
 <td>3.6mm</td>
 <td>2.8~12mm</td>
 </tr>
 <tr>
 <th>FOV</th>
 <td>H : 134˚<br>V : 75˚</td>
-<td>H : 100˚<br>V : 64.5˚</td>
+<td colspan="2">H : 100˚<br>V : 64.5˚</td>
 <td>H : 87.4˚<br>V : 47˚</td>
 <td>H : 100˚(wide)~30.8˚(tele)<br>V : 64.5˚(wide)~23.3˚(tele)</td>
 </tr>
 <tr>
 <th>Focus</th>
-<td colspan="3">Fixed</td>
+<td colspan="4">Fixed</td>
 <td>Motorized / Auto, Manual</td>
 </tr>
 <tr>
 <th rowspan="5">Image</th>
 <th>Image Sensor</th>
-<td colspan="4">Sony Starvis 5.69MP Image Sensor</td>
+<td colspan="5">Sony Starvis 5.69MP Image Sensor</td>
 </tr>
 <tr>
 <th>Size</th>
-<td colspan="4">1/2.8 inch</td>
+<td colspan="5">1/2.8 inch</td>
 </tr>
 <tr>
 <th>Scan System</th>
-<td colspan="4">Progressive Scan</td>
+<td colspan="5">Progressive Scan</td>
 </tr>
 <tr>
 <th>Video Signal<br>to Noise</th>
-<td colspan="4">&gt;50dB</td>
+<td colspan="5">&gt;50dB</td>
 </tr>
 <tr>
 <th>Minimum<br>Illumination</th>
-<td colspan="4">0.02 lux(Color), 0 lux(BW, IR on)</td>
+<td colspan="5">0.02 lux(Color), 0 lux(BW, IR on)</td>
 </tr>
 <tr>
 <th rowspan="4">Video</th>
 <th>Compress<br>Format</th>
-<td colspan="4">H.265 / H.264 / MJPEG </td>
+<td colspan="5">H.265 / H.264 / MJPEG </td>
 </tr>
 <tr>
 <th>Resolution</th>
-<td colspan="4">2560x1920 / 2560x1600 / 2560x1440 / 2048x1536 / 1600x1200 / 1920×1080 / 1280×1024 / 1280×960 / 1280×720 / 1024x768 / 854x480 / 640×480 / 640x360 / 320×240</td>
+<td colspan="5">2560x1920 / 2560x1600 / 2560x1440 / 2048x1536 / 1600x1200 / 1920×1080 / 1280×1024 / 1280×960 / 1280×720 / 1024x768 / 854x480 / 640×480 / 640x360 / 320×240</td>
 </tr>
 <tr>
 <th>Max.<br>Frame Rate</th>
-<td colspan="4">30fps @ All Resolutions</td>
+<td colspan="5">30fps @ All Resolutions</td>
 </tr>
 <tr>
 <th>Streaming</th>
-<td colspan="4">Triple Stream (Stream 1,2,3), RTP/RTSP, UnicastRTP, Multicast RTP</td>
+<td colspan="5">Triple Stream (Stream 1,2,3), RTP/RTSP, UnicastRTP, Multicast RTP</td>
 </tr>
 <tr>
 <th colspan="2">Sound Detection</th>
 <td colspan="2">Support</td>
-<td colspan="2">Not Support</td>
+<td colspan="3">Not Support</td>
 </tr>
 <tr>
 <th rowspan="11">Function</th>
 <th>Day & Night</th>
-<td colspan="4">Auto / Day(Color) / Night(BW)</td>
+<td colspan="5">Auto / Day(Color) / Night(BW)</td>
 </tr>
 <tr>
 <th>Privacy Area</th>
-<td colspan="4">Area On/Off (16 Zone)</td>
+<td colspan="5">Area On/Off (16 Zone)</td>
 </tr>
 <tr>
 <th>Motion<br>Detection</th>
-<td colspan="4">432 Zone (On/Off, 1~5Step)</td>
+<td colspan="5">432 Zone (On/Off, 1~5Step)</td>
 </tr>
 <tr>
 <th>WDR</th>
-<td colspan="4">DWDR (1~3 Step)</td>
+<td colspan="5">DWDR (1~3 Step)</td>
 </tr>
 <tr>
 <th>DNR</th>
-<td colspan="4">Support</td>
+<td colspan="5">Support</td>
 </tr>
 <tr>
 <th>Defog</th>
-<td colspan="4">Support</td>
+<td colspan="5">Support</td>
 </tr>
 <tr>
 <th>HCL</th>
-<td colspan="4">Support</td>
+<td colspan="5">Support</td>
 </tr>
 <tr>
 <th>LDC</th>
-<td colspan="4">Support</td>
+<td colspan="5">Support</td>
 </tr>
 <tr>
 <th>Ext. Video</th>
-<td colspan="4">Not Support</td>
+<td colspan="5">Not Support</td>
 </tr>
 <tr>
 <th>Elec. Shutter</th>
-<td colspan="4">Auto(1/30~1/30000), Suppress Rolling, Manual</td>
+<td colspan="5">Auto(1/30~1/30000), Suppress Rolling, Manual</td>
 </tr>
 <tr>
 <th>White Balance</th>
-<td colspan="4">Auto / Indoor / Outdoor / Fluorescent</td>
+<td colspan="5">Auto / Indoor / Outdoor / Fluorescent</td>
 </tr>
 <tr>
 <th rowspan="2">IR LED</th>
 <th>IR LEDs</th>
 <td colspan="2" rowspan="2">N/A</td>
-<td colspan="2">24pcs LEDs</td>
+<td colspan="3">24pcs LEDs</td>
 </tr>
 <tr>
 <th>Visible<br>Distance</th>
-<td colspan="2">Max 15M</td>
+<td colspan="3">Max 15M</td>
 </tr>
 <tr>
 <th rowspan="2">Audio</th>
 <th>Format</th>
-<td colspan="4">G.711 u-law</td>
+<td colspan="5">G.711 u-law</td>
 </tr>
 <tr>
 <th>Streaming</th>
-<td colspan="4">Two way</td>
+<td colspan="5">Two way</td>
 </tr>
 <tr>
 <th rowspan="2">Event</th>
 <th>Sensor In</th>
-<td colspan="4">1 port</td>
+<td colspan="5">1 port</td>
 </tr>
 <tr>
 <th>Alarm Out</th>
-<td colspan="4">1 port</td>
+<td colspan="5">1 port</td>
 </tr>
 <tr>
 <th rowspan="4">Network</th>
 <th>Interface</th>
-<td colspan="4">RJ45 10/100 Base-T PoE </td>
+<td colspan="5">RJ45 10/100 Base-T PoE </td>
 </tr>
 <tr>
 <th>Protocol</th>
-<td colspan="4">TCP/IP, UDP/IP, RTP, RTSP, RTCP, NTP, HTTP, DHCP, FTP, SMTP, DNS, DDNS</td>
+<td colspan="5">TCP/IP, UDP/IP, RTP, RTSP, RTCP, NTP, HTTP, DHCP, FTP, SMTP, DNS, DDNS</td>
 </tr>
 <tr>
 <th>ONVIF</th>
-<td colspan="4">Support</td>
+<td colspan="5">Support</td>
 </tr>
 <tr>
 <th>Simultaneous<br>Access</th>
-<td colspan="4">Max. 10 users</td>
+<td colspan="5">Max. 10 users</td>
 </tr>
 <tr>
 <th colspan="2">Power Supply / Current</th>
-<td colspan="4">DC12V 750mA / PoE</td>
+<td colspan="5">DC12V 750mA / PoE</td>
 </tr>
 <tr>
 <th colspan="2">Operating Temp / Humidity</th>
-<td colspan="4">-10℃ ~ +40℃ / 0% ~ 90%</td>
+<td colspan="5">-10℃ ~ +40℃ / 0% ~ 90%</td>
 </tr>
 <tr>
 <th colspan="2">Dimension</th>
-<td colspan="4">Φ130mm X 106mm</td>
+<td colspan="5">Φ130mm X 106mm</td>
 </tr>
 <tr>
 <th colspan="2">Weight</th>
-<td colspan="4">Approx. 350g</td>
+<td colspan="5">Approx. 350g</td>
 </tr>
 </tbody>
 </table>
@@ -260,11 +261,11 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IQD_CATALOG_KO_20230404.pdf](https://www.emstone.com/data/sales/ko/IQD_CATALOG_KO_20230404.pdf)
+카탈로그 | [IQD_CATALOG_KO_20240509.pdf](https://www.emstone.com/data/sales/ko/IQD_CATALOG_KO_20240509.pdf)
 외관도 | [IQD_non_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IQD_non_IR_외관도_20200313.png)<br>[IQD_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IQD_IR_외관도_20200313.png)<br>[IQD_IR_외관도_20220701.dwg](https://www.emstone.com/data/sales/ko/IQD_IR_외관도_20220701.dwg)
-사양서 | [IQD_사양서_20230404.xlsx](https://www.emstone.com/data/sales/ko/IQD_사양서_20230404.xlsx)
-시방서 | [IQD(F21)_시방서_20200720.hwp](https://www.emstone.com/data/sales/ko/IQD(F21)_시방서_20200720.hwp)<br>[IQD(F28)_시방서_20200720.hwp](https://www.emstone.com/data/sales/ko/IQD(F28)_시방서_20200720.hwp)<br>[IQD(IRF36)_시방서_20220728.hwp](https://www.emstone.com/data/sales/ko/IQD(IRF36)_시방서_20220728.hwp)<br>[IQD(IR2812Z)_시방서_20200720.hwp](https://www.emstone.com/data/sales/ko/IQD(IR2812Z)_시방서_20200720.hwp)
-출하검사 결과 성적서 | [IQD(F21)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQD(F21)_출하검사성적서_20200313.xls)<br>[IQD(F28)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQD(F28)_출하검사성적서_20200313.xls)<br>[IQD(IRF36)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQD(IRF36)_출하검사성적서_20200313.xls)<br>[IQD(IR2812Z)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQD(IR2812Z)_출하검사성적서_20200313.xls)
+사양서 | [IQD_사양서_20240509.xlsx](https://www.emstone.com/data/sales/ko/IQD_사양서_20240509.xlsx)
+시방서 | [IQD(F21)_시방서_20200720.hwp](https://www.emstone.com/data/sales/ko/IQD(F21)_시방서_20200720.hwp)<br>[IQD(F28)_시방서_20200720.hwp](https://www.emstone.com/data/sales/ko/IQD(F28)_시방서_20200720.hwp)<br>[IQD(IR28)_시방서_20240509.hwp](https://www.emstone.com/data/sales/ko/IQD(IR28)_시방서_20240509.hwp)<br>[IQD(IRF36)_시방서_20220728.hwp](https://www.emstone.com/data/sales/ko/IQD(IRF36)_시방서_20220728.hwp)<br>[IQD(IR2812Z)_시방서_20200720.hwp](https://www.emstone.com/data/sales/ko/IQD(IR2812Z)_시방서_20200720.hwp)
+출하검사 결과 성적서 | [IQD(F21)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQD(F21)_출하검사성적서_20200313.xls)<br>[IQD(F28)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQD(F28)_출하검사성적서_20200313.xls)<br>[IQD(IR28)_출하검사성적서_20240509.xls](https://www.emstone.com/data/sales/ko/IQD(IR28)_출하검사성적서_20240509.xls)<br>[IQD(IRF36)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQD(IRF36)_출하검사성적서_20200313.xls)<br>[IQD(IR2812Z)_출하검사성적서_20200313.xls](https://www.emstone.com/data/sales/ko/IQD(IR2812Z)_출하검사성적서_20200313.xls)
 인증서 | [IQD_방송통신기자재등의적합등록필증_20191030.pdf](https://www.emstone.com/data/sales/ko/IQD_방송통신기자재등의적합등록필증_20191030.pdf)<br>[IQD_방송통신기자재등(전자파적합성)시험성적서_20180906.pdf](https://www.emstone.com/data/sales/ko/IQD_방송통신기자재등(전자파적합성)시험성적서_20180906.pdf)<br>[IQD_방송통신기자재등(유선영상정보처리기기)시험성적서_20210824.pdf](https://www.emstone.com/data/sales/ko/IQD_방송통신기자재등(유선영상정보처리기기)시험성적서_20210824.pdf)<br>[EM-IQD(IR2812Z)_TTA인증서_20230728.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR2812Z)_TTA인증서_20230728.pdf)
 매뉴얼 | [EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf)<br>[EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf)<br>[EM-IHD_IP_Camera_User_Manual_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_User_Manual_20200313.pdf)
 소프트웨어 | [EM-IHD_IP_Manager_1.4.8.zip](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Manager_1.4.8.zip)
