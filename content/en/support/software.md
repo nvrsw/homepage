@@ -52,9 +52,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - Installation Program (*Upgrade only / License key required*)
   - **Latest Version**
-    - Version: **2.9.24.4.25** (2024-04-25)
-    - Download: [nvr-2.9.24.4.25-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.4.25-emstone.iso)
-                / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.4.25-emstone.iso-sha256.txt)
+    - Version: **2.9.24.5.16** (2024-05-16)
+    - Download: [nvr-2.9.24.5.16-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.5.16-emstone.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.5.16-emstone.iso-sha256.txt)
     - Model: All Models
 - NVR Backup Video Player
   - Platform: [Windows](https://www.emstone.com/data/nvrplay/nvrplay.exe)
