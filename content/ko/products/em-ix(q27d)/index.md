@@ -158,7 +158,7 @@ High Temperature Mode: 0℃ to +550℃ (+32°F to +1022°F)</td>
 <td>Spot : 12 / Line : 12 / Area : 12 / Support 12 rules simultaneously</td>
 </tr>
 <tr>
-<th rowspan="4">Video</th>
+<th rowspan="3">Video</th>
 <th>Compression</th>
 <td>H.265; H.264M; H.264H; H.264B; MJEPG</td>
 </tr>
@@ -172,6 +172,11 @@ default) /<br> Sub Stream: 720p(1280x20)/D1(704x576)/CIF(352x288)/352x288(by def
 <th>Frame Rate</th>
 <td>[Thermal] 50 Hz: (main stream) 25 fps (sub stream) 15 fps / 60 Hz: (main stream) 30 fps (sub stream) 15 fps <br>
 [Visual] 50 Hz: (main stream) 25 fps (sub stream) 15 fps / 60 Hz: (main stream) 30 fps (sub stream) 15 fps</td>
+</tr>
+<tr>
+<th rowspan="2">Audio</th>
+<th>Twoway audio</th>
+<td>Yes</td>
 </tr>
 <tr>
 <th>Audio Compression</th>
@@ -222,9 +227,9 @@ DHCP; DNS; DDNS; PPPOE; IPv4/v6; SNMP; QoS; UPnP; NTP</td>
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IX(Q27D)_CATALOG_KO_20230221.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_CATALOG_KO_20230221.pdf)
+카탈로그 | [EM-IX(Q27D)_CATALOG_KO_20240527.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_CATALOG_KO_20240527.pdf)
 외관도 | [EM-IX(Q27D)_외관도_20220224.png](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_외관도_20220224.png)<br>[EM-IX(Q27D)_외관도_20220801.dwg](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_외관도_20220801.dwg)
-사양서 | [EM-IX(Q27D)_사양서_20220628.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_사양서_20220628.xlsx)
+사양서 | [EM-IX(Q27D)_사양서_20240527.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_사양서_20240527.xlsx)
 시방서 | [EM-IX(Q27D)_시방서_20220426.hwp](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_시방서_20220426.hwp)
 출하검사 결과 성적서 | [EM-IX(Q27D)_출하검사성적서_20220513.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_출하검사성적서_20220513.xlsx)
 인증서 | [EM-IX(Q27D)_방송통신기자재등의적합등록필증_20220304.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_방송통신기자재등의적합등록필증_20220304.pdf)<br>[EM-IX(Q27D)_방송통신기자재등(전자파적합성)시험성적서_20220304.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_방송통신기자재등(전자파적합성)시험성적서_20220304.pdf)<br>[EM-IX(Q27D)_방송통신기자재등(유선영상정보처리기기)시험성적서_20220304.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_방송통신기자재등(유선영상정보처리기기)시험성적서_20220304.pdf)

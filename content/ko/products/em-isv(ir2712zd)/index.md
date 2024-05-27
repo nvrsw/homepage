@@ -162,6 +162,16 @@ Fifth stream: 704 × 576 @1-25 fps; 704 × 480 @1-30 fps</td>
 <th>Intelligent</th>
 <td>Face Detection, Face Recognition, Face and Body Detection,<br> People Counting, Video Metadata, Intelligent Search</td>
 </tr>
+<tr>
+<th rowspan="2">Audio</th>
+<th>Twoway Audio</th>
+<td>Yes</td>
+</tr>
+<tr>
+<th>Compression</th>
+<td>G.711a; G.711Mu; G726; G.723</td>
+</tr>
+<tr>
 <th rowspan="5">Network</th>
 <th>Interface</th>
 <td>RJ-45 (10/100 Base-T)</td>
@@ -214,9 +224,9 @@ Fifth stream: 704 × 576 @1-25 fps; 704 × 480 @1-30 fps</td>
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-ISV(IR2712ZD)_CATALOG_KO_20230404.pdf](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_CATALOG_KO_20230404.pdf)
+카탈로그 | [EM-ISV(IR2712ZD)_CATALOG_KO_20240527.pdf](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_CATALOG_KO_20240527.pdf)
 외관도 | [EM-ISV(IR2712ZD)_외관도_20220502.png](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_외관도_20220502.png)
-사양서 | [EM-ISV(IR2712ZD)_사양서_20230404.xlsx](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_사양서_20230404.xlsx)
+사양서 | [EM-ISV(IR2712ZD)_사양서_20240527.xlsx](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_사양서_20240527.xlsx)
 시방서 | [EM-ISV(IR2712ZD)_시방서_20220502.hwp](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_시방서_20220502.hwp)
 출하검사 결과 성적서 | [EM-ISV(IR2712ZD)_출하검사성적서_20220502.xlsx](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_출하검사성적서_20220502.xlsx)
 소프트웨어 | [EMSTONE_D_Config_tool_20231209.zip](https://www.emstone.com/data/sales/ko/EMSTONE_D_Config_tool_20231209.zip)
