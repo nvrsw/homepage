@@ -130,7 +130,7 @@
   {{- if (eq (getenv "HUGO_ENV") "production") -}}
     {{- $style = $style | minify | fingerprint "md5" -}}
   {{- end -}}
-  <link rel="stylesheet" href="{{ $style.RelPermalink }}?ver=20221220">
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}?ver=20240528">
 
   {{ partial "marketing/google_analytics" . }}
   {{ partial "marketing/google_tag_manager" . }}

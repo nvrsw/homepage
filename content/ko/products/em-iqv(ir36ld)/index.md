@@ -174,6 +174,15 @@ image:
 <th>User/Host</th>
 <td>20 (Total bandwidth: 64 M)</td>
 </tr>
+<tr>
+<th rowspan="2">Audio</th>
+<th>Twoway Audio</th>
+<td>Yes</td>
+</tr>
+<tr>
+<th>Compression</th>
+<td>G.711a; G.711Mu; G726</td>
+</tr>
 <th rowspan="2">Power</th>
 <th>Power Supply</th>
 <td>12V DC/PoE</td>
@@ -206,9 +215,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IQV(IR36LD)_CATALOG_KO_20230718.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_CATALOG_KO_20230718.pdf)
+카탈로그 | [EM-IQV(IR36LD)_CATALOG_KO_20240527.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_CATALOG_KO_20240527.pdf)
 외관도 | [EM-IQV(IR36LD)_외관도_20230718.png](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_외관도_20230718.png)
-사양서 | [EM-IQV(IR36LD)_사양서_20230718.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_사양서_20230718.xlsx)
+사양서 | [EM-IQV(IR36LD)_사양서_20240527.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_사양서_20240527.xlsx)
 시방서 | [EM-IQV(IR36LD)_시방서_20230718.hwp](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_시방서_20230718.hwp)
 출하검사 결과 성적서 | [EM-IQV(IR36LD)_출하검사성적서_20230718.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_출하검사성적서_20230718.xlsx)
 인증서 | [EM-IQV(IR36LD)_방송통신기자재등의적합등록필증_20230718.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_방송통신기자재등의적합등록필증_20230718.pdf)<br>[EM-IQV(IR36LD)_방송통신기자재등(전자파적합성)시험성적서_20230718.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_방송통신기자재등(전자파적합성)시험성적서_20230718.pdf)<br>[EM-IQV(IR36LD)_방송통신기자재등(유선영상정보처리기기)시험성적서_20230718.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_방송통신기자재등(유선영상정보처리기기)시험성적서_20230718.pdf)
