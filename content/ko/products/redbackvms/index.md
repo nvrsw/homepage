@@ -68,15 +68,24 @@ image:
 ## 인증
 <div class="container">
 <div class="row align-items-top">
-<div class="col-sm-3">
-{{< figure src="GS1.png" >}} 
+<div class="col-8 col-sm-2 pl-0">
+{{< figure src="GS1.png" >}}
 </div>
-<div class="col-sm-8">
-- 소프트웨어품질인증 1등급 <br>
-- REDBACK VMS v2.9
+<div class="col-8 col-sm-3 pl-0">
+- 소프트웨어품질인증 1등급<br>
+- REDBACK VMS V2.9
+</div>
+<div class="col-8 col-sm-2 pl-0">
+{{< figure src="TTA.png" >}}
+</div>
+<div class="col-8 col-sm-5 pl-0">
+- 공공기관용 NVR 보안성능품질 Ver.1<br>
+- TTA-V-24-772<br>
+- EM-VMS1024 / EM-VMS512+
 </div>
 </div>
 </div>
+
 
 
 
@@ -308,4 +317,4 @@ image:
 사양서 | [REDBACKVMS_사양서_20231229.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS_사양서_20231229.xlsx)
 시방서 | [REDBACKVMS_EM-VMS128+_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS128%2B_시방서_20231229.hwp)<br>[REDBACKVMS_EM-VMS256+_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS256%2B_시방서_20231229.hwp)<br>[REDBACKVMS_EM-VMS512+_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B_시방서_20231229.hwp)<br>[REDBACKVMS_EM-VMS1024_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024_시방서_20231229.hwp)<br>
 출하검사 결과 성적서 | [REDBACKVMS_EM-VMS128+_출하검사결과성적서_20220915.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS128%2B_출하검사결과성적서_20220915.xls)<br>[REDBACKVMS_EM-VMS256+_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS256%2B_출하검사결과성적서_20201025.xls)<br>[REDBACKVMS_EM-VMS512+_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B_출하검사결과성적서_20201025.xls)<br>[REDBACKVMS_EM-VMS1024_출하검사결과성적서_20201025.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024_출하검사결과성적서_20201025.xls)<br>
-인증서 | [REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf)<br>[REDBACKVMS_방송통신기자재등의적합등록필증_20240123.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신기자재등의적합등록필증_20240123.pdf)<br>[REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
+인증서 | [REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf)<br>[REDBACKVMS_TTA인증서_20240605.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_TTA인증서_20240605.pdf)<br>[REDBACKVMS_TTA시험성적서_20240605.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_TTA시험성적서_20240605.pdf)<br>[REDBACKVMS_방송통신기자재등의적합등록필증_20240123.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신기자재등의적합등록필증_20240123.pdf)<br>[REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
