@@ -93,8 +93,8 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-VMS512+</th>
-<th>EM-VMS1024</th>
+<th>EM-VMS512+-T</th>
+<th>EM-VMS1024-T</th>
 </tr>
 </thead>
 <tbody>
