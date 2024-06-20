@@ -132,9 +132,9 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-81B8H</th>
-<th>EM-100B8H</th>
-<th>EM-128B8H</th>
+<th>EM-81B8H-T</th>
+<th>EM-100B8H-T</th>
+<th>EM-128B8H-T</th>
 </tr>
 </thead>
 <tbody>
