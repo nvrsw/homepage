@@ -26,19 +26,19 @@ image:
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - インストールプログラム
   - **最新バージョン**
-    - バージョン: **2.1.24.5.30** (2024.05.30)
+    - バージョン: **2.1.24.6.10** (2024.06.10)
     - ダウンロード
       - Windows
-        - 32 bits: [cms-2.1.24.5.30-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.5.30-win32-emstone.exe)
-        - 64 bits: [cms-2.1.24.5.30-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.5.30-win64-emstone.exe)
+        - 32 bits: [cms-2.1.24.6.10-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.6.10-win32-emstone.exe)
+        - 64 bits: [cms-2.1.24.6.10-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.6.10-win64-emstone.exe)
       - Linux
-        - 64 bits: [cms-2.1.24.5.30-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.5.30-linux-x86_64.tar.bz2)
+        - 64 bits: [cms-2.1.24.6.10-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.6.10-linux-x86_64.tar.bz2)
 
-- バージョン: **2.1.24.5.30** (2024.05.30)
+- バージョン: **2.1.24.6.10** (2024.05.30)
 - Windows インストールプログラム (Windows 7 / Windows 8 / Windows 10)
-  - [32ビット](https://www.emstone.com/data/cms/cms-2.1.24.5.30-win32-emstone.exe) / [64ビット](https://www.emstone.com/data/cms/cms-2.1.24.5.30-win64-emstone.exe)
+  - [32ビット](https://www.emstone.com/data/cms/cms-2.1.24.6.10-win32-emstone.exe) / [64ビット](https://www.emstone.com/data/cms/cms-2.1.24.6.10-win64-emstone.exe)
 - Linux インストールプログラム (Ubuntu 19.04 / Arch Linux)
-  - [64ビット](https://www.emstone.com/data/cms/cms-2.1.24.5.30-linux-x86_64.tar.bz2)
+  - [64ビット](https://www.emstone.com/data/cms/cms-2.1.24.6.10-linux-x86_64.tar.bz2)
 - [変更](/docs/cms/changelog/cms21.html)
 
 ## モバイルアプリ
@@ -59,9 +59,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - インストレーション・プログラム (*アップグレードのみ/ライセンスキーが必要*)
   - **最新バージョン**
-    - バージョン: **2.9.24.5.30** (2024-05-30)
-    - ダウンロード: [nvr-2.9.24.5.30-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.5.30-emstone.iso)
-                / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.5.30-emstone.iso-sha256.txt)
+    - バージョン: **2.9.24.6.10** (2024-06-10)
+    - ダウンロード: [nvr-2.9.24.6.10-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.6.10-emstone.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.6.10-emstone.iso-sha256.txt)
     - モデル: 全モデル
 - NVRバックアップ・ビデオ・プレーヤー
   - オペレーティングシステム: [Windows](https://www.emstone.com/data/nvrplay/nvrplay.exe)
