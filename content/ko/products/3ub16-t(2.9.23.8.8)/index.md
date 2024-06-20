@@ -1,5 +1,5 @@
 ---
-title: "3UB16-T Performance Series"
+title: "3UB16-T (ver 2.9.23.8.8)"
 subtitle: "3U 16Bay T Series Storage Type PC based NVR"
 summary: "3U 16Bay T Series Storage Type PC based NVR"
 authors: []

@@ -1,5 +1,5 @@
 ---
-title: "2UB8-T Performance Series"
+title: "2UB8-T (ver 2.9.24.1.31)"
 subtitle: "2U 8Bay T Series Storage Type PC based NVR"
 summary: "2U 8Bay T Series Storage Type PC based NVR"
 authors: []

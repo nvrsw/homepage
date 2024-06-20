@@ -1,12 +1,12 @@
 ---
-title: "REDBACK VMS -T Series"
+title: "REDBACK VMS-T (ver 2.9.24.1.31)"
 subtitle: "Video Management System"
 summary: "Video Management System"
 authors: []
 tags: []
 categories: [ "TTA" ]
 draft: false
-weight: 6031
+weight: 6034
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
