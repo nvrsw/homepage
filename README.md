@@ -74,3 +74,4 @@ hugo
 - [Academic Theme](https://sourcethemes.com/academic/)
 - [블로그 구축기 1 (Hugo + github.io) | ialy's blog](https://ialy1595.github.io/post/blog-construct-1/)
 - [블로그 구축기 2 (Hugo Theme Custormizing) | ialy's blog](https://ialy1595.github.io/post/blog-construct-2/)
+
