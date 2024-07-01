@@ -75,7 +75,7 @@ image:
 <td>8</td>
 <td>16</td>
 <td>64</td>
-<td>128</td>
+<td>256</td>
 </tr>
 <tr>
 <th colspan="2">운영체제</th>
