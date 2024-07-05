@@ -107,7 +107,7 @@ image:
 - NVR 백업 동영상 재생기
   - 운영체제: [Windows](https://www.emstone.com/data/nvrplay/nvrplay.exe)
 
-## REDBACK
+## REDBACK Manager
 
 *NVR / VMS Management Server*
 
