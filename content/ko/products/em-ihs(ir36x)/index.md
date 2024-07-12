@@ -264,6 +264,6 @@ image:
 카탈로그 | [EM-IHS(IR36x)_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_CATALOG_KO_20230110.pdf)
 외관도 | [EM-IHS(IR36x)_외관도_20220512.png](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_외관도_20220512.png)
 사양서 | [EM-IHS(IR36x)_사양서_20220512.xlsx](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_사양서_20220512.xlsx)
-시방서 | [EM-IHS(IR36x)_시방서_20220512.hwp](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_시방서_20220512.hwp)
+시방서 | [EM-IHS(IR36x)_시방서_20220512.docx](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_시방서_20220512.docx)
 출하검사 결과 성적서 | [EM-IHS(IR36x)_출하검사성적서_20220512.xlsx](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_출하검사성적서_20220512.xlsx)
 인증서 | [EM-IHS(IR36x)_방송통신기자재등의적합등록필증_20220512.pdf](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_방송통신기자재등의적합등록필증_20220512.pdf)<br>[EM-IHS(IR36x)_방송통신기자재등(전자파적합성)시험성적서_20220512.pdf](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_방송통신기자재등(전자파적합성)시험성적서_20220512.pdf)<br>[EM-IHS(IR36x)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20220512.pdf](https://www.emstone.com/data/sales/ko/EM-IHS(IR36x)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20220512.pdf)
