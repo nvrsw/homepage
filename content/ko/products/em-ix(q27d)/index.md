@@ -230,7 +230,7 @@ DHCP; DNS; DDNS; PPPOE; IPv4/v6; SNMP; QoS; UPnP; NTP</td>
 카탈로그 | [EM-IX(Q27D)_CATALOG_KO_20240527.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_CATALOG_KO_20240527.pdf)
 외관도 | [EM-IX(Q27D)_외관도_20220224.png](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_외관도_20220224.png)<br>[EM-IX(Q27D)_외관도_20220801.dwg](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_외관도_20220801.dwg)
 사양서 | [EM-IX(Q27D)_사양서_20240527.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_사양서_20240527.xlsx)
-시방서 | [EM-IX(Q27D)_시방서_20220426.hwp](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_시방서_20220426.hwp)
+시방서 | [EM-IX(Q27D)_시방서_20220426.docx](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_시방서_20220426.docx)
 출하검사 결과 성적서 | [EM-IX(Q27D)_출하검사성적서_20220513.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_출하검사성적서_20220513.xlsx)
 인증서 | [EM-IX(Q27D)_방송통신기자재등의적합등록필증_20220304.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_방송통신기자재등의적합등록필증_20220304.pdf)<br>[EM-IX(Q27D)_방송통신기자재등(전자파적합성)시험성적서_20220304.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_방송통신기자재등(전자파적합성)시험성적서_20220304.pdf)<br>[EM-IX(Q27D)_방송통신기자재등(유선영상정보처리기기)시험성적서_20220304.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q27D)_방송통신기자재등(유선영상정보처리기기)시험성적서_20220304.pdf)
 소프트웨어 | [EMSTONE_D_Config_tool_20231209.zip](https://www.emstone.com/data/sales/ko/EMSTONE_D_Config_tool_20231209.zip)
