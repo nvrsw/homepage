@@ -142,8 +142,8 @@ image:
 ---- | ----
 카탈로그 | [NTS_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/NTS_CATALOG_KO_20230110.pdf)
 외관도 | [NTS_외관도_20210224.dwg](https://www.emstone.com/data/sales/ko/NTS_외관도_20210224.dwg)<br>[NTS_외관도_20210224.png](https://www.emstone.com/data/sales/ko/NTS_외관도_20210224.png)
-사양서 | [NTS_사양서_20230110.xlsx](https://www.emstone.com/data/sales/ko/NTS_사양서_20230110.xlsx)<!--<br>[NTS_Specification_20210224.doc](https://www.emstone.com/data/sales/ko/NTS_Specification_20210224.doc)-->
-시방서 | [NTS_시방서_20230110.hwp](https://www.emstone.com/data/sales/ko/NTS_시방서_20230110.hwp)
-출하검사 결과 성적서 | [NTS_출하검사결과성적서_20210224.xls](https://www.emstone.com/data/sales/ko/NTS_출하검사결과성적서_20210224.xls)
+사양서 | [NTS_사양서_20230110.xlsx](https://www.emstone.com/data/sales/ko/NTS_사양서_20230110.xlsx)
+시방서 | [NTS_시방서_20230110.docx](https://www.emstone.com/data/sales/ko/NTS_시방서_20230110.docx)
+출하검사 결과 성적서 | [NTS_출하검사결과성적서_20210224.xlsx](https://www.emstone.com/data/sales/ko/NTS_출하검사결과성적서_20210224.xlsx)
 인증서 | [NTS_방송통신기자재등의적합등록필증_20210224.pdf](https://www.emstone.com/data/sales/ko/NTS_방송통신기자재등의적합등록필증_20210224.pdf)<br>[NTS_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf](https://www.emstone.com/data/sales/ko/NTS_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf)
 매뉴얼 | [NTS_사용자매뉴얼_20221220.pdf](https://www.emstone.com/data/sales/ko/NTS_사용자매뉴얼_20221220.pdf)

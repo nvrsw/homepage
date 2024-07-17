@@ -67,7 +67,7 @@ image:
 </tr>
 <tr>
 <th>출력성능</th>
-<td>Full-HD Moniter Display - Up to 1 EA(60Hz)<br>Ultra HD Moniter Display - Up to 1 EA(30Hz)</td>
+<td>Full-HD Monitor Display - Up to 1 EA(60Hz)<br>Ultra HD Monitor Display - Up to 1 EA(30Hz)</td>
 </tr>
 <tr>
 <th rowspan="2">영상출력<br>성능</th>
@@ -144,7 +144,7 @@ image:
 카탈로그 | [NDS-Solo_CATALOG_KO_20230703.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_CATALOG_KO_20230703.pdf)
 외관도 | [NDS-Solo_외관도_20210428.dwg](https://www.emstone.com/data/sales/ko/NDS-Solo_외관도_20210428.dwg)<br>[NDS-Solo_외관도_20210428.png](https://www.emstone.com/data/sales/ko/NDS-Solo_외관도_20210428.png)
 사양서 | [NDS-Solo_사양서_20230404.xlsx](https://www.emstone.com/data/sales/ko/NDS-Solo_사양서_20230404.xlsx)
-시방서 | [NDS-Solo_시방서_20210224.hwp](https://www.emstone.com/data/sales/ko/NDS-Solo_시방서_20210224.hwp)
-출하검사 결과 성적서 | [NDS-Solo_출하검사결과성적서_20210224.xls](https://www.emstone.com/data/sales/ko/NDS-Solo_출하검사결과성적서_20210224.xls)
+시방서 | [NDS-Solo_시방서_20230110.docx](https://www.emstone.com/data/sales/ko/NDS-Solo_시방서_20230110.docx)
+출하검사 결과 성적서 | [NDS-Solo_출하검사결과성적서_20210224.xlsx](https://www.emstone.com/data/sales/ko/NDS-Solo_출하검사결과성적서_20210224.xlsx)
 인증서 | [NDS-Solo_방송통신기자재등의적합등록필증_20230206.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_방송통신기자재등의적합등록필증_20230206.pdf)<br>[NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf](https://www.emstone.com/data/sales/ko/NDS-Solo_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf)
 매뉴얼 | [NDS_사용_매뉴얼_20220511.pdf](https://www.emstone.com/data/sales/ko/NDS_사용_매뉴얼_20220511.pdf)
