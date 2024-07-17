@@ -38,7 +38,7 @@ image:
 - D1(640x360)~12M(4000x3000@30fps) 최대 128채널 동시 녹화 가능
 - 긴급영상 확인을 위한 1채널 동시 라이브 / 검색 가능
 - H.265 / H.264 / MPEG4 / MJPEG 압축 방식 지원
-- 최대 40TB 장착 지원
+- 최대 48TB 장착 지원
 - **Smart Failover** 지원
 - **생체 정보**를 이용한 사용자 인증 지원
 - 모델 라인업 : 64, 128 CH
@@ -143,7 +143,7 @@ image:
 </tr>
 <tr>
 <th>프로토콜</th>
-<td colspan="2">IP 카메라 및 ONVIF / RTSP 지원 IP 카메라 UDP / Axis / Dynacolor / Sony / Panasonic / 한화테크윈 등 100개 이상 제조사 전용 프로토콜</td>
+<td colspan="2">IP 카메라 및 ONVIF / RTSP 지원 IP 카메라 UDP / Axis / Dynacolor / Sony / Panasonic / 한화테크윈 등 130개 이상 제조사 전용 프로토콜</td>
 </tr>
 <tr>
 <th colspan="2">운영체제</th>
@@ -156,7 +156,7 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td colspan="2">3.5" HDD 최대 2개 장착가능 (20TB HDD 인식, 최대 용량 40TB)</td>
+<td colspan="2">3.5" HDD 최대 2개 장착가능 (24TB HDD 인식, 최대 용량 48TB)</td>
 </tr>
 <tr>
 <th>RAID(옵션)</th>
@@ -263,10 +263,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [T2_CATALOG_KO_20230216.pdf](https://www.emstone.com/data/sales/ko/T2_CATALOG_KO_20230216.pdf)
+카탈로그 | [T2_CATALOG_KO_20240717.pdf](https://www.emstone.com/data/sales/ko/T2_CATALOG_KO_20240717.pdf)
 외관도 | [T2_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/T2_외관도_20201022.dwg)<br>[T2_외관도_20201022.png](https://www.emstone.com/data/sales/ko/T2_외관도_20201022.png)
-사양서 | [T2_사양서_20230216.xlsx](https://www.emstone.com/data/sales/ko/T2_사양서_20230216.xlsx)
-시방서 | [T2_F64_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/T2_F64_시방서_20230216.hwp)<br>[T2_F128_시방서_20230216.hwp](https://www.emstone.com/data/sales/ko/T2_F128_시방서_20230216.hwp)
-출하검사 결과 성적서 | [T2_F64_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/T2_F64_출하검사결과성적서_20201022.xls)<br>[T2_F128_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/T2_F128_출하검사결과성적서_20201022.xls)
+사양서 | [T2_사양서_20240717.xlsx](https://www.emstone.com/data/sales/ko/T2_사양서_20240717.xlsx)
+시방서 | [T2_F64_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/T2_F64_시방서_20240717.docx)<br>[T2_F128_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/T2_F128_시방서_20240717.docx)
+출하검사 결과 성적서 | [T2_F64_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/T2_F64_출하검사결과성적서_20201022.xlsx)<br>[T2_F128_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/T2_F128_출하검사결과성적서_20201022.xlsx)
 인증서 | [T2_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/T2_방송통신기자재등의적합등록필증_20201022.pdf)<br>[T2_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/T2_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20231107.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20231107.pdf)<br>[NVR_사용자매뉴얼_20231204.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20231204.pdf)<br>[NVR_업그레이드매뉴얼_20230728.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20230728.pdf)

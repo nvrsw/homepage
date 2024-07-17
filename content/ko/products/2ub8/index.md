@@ -36,7 +36,7 @@ image:
 
 ## 특징
 
-- HDD 최대 8개 장착 (RAID 0/1/5/6)
+- HDD 최대 8개 장착 (RAID 0/1/5/6 옵션 가능)
 - 추가 옵션 적용 가능 (LAN, DI/DO)
 - 높은 신뢰도의 64비트 리눅스(Linux) 기반 디지털 비디오 녹화기
 - 고효율 H.265 / H.264 압축방식을 통하여 선명한 화질의 영상
@@ -50,7 +50,7 @@ image:
 - **생체 정보**를 이용한 사용자 인증 지원
 - Failover 지원 : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
 - 양방향 음성 기능 지원
-- 최대 160TB의 넉넉한 자체 저장 공간
+- 최대 192TB의 넉넉한 자체 저장 공간
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
 - **화재/연기 감지** 라이선스 1CH 기본 제공
 - 모델 라인업 : 16, 25, 36, 49(F/H), 64(F/H), 81H, 100H, 128H CH
@@ -236,7 +236,7 @@ image:
 </tr>
 <tr>
 <th>프로토콜</th>
-<td>IP 카메라 및 ONVIF / RTSP 지원 IP 카메라 UDP / Axis / Dynacolor / Sony / Panasonic / 한화테크윈 등 100개 이상 제조사 전용 프로토콜</td>
+<td>IP 카메라 및 ONVIF / RTSP 지원 IP 카메라 UDP / Axis / Dynacolor / Sony / Panasonic / 한화테크윈 등 130개 이상 제조사 전용 프로토콜</td>
 </tr>
 <tr>
 <th colspan="2">운영체제</th>
@@ -249,7 +249,7 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>3.5" HDD 최대 8개 장착가능 (20TB HDD 인식, 최대 용량 160TB)</td>
+<td>3.5" HDD 최대 8개 장착가능 (24TB HDD 인식, 최대 용량 192TB)</td>
 </tr>
 <tr>
 <th>RAID</th>
@@ -359,10 +359,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB8_CATALOG_KO_20231229.pdf](https://www.emstone.com/data/sales/ko/2UB8_CATALOG_KO_20231229.pdf)
+카탈로그 | [2UB8_CATALOG_KO_20240716.pdf](https://www.emstone.com/data/sales/ko/2UB8_CATALOG_KO_20240716.pdf)
 외관도 | [2UB8_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/2UB8_외관도_20201022.dwg)<br>[2UB8_외관도_20201022.png](https://www.emstone.com/data/sales/ko/2UB8_외관도_20201022.png)
-사양서 | [2UB8_사양서_20231229.xlsx](https://www.emstone.com/data/sales/ko/2UB8_사양서_20231229.xlsx)
-시방서 | [2UB8_EM-16B8_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-16B8_시방서_20231229.hwp)<br>[2UB8_EM-25B8_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-25B8_시방서_20231229.hwp)<br>[2UB8_EM-36B8_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8_시방서_20231229.hwp)<br>[2UB8_EM-49B8F_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F_시방서_20231229.hwp)<br>[2UB8_EM-49B8H_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8H_시방서_20231229.hwp)<br>[2UB8_EM-64B8F_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F_시방서_20231229.hwp)<br>[2UB8_EM-64B8H_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8H_시방서_20231229.hwp)<br>[2UB8_EM-81B8H_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H_시방서_20231229.hwp)<br>[2UB8_EM-100B8H_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H_시방서_20231229.hwp)<br>[2UB8_EM-128B8H_시방서_20231229.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H_시방서_20231229.hwp)
-출하검사 결과 성적서 | [2UB8_EM-16B8_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-16B8_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-25B8_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-25B8_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-36B8_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-49B8F_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-49B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8H_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-64B8F_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-64B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8H_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-81B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-100B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H_출하검사결과성적서_20201022.xls)<br>[2UB8_EM-128B8H_출하검사결과성적서_20201022.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H_출하검사결과성적서_20201022.xls)
+사양서 | [2UB8_사양서_20240716.xlsx](https://www.emstone.com/data/sales/ko/2UB8_사양서_20240716.xlsx)
+시방서 | [2UB8_EM-16B8_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-16B8_시방서_20240716.docx)<br>[2UB8_EM-25B8_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-25B8_시방서_20240716.docx)<br>[2UB8_EM-36B8_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8_시방서_20240716.docx)<br>[2UB8_EM-49B8F_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F_시방서_20240716.docx)<br>[2UB8_EM-49B8H_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8H_시방서_20240716.docx)<br>[2UB8_EM-64B8F_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F_시방서_20240716.docx)<br>[2UB8_EM-64B8H_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8H_시방서_20240716.docx)<br>[2UB8_EM-81B8H_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H_시방서_20240716.docx)<br>[2UB8_EM-100B8H_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H_시방서_20240716.docx)<br>[2UB8_EM-128B8H_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H_시방서_20240716.docx)
+출하검사 결과 성적서 | [2UB8_EM-16B8_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-16B8_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-25B8_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-25B8_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-36B8_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-49B8F_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-49B8H_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8H_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-64B8F_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-64B8H_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8H_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-81B8H_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-100B8H_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-128B8H_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H_출하검사결과성적서_20201022.xlsx)
 인증서 | [2UB8_방송통신기자재등의적합등록필증_20240123.pdf](https://www.emstone.com/data/sales/ko/2UB8_방송통신기자재등의적합등록필증_20240123.pdf)<br>[2UB8_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/2UB8_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)<br>[2UB8_TTA인증서_20240604.pdf](https://www.emstone.com/data/sales/ko/2UB8_TTA인증서_20240604.pdf)<br>[2UB8_TTA시험성적서_20240604.pdf](https://www.emstone.com/data/sales/ko/2UB8_TTA시험성적서_20240604.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20231107.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20231107.pdf)<br>[NVR_사용자매뉴얼_20231204.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20231204.pdf)<br>[NVR_업그레이드매뉴얼_20230728.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20230728.pdf)
