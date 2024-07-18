@@ -39,7 +39,7 @@ image:
 - 다채널 수용 영상 스트리밍 서버
 - 이벤트 DB 저장용 DISK BAY 지원
 - H.265, H.264등 다양한 코덱 지원
-- CIF ~12M의 모든 해상도 지원
+- CIF ~ 12M의 모든 해상도 지원
 - ONVIF/RTSP 표준프로토콜 지원 
 - 영상중계서버 역할로 HTML5 프로토콜 연동 가능
 - RTSP, MP4, HLS, EDNET등 다양한 전송방식 지원
@@ -147,8 +147,8 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>이벤트저장용 3.5" HDD 최대 2개 장착가능<br>(20TB HDD 인식, 최대 용량 40TB)</td>
-<td>이벤트 저장용 3.5" HDD 최대 4개 장착가능<br>(20TB HDD 인식, 최대 용량 80TB)</td>
+<td>이벤트저장용 3.5" HDD 최대 2개 장착가능<br>(24TB HDD 인식, 최대 용량 48TB)</td>
+<td>이벤트 저장용 3.5" HDD 최대 4개 장착가능<br>(24TB HDD 인식, 최대 용량 96TB)</td>
 </tr>
 <tr>
 <th>Hot Swap</th>
@@ -189,7 +189,7 @@ image:
 </tr>
 <tr>
 <th>프로토콜</th>
-<td>IP 카메라 및 ONVIF / RTSP 지원 IP 카메라 UDP / Axis / Dynacolor / Sony / Panasonic / <br>한화테크윈 등 100개 이상 제조사 전용 프로토콜</td>
+<td>IP 카메라 및 ONVIF / RTSP 지원 IP 카메라 UDP / Axis / Dynacolor / Sony / Panasonic / <br>한화테크윈 등 130개 이상 제조사 전용 프로토콜</td>
 </tr>
 <tr>
 <th colspan="2">운영체제</th>
@@ -227,7 +227,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">날짜 / 시간 동기화</th>
-<td>Windows / NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능, RFTC를 통한 자체 동기화, GPS를 통한 자체 동기화(옵션)</td>
+<td>Windows / NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능, GPS를 통한 자체 동기화(옵션)</td>
 </tr>
 <tr>
 <th rowspan="2">3rd Party 연동</th>
@@ -250,9 +250,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-ESTS-SERVER_CATALOG_KO_20230825.pdf](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER_CATALOG_KO_20230825.pdf)
-사양서 | [EM-ESTS-SERVER_사양서_20230825.xlsx](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER_사양서_20230825.xlsx)
+카탈로그 | [EM-ESTS-SERVER_CATALOG_KO_20240718.pdf](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER_CATALOG_KO_20240718.pdf)
+사양서 | [EM-ESTS-SERVER_사양서_20240718.xlsx](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER_사양서_20240718.xlsx)
 외관도 | [EM-ESTS-SERVER-128_외관도_20230825.dwg](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-128_외관도_20230825.dwg)<br>[EM-ESTS-SERVER-128_외관도_20230825.png](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-128_외관도_20230825.png)<br>[EM-ESTS-SERVER-1K_외관도_20230825.dwg](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-1K_외관도_20230825.dwg)<br>[EM-ESTS-SERVER-1K_외관도_20230825.png](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-1K_외관도_20230825.png)
-시방서 | [EM-ESTS-SERVER-128_시방서_20230825.hwp](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-128_시방서_20230825.hwp)<br>[EM-ESTS-SERVER-1K_시방서_20230825.hwp](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-1K_시방서_20230825.hwp)
-출하검사 결과 성적서 | [EM-ESTS-SERVER-128_출하검사결과성적서_20230825.xls](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-128_출하검사결과성적서_20230825.xls)<br>[EM-ESTS-SERVER-1K_출하검사결과성적서_20230825.xls](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-1K_출하검사결과성적서_20230825.xls)
+시방서 | [EM-ESTS-SERVER-128_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-128_시방서_20240718.docx)<br>[EM-ESTS-SERVER-1K_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-1K_시방서_20240718.docx)
+출하검사 결과 성적서 | [EM-ESTS-SERVER-128_출하검사결과성적서_20230825.xlsx](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-128_출하검사결과성적서_20230825.xlsx)<br>[EM-ESTS-SERVER-1K_출하검사결과성적서_20230825.xlsx](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-1K_출하검사결과성적서_20230825.xlsx)
 인증서 | [EM-ESTS-SERVER-128_방송통신기자재등의적합등록필증_20230825.pdf](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-128_방송통신기자재등의적합등록필증_20230825.pdf)<br>[EM-ESTS-SERVER-128_방송통신기자재등(전자파적합성)시험성적서_20230825.pdf](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-128_방송통신기자재등(전자파적합성)시험성적서_20230825.pdf)<br>[EM-ESTS-SERVER-128_방송통신기자재등(유선영상정보처리기기)시험성적서_20230825.pdf](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-128_방송통신기자재등(유선영상정보처리기기)시험성적서_20230825.pdf)<br>[EM-ESTS-SERVER-1K_방송통신기자재등의적합등록필증_20230828.pdf](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-1K_방송통신기자재등의적합등록필증_20230828.pdf)<br>[EM-ESTS-SERVER-1K_방송통신기자재등(전자파적합성)시험성적서_20230825.pdf](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-1K_방송통신기자재등(전자파적합성)시험성적서_20230825.pdf)<br>[EM-ESTS-SERVER-1K_대기전력저감우수제품신고확인서_20230825.pdf](https://www.emstone.com/data/sales/ko/EM-ESTS-SERVER-1K_대기전력저감우수제품신고확인서_20230825.pdf)
