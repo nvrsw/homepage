@@ -48,7 +48,7 @@ image:
 - 영상중계서버 역할로 HTML5 프로토콜 연동 가능
 - 모션, 센서, 카메라 신호손실, 디스크 오류 등의 이벤트
 - 각 종 3rd party 장비에 연동을 위한 API안정적인 제공 가능
-- 모델 라인업 : 512+ 1024 ch
+- 모델 라인업 : 512+, 1024 ch
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
@@ -202,7 +202,7 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>3.5" HDD 최대 4개 장착가능 (20TB HDD 인식, 최대 용량 80TB)</td>
+<td>3.5" HDD 최대 4개 장착가능 (24TB HDD 인식, 최대 용량 96TB)</td>
 </tr>
 <tr>
 <th>SAN(FC,옵션)</th>
@@ -270,9 +270,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [REDBACKVMS-T_CATALOG_KO_20240605.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS-T_CATALOG_KO_20240605.pdf)
+카탈로그 | [REDBACKVMS-T_CATALOG_KO_20240718.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS-T_CATALOG_KO_20240718.pdf)
 외관도 | [REDBACKVMS-T_외관도_20240605.dwg](https://www.emstone.com/data/sales/ko/REDBACKVMS-T_외관도_20240605.dwg)<br>[REDBACKVMS-T_외관도_20240605.png](https://www.emstone.com/data/sales/ko/REDBACKVMS-T_외관도_20240605.png)
-사양서 | [REDBACKVMS-T_사양서_20240605.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS-T_사양서_20240605.xlsx)
-시방서 | [REDBACKVMS_EM-VMS512+-T_시방서_20240605.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B-T_시방서_20240605.hwp)<br>[REDBACKVMS_EM-VMS1024-T_시방서_20240605.hwp](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024-T_시방서_20240605.hwp)
-출하검사 결과 성적서 | [REDBACKVMS_EM-VMS512+-T_출하검사결과성적서_20240605.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B-T_출하검사결과성적서_20240605.xls)<br>[REDBACKVMS_EM-VMS1024-T_출하검사결과성적서_20240605.xls](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024-T_출하검사결과성적서_20240605.xls)<br>
+사양서 | [REDBACKVMS-T_사양서_20240718.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS-T_사양서_20240718.xlsx)
+시방서 | [REDBACKVMS_EM-VMS512+-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B-T_시방서_20240718.docx)<br>[REDBACKVMS_EM-VMS1024-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024-T_시방서_20240718.docx)
+출하검사 결과 성적서 | [REDBACKVMS_EM-VMS512+-T_출하검사결과성적서_20240605.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B-T_출하검사결과성적서_20240605.xlsx)<br>[REDBACKVMS_EM-VMS1024-T_출하검사결과성적서_20240605.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024-T_출하검사결과성적서_20240605.xlsx)<br>
 인증서 | [REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf)<br>[REDBACKVMS-T_TTA인증서_20240605.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS-T_TTA인증서_20240605.pdf)<br>[REDBACKVMS-T_TTA시험성적서_20240605.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS-T_TTA시험성적서_20240605.pdf)<br>[REDBACKVMS-T_방송통신기자재등의적합등록필증_20240605.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS-T_방송통신기자재등의적합등록필증_20240605.pdf)<br>[REDBACKVMS-T_방송통신기자재등(전자파적합성)시험성적서_20240605.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS-T_방송통신기자재등(전자파적합성)시험성적서_20240605.pdf)

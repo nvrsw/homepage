@@ -47,7 +47,7 @@ image:
 - 상시 / 움직임 감지 / 센서 감지 / 일정 등의 다양한 녹화모드
 - 모션 / 센서 / 카메라 신호손실 / 디스크 오류 등의 이벤트
 - 다중 권한 사용자모드 및 화면 잠금 지원
-- 최대 160TB의 넉넉한 자체 저장 공간
+- 최대 192TB의 넉넉한 자체 저장 공간
 - 모델 라인업 : 36, 49, 64, 81, 100, 128 CH
 
 
@@ -226,7 +226,7 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>3.5" HDD 최대 8개 장착가능 (20TB HDD 인식, 최대 용량 160TB)</td>
+<td>3.5" HDD 최대 8개 장착가능 (24TB HDD 인식, 최대 용량 192TB)</td>
 </tr>
 <tr>
 <th rowspan="2">백업</th>
@@ -303,10 +303,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB8-T_CATALOG_KO_20240604.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_CATALOG_KO_20240604.pdf)
+카탈로그 | [2UB8-T_CATALOG_KO_20240718.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_CATALOG_KO_20240718.pdf)
 외관도 | [2UB8-T_외관도_20240604.dwg](https://www.emstone.com/data/sales/ko/2UB8-T_외관도_20240604.dwg)<br>[2UB8-T_외관도_20240604.png](https://www.emstone.com/data/sales/ko/2UB8-T_외관도_20240604.png)
-사양서 | [2UB8-T_사양서_20240604.xlsx](https://www.emstone.com/data/sales/ko/2UB8-T_사양서_20240604.xlsx)
-시방서 | [2UB8_EM-36B8-T_시방서_20240604.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8-T_시방서_20240604.hwp)<br>[2UB8_EM-49B8F-T_시방서_20240604.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F-T_시방서_20240604.hwp)<br>[2UB8_EM-64B8F_시방서_20240604.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F_시방서_20240604.hwp)<br>[2UB8_EM-81B8H-T_시방서_20240604.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H-T_시방서_20240604.hwp)<br>[2UB8_EM-100B8H-T_시방서_20240604.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H-T_시방서_20240604.hwp)<br>[2UB8_EM-128B8H-T_시방서_20240604.hwp](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H-T_시방서_20240604.hwp)
-출하검사 결과 성적서 | [2UB8_EM-36B8-T_출하검사결과성적서_20240604.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8-T_출하검사결과성적서_20240604.xls)<br>[2UB8_EM-49B8F-T_출하검사결과성적서_20240604.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F-T_출하검사결과성적서_20240604.xls)<br>[2UB8_EM-64B8F-T_출하검사결과성적서_20240604.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F-T_출하검사결과성적서_20240604.xls)<br>[2UB8_EM-81B8H-T_출하검사결과성적서_20240604.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H-T_출하검사결과성적서_20240604.xls)<br>[2UB8_EM-100B8H-T_출하검사결과성적서_20240604.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H-T_출하검사결과성적서_20240604.xls)<br>[2UB8_EM-128B8H-T_출하검사결과성적서_20240604.xls](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H-T_출하검사결과성적서_20240604.xls)
+사양서 | [2UB8-T_사양서_20240718.xlsx](https://www.emstone.com/data/sales/ko/2UB8-T_사양서_20240718.xlsx)
+시방서 | [2UB8_EM-36B8-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8-T_시방서_20240718.docx)<br>[2UB8_EM-49B8F-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F-T_시방서_20240718.docx)<br>[2UB8_EM-64B8F-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F-T_시방서_20240718.docx)<br>[2UB8_EM-81B8H-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H-T_시방서_20240718.docx)<br>[2UB8_EM-100B8H-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H-T_시방서_20240718.docx)<br>[2UB8_EM-128B8H-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H-T_시방서_20240718.docx)
+출하검사 결과 성적서 | [2UB8_EM-36B8-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8-T_출하검사결과성적서_20240604.xlsx)<br>[2UB8_EM-49B8F-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F-T_출하검사결과성적서_20240604.xlsx)<br>[2UB8_EM-64B8F-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F-T_출하검사결과성적서_20240604.xlsx)<br>[2UB8_EM-81B8H-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H-T_출하검사결과성적서_20240604.xlsx)<br>[2UB8_EM-100B8H-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H-T_출하검사결과성적서_20240604.xlsx)<br>[2UB8_EM-128B8H-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H-T_출하검사결과성적서_20240604.xlsx)
 인증서 | [2UB8-T_방송통신기자재등의적합등록필증_20240604.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_방송통신기자재등의적합등록필증_20240604.pdf)<br>[2UB8-T_방송통신기자재등(전자파적합성)시험성적서_20240604.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_방송통신기자재등(전자파적합성)시험성적서_20240604.pdf)<br>[2UB8-T_TTA인증서_20240604.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_TTA인증서_20240604.pdf)<br>[2UB8-T_TTA시험성적서_20240604.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_TTA시험성적서_20240604.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20231107.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20231107.pdf)<br>[TTA_NVR_사용자매뉴얼_20231204.pdf](https://www.emstone.com/data/sales/ko/TTA_NVR_사용자매뉴얼_20231204.pdf)<br>[NVR_업그레이드매뉴얼_20230728.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20230728.pdf)

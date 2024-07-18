@@ -36,7 +36,7 @@ image:
 
 ## 특징
 
-- HDD 최대 2개 장착 (최대 40TB)
+- HDD 최대 2개 장착 (최대 48TB)
 - 높은 신뢰도의 64비트 리눅스(Linux) 기반 디지털 비디오 녹화기
 - 고효율 H.265 / H.264 압축방식을 통하여 선명한 화질의 영상
 - 12M / 8M / 5M / 2M / 1.3M 등 **모든 해상도 지원**
@@ -179,7 +179,7 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>3.5" HDD 최대 2개 장착가능 (20TB HDD 인식, 최대 용량 40TB)</td>
+<td>3.5" HDD 최대 2개 장착가능 (24TB HDD 인식, 최대 용량 48TB)</td>
 </tr>
 <tr>
 <th rowspan="2">백업</th>
@@ -256,10 +256,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [1UB2-T_CATALOG_KO_20240604.pdf](https://www.emstone.com/data/sales/ko/1UB2-T_CATALOG_KO_20240604.pdf)
+카탈로그 | [1UB2-T_CATALOG_KO_20240718.pdf](https://www.emstone.com/data/sales/ko/1UB2-T_CATALOG_KO_20240718.pdf)
 외관도 | [1UB2-T_외관도_20240604.dwg](https://www.emstone.com/data/sales/ko/1UB2-T_외관도_20240604.dwg)<br>[1UB2-T_외관도_20240604.png](https://www.emstone.com/data/sales/ko/1UB2-T_외관도_20240604.png)
-사양서 | [1UB2-T_사양서_20240604.xlsx](https://www.emstone.com/data/sales/ko/1UB2-T_사양서_20240604.xlsx)
-시방서 | [1UB2_EM-04B2-T_시방서_20240604.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2-T_시방서_20240604.hwp)<br>[1UB2_EM-09B2-T_시방서_20240604.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2-T_시방서_20240604.hwp)<br>[1UB2_EM-16B2-T_시방서_20240604.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2-T_시방서_20240604.hwp)<br>[1UB2_EM-25B2-T_시방서_20240604.hwp](https://www.emstone.com/data/sales/ko/1UB2_EM-25B2-T_시방서_20240604.hwp)
-출하검사 결과 성적서 | [1UB2_EM-04B2-T_출하검사결과성적서_20240604.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2-T_출하검사결과성적서_20240604.xls)<br>[1UB2_EM-09B2-T_출하검사결과성적서_20240604.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2-T_출하검사결과성적서_20240604.xls)<br>[1UB2_EM-16B2-T_출하검사결과성적서_20240604.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2-T_출하검사결과성적서_20240604.xls)<br>[1UB2_EM-25B2-T_출하검사결과성적서_20240604.xls](https://www.emstone.com/data/sales/ko/1UB2_EM-25B2-T_출하검사결과성적서_20240604.xls)
+사양서 | [1UB2-T_사양서_20240718.xlsx](https://www.emstone.com/data/sales/ko/1UB2-T_사양서_20240718.xlsx)
+시방서 | [1UB2_EM-04B2-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2-T_시방서_20240718.docx)<br>[1UB2_EM-09B2-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2-T_시방서_20240718.docx)<br>[1UB2_EM-16B2-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2-T_시방서_20240718.docx)<br>[1UB2_EM-25B2-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/1UB2_EM-25B2-T_시방서_20240718.docx)
+출하검사 결과 성적서 | [1UB2_EM-04B2-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2-T_출하검사결과성적서_20240604.xlsx)<br>[1UB2_EM-09B2-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2-T_출하검사결과성적서_20240604.xlsx)<br>[1UB2_EM-16B2-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2-T_출하검사결과성적서_20240604.xlsx)<br>[1UB2_EM-25B2-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/1UB2_EM-25B2-T_출하검사결과성적서_20240604.xlsx)
 인증서 | [1UB2-T_방송통신기자재등의적합등록필증_20240604.pdf](https://www.emstone.com/data/sales/ko/1UB2-T_방송통신기자재등의적합등록필증_20240604.pdf)<br>[1UB2-T_방송통신기자재등(유선영상정보처리기기)시험성적서_20240604.pdf](https://www.emstone.com/data/sales/ko/1UB2-T_방송통신기자재등(유선영상정보처리기기)시험성적서_20240604.pdf)<br>[1UB2-T_방송통신기자재등(전자파적합성)시험성적서_20240604.pdf](https://www.emstone.com/data/sales/ko/1UB2-T_방송통신기자재등(전자파적합성)시험성적서_20240604.pdf)<br>[1UB2-T_TTA인증서_20240604.pdf](https://www.emstone.com/data/sales/ko/1UB2-T_TTA인증서_20240604.pdf)<br>[1UB2-T_TTA시험성적서_20240604.pdf](https://www.emstone.com/data/sales/ko/1UB2-T_TTA시험성적서_20240604.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20231107.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20231107.pdf)<br>[TTA_NVR_사용자매뉴얼_20231204.pdf](https://www.emstone.com/data/sales/ko/TTA_NVR_사용자매뉴얼_20231204.pdf)<br>[NVR_업그레이드매뉴얼_20230728.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20230728.pdf)
