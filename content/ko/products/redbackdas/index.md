@@ -138,4 +138,4 @@ image:
 외관도 | [REDBACK-DAS_외관도_20210415.dwg](https://www.emstone.com/data/sales/ko/REDBACK-DAS_외관도_20210415.dwg)<br>[REDBACK-DAS_외관도_20210415.png](https://www.emstone.com/data/sales/ko/REDBACK-DAS_외관도_20210415.png)
 사양서 | [REDBACK-DAS_사양서_20240717.xlsx](https://www.emstone.com/data/sales/ko/REDBACK-DAS_사양서_20240717.xlsx)
 시방서 | [REDBACK-DAS_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/REDBACK-DAS_시방서_20240717.docx)
-인증서 | [REDBACK-DAS(4UB24)_방송통신기자재등의적합등록필증_20210415.pdf](https://www.emstone.com/data/sales/ko/REDBACK-DAS(4UB24)_방송통신기자재등의적합등록필증_20210415.pdf)<br>[REDBACK-DAS(4UB24)_방송통신기자재등(전자파적합성)시험성적서_20210415.pdf](https://www.emstone.com/data/sales/ko/REDBACK-DAS(4UB24)_방송통신기자재등(전자파적합성)시험성적서_20210415.pdf)
+인증서 | [REDBACK-DAS(4UB24)_방송통신기자재등의적합등록필증_20240716.pdf](https://www.emstone.com/data/sales/ko/REDBACK-DAS(4UB24)_방송통신기자재등의적합등록필증_20240716.pdf)<br>[REDBACK-DAS(4UB24)_방송통신기자재등(전자파적합성)시험성적서_20240716.pdf](https://www.emstone.com/data/sales/ko/REDBACK-DAS(4UB24)_방송통신기자재등(전자파적합성)시험성적서_20240716.pdf)
