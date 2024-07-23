@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 2001
+weight: 2020
 
 # Featured Image:
 image:

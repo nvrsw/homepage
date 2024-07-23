@@ -1,0 +1,178 @@
+---
+title: "EM-IQV(14W5Z) 패럿 카메라"
+subtitle: "5MP Parrot Camera"
+summary: "5MP Parrot Camera"
+authors: []
+tags: []
+categories: [ "camera" ]
+draft: false
+weight: 2010
+
+# Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  preview_only: true
+---
+
+{{< toc2 >}}
+
+<div class="container">
+<div class="row justify-content-center align-items-center">
+<div class="col-sm-8">
+
+{{< figure src="em-iqv(14w5z)-case.png" caption="EM-IQV(14W5Z)" >}}
+
+</div>
+</div>
+</div>
+
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-sm-8 pl-0">
+
+## 특징
+
+- **QHD** 5 메가 픽셀 2560x1920p @30fps
+- 14W **스피커 일체형**으로 방송 가능
+- 5배줌 (2.7~13.5mm) 전동 줌 렌즈
+- **PoE**(Power over Ethernet) 지원
+- 방수, 방진 인증 IP66 등급
+
+</div>
+<div class="col-sm-4 pl-0">
+
+## 외관도
+
+{{< figure src="em-iqv(14w5z)-drawing.png" caption="EM-IQV(14W5Z)" >}}
+
+</div>
+</div>
+</div>
+
+
+## 사양
+
+<div style="overflow-x: auto">
+<table class="spec">
+<thead>
+<tr>
+<th colspan="2">모델명</th>
+<th>EM-IQV(14W5Z)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th rowspan="4">Camera</th>
+<th>Image Sensor</th>
+<td>1/2.8” 5Megapixel progressive CMOS</td>
+</tr>
+<tr>
+<th>Electronic<br>Shutter Speed</th>
+<td>1 sec ~ 1/10,000sec(60/30 mode)<br>1 sec ~ 1/10,000sec(50/25mode)</td>
+</tr>
+<tr>
+<th>Min. Illumination</th>
+<td>0.05Lux (Color), 0.01Lux(B/W), 0 Lux (IR)</td>
+</tr>
+<tr>
+<th>Illumination Distance</th>
+<td>30m</td>
+</tr>
+<tr>
+<th rowspan="3">Lens</th>
+<th>Lens Type</th>
+<td>Motorized</td>
+</tr>
+<tr>
+<th>Focal Length</th>
+<td>2.7 ~ 13.5mm, F1.6 ~ F2.8</td>
+</tr>
+<tr>
+<th>Field of View</th>
+<td>101.9˚(W) ~ 33.1˚(T)</td>
+</tr>
+<tr>
+<th rowspan="2">Video</th>
+<th>Video Compression</th>
+<td>H.265 / H.264 / MJPEG</td>
+</tr>
+<tr>
+<th>Video Frame Rate</th>
+<td>Max. 30 fps for 5M/4M/1080P/720P/D1</td>
+</tr>
+<tr>
+<th rowspan="4">Function</th>
+<th>Day/Night</th>
+<td>Auto / Day / Night(ICR)</td>
+</tr>
+<tr>
+<th>BLC/HLC/WDR</th>
+<td>Yes</td>
+</tr>
+<tr>
+<th>White Balance</th>
+<td>Auto/Indoor/Outdoor/Manual</td>
+</tr>
+<tr>
+<th>IVS</th>
+<td>SMD – Human, Car detection, Line Cross, Region Entrance, Region Exiting,<br> Area Intrusion, Scene change, De-focus detection</td>
+</tr>
+<tr>
+<th rowspan="2">Audio</th>
+<th>Audio Compression</th>
+<td>G.711 A-law, G.711 μ-law, 128kbps, sampling rate 8kHz</td>
+</tr>
+<tr>
+<th>Speaker</th>
+<td>14W 6Ω</td>
+</tr>
+<tr>
+<th rowspan="4">Network</th>
+<th>Interface</th>
+<td>RJ-45 (10/100 Base-T)</td>
+</tr>
+<tr>
+<th>Protocol</th>
+<td>IPv4, TCP/IP, UDP, RTP, RTSP, RTMP, NTP, HTTP, HTTPS, DNS, DDNS, DHCP, FTP</td>
+</tr>
+<tr>
+<th>Interoperability</th>
+<td>ONVIF(Profile S)</td>
+</tr>
+<tr>
+<th>User/Host</th>
+<td>10</td>
+</tr>
+<tr>
+<th rowspan>Power</th>
+<th>Power Supply</th>
+<td>DC12V 2A / PoE</td>
+</tr>
+<tr>
+<th rowspan="2">Environment</th>
+<th>Operating Conditions</th>
+<td>-30°C to +50°C /less than ≤ 95% RH</td>
+</tr>
+<tr>
+<th>Protection</th>
+<td>IP66</td>
+</tr>
+<tr>
+<th rowspan>Structure</th>
+<th>Dimensions</th>
+<td>190 mm × 233 mm × 125 mm</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+
+## 다운로드
+
+종류 | 파일
+---- | ----
+카탈로그 | [EM-IQV(14W5Z)_CATALOG_KO_20240723.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_CATALOG_KO_20240723.pdf)
+외관도 | [EM-IQV(14W5Z)_외관도_20240723.png](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_외관도_20240723.png)<br>[EM-IQV(14W5Z)_외관도_20240723.dwg](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_외관도_20240723.dwg)
+사양서 | [EM-IQV(14W5Z)_사양서_20240723.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_사양서_20240723.xlsx)
+시방서 | [EM-IQV(14W5Z)_시방서_20240723.docx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_시방서_20240723.docx)
+출하검사 결과 성적서 | [EM-IQV(14W5Z)_출하검사성적서_20240723.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_출하검사성적서_20240723.xlsx)
+인증서 | [EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240723.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240723.pdf)<br>[EM-IQV(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20240723.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20240723.pdf)<br>[EM-IQV(14W5Z)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240723.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240723.pdf)
