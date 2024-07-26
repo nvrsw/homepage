@@ -62,7 +62,7 @@ image:
 <tr>
 <th rowspan="6">Camera</th>
 <th>Image</th>
-<td>1/2.7” 12Megapixel progressive CMOS</td>
+<td>1/1.7” 12Megapixel progressive CMOS</td>
 </tr>
 <tr>
 <th>Max. Resolution</th>
