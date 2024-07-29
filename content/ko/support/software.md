@@ -113,15 +113,15 @@ image:
 
 - 버전: **1.1.3** (2024-07-29)
   - Linux
-    - redback-manager_1.1.3_amd64.deb
-    - redback-manager-1.1.3-1.x86_64.rpm
-    - redback-manager_1.1.3_amd64.AppImage
+    - redback-manager_1.1.4_amd64.deb
+    - redback-manager-1.1.4-1.x86_64.rpm
+    - redback-manager_1.1.4_amd64.AppImage
   - Windows
-    - REDBACK Manager_1.1.3_x64_en-US.msi
-    - REDBACK Manager_1.1.3_x64-setup.exe
+    - REDBACK Manager_1.1.4_x64_en-US.msi
+    - REDBACK Manager_1.1.4_x64-setup.exe
   - macOS
-    - REDBACK Manager_1.1.3_aarch64.dmg
-    - REDBACK.Manager_1.1.3_x64.dmg
+    - REDBACK Manager_1.1.4_aarch64.dmg
+    - REDBACK.Manager_1.1.4_x64.dmg
 
 - [변경사항](/docs/redback/ChangeLog.html)
 
