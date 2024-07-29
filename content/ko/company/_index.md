@@ -103,7 +103,7 @@ cascade:
 
 <div id="branch-map" style="width:100%; height:600px"></div>
 <script>
-  function initBranchMap {
+  function initBranchMap() {
     var map = new naver.maps.Map('branch-map', {
       center: new naver.maps.LatLng(35.46492657579976, 127.81048972306141),
       zoom: 7,
@@ -205,7 +205,7 @@ cascade:
         address: '경기도 남양주시 순화궁로 249, 906호',
         latlng: new naver.maps.LatLng(37.6502974, 127.1281473)
       }
-    ];}
+    ];
     for (var i = 0; i < branches.length; i++) {
       var branch = branches[i];
       var marker = new naver.maps.Marker({
@@ -220,7 +220,7 @@ cascade:
         window.open('https://map.naver.com/v5/search/' + encodeURI(this.address), '_blank');
       });
     }
-  
+  }
 </script>
 
  |
@@ -247,7 +247,7 @@ cascade:
 
 
 ## 해외 지사 {#branches}
-</script>
+ |
 :-: | --
 **EMSTONE JP** | 309, 1-2-1, Higashikanda, Chiyoda-KU, Tokyo, Japan
 **EMSTONE International Indonesia** | Apartmen Cervino Village Unit-CJI.KH Abdullah Syafei No.27 RT.3/RW1 Tebet Bar Kota Jakarta Seltan
