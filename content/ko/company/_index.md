@@ -245,9 +245,12 @@ cascade:
 **EMSTONE GP** | [서울 영등포구 선유로 130, 301-23호](https://map.naver.com/v5/search/서울+영등포구+선유로+130+301-23호)
 **EMSTONE NHOW** | [경기도 남양주시 순화궁로 249, 906호](https://map.naver.com/v5/search/경기도+남양주시+순화궁로+249+906호)
 
+## 해외 법인 {#branches}
+ |
+:-: | --
+**EMSTONE JP** | 309, 1-2-1, Higashikanda, Chiyoda-KU, Tokyo, Japan
 
 ## 해외 지사 {#branches}
  |
 :-: | --
-**EMSTONE JP** | 309, 1-2-1, Higashikanda, Chiyoda-KU, Tokyo, Japan
 **EMSTONE International Indonesia** | Apartmen Cervino Village Unit-CJI.KH Abdullah Syafei No.27 RT.3/RW1 Tebet Bar Kota Jakarta Seltan
