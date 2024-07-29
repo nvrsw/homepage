@@ -121,6 +121,8 @@ image:
     - REDBACK Manager_1.1.3_x64-setup.exe
   - macOS
     - REDBACK Manager_1.1.3_aarch64.dmg
+    - REDBACK.Manager_1.1.3_x64.dmg
+
 - [변경사항](/docs/redback/ChangeLog.html)
 
 ## NDS
