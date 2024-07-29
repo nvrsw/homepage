@@ -153,6 +153,7 @@ image:
   - 모델: EM-IQS(IR36x)
 
 - **IPCAM_PD_V6.1.1.20**
-  - 펌웨어: [IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin](https://www.emstone.com/data/tta/camera/EM-IQP(14W5Z)/IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin)
-            / [SHA-256 Checksum](https://www.emstone.com/data/tta/camera/EM-IQP(14W5Z)/hash_code.txt)
-  - 모델: EM-IQP(14W5Z)
+  - 모델명 : EM-IQP(14W5Z)
+  - 파일명 : [IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin](https://www.emstone.com/data/tta/camera/EM-IQP(14W5Z)/IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin)
+  - 버전 : 6.1.1.20
+  - 해시값(SHA-256) : 2baa5e991131017b9fe67459f68461e7bda80e8f24673efc3eaa4d360df35a92
