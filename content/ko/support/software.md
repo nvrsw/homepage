@@ -66,9 +66,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.24.7.12** (2024-07-12)
-    - 설치 파일: [nvr-2.9.24.7.12-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.7.12-emstone.iso)
-                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.7.12-emstone.iso-sha256.txt)
+    - 버전: **2.9.24.7.29** (2024-07-29)
+    - 설치 파일: [nvr-2.9.24.7.29-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.7.29-emstone.iso)
+                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.7.29-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   - **EM-VMS1024**
     - 버전: **2.9.24.1.31** (2024-01-31)
@@ -111,16 +111,18 @@ image:
 
 *NVR / VMS Management Server*
 
-- 버전: **1.1.2** (2024-07-12)
+- 버전: **1.1.3** (2024-07-29)
   - Linux
-    - redback-manager_1.1.2_amd64.deb
-    - redback-manager-1.1.2-1.x86_64.rpm
-    - redback-manager_1.1.2_amd64.AppImage
+    - redback-manager_1.1.4_amd64.deb
+    - redback-manager-1.1.4-1.x86_64.rpm
+    - redback-manager_1.1.4_amd64.AppImage
   - Windows
-    - REDBACK Manager_1.1.2_x64_en-US.msi
-    - REDBACK Manager_1.1.2_x64-setup.exe
+    - REDBACK Manager_1.1.4_x64_en-US.msi
+    - REDBACK Manager_1.1.4_x64-setup.exe
   - macOS
-    - REDBACK Manager_1.1.2_aarch64.dmg
+    - REDBACK Manager_1.1.4_aarch64.dmg
+    - REDBACK.Manager_1.1.4_x64.dmg
+
 - [변경사항](/docs/redback/ChangeLog.html)
 
 ## NDS
