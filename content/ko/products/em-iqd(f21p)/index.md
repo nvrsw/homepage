@@ -162,8 +162,9 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [EM-IQD(F21P)_CATALOG_KO_20240731.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_CATALOG_KO_20240731.pdf)
-외관도 | [EM-IQD(F21P)_외관도_20240731.png](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_외관도_20240731.png)
-사양서 | [EM-IQD(F21P)_사양서_20240731.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_사양서_20240731.xlsx)
-시방서 | [EM-IQD(F21P)_시방서_20240731.docx](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_시방서_20240731.docx)
-출하검사 결과 성적서 | [EM-IQD(F21P)_출하검사성적서_20240731.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_출하검사성적서_20240731.xlsx)
-인증서 | [EM-IQD(F21P)_방송통신기자재등의적합등록필증_20240731.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_방송통신기자재등의적합등록필증_20240731.pdf)<br>[EM-IQD(F21P)_방송통신기자재등(전자파적합성)시험성적서_20240731.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_방송통신기자재등(전자파적합성)시험성적서_20240731.pdf)<br>[EM-IQD(F21P)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240731.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240731.pdf)
+외관도 | [EM-IQD(F21P)_외관도_20240731.png](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_외관도_20240731.png)
+사양서 | [EM-IQD(F21P)_사양서_20240731.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_사양서_20240731.xlsx)
+시방서 | [EM-IQD(F21P)_시방서_20240731.docx](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_시방서_20240731.docx)
+출하검사 결과 성적서 | [EM-IQD(F21P)_출하검사성적서_20240731.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_출하검사성적서_20240731.xlsx)
+인증서 | [EM-IQD(F21P)_방송통신기자재등의적합등록필증_20240731.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_방송통신기자재등의적합등록필증_20240731.pdf)<br>[EM-IQD(F21P)_방송통신기자재등(전자파석합성)시험성적서_20240731.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_방송통신기자재등(전자파석합성)시험성적서_20240731.pdf)<br>[EM-IQD(F21P)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240731.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240731.pdf)
+소프트웨어 | [EMSTONE_P_IPInstaller.zip](https://www.emstone.com/data/sales/ko/EMSTONE_P_IPInstaller.zip)
