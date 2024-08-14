@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "제품"
-subtitle = "VMS / NVR / 카메라 / CMS / NDS / 기타"
+subtitle = "NVR / 카메라 / CMS / 기타"
 url = "products/"
 align = "end"
 

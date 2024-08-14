@@ -5,7 +5,7 @@ summary: "Video Management System"
 authors: []
 tags: []
 categories: [ "vms" ]
-draft: false
+draft: true
 weight: 1001
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
