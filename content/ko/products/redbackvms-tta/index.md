@@ -5,7 +5,7 @@ summary: "Video Management System"
 authors: []
 tags: []
 categories: [ "TTA" ]
-draft: true
+draft: false
 weight: 6034
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.

@@ -5,7 +5,7 @@ summary: "네트워크 디스플레이 서버 / IP 비디오 월"
 authors: []
 tags: [ "ipwall" ]
 categories: [ "nds" ]
-draft: true
+draft: false
 weight: 4020
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.

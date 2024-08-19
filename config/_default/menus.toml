@@ -33,11 +33,11 @@
   url = "company/"
   weight = 50
 
-#[[main]]
-#  parent = "products"
-#  name = "REDBACK VMS"
-#  url = "categories/vms/"
-#  weight = 10
+[[main]]
+  parent = "products"
+  name = "REDBACK VMS"
+  url = "categories/vms/"
+  weight = 10
 
   [[main]]
   parent = "products"
@@ -58,11 +58,11 @@
   url = "categories/cms/"
   weight = 40
 
-#[[main]]
-#  parent = "products"
-#  name = "Network Diplay Server"
-#  url = "categories/nds/"
-#  weight = 50
+[[main]]
+  parent = "products"
+  name = "Network Diplay Server"
+  url = "categories/nds/"
+  weight = 50
 
 [[main]]
   parent = "products"
