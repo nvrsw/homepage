@@ -31,11 +31,12 @@ image:
 
 ## 특징
 
-- **QHD** 5 메가 픽셀 2560x1920p @30fps
-- 14W **스피커 일체형**으로 방송 가능
+- **QHD** 5Mega-pixel 2560x1920p @30fps
 - 5배줌 (2.7~13.5mm) 전동 줌 렌즈
+- 14W **스피커 일체형**으로 방송 가능
+- **TSM** (True Sound Monitor / 방송 송출 확인 기능) 지원
+- 방수, 방진 인증 **IP66** 등급
 - **PoE**(Power over Ethernet) 지원
-- 방수, 방진 인증 IP66 등급
 
 </div>
 <div class="col-sm-4 pl-0">
@@ -170,7 +171,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IQV(14W5Z)_CATALOG_KO_20240723.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_CATALOG_KO_20240723.pdf)
+카탈로그 | [EM-IQV(14W5Z)_CATALOG_KO_20240829.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_CATALOG_KO_20240829.pdf)
 외관도 | [EM-IQV(14W5Z)_외관도_20240723.png](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_외관도_20240723.png)<br>[EM-IQV(14W5Z)_외관도_20240723.dwg](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_외관도_20240723.dwg)
 사양서 | [EM-IQV(14W5Z)_사양서_20240723.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_사양서_20240723.xlsx)
 시방서 | [EM-IQV(14W5Z)_시방서_20240723.docx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_시방서_20240723.docx)
