@@ -45,12 +45,12 @@ image:
 <div class="row justify-content-center align-items-center">
 <div class="col-sm-6">
 
-{{< figure src="em-iqd-drawing.png" caption="EM-IQD(F21) / EM-IQD(F28)" >}}
+{{< figure src="em-iqd-drawing_20240913.png" caption="EM-IQD(F21) / EM-IQD(F28)" >}}
 
 </div>
 <div class="col-sm-6">
 
-{{< figure src="em-iqd-drawing-ir.png" caption="EM-IQD(IRF36) / EM-IQD(IR2812Z)" >}}
+{{< figure src="em-iqd-drawing-ir_20240913.jpg" caption="EM-IQD(IRF36) / EM-IQD(IR2812Z)" >}}
 
 </div>
 </div>
@@ -247,7 +247,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">Dimension</th>
-<td colspan="5">Φ130mm X 106mm</td>
+<td colspan="5">Φ114mm X 89mm</td>
 </tr>
 <tr>
 <th colspan="2">Weight</th>
@@ -261,10 +261,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [IQD_CATALOG_KO_20240625.pdf](https://www.emstone.com/data/sales/ko/IQD_CATALOG_KO_20240625.pdf)
-외관도 | [IQD_non_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IQD_non_IR_외관도_20200313.png)<br>[IQD_IR_외관도_20200313.png](https://www.emstone.com/data/sales/ko/IQD_IR_외관도_20200313.png)<br>[IQD_IR_외관도_20220701.dwg](https://www.emstone.com/data/sales/ko/IQD_IR_외관도_20220701.dwg)
-사양서 | [IQD_사양서_20240625.xlsx](https://www.emstone.com/data/sales/ko/IQD_사양서_20240625.xlsx)
-시방서 | [IQD(F21)_시방서_20200720.docx](https://www.emstone.com/data/sales/ko/IQD(F21)_시방서_20200720.docx)<br>[IQD(F28)_시방서_20200720.docx](https://www.emstone.com/data/sales/ko/IQD(F28)_시방서_20200720.docx)<br>[IQD(IR28)_시방서_20240509.docx](https://www.emstone.com/data/sales/ko/IQD(IR28)_시방서_20240509.docx)<br>[IQD(IRF36)_시방서_20220728.docx](https://www.emstone.com/data/sales/ko/IQD(IRF36)_시방서_20220728.docx)<br>[IQD(IR2812Z)_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/IQD(IR2812Z)_시방서_20240716.docx)
+카탈로그 | [IQD_CATALOG_KO_20240913.pdf](https://www.emstone.com/data/sales/ko/IQD_CATALOG_KO_20240913.pdf)
+외관도 | [IQD_non_IR_외관도_20240913.png](https://www.emstone.com/data/sales/ko/IQD_non_IR_외관도_20240913.png)<br>[IQD_IR_외관도_20240913.jpg](https://www.emstone.com/data/sales/ko/IQD_IR_외관도_20240913.jpg)<br>[IQD_IR_외관도_20240913.DWG](https://www.emstone.com/data/sales/ko/IQD_IR_외관도_20240913.DWG)
+사양서 | [IQD_사양서_20240913.xlsx](https://www.emstone.com/data/sales/ko/IQD_사양서_20240913.xlsx)
+시방서 | [IQD(F21)_시방서_20240913.docx](https://www.emstone.com/data/sales/ko/IQD(F21)_시방서_20240913.docx)<br>[IQD(F28)_시방서_20240913.docx](https://www.emstone.com/data/sales/ko/IQD(F28)_시방서_20240913.docx)<br>[IQD(IR28)_시방서_20240913.docx](https://www.emstone.com/data/sales/ko/IQD(IR28)_시방서_20240913.docx)<br>[IQD(IRF36)_시방서_20240913.docx](https://www.emstone.com/data/sales/ko/IQD(IRF36)_시방서_20240913.docx)<br>[IQD(IR2812Z)_시방서_20240913.docx](https://www.emstone.com/data/sales/ko/IQD(IR2812Z)_시방서_20240913.docx)
 출하검사 결과 성적서 | [IQD(F21)_출하검사성적서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IQD(F21)_출하검사성적서_20200313.xlsx)<br>[IQD(F28)_출하검사성적서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IQD(F28)_출하검사성적서_20200313.xlsx)<br>[IQD(IR28)_출하검사성적서_20240509.xlsx](https://www.emstone.com/data/sales/ko/IQD(IR28)_출하검사성적서_20240509.xlsx)<br>[IQD(IRF36)_출하검사성적서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IQD(IRF36)_출하검사성적서_20200313.xlsx)<br>[IQD(IR2812Z)_출하검사성적서_20240625.xlsx](https://www.emstone.com/data/sales/ko/IQD(IR2812Z)_출하검사성적서_20240625.xlsx)
 인증서 | [IQD_방송통신기자재등의적합등록필증_20240509.pdf](https://www.emstone.com/data/sales/ko/IQD_방송통신기자재등의적합등록필증_20240509.pdf)<br>[IQD_방송통신기자재등(전자파적합성)시험성적서_20180906.pdf](https://www.emstone.com/data/sales/ko/IQD_방송통신기자재등(전자파적합성)시험성적서_20180906.pdf)<br>[IQD_방송통신기자재등(유선영상정보처리기기)시험성적서_20210824.pdf](https://www.emstone.com/data/sales/ko/IQD_방송통신기자재등(유선영상정보처리기기)시험성적서_20210824.pdf)<br>[EM-IQD(IR2812Z)_TTA인증서_20230728.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR2812Z)_TTA인증서_20230728.pdf)
 매뉴얼 | [EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf)<br>[EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf)<br>[EM-IHD_IP_Camera_User_Manual_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_User_Manual_20200313.pdf)
