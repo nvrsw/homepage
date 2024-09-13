@@ -244,7 +244,7 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [IQV_CATALOG_KO_20240625.pdf](https://www.emstone.com/data/sales/ko/IQV_CATALOG_KO_20240625.pdf)
-외관도 | [IQV_외관도_20230105.png](https://www.emstone.com/data/sales/ko/IQV_외관도_20230105.png)<br>[IQV_외관도_20230105.dwg](https://www.emstone.com/data/sales/ko/IQV_외관도_20230105.dwg)
+외관도 | [IQV_외관도_20230105.png](https://www.emstone.com/data/sales/ko/IQV_외관도_20230105.png)<br>[IQV_외관도_20240913.dwg](https://www.emstone.com/data/sales/ko/IQV_외관도_20240913.dwg)
 사양서 | [IQV_사양서_20240625.xlsx](https://www.emstone.com/data/sales/ko/IQV_사양서_20240625.xlsx)
 시방서 | [IQV(IRF36)_시방서_20220728.docx](https://www.emstone.com/data/sales/ko/IQV(IRF36)_시방서_20220728.docx)<br>[IQV(IR2812Z)_시방서_20240625.docx](https://www.emstone.com/data/sales/ko/IQV(IR2812Z)_시방서_20240625.docx)
 출하검사 결과 성적서 | [IQV(IRF36)_출하검사성적서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IQV(IRF36)_출하검사성적서_20200313.xlsx)<br>[IQV(IR2812Z)_출하검사성적서_20240625.xlsx](https://www.emstone.com/data/sales/ko/IQV(IR2812Z)_출하검사성적서_20240625.xlsx)

@@ -232,7 +232,7 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [IHV_CATALOG_KO_20230404.pdf](https://www.emstone.com/data/sales/ko/IHV_CATALOG_KO_20230404.pdf)
-외관도 | [IHV_외관도_20230105.png](https://www.emstone.com/data/sales/ko/IHV_외관도_20230105.png)<br>[IHV_외관도_20230105.dwg](https://www.emstone.com/data/sales/ko/IHV_외관도_20230105.dwg)
+외관도 | [IHV_외관도_20230105.png](https://www.emstone.com/data/sales/ko/IHV_외관도_20230105.png)<br>[IHV_외관도_20240913.dwg](https://www.emstone.com/data/sales/ko/IHV_외관도_20240913.dwg)
 사양서 | [IHV_사양서_20230404.xlsx](https://www.emstone.com/data/sales/ko/IHV_사양서_20230404.xlsx)
 시방서 | [IHV(IRF36)_시방서_20230404.docx](https://www.emstone.com/data/sales/ko/IHV(IRF36)_시방서_20230404.docx)<br>[IHV(IR2812Z)_시방서_20230404.docx](https://www.emstone.com/data/sales/ko/IHV(IR2812Z)_시방서_20230404.docx)
 출하검사 결과 성적서 | [IHV(IRF36)_출하검사성적서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IHV(IRF36)_출하검사성적서_20200313.xlsx)<br>[IHV(IR2812Z)_출하검사성적서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IHV(IR2812Z)_출하검사성적서_20200313.xlsx)
