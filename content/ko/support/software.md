@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - 설치 프로그램
   - **최신 버전**
-    - 버전: **2.1.24.8.26** (2024.08.26)
+    - 버전: **2.1.24.9.12** (2024.09.12)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.24.8.26-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.8.26-win32-emstone.exe)
-        - 64비트: [cms-2.1.24.8.26-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.8.26-win64-emstone.exe)
+        - 32비트: [cms-2.1.24.9.12-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.9.12-win32-emstone.exe)
+        - 64비트: [cms-2.1.24.9.12-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.9.12-win64-emstone.exe)
       - Linux
-        - 64비트: [cms-2.1.24.8.26-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.8.26-linux-x86_64.tar.bz2)
+        - 64비트: [cms-2.1.24.9.12-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.9.12-linux-x86_64.tar.bz2)
 
   - **2.1.23.8.8**
     - 버전: **2.1.23.8.8** (2023.08.08)
@@ -66,9 +66,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.24.8.26** (2024-08-26)
-    - 설치 파일: [nvr-2.9.24.8.26-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.8.26-emstone.iso)
-                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.8.26-emstone.iso-sha256.txt)
+    - 버전: **2.9.24.10.4** (2024-10-04)
+    - 설치 파일: [nvr-2.9.24.10.4-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.10.4-emstone.iso)
+                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.10.4-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   - **EM-VMS1024**
     - 버전: **2.9.24.1.31** (2024-01-31)
@@ -121,17 +121,17 @@ image:
 
 *NVR / VMS Management Server*
 
-- 버전: **1.1.5** (2024-08-09)
+- 버전: **1.2.0** (2024-09-25)
   - Linux
-    - redback-manager_1.1.5_amd64.deb
-    - redback-manager-1.1.5-1.x86_64.rpm
-    - redback-manager_1.1.5_amd64.AppImage
+    - redback-manager_1.2.0_amd64.deb
+    - redback-manager-1.2.0-1.x86_64.rpm
+    - redback-manager_1.2.0_amd64.AppImage
   - Windows
-    - REDBACK Manager_1.1.5_x64_en-US.msi
-    - REDBACK Manager_1.1.5_x64-setup.exe
+    - REDBACK Manager_1.2.0_x64_en-US.msi
+    - REDBACK Manager_1.2.0_x64-setup.exe
   - macOS
-    - REDBACK Manager_1.1.5_aarch64.dmg
-    - REDBACK.Manager_1.1.5_x64.dmg
+    - REDBACK Manager_1.2.0_aarch64.dmg
+    - REDBACK.Manager_1.2.0_x64.dmg
 
 - [변경사항](/docs/redback/ChangeLog.html)
 
@@ -166,6 +166,12 @@ image:
 
 - **IPCAM_PD_V6.1.1.20**
   - 모델명 : EM-IQP(14W5Z)
+  - 파일명 : [IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin](https://www.emstone.com/data/tta/camera/EM-IQP(14W5Z)/IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin)
+  - 버전 : 6.1.1.20
+  - 해시값(SHA-256) : <span style="word-break:break-all;">2baa5e991131017b9fe67459f68461e7bda80e8f24673efc3eaa4d360df35a92</span>
+
+- **IPCAM_PD_V6.1.1.20**
+  - 모델명 : EM-IQV(14W5Z)
   - 파일명 : [IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin](https://www.emstone.com/data/tta/camera/EM-IQP(14W5Z)/IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin)
   - 버전 : 6.1.1.20
   - 해시값(SHA-256) : <span style="word-break:break-all;">2baa5e991131017b9fe67459f68461e7bda80e8f24673efc3eaa4d360df35a92</span>
