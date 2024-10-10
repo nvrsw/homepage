@@ -48,7 +48,7 @@ image:
 - 모션 / 센서 / 카메라 신호손실 / 디스크 오류 등의 이벤트
 - 다중 권한 사용자모드 및 화면 잠금 지원
 - 최대 192TB의 넉넉한 자체 저장 공간
-- 모델 라인업 : 36, 49, 64, 81, 100, 128 CH
+- 모델 라인업 : 16, 25, 36, 49, 64, 81, 100, 128 CH
 
 
 </div>
@@ -68,8 +68,9 @@ image:
 <div class="col-sm-1">
 {{< figure src="TTA.png" >}} 
 </div>
-<div class="col-sm-6">
-- 공공기관용 NVR 보안성능품질 Ver.1 (TTA-V-24-766)
+<div class="col-sm-7">
+- 16~25ch : 공공기관용 NVR 보안성능품질 Ver.1 (TTA-V-24-207)<br>
+- 36~128ch : 공공기관용 NVR 보안성능품질 Ver.1 (TTA-V-24-766)
 </div>
 </div>
 </div>
@@ -82,48 +83,54 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
+<th>EM-16B8-T</th>
+<th>EM-25B8-T</th>
 <th>EM-36B8-T</th>
 <th>EM-49B8F-T</th>
-<th>EM-64B8F-T</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <th>영상입력</th>
 <th>IP 카메라</th>
+<td>16CH</td>
+<td>25CH</td>
 <td>36CH</td>
 <td>49CH</td>
-<td>64CH</td>
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td colspan="3">i5 3.0GHz or Higher</td>
+<td colspan="2">Dual Core 1.0GHz or Higher</td>
+<td colspan="2">i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td colspan="3">DDR4 32GB</td>
+<td colspan="2">DDR4 8GB</td>
+<td colspan="2">DDR4 32GB</td>
 </tr>
 <tr>
 <th rowspan="4">디스플레이</th>
 <th>모니터 출력</th>
-<td colspan="3">1xHDMI / 1xDP(orVGA)</td>
+<td colspan="4">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>분할화면</th>
+<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16</td>
+<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25</td>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36</td>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49</td>
-<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64</td>
 </tr>
 <tr>
 <th>라이브/검색<br>성능</th>
-<td colspan="3">최대 12M 지원</td>
+<td colspan="4">최대 12M 지원</td>
 </tr>
 <tr>
 <th>지원 해상도<br>
 (채널/fps)</th>
+<td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
+<td>12M(4CH/120fps)<br>8M(6CH/180fps)<br>5M(10CH/300fps)<br>1080P(25CH/750fps)</td>
 <td>12M(6CH/180fps)<br>8M(9CH/270fps)<br>5M(14CH/420fps)<br>1080P(36CH/1080fps)</td>
 <td>12M(8CH/240fps)<br>8M(12CH/360fps)<br>5M(19CH/570fps)<br>1080P(49CH/1470fps)</td>
-<td>12M(10CH/300fps)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)</td>
 </tr>
 </tbody>
 </table>
@@ -132,6 +139,7 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
+<th>EM-64B8F-T</th>
 <th>EM-81B8H-T</th>
 <th>EM-100B8H-T</th>
 <th>EM-128B8H-T</th>
@@ -141,36 +149,39 @@ image:
 <tr>
 <th>영상입력</th>
 <th>IP 카메라</th>
+<td>64CH</td>
 <td>81CH</td>
 <td>100CH</td>
 <td>128CH</td>
 </tr>
 <tr>
 <th colspan="2">CPU</th>
-<td colspan="3">i5 3.0GHz or Higher</td>
+<td colspan="4">i5 3.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td colspan="3">32GB</td>
+<td colspan="4">32GB</td>
 </tr>
 <tr>
 <th rowspan="4">디스플레이</th>
 <th>모니터 출력</th>
-<td colspan="3">1xHDMI / 1xDP(orVGA)</td>
+<td colspan="4">1xHDMI / 1xDP(orVGA)</td>
 </tr>
 <tr>
 <th>분할화면</th>
+<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64</td>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64 / 81</td>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64 / 81 / 100</td>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64 / 81 / 100 / 121 / 128</td>
 </tr>
 <tr>
 <th>라이브/검색<br>성능</th>
-<td colspan="3">최대 12M 지원</td>
+<td colspan="4">최대 12M 지원</td>
 </tr>
 <tr>
 <th>지원 해상도<br>
 (채널/fps)</th>
+<td>12M(10CH/300fps)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)</td>
 <td>12M(6CH/180fps)<br>8M(10CH/300fps)<br>5M(16CH/480fps)<br>1080P(40CH/1200fps)<br>720P(81CH/2430fps)</td>
 <td>12M(8CH/240fps)<br>8M(12CH/360fps)<br>5M(20CH/600fps)<br>1080P(50CH/1500fps)<br>720P(100CH/3000fps)</td>
 <td>12M(10CH/300fps)<br>8M(16CH/480fps)<br>5M(25CH/750fps)<br>1080P(64CH/1920fps)<br>720P(128CH/3840fps)</td>
@@ -303,10 +314,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB8-T_CATALOG_KO_20240718.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_CATALOG_KO_20240718.pdf)
-외관도 | [2UB8-T_외관도_20240604.dwg](https://www.emstone.com/data/sales/ko/2UB8-T_외관도_20240604.dwg)<br>[2UB8-T_외관도_20240604.png](https://www.emstone.com/data/sales/ko/2UB8-T_외관도_20240604.png)
-사양서 | [2UB8-T_사양서_20240718.xlsx](https://www.emstone.com/data/sales/ko/2UB8-T_사양서_20240718.xlsx)
-시방서 | [2UB8_EM-36B8-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8-T_시방서_20240718.docx)<br>[2UB8_EM-49B8F-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F-T_시방서_20240718.docx)<br>[2UB8_EM-64B8F-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F-T_시방서_20240718.docx)<br>[2UB8_EM-81B8H-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H-T_시방서_20240718.docx)<br>[2UB8_EM-100B8H-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H-T_시방서_20240718.docx)<br>[2UB8_EM-128B8H-T_시방서_20240718.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H-T_시방서_20240718.docx)
-출하검사 결과 성적서 | [2UB8_EM-36B8-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8-T_출하검사결과성적서_20240604.xlsx)<br>[2UB8_EM-49B8F-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F-T_출하검사결과성적서_20240604.xlsx)<br>[2UB8_EM-64B8F-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F-T_출하검사결과성적서_20240604.xlsx)<br>[2UB8_EM-81B8H-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H-T_출하검사결과성적서_20240604.xlsx)<br>[2UB8_EM-100B8H-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H-T_출하검사결과성적서_20240604.xlsx)<br>[2UB8_EM-128B8H-T_출하검사결과성적서_20240604.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H-T_출하검사결과성적서_20240604.xlsx)
-인증서 | [2UB8-T_방송통신기자재등의적합등록필증_20240604.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_방송통신기자재등의적합등록필증_20240604.pdf)<br>[2UB8-T_방송통신기자재등(전자파적합성)시험성적서_20240604.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_방송통신기자재등(전자파적합성)시험성적서_20240604.pdf)<br>[2UB8-T_TTA인증서_20240604.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_TTA인증서_20240604.pdf)<br>[2UB8-T_TTA시험성적서_20240604.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_TTA시험성적서_20240604.pdf)
+카탈로그 | [2UB8-T(2.9.24.1.31)_CATALOG_KO_20241010.pdf](https://www.emstone.com/data/sales/ko/2UB8-T(2.9.24.1.31)_CATALOG_KO_20241010.pdf)
+외관도 | [2UB8-T(2.9.24.1.31)_외관도_20241010.dwg](https://www.emstone.com/data/sales/ko/2UB8-T(2.9.24.1.31)_외관도_20241010.dwg)<br>[2UB8-T(2.9.24.1.31)_외관도_20241010.png](https://www.emstone.com/data/sales/ko/2UB8-T(2.9.24.1.31)_외관도_20241010.png)
+사양서 | [2UB8-T(2.9.24.1.31)_사양서_20241010.xlsx](https://www.emstone.com/data/sales/ko/2UB8-T(2.9.24.1.31)_사양서_20241010.xlsx)
+시방서 | [2UB8_EM-16B8-T(2.9.24.1.31)_시방서_20241010.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-16B8-T(2.9.24.1.31)_시방서_20241010.docx)<br>[2UB8_EM-25B8-T(2.9.24.1.31)_시방서_20241010.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-25B8-T(2.9.24.1.31)_시방서_20241010.docx)<br>[2UB8_EM-36B8-T(2.9.24.1.31)_시방서_20241010.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8-T(2.9.24.1.31)_시방서_20241010.docx)<br>[2UB8_EM-49B8F-T(2.9.24.1.31)_시방서_20241010.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F-T(2.9.24.1.31)_시방서_20241010.docx)<br>[2UB8_EM-64B8F-T(2.9.24.1.31)_시방서_20241010.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F-T(2.9.24.1.31)_시방서_20241010.docx)<br>[2UB8_EM-81B8H-T(2.9.24.1.31)_시방서_20241010.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H-T(2.9.24.1.31)_시방서_20241010.docx)<br>[2UB8_EM-100B8H-T(2.9.24.1.31)_시방서_20241010.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H-T(2.9.24.1.31)_시방서_20241010.docx)<br>[2UB8_EM-128B8H-T(2.9.24.1.31)_시방서_20241010.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H-T(2.9.24.1.31)_시방서_20241010.docx)
+출하검사 결과 성적서 | [2UB8_EM-16B8-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-16B8-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx)<br>[2UB8_EM-25B8-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-25B8-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx)<br>[2UB8_EM-36B8-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx)<br>[2UB8_EM-49B8F-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx)<br>[2UB8_EM-64B8F-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx)<br>[2UB8_EM-81B8H-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx)<br>[2UB8_EM-100B8H-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx)<br>[2UB8_EM-128B8H-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H-T(2.9.24.1.31)_출하검사결과성적서_20241010.xlsx)
+인증서 | [2UB8-T(2.9.24.1.31)_방송통신기자재등의적합등록필증_20241010.pdf](https://www.emstone.com/data/sales/ko/2UB8-T(2.9.24.1.31)_방송통신기자재등의적합등록필증_20241010.pdf)<br>[2UB8-T(2.9.24.1.31)_방송통신기자재등(전자파적합성)시험성적서_20241010.pdf](https://www.emstone.com/data/sales/ko/2UB8-T(2.9.24.1.31)_방송통신기자재등(전자파적합성)시험성적서_20241010.pdf)<br>[2UB8-T_16-25(2.9.24.1.31)_TTA인증서_20241010.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_16-25(2.9.24.1.31)_TTA인증서_20241010.pdf)<br>[2UB8-T_16-25(2.9.24.1.31)_TTA시험성적서_20241010.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_16-25(2.9.24.1.31)_TTA시험성적서_20241010.pdf)<br>[2UB8-T_36-128(2.9.24.1.31)_TTA인증서_20241010.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_36-128(2.9.24.1.31)_TTA인증서_20241010.pdf)<br>[2UB8-T_36-128(2.9.24.1.31)_TTA시험성적서_20241010.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_36-128(2.9.24.1.31)_TTA시험성적서_20241010.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20231107.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20231107.pdf)<br>[TTA_NVR_사용자매뉴얼_20231204.pdf](https://www.emstone.com/data/sales/ko/TTA_NVR_사용자매뉴얼_20231204.pdf)<br>[NVR_업그레이드매뉴얼_20230728.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20230728.pdf)
