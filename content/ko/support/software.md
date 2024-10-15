@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - 설치 프로그램
   - **최신 버전**
-    - 버전: **2.1.24.9.12** (2024.09.12)
+    - 버전: **2.1.24.10.14** (2024.10.14)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.24.9.12-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.9.12-win32-emstone.exe)
-        - 64비트: [cms-2.1.24.9.12-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.9.12-win64-emstone.exe)
+        - 32비트: [cms-2.1.24.10.14-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.10.14-win32-emstone.exe)
+        - 64비트: [cms-2.1.24.10.14-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.10.14-win64-emstone.exe)
       - Linux
-        - 64비트: [cms-2.1.24.9.12-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.9.12-linux-x86_64.tar.bz2)
+        - 64비트: [cms-2.1.24.10.14-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.10.14-linux-x86_64.tar.bz2)
 
   - **2.1.23.8.8**
     - 버전: **2.1.23.8.8** (2023.08.08)
@@ -66,9 +66,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.24.10.4** (2024-10-04)
-    - 설치 파일: [nvr-2.9.24.10.4-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.10.4-emstone.iso)
-                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.10.4-emstone.iso-sha256.txt)
+    - 버전: **2.9.24.10.14** (2024-10-14)
+    - 설치 파일: [nvr-2.9.24.10.14-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.10.14-emstone.iso)
+                 / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.10.14-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   - **EM-VMS1024**
     - 버전: **2.9.24.1.31** (2024-01-31)
