@@ -246,7 +246,7 @@ image:
 <tr>
 <th rowspan="3">지능형<br>솔루션</th>
 <th>내장 SW</th>
-<td>EEMSTONE 영상분석 AI 기반 LPR 및 불꽃/연기 감지 각 1채널 기본 탑재 (※ 추가 라이선스 옵션)</td>
+<td>EMSTONE 영상분석 AI 기반 LPR 및 불꽃/연기 감지 각 1채널 기본 탑재 (※ 추가 라이선스 옵션)</td>
 </tr>
 <tr>
 <th>외부 시스템 연동</th>
@@ -284,4 +284,9 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [3UB16V2_CATALOG_KO_20241004.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_CATALOG_KO_20241004.pdf)
+외관도 | [3UB16V2_외관도_20241004.dwg](https://www.emstone.com/data/sales/ko/3UB16V2_외관도_20241004.dwg)<br>[3UB16V2_외관도_20241004.png](https://www.emstone.com/data/sales/ko/3UB16V2_외관도_20241004.png)
+사양서 | [3UB16V2_사양서_20241004.xlsx](https://www.emstone.com/data/sales/ko/3UB16V2_사양서_20241004.xlsx)
+시방서 | [3UB16V2_EM-36B16V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-36B16V2_시방서_20241015.docx)<br>[3UB16V2_EM-64B16V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-64B16V2_시방서_20241015.docx)<br>[3UB16V2_EM-128B16V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-128B16V2_시방서_20241015.docx)
+출하검사 결과 성적서 | [3UB16V2_EM-36B16V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-36B16V2_출하검사결과성적서_20241015.xlsx)<br>[3UB16V2_EM-64B16V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-64B16V2_출하검사결과성적서_20241015.xlsx)<Br>[3UB16V2_EM-128B16V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-128B16V2_출하검사결과성적서_20241015.xlsx)
+인증서 | [3UB16V2_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240920.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240920.pdf)<br>[3UB16V2_방송통신기자재등(전자파적합성)시험성적서_20240920.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_방송통신기자재등(전자파적합성)시험성적서_20240920.pdf)<br>[3UB16V2_방송통신기자재등의적합등록필증_20240920.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_방송통신기자재등의적합등록필증_20240920.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20231107.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20231107.pdf)<br>[NVR_사용자매뉴얼_20231204.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20231204.pdf)<br>[NVR_업그레이드매뉴얼_20230728.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20230728.pdf)
