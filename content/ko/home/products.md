@@ -41,16 +41,16 @@ align = "end"
   description = "Video Management System"
 
 [[feature]]
-  image = "products/nvr-plus/featured.png"
-  url = "products/nvr-plus/"
-  name = "NVR+ Professional Seriess"
-  description = "Channel Extensible Storage Type PC based NVR"
+  image = "products/2ub8v2/featured.png"
+  url = "products/2ub8v2/"
+  name = "2U B8 V2 Performance Series"
+  description = "2U 8Bay Storage Type PC based NVR V2"
 
 [[feature]]
-  image = "products/4ub24/featured.png"
-  url = "products/4ub24/"
-  name = "NVR 4U B24 Series"
-  description = "4U 24Bay Storage Type PC based NVR"
+  image = "products/3ub16v2/featured.png"
+  url = "products/3ub16v2/"
+  name = "3U B16 V2 Performance Series"
+  description = "3U 16Bay Storage Type PC based NVR V2"
 
 # [[feature]]
 #   image = "products/4ub8h/featured.png"
