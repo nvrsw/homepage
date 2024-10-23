@@ -49,6 +49,18 @@ image:
 </div>
 </div>
 
+## 인증
+<div class="container">
+<div class="row align-items-top">
+<div class="col-sm-1">
+{{< figure src="TTA.png" >}} 
+</div>
+<div class="col-sm-11">
+- EM-IQV(14W5Z)<br>
+- 공공기관용 IP카메라 보안 성능품질 Ver.1 (TTA-IT-V-24-245)
+</div>
+</div>
+</div>
 
 ## 사양
 
@@ -176,5 +188,5 @@ image:
 사양서 | [EM-IQV(14W5Z)_사양서_20240723.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_사양서_20240723.xlsx)
 시방서 | [EM-IQV(14W5Z)_시방서_20240723.docx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_시방서_20240723.docx)
 출하검사 결과 성적서 | [EM-IQV(14W5Z)_출하검사성적서_20240723.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_출하검사성적서_20240723.xlsx)
-인증서 | [EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240723.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240723.pdf)<br>[EM-IQV(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20240723.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20240723.pdf)<br>[EM-IQV(14W5Z)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240723.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240723.pdf)
+인증서 | [EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240723.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240723.pdf)<br>[EM-IQV(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20240723.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20240723.pdf)<br>[EM-IQV(14W5Z)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240723.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240723.pdf)<br>[EM-IQV(14W5Z)_TTA인증서_20241018.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_TTA인증서_20241018.pdf)
 소프트웨어 | [EMSTONE_P_IPInstaller.zip](https://www.emstone.com/data/sales/ko/EMSTONE_P_IPInstaller.zip)
