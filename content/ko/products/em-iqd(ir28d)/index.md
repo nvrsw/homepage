@@ -154,13 +154,6 @@ image:
 <th>IVS</th>
 <td>Intrusion, tripwire(the two functions support the classification and accurate detection of vehicle and human)</td>
 </tr>
-<th rowspan="2">Audio</th>
-<th>Twoway audio</th>
-<td>Yes</td>
-<tr>
-<th>Audio Compression</th>
-<td>G.711a; G.711Mu; PCM; G.726</td>
-</tr>
 <th rowspan="5">Network</th>
 <th>Interface</th>
 <td>RJ-45 (10/100 Base-T)</td>
@@ -213,9 +206,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IQD(IR28D)_CATALOG_KO_20240527.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_CATALOG_KO_20240527.pdf)
+카탈로그 | [EM-IQD(IR28D)_CATALOG_KO_20241015.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_CATALOG_KO_20241015.pdf)
 외관도 | [EM-IQD(IR28D)-외관도_20220127.png](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)-외관도_20220127.png)<br>[EM-IQD(IR28D)-외관도_20220801.dwg](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)-외관도_20220801.dwg)
-사양서 | [EM-IQD(IR28D)_사양서_20240527.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_사양서_20240527.xlsx)
+사양서 | [EM-IQD(IR28D)_사양서_20241015.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_사양서_20241015.xlsx)
 시방서 | [EM-IQD(IR28D)_시방서_20220628.docx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_시방서_20220628.docx)
 출하검사 결과 성적서 | [EM-IQD(IR28D)_출하검사성적서_20220127.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_출하검사성적서_20220127.xlsx)
 인증서 | [EM-IQD(IR28D)_방송통신기자재등의적합등록필증_20220127.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_방송통신기자재등의적합등록필증_20220127.pdf)<br>[EM-IQD(IR28D)_방송통신기자재등(전자파적합성)시험성적서_20220127.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_방송통신기자재등(전자파적합성)시험성적서_20220127.pdf)<br>[EM-IQD(IR28D)_방송통신기자재등(유선영상정보처리기기)시험성적서_20220127.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28D)_방송통신기자재등(유선영상정보처리기기)시험성적서_20220127.pdf)
