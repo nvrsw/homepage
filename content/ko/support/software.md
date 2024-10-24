@@ -70,7 +70,7 @@ image:
     - 설치 파일: [nvr-2.9.24.10.22-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.10.22-emstone.iso)
                  / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.10.22-emstone.iso-sha256.txt)
     - 모델: 모든 모델
-  - **EM-VMS1024**
+  <!--  - **EM-VMS1024**
     - 버전: **2.9.24.1.31** (2024-01-31)
     - 다운로드: [nvr-2.9.24.1.31.iso](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso-sha256.txt)
@@ -89,7 +89,21 @@ image:
     - 버전: **2.9.24.1.31** (2024-01-31)
     - 다운로드: [nvr-2.9.24.1.31.iso](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso-sha256.txt)
-    - 모델: EM-25B2-T, EM-16B2-T, EM-09B2-T, EM-04B2-T, EM-25B2, EM-16B2, EM-09B2, EM-04B2
+    - 모델: EM-25B2-T, EM-16B2-T, EM-09B2-T, EM-04B2-T, EM-25B2, EM-16B2, EM-09B2, EM-04B2 -->
+
+  - **2.9.24.1.31 (2024-01-31)**
+    - 버전: **2.9.24.1.31** (2024-01-31)
+    - 다운로드: [nvr-2.9.24.1.31.iso](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso-sha256.txt)
+    - 모델 : <br>
+      EM-128B8H-T, EM-100B8H-T, EM-81B8H-T, EM-64B8F-T, EM-49B8F-T, EM-36B8-T, EM-25B8-T, EM-16B8-T<br>
+      EM-128B8H, EM-100B8H, EM-81B8H, EM-64B8F, EM-49B8F, EM-36B8, EM-25B8, EM-16B8<br>
+      EM-25B2-T, EM-16B2-T, EM-09B2-T, EM-04B2-T<br>
+      EM-25B2, EM-16B2, EM-09B2, EM-04B2<br>
+      EM-VMS1024, EM-VMS512+, EM-VMS1024-T, EM-VMS512+-T<br>
+      EM-128B8V2, EM-64B8V2, EM-36B8V2, EM-25B8V2, EM-16B8V2<br>
+      EM-128B16V2, EM-64B16V2, EM-36B16V2<br>
+      EM-128B24V2, EM-64B24V2, EM-36B24V2
   - **EM-128B8H**
     - 버전: **2.9.23.8.8** (2023-08-08)
     - 다운로드: [nvr-2.9.23.8.8.iso](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso)
@@ -165,13 +179,7 @@ image:
   - 모델: EM-IQS(IR36x)
 
 - **IPCAM_PD_V6.1.1.20**
-  - 모델명 : EM-IQP(14W5Z)
-  - 파일명 : [IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin](https://www.emstone.com/data/tta/camera/EM-IQP(14W5Z)/IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin)
-  - 버전 : 6.1.1.20
-  - 해시값(SHA-256) : <span style="word-break:break-all;">2baa5e991131017b9fe67459f68461e7bda80e8f24673efc3eaa4d360df35a92</span>
-
-- **IPCAM_PD_V6.1.1.20**
-  - 모델명 : EM-IQV(14W5Z)
+  - 모델명 : EM-IQP(14W5Z), EM-IQV(14W5Z)
   - 파일명 : [IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin](https://www.emstone.com/data/tta/camera/EM-IQP(14W5Z)/IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin)
   - 버전 : 6.1.1.20
   - 해시값(SHA-256) : <span style="word-break:break-all;">2baa5e991131017b9fe67459f68461e7bda80e8f24673efc3eaa4d360df35a92</span>
