@@ -57,7 +57,7 @@ image:
 </div>
 <div class="col-sm-11">
 - EM-IQV(14W5Z)<br>
-- 공공기관용 IP카메라 보안 성능품질 Ver.1 (TTA-IT-V-24-245)
+- 영상보안시스템용 IP카메라 / 공공기관용 IP카메라 보안 성능품질 Ver.1 (TTA-IT-V-24-245)
 </div>
 </div>
 </div>
