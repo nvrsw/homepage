@@ -48,7 +48,7 @@ image:
 - [Change Log](/docs/nvr-viewer/ChangeLog.html)
 - iOS: バージョン **1.3.9** (2024-04-03)
   <a href="https://apps.apple.com/kr/app/linux-nvr-mobile-viewer/id561848768" target="_blank"><img width="100px" src="/img/app-store-badge.png" alt="Download on the App Store" class="d-inline-block py-0 my-2"></a>
-- Android: バージョン **1.3.9** (2024-04-03)
+- Android: バージョン **1.4.0** (2024-11-01)
   <a href="https://play.google.com/store/apps/details?id=com.emstone.moview" target="_blank"><img width="100px" src="/img/google-play-badge.png" alt="GET IT ON Google Play" class="d-inline-block py-0 my-2"></a>
 
 ## NVR
