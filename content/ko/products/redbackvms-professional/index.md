@@ -124,8 +124,8 @@ image:
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td colspan="2">ECC DDR4 16GB</td>
 <td colspan="2">ECC DDR4 32GB</td>
+<td colspan="2">ECC DDR4 64GB</td>
 </tr>
 <tr>
 <th rowspan="2">디스플레이</th>
@@ -312,9 +312,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [REDBACKVMS_CATALOG_KO_20240717.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_CATALOG_KO_20240717.pdf)
-외관도 | [REDBACKVMS_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/REDBACKVMS_외관도_20201022.dwg)<br>[REDBACKVMS_외관도_20201022.png](https://www.emstone.com/data/sales/ko/REDBACKVMS_외관도_20201022.png)
-사양서 | [REDBACKVMS_사양서_20240717.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS_사양서_20240717.xlsx)
-시방서 | [REDBACKVMS_EM-VMS128+_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS128%2B_시방서_20240717.docx)<br>[REDBACKVMS_EM-VMS256+_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS256%2B_시방서_20240717.docx)<br>[REDBACKVMS_EM-VMS512+_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B_시방서_20240717.docx)<br>[REDBACKVMS_EM-VMS1024_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024_시방서_20240717.docx)<br>
-출하검사 결과 성적서 | [REDBACKVMS_EM-VMS128+_출하검사결과성적서_20220915.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS128%2B_출하검사결과성적서_20220915.xlsx)<br>[REDBACKVMS_EM-VMS256+_출하검사결과성적서_20201025.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS256%2B_출하검사결과성적서_20201025.xlsx)<br>[REDBACKVMS_EM-VMS512+_출하검사결과성적서_20201025.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS512%2B_출하검사결과성적서_20201025.xlsx)<br>[REDBACKVMS_EM-VMS1024_출하검사결과성적서_20201025.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMS_EM-VMS1024_출하검사결과성적서_20201025.xlsx)<br>
-인증서 | [REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSv2.9_GS인증(1등급)_20210330.pdf)<br>[REDBACKVMS_TTA인증서_20240605.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_TTA인증서_20240605.pdf)<br>[REDBACKVMS_TTA시험성적서_20240605.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_TTA시험성적서_20240605.pdf)<br>[REDBACKVMS_방송통신가자재등의적합등록필증_20240123.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신가자재등의적합등록필증_20240123.pdf)<br>[REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMS_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
+카탈로그 | [REDBACKVMSProfessional_CATALOG_KO_20241127.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_CATALOG_KO_20241127.pdf)
+외관도 | [REDBACKVMSProfessional_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_외관도_20201022.dwg)<br>[REDBACKVMSProfessional_외관도_20201022.png](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_외관도_20201022.png)
+사양서 | [REDBACKVMSProfessional_사양서_20241127.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_사양서_20241127.xlsx)
+시방서 | [REDBACKVMSProfessional_EM-VMS128+_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS128%2B_시방서_20241127.docx)<br>[REDBACKVMSProfessional_EM-VMS256+_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS256%2B_시방서_20241127.docx)<br>[REDBACKVMSProfessional_EM-VMS512+_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS512%2B_시방서_20241127.docx)<br>[REDBACKVMSProfessional_EM-VMS1024_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS1024_시방서_20241127.docx)<br>
+출하검사 결과 성적서 | [REDBACKVMSProfessional_EM-VMS128+_출하검사결과성적서_20220915.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS128%2B_출하검사결과성적서_20220915.xlsx)<br>[REDBACKVMSProfessional_EM-VMS256+_출하검사결과성적서_20201025.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS256%2B_출하검사결과성적서_20201025.xlsx)<br>[REDBACKVMSProfessional_EM-VMS512+_출하검사결과성적서_20201025.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS512%2B_출하검사결과성적서_20201025.xlsx)<br>[REDBACKVMSProfessional_EM-VMS1024_출하검사결과성적서_20201025.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS1024_출하검사결과성적서_20201025.xlsx)<br>
+인증서 | [REDBACKVMSProfessionalv2.9_GS인증(1등급)_20210330.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessionalv2.9_GS인증(1등급)_20210330.pdf)<br>[REDBACKVMSProfessional_TTA인증서_20240605.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_TTA인증서_20240605.pdf)<br>[REDBACKVMSProfessional_TTA시험성적서_20240605.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_TTA시험성적서_20240605.pdf)<br>[REDBACKVMSProfessional_방송통신기자재등의적합등록필증_20240123.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_방송통신기자재등의적합등록필증_20240123.pdf)<br>[REDBACKVMSProfessional_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
