@@ -1,5 +1,5 @@
 ---
-title: "REDBACK VMS Series"
+title: "REDBACK VMS Professional Series"
 subtitle: "Video Management System"
 summary: "Video Management System"
 authors: []
@@ -19,12 +19,12 @@ image:
 <div class="row align-items-center">
 <div class="col-sm">
 
-{{< figure src="vms-front.png" >}}
+{{< figure src="redbackvms-professional-front-960.png" >}}
 
 </div>
 <div class="col-sm">
 
-{{< figure src="vms-side.png" >}}
+{{< figure src="redbackvms-cover-front-960.png" >}}
 
 </div>
 </div>
