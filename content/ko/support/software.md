@@ -23,7 +23,7 @@ image:
 - [변경사항](/docs/cms/changelog/cms21.html)
 - 운영체제 지원
   - Windows : Windows 7 / Windows 8 / Windows 10 / Windows 11
-  - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
+  - Linux : Ubuntu 22.04 with modified Linux Kernel
 - 설치 프로그램
   - **최신 버전**
     - 버전: **2.1.24.12.3** (2024-12-03)
