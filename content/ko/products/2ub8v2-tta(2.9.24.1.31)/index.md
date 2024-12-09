@@ -1,12 +1,12 @@
 ---
-title: "2U B8 V2 Performance Series"
+title: "2U B8 V2 (ver 2.9.24.1.31)"
 subtitle: "2U 8Bay Storage Type PC based NVR V2"
 summary: "2U 8Bay Storage Type PC based NVR V2"
 authors: []
 tags: []
-categories: [ "nvr" ]
+categories: [ "TTA" ]
 draft: false
-weight: 1001
+weight: 6008
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:

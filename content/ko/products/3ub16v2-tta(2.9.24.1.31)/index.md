@@ -1,12 +1,12 @@
 ---
-title: "3U B16 V2 Performance Series"
+title: "3U B16 V2 (ver 2.9.24.1.31)"
 subtitle: "3U 16Bay Storage Type PC based NVR V2"
 summary: "3U 16Bay Storage Type PC based NVR V2"
 authors: []
 tags: []
-categories: [ "nvr" ]
+categories: [ "TTA" ]
 draft: false
-weight: 1002
+weight: 6009
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
