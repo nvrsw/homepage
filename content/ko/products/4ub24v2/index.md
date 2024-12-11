@@ -58,7 +58,17 @@ image:
 </div>
 </div>
 
-
+## 인증
+<div class="container">
+<div class="row align-items-top">
+<div class="col-sm-1">
+{{< figure src="TTA.png" >}} 
+</div>
+<div class="col-sm-11">
+- 공공기관용 NVR 보안성능품질 Ver.1 (TTA-IT-V-24-488)
+</div>
+</div>
+</div>
 
 ## 개별 사양
 
