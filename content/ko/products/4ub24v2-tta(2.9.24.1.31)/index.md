@@ -1,12 +1,12 @@
 ---
-title: "3U B16 V2 Performance Series"
-subtitle: "3U 16Bay Storage Type PC based NVR V2"
-summary: "3U 16Bay Storage Type PC based NVR V2"
+title: "4U B24 V2 (ver 2.9.24.1.31)"
+subtitle: "4U 24Bay Storage Type PC based NVR V2"
+summary: "4U 24Bay Storage Type PC based NVR V2"
 authors: []
 tags: []
-categories: [ "nvr" ]
+categories: [ "TTA" ]
 draft: false
-weight: 6008
+weight: 6009
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
@@ -19,12 +19,12 @@ image:
 <div class="row align-items-center">
 <div class="col-sm">
 
-{{< figure src="3ub16-front.png" >}}
+{{< figure src="4ub24-front.png" >}}
 
 </div>
 <div class="col-sm">
 
-{{< figure src="3ub16-side.png" >}}
+{{< figure src="4ub24-side.png" >}}
 
 </div>
 </div>
@@ -40,7 +40,7 @@ image:
 - 고효율 H.265 / H.264 압축방식을 통하여 선명한 화질의 영상
 - ONVIF / RTSP 표준 프로토콜 지원
 - CIF ~ 32M의 **모든 해상도 지원**
-- HDD 최대 16개 장착 (최대 384TB / RAID 옵션)
+- HDD 최대 24개 장착 (최대 576TB / RAID 옵션)
 - **생체 정보**를 이용한 사용자 인증 지원
 - **Failover 지원** : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
@@ -52,7 +52,7 @@ image:
 
 ## 외관도
 
-{{< figure src="3ub16-drawing.png" >}}
+{{< figure src="4ub24-drawing.png" >}}
 
 </div>
 </div>
@@ -65,8 +65,8 @@ image:
 <div class="col-sm-1">
 {{< figure src="TTA.png" >}} 
 </div>
-<div class="col-sm-11">
-- 공공기관용 NVR 보안성능품질 Ver.1 (TTA-IT-V-24-487)
+<div class="col-sm-6">
+- 공공기관용 NVR 보안성능품질 Ver.1 (TTA-IT-V-24-488)
 </div>
 </div>
 </div>
@@ -79,9 +79,9 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-36B16V2</th>
-<th>EM-64B16V2</th>
-<th>EM-128B16V2</th>
+<th>EM-36B24V2</th>
+<th>EM-64B24V2</th>
+<th>EM-128B24V2</th>
 </tr>
 </thead>
 <tbody>
@@ -194,7 +194,7 @@ image:
 </tr>
 <tr>
 <th>내부장착</th>
-<td>SATA type 3.5" HDD 최대 16개 장착가능 (24TB HDD 인식, 최대 용량 384TB, Surveillance / Enterprise Level)</td>
+<td>SATA type 3.5" HDD 최대 24개 장착가능 (24TB HDD 인식, 최대 용량 576TB, Surveillance / Enterprise Level)</td>
 </tr>
 <tr>
 <th>RAID (옵션)</th>
@@ -274,15 +274,15 @@ image:
 </tr>
 <tr>
 <th colspan="2">사용전원 / 소비전력</th>
-<td>SMPS 750W (input from AC100~240V 50/60Hz)</td>
+<td>SMPS 1200W ( input from AC100 ~ 240V 50/60Hz )</td>
 </tr>
 <tr>
 <th colspan="2">제품 크기(W x H x D) / 중량</th>
-<td>430.4(W) X 133.4(H) X 550(D)mm / 14.6kg (HDD 미장착 시)</td>
+<td>430.4(W) X 175.4(H) X 550(D)mm /17.5kg (HDD 미장착 시)</td>
 </tr>
 <tr>
 <th colspan="2">포장 크기(W x H x D) / 중량</th>
-<td>570(W) X 225(H) X 765(D)mm / 20.3kg (HDD 미장착 시)</td>
+<td>570(W) X 270(H) X 765(D)mm /23.3kg (HDD 미장착 시)</td>
 </tr>
 </tbody>
 </table>
@@ -295,10 +295,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [3UB16V2_CATALOG_KO_20241004.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_CATALOG_KO_20241004.pdf)
-외관도 | [3UB16V2_외관도_20241004.dwg](https://www.emstone.com/data/sales/ko/3UB16V2_외관도_20241004.dwg)<br>[3UB16V2_외관도_20241004.png](https://www.emstone.com/data/sales/ko/3UB16V2_외관도_20241004.png)
-사양서 | [3UB16V2_사양서_20241004.xlsx](https://www.emstone.com/data/sales/ko/3UB16V2_사양서_20241004.xlsx)
-시방서 | [3UB16V2_EM-36B16V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-36B16V2_시방서_20241015.docx)<br>[3UB16V2_EM-64B16V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-64B16V2_시방서_20241015.docx)<br>[3UB16V2_EM-128B16V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-128B16V2_시방서_20241015.docx)
-출하검사 결과 성적서 | [3UB16V2_EM-36B16V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-36B16V2_출하검사결과성적서_20241015.xlsx)<br>[3UB16V2_EM-64B16V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-64B16V2_출하검사결과성적서_20241015.xlsx)<Br>[3UB16V2_EM-128B16V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-128B16V2_출하검사결과성적서_20241015.xlsx)
-인증서 | [3UB16V2_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240920.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240920.pdf)<br>[3UB16V2_방송통신기자재등(전자파적합성)시험성적서_20240920.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_방송통신기자재등(전자파적합성)시험성적서_20240920.pdf)<br>[3UB16V2_방송통신기자재등의적합등록필증_20240920.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_방송통신기자재등의적합등록필증_20240920.pdf)<br>[3UB16V2_TTA인증서_241206.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_TTA인증서_241206.pdf)<br>[3UB16V2_TTA시험성적서_241206.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_TTA시험성적서_241206.pdf)
+카탈로그 | [4UB24V2_CATALOG_KO_20241004.pdf](https://www.emstone.com/data/sales/ko/4UB24V2_CATALOG_KO_20241004.pdf)
+외관도 | [4UB24V2_외관도_20241004.dwg](https://www.emstone.com/data/sales/ko/4UB24V2_외관도_20241004.dwg)<br>[4UB24V2_외관도_20241004.png](https://www.emstone.com/data/sales/ko/4UB24V2_외관도_20241004.png)
+사양서 | [4UB24V2_사양서_20241004.xlsx](https://www.emstone.com/data/sales/ko/4UB24V2_사양서_20241004.xlsx)
+시방서 | [4UB24V2_EM-36B24V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/4UB24V2_EM-36B24V2_시방서_20241015.docx)<br>[4UB24V2_EM-64B24V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/4UB24V2_EM-64B24V2_시방서_20241015.docx)<br>[4UB24V2_EM-128B24V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/4UB24V2_EM-128B24V2_시방서_20241015.docx)
+출하검사 결과 성적서 | [4UB24V2_EM-36B24V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/4UB24V2_EM-36B24V2_출하검사결과성적서_20241015.xlsx)<br>[4UB24V2_EM-64B24V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/4UB24V2_EM-64B24V2_출하검사결과성적서_20241015.xlsx)<br>[4UB24V2_EM-128B24V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/4UB24V2_EM-128B24V2_출하검사결과성적서_20241015.xlsx)
+인증서 | [4UB24V2_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240920.pdf](https://www.emstone.com/data/sales/ko/4UB24V2_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240920.pdf)<br>[4UB24V2_방송통신기자재등(전자파적합성)시험성적서_20240920.pdf](https://www.emstone.com/data/sales/ko/4UB24V2_방송통신기자재등(전자파적합성)시험성적서_20240920.pdf)<br>[4UB24V2_방송통신기자재등의적합등록필증_20240920.pdf](https://www.emstone.com/data/sales/ko/4UB24V2_방송통신기자재등의적합등록필증_20240920.pdf)<br>[4UB24V2_TTA인증서_241206.pdf](https://www.emstone.com/data/sales/ko/4UB24V2_TTA인증서_241206.pdf)<br>[4UB24V2_TTA시험성적서_241206.pdf](https://www.emstone.com/data/sales/ko/4UB24V2_TTA시험성적서_241206.pdf)<br>[4UB24V2_TTA인증서_241206.pdf](https://www.emstone.com/data/sales/ko/4UB24V2_TTA인증서_241206.pdf)<br>[4UB24V2_TTA시험성적서_241206.pdf](https://www.emstone.com/data/sales/ko/4UB24V2_TTA시험성적서_241206.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20231107.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20231107.pdf)<br>[NVR_사용자매뉴얼_20231204.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20231204.pdf)<br>[NVR_업그레이드매뉴얼_20230728.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20230728.pdf)
