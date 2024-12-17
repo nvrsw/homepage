@@ -35,9 +35,15 @@ align = "end"
 #   description = "3U 16Bay Storage Type PC based NVR"
 
 [[feature]]
-  image = "products/redbackvms/featured.png"
-  url = "products/redbackvms/"
-  name = "REDBACK VMS"
+  image = "products/redbackvms-professional/featured.png"
+  url = "products/redbackvms-professional/"
+  name = "REDBACK VMS Professional"
+  description = "Video Management System"
+
+[[feature]]
+  image = "products/redbackvms-performance/featured.png"
+  url = "products/redbackvms-performance/"
+  name = "REDBACK VMS Performance"
   description = "Video Management System"
 
 [[feature]]
@@ -89,11 +95,11 @@ align = "end"
   description = "EMSTONE_D_AI 12MP Sky View Camera"
 
 
-[[feature]]
-  image = "products/em-iufl17d/featured.png"
-  url = "products/em-iufl17d/"
-  name = "EMSTONE_D_AI 주차유도 어안카메라"
-  description = "EMSTONE_D_AI 12MP Fisheye Camera"
+# [[feature]]
+#  image = "products/em-iufl17d/featured.png"
+#  url = "products/em-iufl17d/"
+#  name = "EMSTONE_D_AI 주차유도 어안카메라"
+#  description = "EMSTONE_D_AI 12MP Fisheye Camera"
 
 
 
