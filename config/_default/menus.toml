@@ -16,9 +16,9 @@
   weight = 20
 
 [[main]]
-  identifier = "showcase"
-  name = "시공사례"
-  url = "showcase/"
+  identifier = "marketing"
+  name = "홍보자료"
+  url = "marketing/"
   weight = 30
 
 [[main]]
@@ -180,23 +180,30 @@
   weight = 25
 
 [[main]]
-  parent = "showcase"
-  name = "사이트 시공사례"
-  url = "categories/site/"
+  parent = "marketing"
+  name = "엠스톤 소식"
+  url = "categories/notice/"
   weight = 10
 
 [[main]]
-  parent = "showcase"
+  parent = "marketing"
   name = "YouTube 채널"
   url = "https://www.youtube.com/channel/UC-4cLqYFsPtaOjtKolsKxRg"
   post = " &nbsp; <i class='fas fa-external-link-square-alt' aria-hidden='true'></i>"
   weight = 990
 
 [[main]]
-  parent = "showcase"
-  name = "제품 사용사례"
-  url = "categories/howto/"
+  parent = "marketing"
+  name = "카달로그"
+  url = "categories/catalog/"
+  weight = 30
+
+[[main]]
+  parent = "marketing"
+  name = "시공사례"
+  url = "categories/showcase/"
   weight = 20
+
 
 #[[main]]
 #  parent = "support"
