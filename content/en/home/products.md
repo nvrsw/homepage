@@ -36,6 +36,13 @@ align = "end"
 #   name = "NVR 3U B16 Series"
 #   description = "3U 16Bay Storage Type PC based NVR"
 
+
+[[feature]]
+  image = "products/redbackvms-performance/featured.png"
+  url = "products/redbackvms/"
+  name = "REDBACK VMS Series"
+  description = "Video Management System"
+
 [[feature]]
   image = "products/1ub2/featured.png"
   url = "products/1ub2/"
@@ -43,22 +50,22 @@ align = "end"
   description = "1U 2Bay Storage Type PC based NVR"
 
 [[feature]]
-  image = "products/2ub8/featured.png"
-  url = "products/2ub8/"
-  name = "NVR 2U B8 Series"
-  description = "2U 8Bay Storage Type PC based NVR"
+  image = "products/2ub8v2/featured.png"
+  url = "products/2ub8v2/"
+  name = "NVR 2U B8 V2 Series"
+  description = "2U 8Bay Storage Type PC based NVR V2"
 
-[[feature]]
-  image = "products/redbackvms/featured.png"
-  url = "products/redbackvms/"
-  name = "REDBACK VMS Series"
-  description = "Video Management System"
+  [[feature]]
+  image = "products/3ub16v2/featured.png"
+  url = "products/3ub16v2/"
+  name = "NVR 3U B16 V2 Series"
+  description = "3U 16Bay Storage Type PC based NVR V2"
 
-[[feature]]
-  image = "products/redbackdas/featured.png"
-  url = "products/redbackdas/"
-  name = "REDBACK DAS Series"
-  description = "Direct-attached Storage"
+  [[feature]]
+  image = "products/4ub24v2/featured.png"
+  url = "products/4ub24v2/"
+  name = "NVR 4U B24 V2 Series"
+  description = "4U 24Bay Storage Type PC based NVR V2"
 
 [[feature]]
   image = "products/cms-station/featured.png"
@@ -78,11 +85,6 @@ align = "end"
   name = "EM-NDS-mini-4k"
   description = "Network Display Server"
 
-[[feature]]
-  image = "products/em-nts/featured.png"
-  url = "products/em-nts/"
-  name = "EM-NTS"
-  description = "Network HDMI Encoder"
 
 [design.background]
   # Apply a background color, gradient, or image.

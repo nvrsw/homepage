@@ -1,12 +1,12 @@
 ---
-title: "REDBACK VMS Performance Series"
-subtitle: "Video Management System"
-summary: "Video Management System"
+title: "2U B8 V2 Performance Series"
+subtitle: "2U 8Bay Storage Type PC based NVR V2"
+summary: "2U 8Bay Storage Type PC based NVR V2"
 authors: []
 tags: []
-categories: [ "redback" ]
+categories: [ "nvr" ]
 draft: false
-weight: 2010
+weight: 1020
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
@@ -19,12 +19,12 @@ image:
 <div class="row align-items-center">
 <div class="col-sm">
 
-{{< figure src="redbackvms-performance-front-960.png" >}}
+{{< figure src="2ub8-front.png" >}}
 
 </div>
 <div class="col-sm">
 
-{{< figure src="redbackvms-cover-front-960.png" >}}
+{{< figure src="2ub8-side.png" >}}
 
 </div>
 </div>
@@ -36,28 +36,31 @@ image:
 
 ## Features
 
-- Multi-Channel Reception Distribution Server
-- HDD up to 8ea – DB Storage for events
-- H.265, H.264 Compression
-- Support all resolution including CIF ~12M
-- ONVIF/RTSP Standard Protocol
-- HTML5 Protocol for video streaming server
-- Failover supported
-- User authentication with fingerprint mouse
-- API for integration with various 3rd party devices supported
-- Model Line-up : 256+, 512+CH
+- 3.5" HDD up to 8ea (Max.192TB, Surveillance / Enterprise Level)
+- Highly reliable 64-bit Linux-based network video recorder
+- Clear video quality with H.265 / H.264 compression
+- Support **all resolutions** including CIF~32M
+- Fast and stable system operation using DOM-SSD
+- ONVIF / RTSP standard protocol
+- Various display mode and full screen mode
+- Continuous / Scheduled / Event Recording Modes
+- Various events like motion / sensor / camera signal loss / disk failures
+- Multi User Level and Screen Lock
+- User Authentication with **Fingerprint Mouse**
+- Smart Failover: Automatic takeover to spare units when system is stopped
+- Bidirectional audio transmission
+- Model Line-up : 16, 25, 36, 64, 128 CH
 
 </div>
 <div class="col-12 col-sm-4 pl-0">
 
 ## Dimensions
 
-{{< figure src="redbackvms-performance-drawing.png" >}}
+{{< figure src="2ub8-drawing.png" >}}
 
 </div>
 </div>
 </div>
-
 
 
 ## Specification
@@ -67,94 +70,102 @@ image:
 <thead>
 <tr>
 <th colspan="2">Model</th>
-<th>EM-VMS256B8+</th>
-<th>EM-VMS512B8+</th>
+<th>EM-16B8V2</th>
+<th>EM-25B8V2</th>
+<th>EM-36B8V2</th>
+<th>EM-64B8V2</th>
+<th>EM-128B8V2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<th rowspan="2">Video Input</th>
+<th>Video Input</th>
 <th>IP Camera</th>
-<td>256CH</td>
-<td>512CH</td>
+<td>16CH</td>
+<td>25CH</td>
+<td>36CH</td>
+<td>64CH</td>
+<td>128CH</td>
 </tr>
 <tr>
-<th>Max. License</th>
-<td>up to 512CH</td>
-<td>up to 1024CH</td>
-<tr>
 <th colspan="2">CPU</th>
-<td colspan="2">intel i7(12Cores, up to 4.7GHz)</td>
+<td colspan="2">intel Celeron(5Cores, up to 1.1GHz)</td>
+<td colspan="3">intel i5(12Cores, up to 4.4GHz)</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>DDR5 32GB</td>
-<td>DDR5 64GB</td>
+<td colspan="2">DDR5 16GB</td>
+<td colspan="3">DDR5 32GB</td>
 </tr>
 <tr>
 <th colspan="2">SSD</th>
-<td colspan="2">mSATA SSD 120GB(OS, NVR)</td></tr>
+<td colspan="5">mSATA SSD 16GB(OS, NVR)</td></tr>
 <tr>
 <th rowspan="2">Display</th>
 <th>Monitor Output</th>
-<td colspan="2">2 x HDMI (4K60Hz)</td>
+<td colspan="5">2 x HDMI (4K60Hz)</td>
 </tr>
 <tr>
-<th>Split screen</th>
-<td colspan="2">1/2/4/6/7/9/10/13/16/25/36/49/64/81/100/128</td>
+<th>Split Screen</th>
+<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16</td>
+<td>1 / 2 / 4 / 6 / 10 / 13 / 16 / 25</td>
+<td>1 / 2 / 4 / 6 / 10 / 13 / 16 / 25 / 36</td>
+<td>1 / 2 / 4 / 6 / 10 / 13 / 16 / 25 / 36 / 64</td>
+<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64 / 81 / 100 / 128</td>
 </tr>
 <tr>
 <th rowspan="2">Performance</th>
 <th>Live/Play</th>
-<td colspan="2">FHD 64 channel simultaneous live/ play (Max 32Mp support for 1 camera)</td>
+<td>FHD 16CH</td>
+<td>FHD 25CH</td>
+<td>FHD 36CH</td>
+<td colspan="2">FHD 64 channel simultaneous live/ play<br>(Max 32Mp support for 1 camera)</td>
 </tr>
 <tr>
 <th>Storage</th>
-<td colspan="2">Storage/Transmission of 128 FHD channels per HDD</td>
+<td colspan="5">Storage/Transmission of 128 FHD channels per HDD</td>
 </tr>
 <tr>
 <th rowspan="5">Network</th>
 <th>Interface</th>
-<td>2.5GbE 2ports and 10GbSFP+ 1port</td>
-<td>2.5GbE 2ports and 10GbSFP+ 2port</td>
+<td colspan="5">2.5GbE 2ports</td>
 </tr>
 <tr>
 <th>Bandwidth</th>
-<td>15Gbps</td>
-<td>25Gbps</td>
+<td colspan="5">5Gbps</td>
 </tr>
 <tr>
-<th>Simultaneous Access</th>
-<td colspan="2">1024(within network bandwidth)</td>
+<th>Silmultaneous Access</th>
+<td colspan="5">1024(within network bandwidth)</td>
 </tr>
 <tr>
 <th>Protocol</th>
-<td colspan="2">TCP/IP,UDP,DNS,DDNS,HTTP,NTP,RTP/RTCP,RTSP</td>
+<td colspan="5">TCP/IP,UDP,DNS,DDNS,HTTP,NTP,RTP/RTCP,RTSP</td>
 </tr>
 <tr>
 <th>Bandwidth Control</th>
-<td colspan="2">Auto, Manual</td>
+<td colspan="5">Auto, Manual</td>
 </tr>
 <tr>
 <th rowspan="3">Recording</th>
 <th>Mode</th>
-<td colspan="2">Continuous, Schedule, Event linkage</td>
+<td colspan="5">Continuous, Schedule, Event linkage</td>
 </tr>
 <tr>
 <th>Performance</th>
-<td colspan="2">Max CH x 4Mbps (up to Network Bandwidth of Storage System), CIF~32MP</td>
+<td colspan="5">Max CH x 4Mbps (up to Network Bandwidth of Storage System), CIF~32MP</td>
 </tr>
 <tr>
 <th>Compression</th>
-<td colspan="2">H.265 / H.264 / MJPEG / MPEG4</td>
+<td colspan="5">H.265 / H.264 / MJPEG / MPEG4</td>
 </tr>
 <th rowspan="2">Search/Play</th>
 <th>Search Mode</th>
-<td colspan="2">Date / Time Calendar Search, Channel Bundle Search, Event Search</td>
+<td colspan="5">Date / Time Calendar Search, Channel Bundle Search, Event Search</td>
 </tr>
 <tr>
 <th>Play-Back Control</th>
-<td colspan="2">Forward / Reverse Playback (High Speed: x1 ~ x32, Low Speed: 1/4 ~ 1/2), Before / After Staff</td>
+<td colspan="5">Forward / Reverse Playback (High Speed: x1 ~ x32, Low Speed: 1/4 ~ 1/2), Before / After Staff</td>
 </tr>
 </tbody>
 </table>
@@ -166,7 +177,7 @@ image:
 <table class="spec">
 <tbody>
 <th rowspan="2">IP Camera</th>
-<th>Resolution</td>
+<th>Resoultion</td>
 <td>CIF~32M</td>
 </tr>
 <tr>
@@ -214,7 +225,7 @@ image:
 <tr>
 <th rowspan="2">Event</th>
 <th>Type</th>
-<td>Motion Detection, Sensor, Relay, Disk Failure, Camera Signal Loss / Recovery, Emergency Call, LPR, POS, Elevator,<br> Flame / Smoke Detection, Abnormal Sound Detection, Thermal Event, Intelligent Server Integration</td>
+<td>Motion Detection, Sensor, Relay, Disk Failure, Camera Signal Loss / Recovery, Emergency Call, LPR, POS, Elevator,<br>Flame / Smoke Detection, Abnormal Sound Detection, Thermal Event, Intelligent Server Integration</td>
 </tr>
 <tr>
 <th>Action</th>
@@ -252,7 +263,7 @@ image:
 </tr>
 <tr>
 <th>External</th>
-<td>E/L CRT system, EM-call system, LPR Camera, Flame/Smoke Detect system,<br> Password management solution, Video export security system</td>
+<td>E/L CRT system, EM-call system, LPR Camera, Flame/Smoke Detect system,<br>Password management solution, Video export security system</td>
 </tr>
 <tr>
 <th>Interworking<br>Analysis Server</th>
@@ -264,7 +275,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">Power Supply / Current</th>
-<td>SMPS 500W (input from AC100~240V 50/60Hz)</td>
+<td>SMPS 500W (input from AC100 ~ 240V 50/60Hz)</td>
 </tr>
 <tr>
 <th colspan="2">Product Dimension (W x H x D) / Weight</th>
@@ -272,11 +283,11 @@ image:
 </tr>
 <tr>
 <th colspan="2">Packing Dimension(W x H x D) / Weight</th>
-<td>570(W) X 175(H) X 710(D)mm / 12kg (without HDDs)</td>
+<td>570(W) X 175(H) X 710(D)mm / 15.5kg (without HDDs)</td>
 </tr>
 </tbody>
 </table>
 </div>
 
-※ USB type product should be used when KVM switches are used. (PS/2 type not available)
+※ USB type product should be used when KVM switches are used. (PS/2 type not available)  
 ※ The specification of this product may change without prior notice.
