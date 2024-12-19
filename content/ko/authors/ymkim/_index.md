@@ -6,7 +6,7 @@ name: "김영민"
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 팀장
+role: 본부장
 
 # Organizations/Affiliations
 organizations:
