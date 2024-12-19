@@ -36,7 +36,7 @@
 
 [[main]]
   parent = "products"
-  name = "REDBACK Series"
+  name = "REDBACK VMS"
   url = "categories/redback/"
   weight = 10
 

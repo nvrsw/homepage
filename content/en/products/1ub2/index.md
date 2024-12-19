@@ -34,7 +34,7 @@ image:
 
 ## Features
 
-- 3.5" HDD up to 2ea (Max. 40TB)
+- 3.5" HDD up to 2ea (Max. 48TB)
 - Highly reliable 64-bit Linux-based network video recorder
 - Clear video quality with H.265 / H.264 compression
 - Support **all resolutions** including 12M / 8M / 5M / 2M / 1.3M
@@ -75,7 +75,7 @@ image:
 </thead>
 <tbody>
 <tr>
-<th>Video<br>Input</th>
+<th>Video Input</th>
 <th>IP Camera</th>
 <td>4CH</td>
 <td>9CH</td>
@@ -83,31 +83,34 @@ image:
 <td>25CH</td>
 </tr>
 <tr>
-<th colspan="2">CPU</th><td colspan="4">Dual Core 1.0GHz or Higher</td>
+<th colspan="2">CPU</th>
+<td colspan="4">Dual Core 1.0GHz or Higher</td>
 </tr>
 <tr>
 <th colspan="2">RAM</th>
-<td>DDR4 2GB</td>
+<td>DDR4 4GB</td>
 <td>DDR4 4GB</td>
 <td>DDR4 8GB</td>
 <td>DDR4 16GB</td>
 </tr>
 <tr>
-<th rowspan="2">Display</th>
+<th rowspan="4">Display</th>
 <th>Monitor<br>Output</th>
 <td colspan="4">1xHDMI / 1xVGA</td>
 </tr>
 <tr>
-<th>Mode</th>
+<th>Split screen</th>
 <td>1 / 2 / 4</td>
 <td>1 / 2 / 4 / 6 / 7 / 9</td>
-<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16</td>
-<td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25</td>
+<td>1 / 2 / 4 / 6 / 7 / <br> 9 / 10 / 13 / 16</td>
+<td>1 / 2 / 4 / 6 / 7 / <br> 9 / 10 / 13 / 16 / 25</td>
+</tr>
+<th>Live/Search</th>
+<td colspan="4">Supported Max.12M</td>
 </tr>
 <tr>
-<th>Live</th>
-<th>Performance</th>
-<td>12M(-CH/-fps)<br>8M(1CH/30fps)<br>5M(2CH/60fps)<br>1080P(4CH/120fps)</td>
+<th>Performance<br>(CH/fps)</th>
+<td>12M(1CH/15fps)<br>8M(1CH/30fps)<br>5M(2CH/60fps)<br>1080P(4CH/120fps)</td>
 <td>12M(1CH/30fps)<br>8M(2CH/60fps)<br>5M(4CH/120fps)<br>1080P(9CH/270fps)</td>
 <td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
 <td>12M(3CH/90fps)<br>8M(4CH/120fps)<br>5M(6CH/240fps)<br>1080P(25CH/750fps)</td>
@@ -126,19 +129,12 @@ image:
 <td colspan="4">H.265 / H.264 / MPEG4 / MJPEG</td>
 </tr>
 <tr>
-<th rowspan="3">Search /<br>Replay</th>
-<th>Method</th>
-<td colspan="4">Calendar / Channel Grouping / Events</td>
+<th rowspan="2">Search / Replay</th>
+<th>Mode</th>
+<td colspan="4">Date / Time Calendar Search, Channel Bundle Search, Event Search</td>
 </tr>
 <tr>
-<th>Performance</th>
-<td>12M(-CH/-fps)<br>8M(1CH/30fps)<br>5M(2CH/60fps)<br>1080P(4CH/120fps)</td>
-<td>12M(1CH/30fps)<br>8M(2CH/60fps)<br>5M(4CH/120fps)<br>1080P(9CH/270fps)</td>
-<td>12M(2CH/60fps)<br>8M(4CH/120fps)<br>5M(6CH/180fps)<br>1080P(16CH/480fps)</td>
-<td>12M(3CH/90fps)<br>8M(4CH/120fps)<br>5M(6CH/240fps)<br>1080P(25CH/750fps)</td>
-</tr>
-<tr>
-<th>Replay<br>Control</th>
+<th>Replay Control</th>
 <td colspan="4">Play forward / backward (fast:x1~x32, slow:1/4~1/2), Step forward / backward</td>
 </tr>
 </tbody>
@@ -157,7 +153,7 @@ image:
 </tr>
 <tr>
 <th>Protocol</th>
-<td>ONVIF / RTSP and Proprietary protocols for more than 100 vendors including UDP / Axis / Dynacolor / Sony / Panasonic / Hanwha Techwin</td>
+<td>Supported ONVIF / RTSP and Axis / Sony / Panasonic / Hanwha Vison / Turen / Dahua / Hikvision etc. over 130+</td>
 </tr>
 <tr>
 <th colspan="2">Operating System</th>
@@ -165,15 +161,15 @@ image:
 </tr>
 <tr>
 <th rowspan="5">Storage</th>
-<th>Basic</th>
+<th>Default</th>
 <td>N/A</td>
 </tr>
 <tr>
-<th>Internal</th>
-<td>3.5" HDD up to 2ea (20TB HDD, Max. 40TB)</td>
+<th>Available</th>
+<td>3.5" HDD up to 2ea (24TB HDD, Max. 48TB)</td>
 </tr>
 <tr>
-<th>RAID<br>(Optional)</th>
+<th>RAID<br>(option)</th>
 <td>Not Supported</td>
 </tr>
 <tr>
@@ -241,13 +237,13 @@ image:
 <td>Supported</td>
 </tr>
 <tr>
-<th colspan="2">Time Synchronization</th>
-<td>Windows / NTP Time Server Synchronization, Integrated NTP Server, GPS Synchronization(Option)</td>
+<th colspan="2">Data/Time Synchronization</th>
+<td>Windows / NTP Time Server Synchronization, Integrated NTP Server, RFTC Synchronization, Self-Synchronization via GPS(option)</td>
 </tr>
 <tr>
 <th rowspan="2">Intelligence<br>Solution</th>
 <th>Built-in</th>
-<td>EMSTONE AI-based video analysis LPR and Flame/Smoke detection each 1CH (※ Additional License Option)</td>
+<td>EMSTONE AI-based video analysis Flame/Smoke detection each 1CH (※ Additional License Option)</td>
 </tr>
 <tr>
 <th>External</th>

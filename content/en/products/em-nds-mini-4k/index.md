@@ -114,7 +114,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">Weight</th>
-<td>Approx. 1.04 kg (Vesa mount 0.08kg 제외)</td>
+<td>Approx. 1.04 kg (without Vesa mount 0.08kg )</td>
 </tr>
 </tbody>
 </table>

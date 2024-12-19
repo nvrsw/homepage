@@ -1,6 +1,6 @@
 ---
-title: "REDBACK Series"
-subtitle: "REDBACK VMS / REDBACK DAS"
+title: "REDBACK VMS"
+subtitle: "Video Management System"
 
 # View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 3
