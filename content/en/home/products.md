@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Products"
-subtitle = "NVR / CMS / NDS "
+subtitle = "VMS / NVR / CMS / NDS / IP Camera "
 url = "products/"
 align = "end"
 
@@ -84,6 +84,24 @@ align = "end"
   url = "products/em-nds-mini-4k/"
   name = "EM-NDS-mini-4k"
   description = "Network Display Server"
+
+[[feature]]
+  image = "products/em-iqdf21p/featured.png"
+  url = "products/em-iqdf21p/"
+  name = "EM-CMS Station H"
+  description = "5MP Dome Type Sound Detection Camerar"
+
+[[feature]]
+  image = "products/em-iqv14w5z/featured.png"
+  url = "products/em-iqv14w5z/"
+  name = "EM-IQV(14W5Z) Parrot Camera"
+  description = "5MP Parrot Camera"
+
+[[feature]]
+  image = "products/em-iqp14w5z/featured.png"
+  url = "products/em-iqp14w5z/"
+  name = "EM-IQP(14W5Z) Parrot Camera"
+  description = "5MP PTZ Parrot Camera"
 
 
 [design.background]
