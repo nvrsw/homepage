@@ -10,8 +10,6 @@ cascade:
     image: "solution-header.jpg"
 ---
 
-[공사지명원(PDF) 다운로드](https://www.emstone.com/data/sales/ko/EMSTONE_2024공사지명원_20240509.pdf)
-
 
 > 네트워크로 연결된 세상  
 > 생활 안전을 위한 고신뢰도 보안장비  
@@ -31,7 +29,7 @@ cascade:
 
  | 
 :-: | --
-**2024** | Security Show in Tokyo / ISC West in Las Vegas / TSE in Birmingham 출전
+**2024** | 서울시 재난안전실 CCTV 통합플랫폼 구축<br>NVR V2 모델 출시<br>Security Show in Tokyo / ISC West in Las Vegas / TSE in Birmingham 출전
 **2023** | 청송교도소 외 6개소 영상감시장치 고도화 사업 진행<br>품질경영인증 ISO 9001획득<br>Network Display Server 4K 모델 출시
 **2022** | EMSTONE AI 연구소 설립<br>강원 인제군청 AI기반 스마트 선별관제 시스템 구축<br>서울 강서구청 CCTV 통합관제센터 윈백<br>IFSEC in London 출전
 **2021** | REDBACK VMS v2.9 GS 1등급 획득<br>EMSTONE D AI Series Camera 6종 출시<br>서울 잠실 파크리오아파트 통합관제센터 구축<br>강원도 횡성군청 CCTV 통합관제센터 구축
