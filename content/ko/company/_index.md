@@ -31,9 +31,9 @@ cascade:
 
  | 
 :-: | --
-**2024** | 한아프리카 정상회의 임시통합관제센터 구축<br> Security Show in Tokyo / ISC West in Las Vegas / TSE in Birmingham 출전
-**2023** | 청송교도소 외 6개소 영상감시장치 고도화 사업 진행<br>청와대 충정관 한태평양 도서국 정상회의 임시통합관제센터 구축<br>품질경영인증 ISO 9001획득<br>Network Display Server 4K 모델 출시
-**2022** | EMSTONE AI 연구소 설립<br>용산 대통령 경호처 CCTV 통합관제센터 구축<br>강원 인제군청 AI기반 스마트 선별관제 시스템 구축<br>서울 강서구청 CCTV 통합관제센터 윈백<br>IFSEC in London 출전
+**2024** | Security Show in Tokyo / ISC West in Las Vegas / TSE in Birmingham 출전
+**2023** | 청송교도소 외 6개소 영상감시장치 고도화 사업 진행<br>품질경영인증 ISO 9001획득<br>Network Display Server 4K 모델 출시
+**2022** | EMSTONE AI 연구소 설립<br>강원 인제군청 AI기반 스마트 선별관제 시스템 구축<br>서울 강서구청 CCTV 통합관제센터 윈백<br>IFSEC in London 출전
 **2021** | REDBACK VMS v2.9 GS 1등급 획득<br>EMSTONE D AI Series Camera 6종 출시<br>서울 잠실 파크리오아파트 통합관제센터 구축<br>강원도 횡성군청 CCTV 통합관제센터 구축
 **2020** | (주)엠스톤JP 설립<br>VMS 256 to 1024 모델 제품 출시<br>열화상카메라 3종 모델 제품 출시<br>IP 비디오 월 8포트(NDS08U) 1종 모델 제품 출시
 **2019** | IP 카메라 3개 타입 9종 모델 제품 출시<br>IP 비디오 월(Wall) 1개 타입 1종 모델 제품 출시<br>장애조치(Failover) 전용 장비 2종 제품 출시
