@@ -225,7 +225,7 @@ Fifth stream: 704 × 576 @1-25 fps; 704 × 480 @1-30 fps</td>
 종류 | 파일
 ---- | ----
 카탈로그 | [EM-ISV(IR2712ZD)_CATALOG_KO_20240527.pdf](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_CATALOG_KO_20240527.pdf)
-외관도 | [EM-ISV(IR2712ZD)_외관도_20220502.png](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_외관도_20220502.png)
+외관도 | [EM-ISV(IR2712ZD)_외관도_20220502.png](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_외관도_20220502.png)<br>[EM-ISV(IR2712ZD)_외관도_20220502.dwg](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_외관도_20220502.dwg)
 사양서 | [EM-ISV(IR2712ZD)_사양서_20240527.xlsx](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_사양서_20240527.xlsx)
 시방서 | [EM-ISV(IR2712ZD)_시방서_20220502.docx](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_시방서_20220502.docx)
 출하검사 결과 성적서 | [EM-ISV(IR2712ZD)_출하검사성적서_20220502.xlsx](https://www.emstone.com/data/sales/ko/EM-ISV(IR2712ZD)_출하검사성적서_20220502.xlsx)
