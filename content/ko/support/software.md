@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 22.04 with modified Linux Kernel
 - 설치 프로그램
   - **최신 버전**
-    - 버전: **2.1.24.12.12** (2024-12-12)
+    - 버전: **2.1.25.1.6** (2025-01-06)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.24.12.12-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.12.12-win32-emstone.exe)
-        - 64비트: [cms-2.1.24.12.12-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.24.12.12-win64-emstone.exe)
+        - 32비트: [cms-2.1.25.1.6-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.1.6-win32-emstone.exe)
+        - 64비트: [cms-2.1.25.1.6-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.1.6-win64-emstone.exe)
       - Linux
-        - 64비트: [cms-2.1.24.12.12-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.24.12.12-linux-x86_64.tar.bz2)
+        - 64비트: [cms-2.1.25.1.6-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.25.1.6-linux-x86_64.tar.bz2)
 
   - **2.1.23.8.8**
     - 버전: **2.1.23.8.8** (2023.08.08)
@@ -66,9 +66,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.24.12.27** (2024-12-27)
-    - 설치 파일: [nvr-2.9.24.12.27-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.24.12.27-emstone.iso)
-    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.24.12.27-emstone.iso-sha256.txt)
+    - 버전: **2.9.25.1.8** (2025-01-08)
+    - 설치 파일: [nvr-2.9.25.1.8-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.25.1.8-emstone.iso)
+    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.25.1.8-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   <!--  - **EM-VMS1024**
     - 버전: **2.9.24.1.31** (2024-01-31)
@@ -135,17 +135,17 @@ image:
 
 *NVR / VMS Management Server*
 
-- 버전: **1.2.1** (2024-11-25)
+- 버전: **1.2.2** (2025-01-08)
   - Linux
-    - redback-manager_1.2.1_amd64.deb
-    - redback-manager-1.2.1-1.x86_64.rpm
-    - redback-manager_1.2.1_amd64.AppImage
+    - redback-manager_1.2.2_amd64.deb
+    - redback-manager-1.2.2-1.x86_64.rpm
+    - redback-manager_1.2.2_amd64.AppImage
   - Windows
-    - REDBACK Manager_1.2.1_x64_en-US.msi
-    - REDBACK Manager_1.2.1_x64-setup.exe
+    - REDBACK Manager_1.2.2_x64_en-US.msi
+    - REDBACK Manager_1.2.2_x64-setup.exe
   - macOS
-    - REDBACK Manager_1.2.1_aarch64.dmg
-    - REDBACK.Manager_1.2.1_x64.dmg
+    - REDBACK Manager_1.2.2_aarch64.dmg
+    - REDBACK.Manager_1.2.2_x64.dmg
 
 - [변경사항](/docs/redback/ChangeLog.html)
 
