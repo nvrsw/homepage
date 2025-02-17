@@ -15,7 +15,7 @@
     company_email = "sales@emstone.com"
     company_phone = "1600-5978"
     company_fax = "02-6675-3699"
-    company_address = "[08381] 서울 구로구 디지털로 29길 38, 에이스테크노타워 3차 309호"
+    company_address = "[08381] 서울 구로구 디지털로 271, 벽산디지털밸리 3차 12F"
 
 [en]
   languageCode = "en-us"
@@ -30,7 +30,7 @@
     company_email = "sales@emstone.com"
     company_phone = "+82-1600-5978"
     company_fax = "+82-2-6675-3699"
-    company_address = "Ace Techno Tower Ⅲ #309, Digital-ro 29-gil 38, Guro-gu, Seoul, Korea"
+    company_address = "Byeoksan Digital Valley Ⅲ #12F, Digital-ro 271, Guro-gu, Seoul, Korea"
 
 [ja]
   languageCode = "ja-jp"
@@ -45,4 +45,4 @@
     company_email = "sales@emstone.com"
     company_phone = "+82-1600-5978"
     company_fax = "+82-2-6675-3699"
-    company_address = "Ace Techno Tower Ⅲ #309, Digital-ro 29-gil 38, Guro-gu, Seoul, Korea"
+    company_address = "Byeoksan Digital Valley Ⅲ #12F, Digital-ro 271, Guro-gu, Seoul, Korea"

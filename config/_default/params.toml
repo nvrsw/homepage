@@ -86,16 +86,16 @@ phone = "1600-5978"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-#address = {street = "38, Digital-ro 29-gil, Guro-gu", city = "Seoul", postcode = "08381", country = "Korea", country_code = "KR"}
-address = {street = "구로구 디지털로29길 38", city = "서울", postcode = "[08381]", country = "대한민국", country_code = "KR"}
+#address = {street = "Digital-ro 271, Guro-gu", city = "Seoul", postcode = "08381", country = "Korea", country_code = "KR"}
+address = {street = "구로구 디지털로 271", city = "서울", postcode = "[08381]", country = "대한민국", country_code = "KR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4843441", longitude = "126.8933384"}
+coordinates = {latitude = "37.48324860796065", longitude = "126.89366015090306"}
 
 # Directions for visitors to locate you.
-#directions = "#309, Ace Techno Tower Ⅲ"
-directions = "에이스테크노타워 3차 309호"
+#directions = "#12F, Byeoksan Digital Valley Ⅲ"
+directions = "벽산디지털밸리 3차 12F"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
