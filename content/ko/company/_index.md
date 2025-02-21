@@ -59,7 +59,7 @@ cascade:
 - 대표전화: {{< param "company_phone" >}} (제품 및 AS 문의)
 - 이메일: {{< param "company_email" >}}
 - 팩스: {{< param "company_fax" >}}
-- 주소: [{{< param "company_address" >}}](https://naver.me/GJFQCIiN)
+- 주소: [{{< param "company_address" >}}](https://naver.me/GOPNEjOf)
 
 <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=ugdu0l0lhf&callback=initMaps"></script>
 <script>
@@ -73,7 +73,7 @@ cascade:
 <script>
   function initCompanyMap() {
     var map = new naver.maps.Map('company-map', {
-      center: new naver.maps.LatLng(37.4844101022522, 126.893265600121),
+      center: new naver.maps.LatLng(37.48324860796065, 126.89366015090306),
       zoom: 16,
       zoomControl: true,
       scaleControl: false,
