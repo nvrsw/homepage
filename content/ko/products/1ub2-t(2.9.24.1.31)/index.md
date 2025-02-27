@@ -68,7 +68,7 @@ image:
 {{< figure src="TTA.png" >}} 
 </div>
 <div class="col-sm-6">
-- 공공기관용 NVR 보안성능품질 Ver.1 (TTA-V-24-208)
+- 공공기관용 NVR 보안성능품질 Ver.1 (TTA-IT-V-24-208)
 </div>
 </div>
 </div>

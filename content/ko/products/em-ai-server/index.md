@@ -122,8 +122,8 @@ image:
 </tr>
 <tr>
 <th>동시 접속자 수</th>
-<td colspan="3">10 connections / 1GbE</td>
-<td colspan="3">3 connections / 1GbE</td>
+<td colspan="3">1024(10 connections / 1GbE)</td>
+<td colspan="3">1024(3 connections / 1GbE)</td>
 </tr>
 <tr>
 <th rowspan="3">인터페이스</th>

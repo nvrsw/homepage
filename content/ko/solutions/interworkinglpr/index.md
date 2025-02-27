@@ -20,9 +20,9 @@ LPR 주차 관제 시스템 및 LPR 기능이 내장된 카메라와 연동하�
 <div class="container">
 <div class="row">
 <div class="col-12 col-sm-6">
-- 직관적인 이벤트 표출 (라이브/검색 모드에서 동일하게 지원)
-- 날짜, 시간, 카메라, 운행 정보, 차량번호(전체 또는 일부)를 통한 검색 가능
-- 설정된 차량번호에 따른 영상 팝업, 알람 등 이벤트동작 가능
+- 직관적인 이벤트 표출 (라이브/검색 모드에서 동일하게 지원)<br>
+- 날짜, 시간, 카메라, 운행 정보, 차량번호(전체 또는 일부)를 통한 검색 가능<br>
+- 설정된 차량번호에 따른 영상 팝업, 알람 등 이벤트동작 가능<br>
 - NVR에서 추출된 차량번호, 입ㆍ출차 정보 및 영상정보를 LPR 시스템에 제공 
 </div>
 <div class="col-12 col-sm-6">
@@ -36,8 +36,8 @@ LPR 주차 관제 시스템 및 LPR 기능이 내장된 카메라와 연동하�
 <div class="container">
 <div class="row">
 <div class="col-12 col-sm-6">
-- 스마트 도시 통합플랫폼 연동 지원
-- 다양한 3rd-Party  솔루션 빠르고 편리하게 연결하는 통로 역할
+- 스마트 도시 통합플랫폼 연동 지원<br>
+- 다양한 3rd-Party  솔루션 빠르고 편리하게 연결하는 통로 역할<br>
 - REST API 지원으로 CCTV 영상, META Data, 제어 등 연동 지원
 </div>
 <div class="col-12 col-sm-6">
@@ -47,4 +47,4 @@ LPR 주차 관제 시스템 및 LPR 기능이 내장된 카메라와 연동하�
 </div>
 
 ## 연동 LPR 시스템 제조사 (REST API 연동 지원)
-{{< figure src="interworkinglpr-3.png" >}}
+{{< figure src="interworkinglpr-4.png" >}}

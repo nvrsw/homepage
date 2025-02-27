@@ -275,7 +275,7 @@ image:
 </tr>
 <tr>
 <th>분석서버 연동</th>
-<td>EMSTONE-AI, Intellivix, 넥스리얼, 아이브스, HanwhaVision, Truen/, ITX, CHAJA, Neotech</td>
+<td>EMSTONE-AI, Intellivix, 넥스리얼, 아이브스, HanwhaVision, Truen, ITX, CHAJA, Neotech</td>
 </tr>
 <tr>
 <th colspan="2">동작 온도 / 습도</th>
