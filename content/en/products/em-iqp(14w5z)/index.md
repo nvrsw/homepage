@@ -35,7 +35,7 @@ image:
 - 5X (2.7~13.5mm) Power Zoom Lens
 - 14W **Speaker** intergrated camera for broadcasting
 - **TSM** (True Sound Monitor / Broadcast transmission comfirmation function)
-- IP66
+- IP66, IK10
 
 </div>
 <div class="col-sm-4 pl-0">
@@ -171,12 +171,12 @@ image:
 </tr>
 <tr>
 <th>Protection</th>
-<td>IP66</td>
+<td>IP66, IK10</td>
 </tr>
 <tr>
 <th rowspan="2">Structure</th>
 <th>Dimensions</th>
-<td>190 mm × 233 mm × 125 mm</td>
+<td>190 mm × 233 mm × 265 mm</td>
 </tr>
 <tr>
 <th>Net Weight</th>
