@@ -293,7 +293,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [4UB24V2_CATALOG_KO_20241004.pdf](https://www.emstone.com/data/sales/ko/4UB24V2_CATALOG_KO_20241004.pdf)
+카탈로그 | [4UB24V2_CATALOG_KO_20250228.pdf](https://www.emstone.com/data/sales/ko/4UB24V2_CATALOG_KO_20250228.pdf)
 외관도 | [4UB24V2_외관도_20241004.dwg](https://www.emstone.com/data/sales/ko/4UB24V2_외관도_20241004.dwg)<br>[4UB24V2_외관도_20241004.png](https://www.emstone.com/data/sales/ko/4UB24V2_외관도_20241004.png)
 사양서 | [4UB24V2_사양서_20241004.xlsx](https://www.emstone.com/data/sales/ko/4UB24V2_사양서_20241004.xlsx)
 시방서 | [4UB24V2_EM-36B24V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/4UB24V2_EM-36B24V2_시방서_20241015.docx)<br>[4UB24V2_EM-64B24V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/4UB24V2_EM-64B24V2_시방서_20241015.docx)<br>[4UB24V2_EM-128B24V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/4UB24V2_EM-128B24V2_시방서_20241015.docx)

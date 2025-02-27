@@ -304,7 +304,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB8V2_CATALOG_KO_20241128.pdf](https://www.emstone.com/data/sales/ko/2UB8V2_CATALOG_KO_20241128.pdf)
+카탈로그 | [2UB8V2_CATALOG_KO_20250228.pdf](https://www.emstone.com/data/sales/ko/2UB8V2_CATALOG_KO_20250228.pdf)
 외관도 | [2UB8V2_외관도_20241004.dwg](https://www.emstone.com/data/sales/ko/2UB8V2_외관도_20241004.dwg)<br>[2UB8V2_외관도_20241004.png](https://www.emstone.com/data/sales/ko/2UB8V2_외관도_20241004.png)
 사양서 | [2UB8V2_사양서_20241128.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_사양서_20241128.xlsx)
 시방서 | [2UB8V2_EM-16B8V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-16B8V2_시방서_20241015.docx)<br>[2UB8V2_EM-25B8V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-25B8V2_시방서_20241015.docx)<br>[2UB8V2_EM-36B8V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-36B8V2_시방서_20241015.docx)<br>[2UB8V2_EM-64B8V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-64B8V2_시방서_20241015.docx)<br>[2UB8V2_EM-128B8V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-128B8V2_시방서_20241015.docx)

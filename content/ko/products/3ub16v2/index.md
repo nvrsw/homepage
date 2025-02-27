@@ -295,7 +295,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [3UB16V2_CATALOG_KO_20241004.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_CATALOG_KO_20241004.pdf)
+카탈로그 | [3UB16V2_CATALOG_KO_20250228.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_CATALOG_KO_20250228.pdf)
 외관도 | [3UB16V2_외관도_20241004.dwg](https://www.emstone.com/data/sales/ko/3UB16V2_외관도_20241004.dwg)<br>[3UB16V2_외관도_20241004.png](https://www.emstone.com/data/sales/ko/3UB16V2_외관도_20241004.png)
 사양서 | [3UB16V2_사양서_20241004.xlsx](https://www.emstone.com/data/sales/ko/3UB16V2_사양서_20241004.xlsx)
 시방서 | [3UB16V2_EM-36B16V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-36B16V2_시방서_20241015.docx)<br>[3UB16V2_EM-64B16V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-64B16V2_시방서_20241015.docx)<br>[3UB16V2_EM-128B16V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-128B16V2_시방서_20241015.docx)
