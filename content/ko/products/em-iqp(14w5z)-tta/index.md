@@ -184,12 +184,12 @@ image:
 </tr>
 <tr>
 <th>Protection</th>
-<td>IP66</td>
+<td>IP66, IK10</td>
 </tr>
 <tr>
 <th rowspan="2">Structure</th>
 <th>Dimensions</th>
-<td>190 mm × 233 mm × 125 mm</td>
+<td>190 mm × 233 mm × 265 mm</td>
 </tr>
 <tr>
 <th>Net Weight</th>
@@ -204,10 +204,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IQP(14W5Z)_CATALOG_KO_20241111.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_CATALOG_KO_20241111.pdf)
-외관도 | [EM-IQP(14W5Z)_외관도_20241111.png](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_외관도_20241111.png)<br>[EM-IQP(14W5Z)_외관도_20241111.dwg](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_외관도_20241111.dwg)
-사양서 | [EM-IQP(14W5Z)_사양서_20241111.xlsx](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_사양서_20241111.xlsx)
-시방서 | [EM-IQP(14W5Z)_시방서_20241111.docx](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_시방서_20241111.docx)
-출하검사 결과 성적서 | [EM-IQP(14W5Z)_출하검사성적서_20241111.xlsx](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_출하검사성적서_20241111.xlsx)
-인증서 | [EM-IQP(14W5Z)_방송통신기자재등의적합등록필증_20241111.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_방송통신기자재등의적합등록필증_20241111.pdf)<br>[EM-IQV(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20240723.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20240723.pdf)<br>[EM-IQP(14W5Z)_방송통신기자재등(유선영상정보처리기기)시험성적서_20241111.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_방송통신기자재등(유선영상정보처리기기)시험성적서_20241111.pdf)<br>[EM-IQP(14W5Z)_방수방진(IP66등급)시험성적서_20241111.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_방수방진(IP66등급)시험성적서_20241111.pdf)<br>[EM-IQP(14W5Z)_정부조달물품표준규격(화질내환경)시험성적서_20241111.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_정부조달물품표준규격(화질내환경)시험성적서_20241111.pdf)<br>[EM-IQP(14W5Z)_TTA인증서_20241111.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_TTA인증서_20241111.pdf)
+카탈로그 | [EM-IQP(14W5Z)_CATALOG_KO_20250227.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_CATALOG_KO_20250227.pdf)
+외관도 | [EM-IQP(14W5Z)_외관도_20250227.png](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_외관도_20250227.png)<br>[EM-IQP(14W5Z)_외관도_20250227.dwg](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_외관도_20250227.dwg)
+사양서 | [EM-IQP(14W5Z)_사양서_20250227.xlsx](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_사양서_20250227.xlsx)
+시방서 | [EM-IQP(14W5Z)_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_시방서_20250227.docx)
+출하검사 결과 성적서 | [EM-IQP(14W5Z)_출하검사성적서_20250227.xlsx](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_출하검사성적서_20250227.xlsx)
+인증서 | [EM-IQP(14W5Z)_방송통신기자재등의적합등록필증_20240619.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_방송통신기자재등의적합등록필증_20240619.pdf)<br>[EM-IQP(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20240617.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20240617.pdf)<br>[EM-IQP(14W5Z)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240617.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240617.pdf)<br>[EM-IQP(14W5Z)_방수방진(IP66등급)시험성적서_20241023.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_방수방진(IP66등급)시험성적서_20241023.pdf)<br>[EM-IQP(14W5Z)_정부조달물품표준규격(화질내환경)시험성적서_20241030.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_정부조달물품표준규격(화질내환경)시험성적서_20241030.pdf)<br>[EM-IQP(14W5Z)_TTA인증서_20240830.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_TTA인증서_20240830.pdf)<br>[EM-IQP(14W5Z)_TTA시험성적서_20240826.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_TTA시험성적서_20240826.pdf)
 소프트웨어 | [EMSTONE_P_IPInstaller.zip](https://www.emstone.com/data/sales/ko/EMSTONE_P_IPInstaller.zip)
