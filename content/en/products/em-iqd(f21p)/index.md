@@ -147,10 +147,13 @@ image:
 <th>Protection</th>
 <td>IP67, IK10</td>
 </tr>
-<th rowspan>Structure</th>
+<th rowspan="2">Structure</th>
 <th>Dimensions</th>
 <td>112 mm × 87.5 mm</td>
 </tr>
+<tr>
+<th>Net Weight</th>
+<td>0.6kg</td>
 </tbody>
 </table>
 </div>
