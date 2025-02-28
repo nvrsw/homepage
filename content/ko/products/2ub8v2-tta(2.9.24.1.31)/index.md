@@ -41,10 +41,7 @@ image:
 - ONVIF / RTSP 표준 프로토콜 지원
 - CIF ~ 32M의 **모든 해상도 지원**
 - HDD 최대 8개 장착 (최대 192TB / RAID 옵션)
-- **생체 정보**를 이용한 사용자 인증 지원
 - **Failover 지원** : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
-- **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
-- **화재/연기 감지** 라이선스 1CH 기본 제공
 - 모델 라인업 : 16, 25, 36, 64, 128 CH
 
 </div>
@@ -233,11 +230,11 @@ image:
 <tr>
 <th rowspan="2">이벤트</th>
 <th>종류</th>
-<td>움직임 감지, 센서, 릴레이, 디스크 이상, 카메라 신호 손실/복구, 비상벨, 차량번호판 인식, <br>POS 연동, E/L 연동, 화재/연기 감지, 이상음원 검출, 열화상 카메라 연동, 지능형 서버 연동</td>
+<td>움직임 감지, 센서, 릴레이, 디스크 이상, 카메라 신호 손실/복구</td>
 </tr>
 <tr>
 <th>동작</th>
-<td>녹화, 알람 발생, 팝업 카메라, 경고음 발생, 경고메세지 발생, E-mail 알림, FTP 전송, 프리셋 동작</td>
+<td>녹화, 알람 발생, 팝업 카메라, 경고음 발생, 경고메세지 발생, E-mail 알림, 프리셋 동작</td>
 </tr>
 <tr>
 <th rowspan="3">응용<br>프로그램</th>
@@ -254,7 +251,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">보안</th>
-<td>Multi User Level, 생체인증지원</td>
+<td>Multi User Level</td>
 </tr>
 <tr>
 <th colspan="2">Failover</th>
@@ -262,21 +259,9 @@ image:
 </tr>
 <tr>
 <th colspan="2">날짜 / 시간 동기화</th>
-<td>NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능, RFTC 또는 GPS를 통한 자체 동기화 (옵션)</td>
+<td>NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능</td>
 </tr>
-<tr>
-<th rowspan="3">지능형<br>솔루션</th>
-<th>내장 SW</th>
-<td>EMSTONE 영상분석 AI 기반 LPR 및 불꽃/연기 감지 각 1채널 기본 탑재 (※ 추가 라이선스 옵션)</td>
-</tr>
-<tr>
-<th>외부 시스템 연동</th>
-<td>E/L CRT system, EM-call system, LPR/차량번호추출 카메라, <br>영상분석 화재/연기 감지 system, 패스워드 관리 솔루션, 영상반출 보안 솔루션</td>
-</tr>
-<tr>
-<th>분석서버 연동</th>
-<td>EMSTONE-AI, Intellivix, 넥스리얼, 아이브스, HanwhaVision, Truen/, ITX, CHAJA, Neotech</td>
-</tr>
+
 <tr>
 <th colspan="2">동작 온도 / 습도</th>
 <td>5℃~40℃ / 0%~90%</td>
@@ -304,10 +289,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB8V2_CATALOG_KO_20241128.pdf](https://www.emstone.com/data/sales/ko/2UB8V2_CATALOG_KO_20241128.pdf)
+카탈로그 | [2UB8V2(TTA)_CATALOG_KO_20250228.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(TTA)_CATALOG_KO_20250228.pdf)
 외관도 | [2UB8V2_외관도_20241004.dwg](https://www.emstone.com/data/sales/ko/2UB8V2_외관도_20241004.dwg)<br>[2UB8V2_외관도_20241004.png](https://www.emstone.com/data/sales/ko/2UB8V2_외관도_20241004.png)
-사양서 | [2UB8V2_사양서_20241128.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_사양서_20241128.xlsx)
-시방서 | [2UB8V2_EM-16B8V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-16B8V2_시방서_20241015.docx)<br>[2UB8V2_EM-25B8V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-25B8V2_시방서_20241015.docx)<br>[2UB8V2_EM-36B8V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-36B8V2_시방서_20241015.docx)<br>[2UB8V2_EM-64B8V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-64B8V2_시방서_20241015.docx)<br>[2UB8V2_EM-128B8V2_시방서_20241015.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-128B8V2_시방서_20241015.docx)
+사양서 | [2UB8V2(TTA)_사양서_20250228.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2(TTA)_사양서_20250228.xlsx)
+시방서 | [2UB8V2_EM-16B8V2(TTA)_시방서_20250228.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-16B8V2(TTA)_시방서_20250228.docx)<br>[2UB8V2_EM-25B8V2(TTA)_시방서_20250228.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-25B8V2(TTA)_시방서_20250228.docx)<br>[2UB8V2_EM-36B8V2(TTA)_시방서_20250228.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-36B8V2(TTA)_시방서_20250228.docx)<br>[2UB8V2_EM-64B8V2(TTA)_시방서_20250228.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-64B8V2(TTA)_시방서_20250228.docx)<br>[2UB8V2_EM-128B8V2(TTA)_시방서_20250228.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-128B8V2(TTA)_시방서_20250228.docx)
 출하검사 결과 성적서 | [2UB8V2_EM-16B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-16B8V2_출하검사결과성적서_20241015.xlsx)<br>[2UB8V2_EM-25B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-25B8V2_출하검사결과성적서_20241015.xlsx)<br>[2UB8V2_EM-36B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-36B8V2_출하검사결과성적서_20241015.xlsx)<br>[2UB8V2_EM-64B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-64B8V2_출하검사결과성적서_20241015.xlsx)<br>[2UB8V2_EM-128B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-128B8V2_출하검사결과성적서_20241015.xlsx)
 인증서 | [2UB8V2(16-25CH)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240520.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(16-25CH)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240520.pdf)<br>[2UB8V2(16-25CH)_방송통신기자재등(전자파적합성)시험성적서_20240520.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(16-25CH)_방송통신기자재등(전자파적합성)시험성적서_20240520.pdf)<br>[2UB8V2(16-25CH)_방송통신기자재등의적합등록필증_20240521.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(16-25CH)_방송통신기자재등의적합등록필증_20240521.pdf)<br>[2UB8V2(36-64-128CH)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240520.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240520.pdf)<br>[2UB8V2(36-64-128CH)_방송통신기자재등(전자파적합성)시험성적서_20240520.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_방송통신기자재등(전자파적합성)시험성적서_20240520.pdf)<br>[2UB8V2(36-64-128CH)_방송통신기자재등의적합등록필증_20240521.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_방송통신기자재등의적합등록필증_20240521.pdf)<br>[2UB8V2_UL인증서(CertificateofCompliance(CA))_20240814.pdf](https://www.emstone.com/data/sales/ko/2UB8V2_UL인증서(CertificateofCompliance(CA))_20240814.pdf)<br>[2UB8V2_UL인증서(CertificateofCompliance(US))_20240814.pdf](https://www.emstone.com/data/sales/ko/2UB8V2_UL인증서(CertificateofCompliance(US))_20240814.pdf)<br>[2UB8V2(16-25CH)_TTA인증서_241206.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(16-25CH)_TTA인증서_241206.pdf)<br>[2UB8V2(16-25CH)_TTA시험성적서_241206.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(16-25CH)_TTA시험성적서_241206.pdf)<br>[2UB8V2(36-64-128CH)_TTA인증서_241206.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_TTA인증서_241206.pdf)<br>[2UB8V2(36-64-128CH)_TTA시험성적서_241206.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_TTA시험성적서_241206.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20231107.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20231107.pdf)<br>[NVR_사용자매뉴얼_20231204.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20231204.pdf)<br>[NVR_업그레이드매뉴얼_20230728.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20230728.pdf)
