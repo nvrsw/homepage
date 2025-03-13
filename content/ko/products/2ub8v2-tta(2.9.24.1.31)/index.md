@@ -197,29 +197,13 @@ image:
 <td>Linux 64bit(Embedded)</td>
 </tr>
 <tr>
-<th rowspan="6">저장장치</th>
+<th rowspan="2">저장장치</th>
 <th>기본장착</th>
 <td>없음</td>
 </tr>
 <tr>
 <th>내부장착</th>
 <td>SATA type 3.5" HDD 최대 8개 장착가능 (24TB HDD 인식, 최대 용량 192TB, Surveillance / Enterprise Level)</td>
-</tr>
-<tr>
-<th>RAID (옵션)</th>
-<td>EM-JBOD24B 연결(최대 2대)을 위한 external RAID0/1/5/6/50/60 지원(Enterprise Level HDD only, up to 1,152TB)</td>
-</tr>
-<tr>
-<th>Non-RAID (옵션)</th>
-<td>EM-JBOD24B 연결(최대 2대)을 위한 HBA (Surveillance / Enterprise Level, 최대 24TB x 24Bay x 2EA = 1,152TB 확장가능)</td>
-</tr>
-<tr>
-<th>SAN (FC, 옵션)</th>
-<td>SAN Storage 연결을 위한 HBA (4G/8G/16G 싱글/듀얼)</td>
-</tr>
-<tr>
-<th>iSCSI (IP SAN)</th>
-<td>iSCSI 지원</td>
 </tr>
 <tr>
 <th rowspan="2">백업</th>
@@ -304,10 +288,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB8V2_CATALOG_KO_20241128.pdf](https://www.emstone.com/data/sales/ko/2UB8V2_CATALOG_KO_20241128.pdf)
+카탈로그 | [2UB8V2(TTA)_CATALOG_KO_20250313.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(TTA)_CATALOG_KO_20250313.pdf)
 외관도 | [2UB8V2_외관도_20241004.dwg](https://www.emstone.com/data/sales/ko/2UB8V2_외관도_20241004.dwg)<br>[2UB8V2_외관도_20241004.png](https://www.emstone.com/data/sales/ko/2UB8V2_외관도_20241004.png)
-사양서 | [2UB8V2_사양서_20241128.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_사양서_20241128.xlsx)
-시방서 | [2UB8V2_EM-16B8V2_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-16B8V2_시방서_20250227.docx)<br>[2UB8V2_EM-25B8V2_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-25B8V2_시방서_20250227.docx)<br>[2UB8V2_EM-36B8V2_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-36B8V2_시방서_20250227.docx)<br>[2UB8V2_EM-64B8V2_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-64B8V2_시방서_20250227.docx)<br>[2UB8V2_EM-128B8V2_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-128B8V2_시방서_20250227.docx)
+사양서 | [2UB8V2(TTA)_사양서_20250313.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2(TTA)_사양서_20250313.xlsx)
+시방서 | [2UB8V2_EM-16B8V2(TTA)_시방서_20250313.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-16B8V2(TTA)_시방서_20250313.docx)<br>[2UB8V2_EM-25B8V2(TTA)_시방서_20250313.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-25B8V2(TTA)_시방서_20250313.docx)<br>[2UB8V2_EM-36B8V2(TTA)_시방서_20250313.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-36B8V2(TTA)_시방서_20250313.docx)<br>[2UB8V2_EM-64B8V2(TTA)_시방서_20250313.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-64B8V2(TTA)_시방서_20250313.docx)<br>[2UB8V2_EM-128B8V2(TTA)_시방서_20250313.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-128B8V2(TTA)_시방서_20250313.docx)
 출하검사 결과 성적서 | [2UB8V2_EM-16B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-16B8V2_출하검사결과성적서_20241015.xlsx)<br>[2UB8V2_EM-25B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-25B8V2_출하검사결과성적서_20241015.xlsx)<br>[2UB8V2_EM-36B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-36B8V2_출하검사결과성적서_20241015.xlsx)<br>[2UB8V2_EM-64B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-64B8V2_출하검사결과성적서_20241015.xlsx)<br>[2UB8V2_EM-128B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-128B8V2_출하검사결과성적서_20241015.xlsx)
 인증서 | [2UB8V2(16-25CH)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240520.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(16-25CH)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240520.pdf)<br>[2UB8V2(16-25CH)_방송통신기자재등(전자파적합성)시험성적서_20240520.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(16-25CH)_방송통신기자재등(전자파적합성)시험성적서_20240520.pdf)<br>[2UB8V2(16-25CH)_방송통신기자재등의적합등록필증_20240521.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(16-25CH)_방송통신기자재등의적합등록필증_20240521.pdf)<br>[2UB8V2(36-64-128CH)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240520.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240520.pdf)<br>[2UB8V2(36-64-128CH)_방송통신기자재등(전자파적합성)시험성적서_20240520.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_방송통신기자재등(전자파적합성)시험성적서_20240520.pdf)<br>[2UB8V2(36-64-128CH)_방송통신기자재등의적합등록필증_20240521.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_방송통신기자재등의적합등록필증_20240521.pdf)<br>[2UB8V2_UL인증서(CertificateofCompliance(CA))_20240814.pdf](https://www.emstone.com/data/sales/ko/2UB8V2_UL인증서(CertificateofCompliance(CA))_20240814.pdf)<br>[2UB8V2_UL인증서(CertificateofCompliance(US))_20240814.pdf](https://www.emstone.com/data/sales/ko/2UB8V2_UL인증서(CertificateofCompliance(US))_20240814.pdf)<br>[2UB8V2(16-25CH)_TTA인증서_241206.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(16-25CH)_TTA인증서_241206.pdf)<br>[2UB8V2(16-25CH)_TTA시험성적서_241206.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(16-25CH)_TTA시험성적서_241206.pdf)<br>[2UB8V2(36-64-128CH)_TTA인증서_241206.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_TTA인증서_241206.pdf)<br>[2UB8V2(36-64-128CH)_TTA시험성적서_241206.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_TTA시험성적서_241206.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20231107.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20231107.pdf)<br>[NVR_사용자매뉴얼_20231204.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20231204.pdf)<br>[NVR_업그레이드매뉴얼_20230728.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20230728.pdf)
