@@ -40,7 +40,7 @@ image:
 - 고효율 H.265 / H.264 압축방식을 통하여 선명한 화질의 영상
 - ONVIF / RTSP 표준 프로토콜 지원
 - CIF ~ 32M의 **모든 해상도 지원**
-- HDD 최대 8개 장착 (최대 192TB / RAID 옵션)
+- HDD 최대 8개 장착 (최대 192TB)
 - **Failover 지원** : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
 - 모델 라인업 : 16, 25, 36, 64, 128 CH
 
@@ -273,7 +273,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB8V2(TTA)_CATALOG_KO_20250313.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(TTA)_CATALOG_KO_20250313.pdf)
+카탈로그 | [2UB8V2(TTA)_CATALOG_KO_20250314.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(TTA)_CATALOG_KO_20250314.pdf)
 외관도 | [2UB8V2_외관도_20241004.dwg](https://www.emstone.com/data/sales/ko/2UB8V2_외관도_20241004.dwg)<br>[2UB8V2_외관도_20241004.png](https://www.emstone.com/data/sales/ko/2UB8V2_외관도_20241004.png)
 사양서 | [2UB8V2(TTA)_사양서_20250313.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2(TTA)_사양서_20250313.xlsx)
 시방서 | [2UB8V2_EM-16B8V2(TTA)_시방서_20250313.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-16B8V2(TTA)_시방서_20250313.docx)<br>[2UB8V2_EM-25B8V2(TTA)_시방서_20250313.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-25B8V2(TTA)_시방서_20250313.docx)<br>[2UB8V2_EM-36B8V2(TTA)_시방서_20250313.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-36B8V2(TTA)_시방서_20250313.docx)<br>[2UB8V2_EM-64B8V2(TTA)_시방서_20250313.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-64B8V2(TTA)_시방서_20250313.docx)<br>[2UB8V2_EM-128B8V2(TTA)_시방서_20250313.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-128B8V2(TTA)_시방서_20250313.docx)
