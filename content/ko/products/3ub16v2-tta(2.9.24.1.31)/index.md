@@ -41,10 +41,7 @@ image:
 - ONVIF / RTSP 표준 프로토콜 지원
 - CIF ~ 32M의 **모든 해상도 지원**
 - HDD 최대 16개 장착 (최대 384TB / RAID 옵션)
-- **생체 정보**를 이용한 사용자 인증 지원
 - **Failover 지원** : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
-- **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
-- **화재/연기 감지** 라이선스 1CH 기본 제공
 - 모델 라인업 : 36, 64, 128 CH
 
 </div>
@@ -208,11 +205,11 @@ image:
 <tr>
 <th rowspan="2">이벤트</th>
 <th>종류</th>
-<td>움직임 감지, 센서, 릴레이, 디스크 이상, 카메라 신호 손실/복구, 비상벨, 차량번호판 인식, <br>POS 연동, E/L 연동, 화재/연기 감지, 이상음원 검출, 열화상 카메라 연동, 지능형 서버 연동</td>
+<td>움직임 감지, 센서, 릴레이, 디스크 이상, 카메라 신호 손실/복구</td>
 </tr>
 <tr>
 <th>동작</th>
-<td>녹화, 알람 발생, 팝업 카메라, 경고음 발생, 경고메세지 발생, E-mail 알림, FTP 전송, 프리셋 동작</td>
+<td>녹화, 알람 발생, 팝업 카메라, 경고음 발생, 경고메세지 발생, E-mail 알림, 프리셋 동작</td>
 </tr>
 <tr>
 <th rowspan="3">응용<br>프로그램</th>
@@ -229,7 +226,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">보안</th>
-<td>Multi User Level, 생체인증지원</td>
+<td>Multi User Level</td>
 </tr>
 <tr>
 <th colspan="2">Failover</th>
@@ -237,20 +234,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">날짜 / 시간 동기화</th>
-<td>NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능, RFTC 또는 GPS를 통한 자체 동기화 (옵션)</td>
-</tr>
-<tr>
-<th rowspan="3">지능형<br>솔루션</th>
-<th>내장 SW</th>
-<td>EMSTONE 영상분석 AI 기반 LPR 및 불꽃/연기 감지 각 1채널 기본 탑재 (※ 추가 라이선스 옵션)</td>
-</tr>
-<tr>
-<th>외부 시스템 연동</th>
-<td>E/L CRT system, EM-call system, LPR/차량번호추출 카메라, <br>영상분석 화재/연기 감지 system, 패스워드 관리 솔루션, 영상반출 보안 솔루션</td>
-</tr>
-<tr>
-<th>분석서버 연동</th>
-<td>EMSTONE-AI, Intellivix, 넥스리얼, 아이브스, HanwhaVision, Truen/, ITX, CHAJA, Neotech</td>
+<td>NTP 타임서버를 통한 동기화, 자체 NTP 서버 기능</td>
 </tr>
 <tr>
 <th colspan="2">동작 온도 / 습도</th>
