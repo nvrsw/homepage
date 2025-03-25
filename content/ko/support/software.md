@@ -66,9 +66,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.25.3.14** (2025-03-14)
-    - 설치 파일: [nvr-2.9.25.3.14-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.25.3.14-emstone.iso)
-    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.25.3.14-emstone.iso-sha256.txt)
+    - 버전: **2.9.25.3.25** (2025-03-25)
+    - 설치 파일: [nvr-2.9.25.3.25-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.25.3.25-emstone.iso)
+    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.25.3.25-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   <!--  - **EM-VMS1024**
     - 버전: **2.9.24.1.31** (2024-01-31)
