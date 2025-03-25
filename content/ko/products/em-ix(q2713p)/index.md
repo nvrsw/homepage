@@ -5,7 +5,7 @@ summary: "5MP Thermal Camera"
 authors: []
 tags: []
 categories: [ "camera" ]
-draft: false
+draft: true
 weight: 2012
 
 # Featured Image:
