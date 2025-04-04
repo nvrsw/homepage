@@ -22,7 +22,7 @@ image:
 
 - [Change Log](/docs/cms/changelog/cms21.html)
 - Supported Operating Systems
-  - Windows : Windows 7 / Windows 8 / Windows 10 / Windows 11
+  - Windows : Windows 10 / Windows 11
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - Installation Program
   - **Latest Version**

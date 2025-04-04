@@ -22,7 +22,7 @@ image:
 
 - [Change Log](/docs/cms/changelog/cms21.html)
 - 対応OS
-  - Windows : Windows 7 / Windows 8 / Windows 10 / Windows 11
+  - Windows : Windows 10 / Windows 11
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - インストールプログラム
   - **最新バージョン**
@@ -35,7 +35,7 @@ image:
         - 64 bits: [cms-2.1.25.3.28-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.25.3.28-linux-x86_64.tar.bz2)
 
 - バージョン: **2.1.25.3.28** (2025-03-28)
-- Windows インストールプログラム (Windows 7 / Windows 8 / Windows 10)
+- Windows インストールプログラム (Windows 10 / Windows 11)
   - [32ビット](https://www.emstone.com/data/cms/cms-2.1.25.3.28-win32-emstone.exe) / [64ビット](https://www.emstone.com/data/cms/cms-2.1.25.3.28-win64-emstone.exe)
 - Linux インストールプログラム (Ubuntu 19.04 / Arch Linux)
   - [64ビット](https://www.emstone.com/data/cms/cms-2.1.25.3.28-linux-x86_64.tar.bz2)

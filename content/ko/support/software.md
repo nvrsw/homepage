@@ -22,7 +22,7 @@ image:
 
 - [변경사항](/docs/cms/changelog/cms21.html)
 - 운영체제 지원
-  - Windows : Windows 7 / Windows 8 / Windows 10 / Windows 11
+  - Windows : Windows 10 / Windows 11
   - Linux : Ubuntu 22.04 with modified Linux Kernel
 - 설치 프로그램
   - **최신 버전**
