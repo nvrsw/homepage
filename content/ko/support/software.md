@@ -22,17 +22,17 @@ image:
 
 - [변경사항](/docs/cms/changelog/cms21.html)
 - 운영체제 지원
-  - Windows : Windows 7 / Windows 8 / Windows 10 / Windows 11
+  - Windows : Windows 10 / Windows 11
   - Linux : Ubuntu 22.04 with modified Linux Kernel
 - 설치 프로그램
   - **최신 버전**
-    - 버전: **2.1.25.2.13** (2025-02-13)
+    - 버전: **2.1.25.3.28** (2025-03-28)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.25.2.13-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.2.13-win32-emstone.exe)
-        - 64비트: [cms-2.1.25.2.13-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.2.13-win64-emstone.exe)
+        - 32비트: [cms-2.1.25.3.28-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.3.28-win32-emstone.exe)
+        - 64비트: [cms-2.1.25.3.28-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.3.28-win64-emstone.exe)
       - Linux
-        - 64비트: [cms-2.1.25.2.13-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.25.2.13-linux-x86_64.tar.bz2)
+        - 64비트: [cms-2.1.25.3.28-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.25.3.28-linux-x86_64.tar.bz2)
 
   - **2.1.23.8.8**
     - 버전: **2.1.23.8.8** (2023.08.08)
@@ -66,9 +66,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.25.2.13** (2025-02-13)
-    - 설치 파일: [nvr-2.9.25.2.13-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.25.2.13-emstone.iso)
-    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.25.2.13-emstone.iso-sha256.txt)
+    - 버전: **2.9.25.3.28** (2025-03-28)
+    - 설치 파일: [nvr-2.9.25.3.28-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.25.3.28-emstone.iso)
+    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.25.3.28-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   <!--  - **EM-VMS1024**
     - 버전: **2.9.24.1.31** (2024-01-31)
@@ -135,17 +135,17 @@ image:
 
 *NVR / VMS Management Server*
 
-- 버전: **1.3.0** (2025-01-21)
+- 버전: **1.3.1** (2025-03-28)
   - Linux
-    - redback-manager_1.3.0_amd64.deb
-    - redback-manager-1.3.0-1.x86_64.rpm
-    - redback-manager_1.3.0_amd64.AppImage
+    - redback-manager_1.3.1_amd64.deb
+    - redback-manager-1.3.1-1.x86_64.rpm
+    - redback-manager_1.3.1_amd64.AppImage
   - Windows
-    - REDBACK Manager_1.3.0_x64_en-US.msi
-    - REDBACK Manager_1.3.0_x64-setup.exe
+    - REDBACK Manager_1.3.1_x64_en-US.msi
+    - REDBACK Manager_1.3.1_x64-setup.exe
   - macOS
-    - REDBACK Manager_1.3.0_aarch64.dmg
-    - REDBACK.Manager_1.3.0_x64.dmg
+    - REDBACK Manager_1.3.1_aarch64.dmg
+    - REDBACK.Manager_1.3.1_x64.dmg
 
 - [변경사항](/docs/redback/ChangeLog.html)
 
@@ -153,8 +153,8 @@ image:
 
 *Network Display Server for IP Video Wall*
 
-- 버전: **1.16.24.12.19** (2024-12-19)
-- [ISO 설치 파일](https://www.emstone.com/data/nds/nds-1.16.24.12.19.iso)
+- 버전: **1.17.25.3.28** (2025-03-28)
+- [ISO 설치 파일](https://www.emstone.com/data/nds/nds-1.17.25.3.28.iso)
    : *업그레이드 전용 / 제품키 필요*
 - [변경사항](/docs/nds/ChangeLog.html)
 
