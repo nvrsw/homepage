@@ -32,7 +32,7 @@ image:
         - 32비트: [cms-2.1.25.4.14-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.4.14-win32-emstone.exe)
         - 64비트: [cms-2.1.25.4.14-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.4.14-win64-emstone.exe)
       - Linux
-        - 64비트: [cms-2.1.25.4.14-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.25.4.14-linux-x86_64.tar.bz2)
+        - 64비트: [cms-2.1.25.4.14-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.25.4.14-linux-x86_64.tar.gz)
 
   - **2.1.23.8.8**
     - 버전: **2.1.23.8.8** (2023.08.08)
