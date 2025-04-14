@@ -26,19 +26,19 @@ image:
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - インストールプログラム
   - **最新バージョン**
-    - バージョン: **2.1.25.3.28** (2025-03-28)
+    - バージョン: **2.1.25.4.14** (2025-04-14)
     - ダウンロード
       - Windows
-        - 32 bits: [cms-2.1.25.3.28-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.3.28-win32-emstone.exe)
-        - 64 bits: [cms-2.1.25.3.28-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.3.28-win64-emstone.exe)
+        - 32 bits: [cms-2.1.25.4.14-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.4.14-win32-emstone.exe)
+        - 64 bits: [cms-2.1.25.4.14-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.4.14-win64-emstone.exe)
       - Linux
-        - 64 bits: [cms-2.1.25.3.28-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.25.3.28-linux-x86_64.tar.bz2)
+        - 64 bits: [cms-2.1.25.4.14-linux-x86_64.tar.bz2](https://www.emstone.com/data/cms/cms-2.1.25.4.14-linux-x86_64.tar.bz2)
 
-- バージョン: **2.1.25.3.28** (2025-03-28)
+- バージョン: **2.1.25.4.14** (2025-04-14)
 - Windows インストールプログラム (Windows 10 / Windows 11)
-  - [32ビット](https://www.emstone.com/data/cms/cms-2.1.25.3.28-win32-emstone.exe) / [64ビット](https://www.emstone.com/data/cms/cms-2.1.25.3.28-win64-emstone.exe)
+  - [32ビット](https://www.emstone.com/data/cms/cms-2.1.25.4.14-win32-emstone.exe) / [64ビット](https://www.emstone.com/data/cms/cms-2.1.25.4.14-win64-emstone.exe)
 - Linux インストールプログラム (Ubuntu 19.04 / Arch Linux)
-  - [64ビット](https://www.emstone.com/data/cms/cms-2.1.25.3.28-linux-x86_64.tar.bz2)
+  - [64ビット](https://www.emstone.com/data/cms/cms-2.1.25.4.14-linux-x86_64.tar.bz2)
 - [変更](/docs/cms/changelog/cms21.html)
 
 ## モバイルアプリ
