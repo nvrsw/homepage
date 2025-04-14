@@ -88,7 +88,7 @@ image:
 </tr>
 <tr>
 <th>Illumination Distance</th>
-<td>30m</td>
+<td>30mIR LED : 30 m / Warm LED : 10m</td>
 </tr>
 <tr>
 <th rowspan="3">Lens</th>
@@ -101,7 +101,7 @@ image:
 </tr>
 <tr>
 <th>Field of View</th>
-<td>101.9˚(W) ~ 33.1˚(T)</td>
+<td>103.4˚(W) ~ 23.8˚(T)</td>
 </tr>
 <tr>
 <th rowspan="2">Video</th>
@@ -136,12 +136,12 @@ image:
 </tr>
 <tr>
 <th>Speaker</th>
-<td>14W 6Ω</td>
+<td>14.3W 6Ω</td>
 </tr>
 <tr>
 <th rowspan="4">Network</th>
 <th>Interface</th>
-<td>RJ-45 (10/100 Base-T)</td>
+<td>RJ-45 (10 Base-T / 100 Base-Tx)</td>
 </tr>
 <tr>
 <th>Protocol</th>
@@ -158,7 +158,7 @@ image:
 <tr>
 <th rowspan>Power</th>
 <th>Power Supply</th>
-<td>DC12V 2A / PoE</td>
+<td>DC12V 24W / PoE</td>
 </tr>
 <tr>
 <th rowspan="2">Environment</th>
@@ -187,10 +187,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IQV(14W5Z)_CATALOG_KO_20241111.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_CATALOG_KO_20241111.pdf)
+카탈로그 | [EM-IQV(14W5Z)_CATALOG_KO_20250414.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_CATALOG_KO_20250414.pdf)
 외관도 | [EM-IQV(14W5Z)_외관도_20240723.png](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_외관도_20240723.png)<br>[EM-IQV(14W5Z)_외관도_20240723.dwg](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_외관도_20240723.dwg)
-사양서 | [EM-IQV(14W5Z)_사양서_20241107.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_사양서_20241107.xlsx)
-시방서 | [EM-IQV(14W5Z)_시방서_20241107.docx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_시방서_20241107.docx)
+사양서 | [EM-IQV(14W5Z)_사양서_20250414.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_사양서_20250414.xlsx)
+시방서 | [EM-IQV(14W5Z)_시방서_20250414.docx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_시방서_20250414.docx)
 출하검사 결과 성적서 | [EM-IQV(14W5Z)_출하검사성적서_20240723.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_출하검사성적서_20240723.xlsx)
 인증서 | [EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240619.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240619.pdf)<br>[EM-IQV(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20240617.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20240617.pdf)<br>[EM-IQV(14W5Z)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240617.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240617.pdf)<br>[EM-IQV(14W5Z)_방수방진(IP66등급)시험성적서_20241023.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방수방진(IP66등급)시험성적서_20241023.pdf)<br>[EM-IQV(14W5Z)_정부조달물품표준규격(화질내환경)시험성적서_20241030.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_정부조달물품표준규격(화질내환경)시험성적서_20241030.pdf)<br>[EM-IQV(14W5Z)_TTA인증서_20241018.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_TTA인증서_20241018.pdf)<br>[EM-IQV(14W5Z)_TTA시험성적서_20241015.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_TTA시험성적서_20241015.pdf)
 소프트웨어 | [EMSTONE_P_IPInstaller.zip](https://www.emstone.com/data/sales/ko/EMSTONE_P_IPInstaller.zip)
