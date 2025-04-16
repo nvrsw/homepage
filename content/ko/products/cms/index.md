@@ -80,4 +80,4 @@ image:
 종류 | 파일
 ---- | ----
 카탈로그 | [CMSSW_CATALOG_KO_20230110.pdf](https://www.emstone.com/data/sales/ko/CMSSW_CATALOG_KO_20230110.pdf)
-매뉴얼 | [CMS_사용자매뉴얼_20231204.pdf](https://www.emstone.com/data/sales/ko/CMS_사용자매뉴얼_20231204.pdf)<br>[CMS_작업매뉴얼_20230106.pdf](https://www.emstone.com/data/sales/ko/CMS_작업매뉴얼_20230106.pdf)<br>[CMS_단축키매뉴얼_20220110.pdf](https://www.emstone.com/data/sales/ko/CMS_단축키매뉴얼_20220110.pdf)
+매뉴얼 | [CMS_사용자매뉴얼_20250416.pdf](https://www.emstone.com/data/sales/ko/CMS_사용자매뉴얼_20250416.pdf)<br>[CMS_작업매뉴얼_20230106.pdf](https://www.emstone.com/data/sales/ko/CMS_작업매뉴얼_20230106.pdf)<br>[CMS_단축키매뉴얼_20220110.pdf](https://www.emstone.com/data/sales/ko/CMS_단축키매뉴얼_20220110.pdf)
