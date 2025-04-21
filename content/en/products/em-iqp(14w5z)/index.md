@@ -131,7 +131,7 @@ image:
 </tr>
 <tr>
 <th>IVS</th>
-<td>SMD – Human, Car detection, Line Cross, Region Entrance, Region Exiting,<br> Area Intrusion, Scene change, De-focus detection</td>
+<td>Motion Detection, Line Cross, Area Entrance, Area Exit, Appear/Disappear</td>
 </tr>
 <tr>
 <th rowspan="2">Audio</th>
