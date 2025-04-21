@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 22.04 with modified Linux Kernel
 - 설치 프로그램
   - **최신 버전**
-    - 버전: **2.1.25.4.14** (2025-04-14)
+    - 버전: **2.1.25.4.17** (2025-04-17)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.25.4.14-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.4.14-win32-emstone.exe)
-        - 64비트: [cms-2.1.25.4.14-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.4.14-win64-emstone.exe)
+        - 32비트: [cms-2.1.25.4.17-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.4.17-win32-emstone.exe)
+        - 64비트: [cms-2.1.25.4.17-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.4.17-win64-emstone.exe)
       - Linux
-        - 64비트: [cms-2.1.25.4.14-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.25.4.14-linux-x86_64.tar.gz)
+        - 64비트: [cms-2.1.25.4.17-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.25.4.17-linux-x86_64.tar.gz)
 
   - **2.1.23.8.8**
     - 버전: **2.1.23.8.8** (2023.08.08)
@@ -66,9 +66,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.25.4.14** (2025-04-14)
-    - 설치 파일: [nvr-2.9.25.4.14-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.25.4.14-emstone.iso)
-    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.25.4.14-emstone.iso-sha256.txt)
+    - 버전: **2.9.25.4.16** (2025-04-16)
+    - 설치 파일: [nvr-2.9.25.4.16-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.25.4.16-emstone.iso)
+    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.25.4.16-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   <!--  - **EM-VMS1024**
     - 버전: **2.9.24.1.31** (2024-01-31)
@@ -153,8 +153,8 @@ image:
 
 *Network Display Server for IP Video Wall*
 
-- 버전: **1.17.25.4.14** (2025-04-14)
-- [ISO 설치 파일](https://www.emstone.com/data/nds/nds-1.17.25.4.14.iso)
+- 버전: **1.17.25.4.17** (2025-04-17)
+- [ISO 설치 파일](https://www.emstone.com/data/nds/nds-1.17.25.4.17.iso)
    : *업그레이드 전용 / 제품키 필요*
 - [변경사항](/docs/nds/ChangeLog.html)
 
