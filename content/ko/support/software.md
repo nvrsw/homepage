@@ -189,3 +189,9 @@ image:
   - 파일명 : [IPCAM_PD_V6.1.1.15_20231026_18_r1874.bin](https://www.emstone.com/data/tta/camera/EM-IX(Q2713P)/IPCAM_PD_V6.1.1.15_20231026_18_r1874.bin)
   - 버전 : 6.1.1.15
   - 해시값(SHA-256) : <span style="word-break:break-all;">5041a466aab9c963a3f2b1d1385a5a1389195a0633183d90e8e8137ee6178417</span>
+
+- **IPCAM_PD_V6.1.1.24**
+  - 모델명 : EM-IX(Q36P)
+  - 파일명 : [IPCAM_PD_V6.1.1.24_20250224_13_r3003.bin](https://www.emstone.com/data/tta/camera/EM-IX(Q36P)/IPCAM_PD_V6.1.1.24_20250224_13_r3003.bin)
+  - 버전 : 6.1.1.24
+  - 해시값(SHA-256) : <span style="word-break:break-all;">403e6738f826b9dd0438799ebc1b0383774fd63ff94c64c6f41689470a35715c</span>
