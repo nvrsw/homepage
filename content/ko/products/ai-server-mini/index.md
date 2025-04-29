@@ -1,7 +1,7 @@
 ---
 title: "AI-SERVER-mini"
 subtitle: "지능형 영상분석 서버 미니"
-summary: "지능형 영상분석 서버 미"
+summary: "지능형 영상분석 서버 미니"
 authors: []
 tags: ["AI"]
 categories: [ "etc" ]
