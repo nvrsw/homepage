@@ -1,12 +1,12 @@
 ---
-title: "AI-SERVER"
-subtitle: "지능형 영상분석 서버"
-summary: "지능형 영상분석 서버"
+title: "AI-SERVER-LPR/Fire"
+subtitle: "지능형 영상분석 서버 (LPR, Flame & Smoke)"
+summary: "지능형 영상분석 서버 (LPR, Flame & Smoke)"
 authors: []
 tags: ["AI"]
 categories: [ "etc" ]
 draft: false
-weight: 5020
+weight: 5022
 
 # Featured Image: To use, add an image named `featured.jpg/png` to your page's folder.
 image:
