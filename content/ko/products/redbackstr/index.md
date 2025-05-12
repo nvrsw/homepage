@@ -229,7 +229,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [REDBACK-STR_CATALOG_KO_20250228.pdf](https://www.emstone.com/data/sales/ko/REDBACK-STR_CATALOG_KO_20250228.pdf)
+카탈로그 | [REDBACK-STR_CATALOG_KO_20250512.pdf](https://www.emstone.com/data/sales/ko/REDBACK-STR_CATALOG_KO_20250512.pdf)
 외관도 | [REDBACK-STR_외관도_20210422.dwg](https://www.emstone.com/data/sales/ko/REDBACK-STR_외관도_20210422.dwg)<br>[REDBACK-STR(2UB12)_외관도_20210422.png](https://www.emstone.com/data/sales/ko/REDBACK-STR(2UB12)_외관도_20210422.png)<br>[REDBACK-STR(5UB84)_외관도_20210422.png](https://www.emstone.com/data/sales/ko/REDBACK-STR(5UB84)_외관도_20210422.png)
 사양서 | [REDBACK-STR_사양서_20250228.xlsx](https://www.emstone.com/data/sales/ko/REDBACK-STR_사양서_20250228.xlsx)
 인증서 | [REDBACK-STR(2UB12)_방송통신기자재등의적합등록필증_20210415.pdf](https://www.emstone.com/data/sales/ko/REDBACK-STR(2UB12)_방송통신기자재등의적합등록필증_20210415.pdf)<br>[REDBACK-STR(2UB12)_방송통신기자재등(전자파적합성)시험성적서_20210415.pdf](https://www.emstone.com/data/sales/ko/REDBACK-STR(2UB12)_방송통신기자재등(전자파적합성)시험성적서_20210415.pdf)<br>[REDBACK-STR(5UB84)_방송통신기자재등의적합등록필증_20210415.pdf](https://www.emstone.com/data/sales/ko/REDBACK-STR(5UB84)_방송통신기자재등의적합등록필증_20210415.pdf)<br>[REDBACK-STR(5UB84)_방송통신기자재등(전자파적합성)시험성적서_20210415.pdf](https://www.emstone.com/data/sales/ko/REDBACK-STR(5UB84)_방송통신기자재등(전자파적합성)시험성적서_20210415.pdf)
