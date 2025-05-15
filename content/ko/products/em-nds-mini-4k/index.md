@@ -147,4 +147,4 @@ image:
 시방서 | [NDS-mini-4K_시방서_20230427.docx](https://www.emstone.com/data/sales/ko/NDS-mini-4K_시방서_20230427.docx)
 출하검사 결과 성적서 | [NDS-mini-4K_출하검사결과성적서_20230427.xlsx](https://www.emstone.com/data/sales/ko/NDS-mini-4K_출하검사결과성적서_20230427.xlsx)
 인증서 | [NDS-mini-4K_방송통신기자재등의적합등록필증_20230206.pdf](https://www.emstone.com/data/sales/ko/NDS-mini-4K_방송통신기자재등의적합등록필증_20230206.pdf)<br>[NDS-mini-4K_UL인증서(CertificateofCompliance(US))_20240812.pdf](https://www.emstone.com/data/sales/ko/NDS-mini-4K_UL인증서(CertificateofCompliance(US))_20240812.pdf)<br>[NDS-mini-4K_UL인증서(CertificateofCompliance(CA))_20240812.pdf](https://www.emstone.com/data/sales/ko/NDS-mini-4K_UL인증서(CertificateofCompliance(CA))_20240812.pdf)
-매뉴얼 | [NDS_사용_매뉴얼_20220511.pdf](https://www.emstone.com/data/sales/ko/NDS_사용_매뉴얼_20220511.pdf)
+매뉴얼 | [NDS_사용자매뉴얼_20250514.pdf](https://www.emstone.com/data/sales/ko/NDS_사용자매뉴얼_20250514.pdf)
