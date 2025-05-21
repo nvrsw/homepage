@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 19.04 /Ubuntu 22.04 / Arch Linux
 - Installation Program
   - **Latest Version**
-    - Version: **2.1.25.5.16** (2025-05-16)
+    - Version: **2.1.25.5.21** (2025-05-21)
     - Download
       - Windows
-        - 32 bits: [cms-2.1.25.5.16-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.5.16-win32-emstone.exe)
-        - 64 bits: [cms-2.1.25.5.16-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.5.16-win64-emstone.exe)
+        - 32 bits: [cms-2.1.25.5.21-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.5.21-win32-emstone.exe)
+        - 64 bits: [cms-2.1.25.5.21-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.5.21-win64-emstone.exe)
       - Linux
-        - 64 bits: [cms-2.1.25.5.16-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.25.5.16-linux-x86_64.tar.gz)
+        - 64 bits: [cms-2.1.25.5.21-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.25.5.21-linux-x86_64.tar.gz)
 
 ## Mobile App
 
