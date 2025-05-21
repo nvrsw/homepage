@@ -231,10 +231,16 @@
 
 [[main]]
   parent = "support"
+  name = "디스크 용량 계산"
+  url = "support/calc/"
+  weight = 120
+
+[[main]]
+  parent = "support"
   name = "온라인 매뉴얼"
   url = "http://emstone.gitbook.io/guide"
   post = " &nbsp; <i class='fas fa-external-link-square-alt' aria-hidden='true'></i>"
-  weight = 120
+  weight = 140
 
 [[main]]
   parent = "support"
