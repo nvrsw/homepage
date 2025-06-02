@@ -99,7 +99,7 @@ image:
 </tr>
 <tr>
 <th>Field of View</th>
-<td>H : 113˚-31˚/ V : 58˚-17˚/ D : 138˚-36˚</td>
+<td>H : 113˚~31˚/ V : 58˚~17˚/ D : 138˚~36˚</td>
 </tr>
 <tr>
 <th rowspan="4">Video</th>
@@ -213,7 +213,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IUV(IR2713ZD)_CATALOG_KO_20240527.pdf](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_CATALOG_KO_20240527.pdf)
+카탈로그 | [EM-IUV(IR2713ZD)_CATALOG_KO_20250602.pdf](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_CATALOG_KO_20250602.pdf)
 외관도 | [EM-IUV(IR2713ZD)_외관도_20220223.png](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_외관도_20220223.png)<br>[EM-IUV(IR2713ZD)_외관도_20220801.dwg](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_외관도_20220801.dwg)
 사양서 | [EM-IUV(IR2713ZD)_사양서_20240527.xlsx](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_사양서_20240527.xlsx)
 시방서 | [EM-IUV(IR2713ZD)_시방서_20220628.docx](https://www.emstone.com/data/sales/ko/EM-IUV(IR2713ZD)_시방서_20220628.docx)
