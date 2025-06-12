@@ -4,9 +4,9 @@ subtitle: "5MP Thermal Camera"
 summary: "5MP Thermal Camera"
 authors: []
 tags: []
-categories: [ "camera" ]
+categories: [ "tta" ]
 draft: false
-weight: 2014
+weight: 6034
 
 # Featured Image:
 image:
@@ -61,7 +61,6 @@ image:
 </div>
 </div>
 </div>
-
 
 ## 사양
 
