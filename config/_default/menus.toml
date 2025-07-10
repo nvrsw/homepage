@@ -60,7 +60,7 @@
 
 [[main]]
   parent = "products"
-  name = "Network Diplay Server"
+  name = "Network Display Server"
   url = "categories/nds/"
   weight = 50
 
