@@ -149,6 +149,13 @@
   weight = 100
 
 [[main]]
+  parent = "support"
+  name = "Online Manual"
+  url = "https://emstone.gitbook.io/guide/basicguide"
+  post = " &nbsp; <i class='fas fa-external-link-square-alt' aria-hidden='true'></i>"
+  weight = 110
+
+[[main]]
   parent = "company"
   name = "EMSTONE"
   url = "company/"
