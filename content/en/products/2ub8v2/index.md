@@ -70,11 +70,11 @@ image:
 <thead>
 <tr>
 <th colspan="2">Model</th>
-<th>EM-16B8V2</th>
-<th>EM-25B8V2</th>
-<th>EM-36B8V2</th>
-<th>EM-64B8V2</th>
-<th>EM-128B8V2</th>
+<th>EM-16B8-E</th>
+<th>EM-25B8-E</th>
+<th>EM-36B8-E</th>
+<th>EM-64B8-E</th>
+<th>EM-128B8-E</th>
 </tr>
 </thead>
 <tbody>

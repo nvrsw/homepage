@@ -70,9 +70,9 @@ image:
 <thead>
 <tr>
 <th colspan="2">Model</th>
-<th>EM-36B16V2</th>
-<th>EM-64B16V2</th>
-<th>EM-128B16V2</th>
+<th>EM-36B16-E</th>
+<th>EM-64B16-E</th>
+<th>EM-128B16-E</th>
 </tr>
 </thead>
 <tbody>
