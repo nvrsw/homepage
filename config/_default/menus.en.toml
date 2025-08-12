@@ -58,11 +58,17 @@
   url = "categories/nds/"
   weight = 40
   
-  [[main]]
+[[main]]
   parent = "products"
   name = "IP Camera"
   url = "categories/camera/"
   weight = 50
+
+[[main]]
+  parent = "products"
+  name = "ETC"
+  url = "categories/etc/"
+  weight = 60
 
 [[main]]
   parent = "solutions"

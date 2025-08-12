@@ -1,5 +1,5 @@
 ---
-title: "PoE Amp / Emergency Bell / Etc"
+title: "AI Analysis Server"
 subtitle: ""
 
 # View Mode (1 = List, 2 = Compact, 3 = Card)

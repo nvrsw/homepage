@@ -34,8 +34,7 @@ image:
 
 - 딥러닝 기반의 영상 분석 서버
 - 기존 시스템을 유지하면서 AI Server 추가 설치만으로 영상 분석 가능
-- 지능형분석 (AI Part 1) 기본 탑재
-- 차량번호 추출(LPR) • 화재(Flame/Smoke) 옵션
+- 선택옵션 - 지능형분석 (AI Part 1) • 차량번호 추출(LPR) • 화재(Flame/Smoke)
 - 모델 라인업 : 16 CH , 32CH , 선택 라이선스
 
 </div>
@@ -77,7 +76,7 @@ image:
 </tr>
 <tr>
 <th colspan="2">Inference Budget(추론한도)</th>
-<td colspan="3">40</td>
+<td colspan="3">48</td>
 </tr>
 <tr>
 <th colspan="2">CPU</th>
@@ -221,7 +220,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [AI-SERVER-Slim_CATALOG_KO_20250429.pdf](https://www.emstone.com/data/sales/ko/AI-SERVER-Slim_CATALOG_KO_20250429.pdf)
+카탈로그 | [AI-SERVER-Slim_CATALOG_KO_20250812.pdf](https://www.emstone.com/data/sales/ko/AI-SERVER-Slim_CATALOG_KO_20250812.pdf)
 외관도 | [AI-SERVER-Slim_외관도_20250429.dwg](https://www.emstone.com/data/sales/ko/AI-SERVER-Slim_외관도_20250429.dwg)<br>[AI-SERVER-Slim_외관도_20250429.png](https://www.emstone.com/data/sales/ko/AI-SERVER-Slim_외관도_20250429.png)
 사양서 | [AI-SERVER-Slim_사양서_20250429.xlsx](https://www.emstone.com/data/sales/ko/AI-SERVER-Slim_사양서_20250429.xlsx)
 시방서 | [EM-AI16S_시방서_20230429.docx](https://www.emstone.com/data/sales/ko/EM-AI16S_시방서_20230429.docx)<br>[EM-AI32S_시방서_20230429.docx](https://www.emstone.com/data/sales/ko/EM-AI32S_시방서_20230429.docx)<br>[EM-AI00S_시방서_20230429.docx](https://www.emstone.com/data/sales/ko/EM-AI00S_시방서_20230429.docx)
