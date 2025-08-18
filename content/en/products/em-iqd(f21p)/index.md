@@ -160,3 +160,9 @@ image:
 
 ※ USB type product should be used when KVM switches are used. (PS/2 type not available)
 ※ The specification of this product may change without prior notice.
+
+## Downloads
+
+Type | File
+---- | ----
+Catalog | [EM-IQD(F21P)_CATALOG_EN_20241219.pdf](https://www.emstone.com/data/sales/en/EM-IQD(F21P)_CATALOG_EN_20241219.pdf)

@@ -13,6 +13,8 @@ image:
   preview_only: true
 ---
 
+{{< toc2 >}}
+
 <div class="container">
 <div class="row justify-content-center">
 <div class="col-sm-6">
@@ -170,3 +172,9 @@ Elevator CRT, Fire / Smoke Detection, Abnormal Sound Detection, Thermal Imaging 
 
 ※ USB type product should be used when KVM switches are used. (PS/2 type not available)  
 ※ The specification of this product may change without prior notice.
+
+## Downloads
+
+Type | File
+---- | ----
+Catalog | [CMSSTATIONH_CATALOG_EN_20230110.pdf](https://www.emstone.com/data/sales/en/CMSSTATIONH_CATALOG_EN_20230110.pdf)

@@ -13,6 +13,8 @@ image:
   preview_only: true
 ---
 
+{{< toc2 >}}
+
 <div class="container">
 <div class="row justify-content-center">
 <div class="col-sm-6">
@@ -121,3 +123,9 @@ image:
 </div>
 
 ※ The specification of this product may change without prior notice.
+
+## Downloads
+
+Type | File
+---- | ----
+Catalog | [NDS-mini-4K_CATALOG_EN_20230427.pdf](https://www.emstone.com/data/sales/en/NDS-mini-4K_CATALOG_EN_20230427.pdf)

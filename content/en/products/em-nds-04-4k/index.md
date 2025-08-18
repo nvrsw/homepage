@@ -13,6 +13,8 @@ image:
   preview_only: true
 ---
 
+{{< toc2 >}}
+
 <div class="container">
 <div class="row justify-content-center">
 <div class="col-sm-6">
@@ -124,3 +126,9 @@ Ultra HD(3840x2160): 2 x 120fps</td>
 </div>
 
 ※ The specification of this product may change without prior notice.
+
+## Downloads
+
+Type | File
+---- | ----
+Catalog | [NDS-04-4K_CATALOG_EN_20230612.pdf](https://www.emstone.com/data/sales/en/NDS-04-4K_CATALOG_EN_20230612.pdf)

@@ -227,3 +227,11 @@ image:
 </tbody>
 </table>
 </div>
+
+※ The specification of this product may change without prior notice.
+
+## Downloads
+
+Type | File
+---- | ----
+Catalog | [AI-SERVER-mini_CATALOG_EN_20250811.pdf](https://www.emstone.com/data/sales/en/AI-SERVER-mini_CATALOG_EN_20250811.pdf)
