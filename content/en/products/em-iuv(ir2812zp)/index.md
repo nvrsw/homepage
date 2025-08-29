@@ -6,7 +6,7 @@ authors: []
 tags: []
 categories: [ "camera" ]
 draft: false
-weight: 5009
+weight: 5040
 
 # Featured Image:
 image:
