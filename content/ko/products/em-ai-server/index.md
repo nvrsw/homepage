@@ -4,7 +4,7 @@ subtitle: "지능형 영상분석 서버 (LPR, Flame & Smoke)"
 summary: "지능형 영상분석 서버 (LPR, Flame & Smoke)"
 authors: []
 tags: ["AI"]
-categories: [ "etc" ]
+categories: [ "aiserver" ]
 draft: false
 weight: 5022
 

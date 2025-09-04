@@ -66,8 +66,8 @@
 
 [[main]]
   parent = "products"
-  name = "ETC"
-  url = "categories/etc/"
+  name = "AI Server"
+  url = "categories/aiserver/"
   weight = 60
 
 [[main]]

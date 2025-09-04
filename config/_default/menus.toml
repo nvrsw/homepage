@@ -66,21 +66,27 @@
 
 [[main]]
   parent = "products"
+  name = "AI Server"
+  url = "categories/aiserver/"
+  weight = 60  
+
+[[main]]
+  parent = "products"
   name = "Camera"
   url = "categories/camera/"
-  weight = 60  
+  weight = 70  
 
 [[main]]
   parent = "products"
   name = "ETC"
   url = "categories/etc/"
-  weight = 70
+  weight = 80
 
   [[main]]
   parent = "products"
   name = "TTA 인증제품"
   url = "categories/tta/"
-  weight = 80
+  weight = 90
 
 [[main]]
   parent = "solutions"

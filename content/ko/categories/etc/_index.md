@@ -1,6 +1,6 @@
 ---
 title: "ETC"
-subtitle: "AI BOX / PoE Amp / Etc"
+subtitle: ""
 
 # View Mode (1 = List, 2 = Compact, 3 = Card)
 view: 3

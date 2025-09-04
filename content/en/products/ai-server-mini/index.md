@@ -4,7 +4,7 @@ subtitle: "AI Analysis Server mini"
 summary: "AI Analysis Server mini"
 authors: []
 tags: []
-categories: [ "etc" ]
+categories: [ "aiserver" ]
 draft: false
 weight: 6010
 

@@ -4,7 +4,7 @@ subtitle: "AI Analysis Server Slim"
 summary: "AI Analysis Server Slim"
 authors: []
 tags: []
-categories: [ "etc" ]
+categories: [ "aiserver" ]
 draft: false
 weight: 6020
 
