@@ -268,5 +268,5 @@ image:
 사양서 | [T2_사양서_20240717.xlsx](https://www.emstone.com/data/sales/ko/T2_사양서_20240717.xlsx)
 시방서 | [T2_F64_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/T2_F64_시방서_20240717.docx)<br>[T2_F128_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/T2_F128_시방서_20240717.docx)
 출하검사 결과 성적서 | [T2_F64_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/T2_F64_출하검사결과성적서_20201022.xlsx)<br>[T2_F128_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/T2_F128_출하검사결과성적서_20201022.xlsx)
-인증서 | [T2_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/T2_방송통신기자재등의적합등록필증_20201022.pdf)<br>[T2_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf](https://www.emstone.com/data/sales/ko/T2_방송통신기자재등(전자파적합성)시험성적서_20201022.pdf)
+인증서 | [T2_방송통신기자재등의적합등록필증_20201022.pdf](https://www.emstone.com/data/sales/ko/T2_방송통신기자재등의적합등록필증_20201022.pdf)
 매뉴얼 | [NVR_간편매뉴얼_20231107.pdf](https://www.emstone.com/data/sales/ko/NVR_간편매뉴얼_20231107.pdf)<br>[NVR_사용자매뉴얼_20250414.pdf](https://www.emstone.com/data/sales/ko/NVR_사용자매뉴얼_20250414.pdf)<br>[NVR_업그레이드매뉴얼_20230728.pdf](https://www.emstone.com/data/sales/ko/NVR_업그레이드매뉴얼_20230728.pdf)

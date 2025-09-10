@@ -220,5 +220,5 @@ image:
 사양서 | [EM-IQV(IR36LD)_사양서_20240527.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_사양서_20240527.xlsx)
 시방서 | [EM-IQV(IR36LD)_시방서_20230718.docx](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_시방서_20230718.docx)
 출하검사 결과 성적서 | [EM-IQV(IR36LD)_출하검사성적서_20230718.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_출하검사성적서_20230718.xlsx)
-인증서 | [EM-IQV(IR36LD)_방송통신기자재등의적합등록필증_20230718.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_방송통신기자재등의적합등록필증_20230718.pdf)<br>[EM-IQV(IR36LD)_방송통신기자재등(전자파적합성)시험성적서_20230718.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_방송통신기자재등(전자파적합성)시험성적서_20230718.pdf)<br>[EM-IQV(IR36LD)_방송통신기자재등(유선영상정보처리기기)시험성적서_20230718.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_방송통신기자재등(유선영상정보처리기기)시험성적서_20230718.pdf)
+인증서 | [EM-IQV(IR36LD)_방송통신기자재등의적합등록필증_20230718.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR36LD)_방송통신기자재등의적합등록필증_20230718.pdf)
 소프트웨어 | [EMSTONE_D_Config_tool_20231209.zip](https://www.emstone.com/data/sales/ko/EMSTONE_D_Config_tool_20231209.zip)
