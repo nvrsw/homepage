@@ -34,15 +34,15 @@ image:
       - Linux
         - 64비트: [cms-2.1.25.8.27-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.25.8.27-linux-x86_64.tar.gz)
 
-  - **2.1.23.8.8**
-    - 버전: **2.1.23.8.8** (2023.08.08)
+  - **TTA 2.1.23.8.8**
+    - 버전: **TTA 2.1.23.8.8** (2023.08.08)
     - 다운로드
       - Windows
         - 32비트: [cms-2.1.23.8.8-win32.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.8.8-win32.exe)
         - 64비트: [cms-2.1.23.8.8-win64.exe](https://www.emstone.com/data/tta/cms/cms-2.1.23.8.8-win64.exe)
 
-  - **2.1.20.6.23**
-    - 버전: **2.1.20.6.23** (2020.06.23)
+  - **TTA 2.1.20.6.23**
+    - 버전: **TTA 2.1.20.6.23** (2020.06.23)
     - 다운로드
       - Windows
         - 32비트: [cms-2.1.20.6.23-win32.exe](https://www.emstone.com/data/tta/cms/cms-2.1.20.6.23-win32.exe)
@@ -91,8 +91,8 @@ image:
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso-sha256.txt)
     - 모델: EM-25B2-T, EM-16B2-T, EM-09B2-T, EM-04B2-T, EM-25B2, EM-16B2, EM-09B2, EM-04B2 -->
 
-  - **2.9.24.1.31 (2024-01-31)**
-    - 버전: **2.9.24.1.31** (2024-01-31)
+  - **TTA 2.9.24.1.31 (2024-01-31)**
+    - 버전: **TTA 2.9.24.1.31** (2024-01-31)
     - 다운로드: [nvr-2.9.24.1.31.iso](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2024/nvr-2.9.24.1.31.iso-sha256.txt)
     - 모델 : <br>
@@ -104,27 +104,27 @@ image:
       EM-128B8V2, EM-64B8V2, EM-36B8V2, EM-25B8V2, EM-16B8V2<br>
       EM-128B16V2, EM-64B16V2, EM-36B16V2<br>
       EM-128B24V2, EM-64B24V2, EM-36B24V2
-  - **EM-128B8H**
-    - 버전: **2.9.23.8.8** (2023-08-08)
+  - **TTA EM-128B8H**
+    - 버전: **TTA 2.9.23.8.8** (2023-08-08)
     - 다운로드: [nvr-2.9.23.8.8.iso](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso-sha256.txt)
-    - 버전: **2.9.19.4.10** (2019-04-10)
+    - 버전: **TTA 2.9.19.4.10** (2019-04-10)
     - 다운로드: [nvr-2.9.19.4.10.iso](https://www.emstone.com/data/tta/emstone/2019/nvr-2.9.19.4.10.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2019/nvr-2.9.19.4.10.iso-sha256.txt)
     - 모델: EM-128B8H, EM-100B8H, EM-81B8H, EM-64B8F, EM-49B8F, EM-36B8, EM-25B8, EM-16B8
-  - **EM-128B16H**
-    - 버전: **2.9.23.8.8** (2023-08-08)
+  - **TTA EM-128B16H**
+    - 버전: **TTA 2.9.23.8.8** (2023-08-08)
     - 다운로드: [nvr-2.9.23.8.8.iso](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso-sha256.txt)
-    - 버전: **2.9.21.9.13** (2021-09-13)
+    - 버전: **TTA 2.9.21.9.13** (2021-09-13)
     - 다운로드: [nvr-2.9.21.9.13.iso](https://www.emstone.com/data/tta/emstone/2021/nvr-2.9.21.9.13.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2021/nvr-2.9.21.9.13.iso-sha256.txt)
     - 모델: EM-128B16H, EM-04B16, EM-09B16, EM-16B16, EM-25B16, EM-36B16, EM-49B16F, EM-64B16F, EM-81B16H, EM-100B16H
-  - **EM-25B2**
-    - 버전: **2.9.23.8.8** (2023-08-08)
+  - **TTA EM-25B2**
+    - 버전: **TTA 2.9.23.8.8** (2023-08-08)
     - 다운로드: [nvr-2.9.23.8.8.iso](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2023/nvr-2.9.23.8.8.iso-sha256.txt)
-    - 버전: **2.9.20.7.8** (2020-07-08)
+    - 버전: **TTA 2.9.20.7.8** (2020-07-08)
     - 다운로드: [nvr-2.9.20.7.8.iso](https://www.emstone.com/data/tta/emstone/2020/nvr-2.9.20.7.8.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2020/nvr-2.9.20.7.8.iso-sha256.txt)
     - 모델: EM-25B2, EM-16B2, EM-09B2, EM-04B2
@@ -163,7 +163,7 @@ image:
 - 운영체제: [Windows](https://www.emstone.com/data/vms/mapedit/vms-mapedit-1.3.0-win-ia32-20150708.zip)
 - [변경사항](https://github.com/nvrsw/mapedit/blob/master/ChangeLog.md)
 
-## 카메라
+## TTA 카메라
 
 - **NT28_SWU1_V1.0.0.15**
   - 펌웨어: [nt28_fw_all.dat](https://www.emstone.com/data/tta/camera/nt28_fw_all.dat)
