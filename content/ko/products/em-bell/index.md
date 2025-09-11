@@ -127,4 +127,4 @@ image:
 외관도 | [EM-E-BELL_외관도_20210806.dwg](https://www.emstone.com/data/sales/ko/EM-E-BELL_외관도_20210806.dwg)<br>[EM-E-BELL_외관도_20210806.png](https://www.emstone.com/data/sales/ko/EM-E-BELL_외관도_20210806.png)
 사양서 | [EM-E-BELL_사양서_20210806.xlsx](https://www.emstone.com/data/sales/ko/EM-E-BELL_사양서_20210806.xlsx)
 시방서 | [EM-E-BELL_시방서_20210806.docx](https://www.emstone.com/data/sales/ko/EM-E-BELL_시방서_20210806.docx)<br>[EM-E-BELL-VOICE_시방서_20210806.docx](https://www.emstone.com/data/sales/ko/EM-E-BELL-VOICE_시방서_20210806.docx)
-인증서 | [EM-E-BELL_방송통신기자재등의적합등록필증_20210806.pdf](https://www.emstone.com/data/sales/ko/EM-E-BELL_방송통신기자재등의적합등록필증_20210806.pdf)
+인증서 | [EM-E-BELL_방송통신기자재등의적합등록필증_20210806.pdf](https://www.emstone.com/data/sales/ko/EM-E-BELL_방송통신기자재등의적합등록필증_20210806.pdf)<br>EM-E-BELL_방송통신기자재등(전자파적합성)시험성적서_20210806.pdf

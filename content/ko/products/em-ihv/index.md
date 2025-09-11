@@ -236,6 +236,6 @@ image:
 사양서 | [IHV_사양서_20230404.xlsx](https://www.emstone.com/data/sales/ko/IHV_사양서_20230404.xlsx)
 시방서 | [IHV(IRF36)_시방서_20230404.docx](https://www.emstone.com/data/sales/ko/IHV(IRF36)_시방서_20230404.docx)<br>[IHV(IR2812Z)_시방서_20230404.docx](https://www.emstone.com/data/sales/ko/IHV(IR2812Z)_시방서_20230404.docx)
 출하검사 결과 성적서 | [IHV(IRF36)_출하검사성적서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IHV(IRF36)_출하검사성적서_20200313.xlsx)<br>[IHV(IR2812Z)_출하검사성적서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IHV(IR2812Z)_출하검사성적서_20200313.xlsx)
-인증서 | [IHV_방송통신기자재등의적합등록필증_20191030.pdf](https://www.emstone.com/data/sales/ko/IHV_방송통신기자재등의적합등록필증_20191030.pdf)
+인증서 | [IHV_방송통신기자재등의적합등록필증_20191030.pdf](https://www.emstone.com/data/sales/ko/IHV_방송통신기자재등의적합등록필증_20191030.pdf)<br>IHV_방송통신기자재등(전자파적합성)시험성적서_20180906.pdf<br>IHV_방수방진(IP66)시험성적서_20211201.pdf
 매뉴얼 | [EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf)<br>[EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf)<br>[EM-IHD_IP_Camera_User_Manual_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_User_Manual_20200313.pdf)
 소프트웨어 | [EM-IHD_IP_Manager_1.4.8.zip](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Manager_1.4.8.zip)

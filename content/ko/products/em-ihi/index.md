@@ -239,6 +239,6 @@ image:
 사양서 | [IHI_사양서_20250227.xlsx](https://www.emstone.com/data/sales/ko/IHI_사양서_20250227.xlsx)
 시방서 | [IHI(IR0550Z)_시방서_20200313.docx](https://www.emstone.com/data/sales/ko/IHI(IR0550Z)_시방서_20200313.docx)<br>[IHI(IR5151Z)_시방서_20220728.docx](https://www.emstone.com/data/sales/ko/IHI(IR5151Z)_시방서_20220728.docx)
 출하검사 결과 성적서 | [IHI(IR0550Z)_출하검사성적서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IHI(IR0550Z)_출하검사성적서_20200313.xlsx)<br>[IHI(IR5151Z)_출하검사성적서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IHI(IR5151Z)_출하검사성적서_20200313.xlsx)
-인증서 |[IHI(IR0550Z)_방송통신기자재등의적합등록필증_20190826.pdf](https://www.emstone.com/data/sales/ko/IHI(IR0550Z)_방송통신기자재등의적합등록필증_20190826.pdf)<br>[IHI(IR5151Z)_방송통신기자재등의적합등록필증_20190826.pdf](https://www.emstone.com/data/sales/ko/IHI(IR5151Z)_방송통신기자재등의적합등록필증_20190826.pdf)
+인증서 |[IHI(IR0550Z)_방송통신기자재등의적합등록필증_20190826.pdf](https://www.emstone.com/data/sales/ko/IHI(IR0550Z)_방송통신기자재등의적합등록필증_20190826.pdf)<br>IHI(IR0550Z)_방송통신기자재등(전자파적합성)시험성적서_20190821.pdf<br>IHI(IR0550Z)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190821.pdf<br>IHI(IR0550Z)_방수방진(IP66)시험성적서_20211201.pdf<br>[IHI(IR5151Z)_방송통신기자재등의적합등록필증_20190826.pdf](https://www.emstone.com/data/sales/ko/IHI(IR5151Z)_방송통신기자재등의적합등록필증_20190826.pdf)<br>IHI(IR5151Z)_방송통신기자재등(전자파적합성)시험성적서_20190823.pdf<br>IHI(IR5151Z)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190826.pdf
 매뉴얼 | [EM-IHI(IR0550Z)_CAMERA_매뉴얼.pdf](https://www.emstone.com/data/sales/ko/EM-IHI(IR0550Z)_CAMERA_매뉴얼.pdf)
 소프트웨어 | [EM-IHD_IP_Manager_1.4.8.zip](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Manager_1.4.8.zip)

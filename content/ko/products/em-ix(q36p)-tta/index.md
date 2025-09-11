@@ -204,5 +204,5 @@ image:
 사양서 | [EM-IX(Q36P)_사양서_20250430.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_사양서_20250430.xlsx)
 시방서 | [EM-IX(Q36P)_시방서_20250430.docx](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_시방서_20250430.docx)
 출하검사 결과 성적서 | [EM-IX(Q36P)_출하시험성적서_20250430.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_출하시험성적서_20250430.xlsx)
-인증서 | [EM-IX(Q36P)-방송통신기자재등의적합등록필증_20250131.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)-방송통신기자재등의적합등록필증_20250131.pdf)<br>[EM-IX(Q36P)_TTA인증서_20250527.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_TTA인증서_20250527.pdf)
+인증서 | [EM-IX(Q36P)-방송통신기자재등의적합등록필증_20250131.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)-방송통신기자재등의적합등록필증_20250131.pdf)<br>EM-IX(Q36P)-방송통신기자재등(전자파적합성)시험성적서_20250124.pdf<br>EM-IX(Q36P)-방송통신기자재등(유선영상정보처리기기)시험성적서_20250124.pdf<br>[EM-IX(Q36P)_TTA인증서_20250527.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_TTA인증서_20250527.pdf)<br>EM-IX(Q36P)_TTA시험성적서_20250527.pdf
 소프트웨어 | [EMSTONE_P_IPInstaller.zip](https://www.emstone.com/data/sales/ko/EMSTONE_P_IPInstaller.zip)
