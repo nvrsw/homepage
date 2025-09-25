@@ -207,4 +207,5 @@ image:
 출하검사 결과 성적서 | [EM-IX(Q36P)_출하시험성적서_20250430.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_출하시험성적서_20250430.xlsx)
 인증서 | [EM-IX(Q36P)-방송통신기자재등의적합등록필증_20250131.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)-방송통신기자재등의적합등록필증_20250131.pdf)<br>EM-IX(Q36P)-방송통신기자재등(전자파적합성)시험성적서_20250124.pdf<br>EM-IX(Q36P)-방송통신기자재등(유선영상정보처리기기)시험성적서_20250124.pdf<br>[EM-IX(Q36P)_TTA인증서_20250527.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_TTA인증서_20250527.pdf)<br>EM-IX(Q36P)_TTA시험성적서_20250527.pdf
 소프트웨어 | [EMSTONE_P_IPInstaller.zip](https://www.emstone.com/data/sales/ko/EMSTONE_P_IPInstaller.zip)
+펌웨어 | [EM_IX(Q36P)_IPCAM_PD_V6.1.0.26_20250902_16_r3381.bin](https://www.emstone.com/data/sales/ko/EM_IX(Q36P)_IPCAM_PD_V6.1.0.26_20250902_16_r3381.bin)
 TTA펌웨어 | [EM-IX(Q36P)_TTA_IPCAM_PD_V6.1.1.24_20250224_13_r3003.bin](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_TTA_IPCAM_PD_V6.1.1.24_20250224_13_r3003.bin)
