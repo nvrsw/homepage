@@ -63,7 +63,7 @@ image:
 <tr>
 <th rowspan="7">Camera</th>
 <th>Image Sensor</th>
-<td>11/1.8” 4Megapixel CMOS</td>
+<td>1/1.8” 4Megapixel CMOS</td>
 </tr>
 <tr>
 <th>Max. Resolution</th>
