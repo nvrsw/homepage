@@ -1,5 +1,5 @@
 ---
-title: "EM-CMS Station H"
+title: "CMS Station H"
 subtitle: "Central Monitoring Server"
 summary: "Central Monitoring Server"
 authors: []
@@ -62,7 +62,7 @@ image:
 <thead>
 <tr>
 <th colspan="2">Model</th>
-<th>EM-CMS Station H</th>
+<th>CMS Station H</th>
 </tr>
 </thead>
 <tbody>

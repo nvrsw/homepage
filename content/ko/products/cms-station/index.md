@@ -62,7 +62,7 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>EM-CMS Station H</th>
+<th>CMS Station H</th>
 </tr>
 </thead>
 <tbody>
