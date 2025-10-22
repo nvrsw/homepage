@@ -5,7 +5,7 @@ summary: "5MP Thermal Camera"
 authors: []
 tags: []
 categories: [ "tta" ]
-draft: false
+draft: true
 weight: 6035
 
 # Featured Image:
