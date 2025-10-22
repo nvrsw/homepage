@@ -204,4 +204,4 @@ image:
 시방서 | [EM-IX(Q2713P)_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/EM-IX(Q2713P)_시방서_20250227.docx)
 출하검사 결과 성적서 | [EM-IX(Q2713P)_출하검사성적서_20250227.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q2713P)_출하검사성적서_20250227.xlsx)
 인증서 | [EM-IX(Q2713P)_방송통신기자재등의적합등록필증_20241025.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q2713P)_방송통신기자재등의적합등록필증_20241025.pdf)<br>EM-IX(Q2713P)_방송통신기자재등(전자파적합성)시험성적서_20241023.pdf<br>EM-IX(Q2713P)_방송통신기자재등(유선영상정보처리기기)시험성적서_20241023.pdf<br>EM-IX(Q2713P)_공급자적합성확인신고서_20241121.pdf<br>[EM-IX(Q2713P)_TTA인증서_20241129.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q2713P)_TTA인증서_20241129.pdf)<br>EM-IX(Q2713P)_TTA시험성적서_20241108.pdf
-소프트웨어 | [EMSTONE_P_IPInstaller.zip](https://www.emstone.com/data/sales/ko/EMSTONE_P_IPInstaller.zip)
+소프트웨어 | [BatchX.zip](https://www.emstone.com/data/sales/ko/BatchX.zip)

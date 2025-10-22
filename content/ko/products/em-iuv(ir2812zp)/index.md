@@ -168,5 +168,5 @@ image:
 시방서 | [EM-IUV(IR2812ZP)_시방서_20250826.docx](https://www.emstone.com/data/sales/ko/EM-IUV(IR2812ZP)_시방서_20250826.docx)
 출하검사 결과 성적서 | [EM-IUV(IR2812ZP)_출하검사성적서_20250826.xlsx](https://www.emstone.com/data/sales/ko/EM-IUV(IR2812ZP)_출하검사성적서_20250826.xlsx)
 인증서 | [EM-IUV(IR2812ZP)_방송통신기자재등의적합등록필증_20250514.pdf](https://www.emstone.com/data/sales/ko/EM-IUV(IR2812ZP)_방송통신기자재등의적합등록필증_20250514.pdf)<br>EM-IUV(IR2812ZP)_방송통신기자재등(전자파적합성)시험성적서_20250514.pdf<br>EM-IUV(IR2812ZP)_방송통신기자재등(유선영상정보처리기기)시험성적서_20250514.pdf
-소프트웨어 | [EMSTONE_P_IPInstaller.zip](https://www.emstone.com/data/sales/ko/EMSTONE_P_IPInstaller.zip)
+소프트웨어 | [BatchX.zip](https://www.emstone.com/data/sales/ko/BatchX.zip)
 펌웨어 | [EM-IUV(IR2812ZP)_004QV056_V2.10.6.R22941.20250718.upf](https://www.emstone.com/data/sales/ko/EM-IUV(IR2812ZP)_004QV056_V2.10.6.R22941.20250718.upf)

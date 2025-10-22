@@ -213,5 +213,5 @@ triggering by specified target types (human and vehicle)), Fast Moving, Video Sh
 시방서 | [EM-IQD(IR28P)_시방서_20250407.docx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28P)_시방서_20250407.docx)
 출하검사 결과 성적서 | [EM-IQD(IR28P)_출하검사성적서_20250407.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28P)_출하검사성적서_20250407.xlsx)
 인증서 | [EM-IQD(IR28P)_방송통신기자재등의적합등록필증_20250122.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28P)_방송통신기자재등의적합등록필증_20250122.pdf)<br>EM-IQD(IR28P)_방송통신기자재등(전자파적합성)시험성적서_20241230.pdf<br>EM-IQD(IR28P)_방송통신기자재등(유선영상정보처리기기)시험성적서_20241230.pdf
-소프트웨어 | [EMSTONE_P_IPInstaller.zip](https://www.emstone.com/data/sales/ko/EMSTONE_P_IPInstaller.zip)
+소프트웨어 | [BatchX.zip](https://www.emstone.com/data/sales/ko/BatchX.zip)
 펌웨어 | [EM-IQD(IR28P)_QV-IPC-714557G1_004QV056_V2.10.6.R18883.20250418.upf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28P)_QV-IPC-714557G1_004QV056_V2.10.6.R18883.20250418.upf)
