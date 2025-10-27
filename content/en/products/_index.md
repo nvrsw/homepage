@@ -12,5 +12,5 @@ cascade:
     image: "product-header.jpg"
 ---
 
-><a href="https://www.emstone.com/data/sales/en/[EN]2025 EMSTONE Simple Catalog(high)_20241202.pdf" target=_blank>2025 EMSTONE Simple Catalog(high)</a><br>
-><a href="https://www.emstone.com/data/sales/en/[EN]2025 EMSTONE Simple Catalog(low)_20241202.pdf" target=_blank>2025 EMSTONE Simple Catalog(low)</a>
+><a href="https://www.emstone.com/data/sales/en/2026_EMSTONE_Simple_Catalog_EN_high_20251025.pdf" target=_blank>2026 EMSTONE Simple Catalog(high)</a><br>
+><a href="https://www.emstone.com/data/sales/en/2026_EMSTONE_Simple_Catalog_EN_low_20251025.pdf" target=_blank>2026 EMSTONE Simple Catalog(low)</a>
