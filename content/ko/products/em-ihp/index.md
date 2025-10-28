@@ -257,5 +257,5 @@ image:
 사양서 | [IHP_사양서_20220615.xlsx](https://www.emstone.com/data/sales/ko/IHP_사양서_20220615.xlsx)
 시방서 | [IHP(IR12x)_시방서_20220729.docx](https://www.emstone.com/data/sales/ko/IHP(IR12x)_시방서_20220729.docx)<br>[IHP(IR12xP)_시방서_20220729.docx](https://www.emstone.com/data/sales/ko/IHP(IR12xP)_시방서_20220729.docx)
 출하검사 결과 성적서 | [IHP(IR12x)_출하검사성적서_20220615.xlsx](https://www.emstone.com/data/sales/ko/IHP(IR12x)_출하검사성적서_20220615.xlsx)<br>[IHP(IR12xP)_출하검사성적서_20220615.xlsx](https://www.emstone.com/data/sales/ko/IHP(IR12xP)_출하검사성적서_20220615.xlsx)
-인증서 | [IHP_방송통신기자재등의적합등록필증_20191210.pdf](https://www.emstone.com/data/sales/ko/IHP_방송통신기자재등의적합등록필증_20191210.pdf)<br>IHP_방송통신기자재등(전자파적합성)시험성적서_20190909.pdf<br>IHP_방송통신기자재등(유선-영상정보처리기기)시험성적서_20190909.pdf
+인증서 | [IHP_방송통신기자재등의적합등록필증_20191210.pdf](https://www.emstone.com/data/sales/ko/IHP_방송통신기자재등의적합등록필증_20191210.pdf)
 소프트웨어 | [EM-IHP_Smart_Tools_2.3.0.3_Setup.zip](https://www.emstone.com/data/sales/ko/EM-IHP_Smart_Tools_2.3.0.3_Setup.zip)

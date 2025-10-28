@@ -286,4 +286,4 @@ image:
 사양서 | [2UB8V2+_사양서_20241128.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2%2B_사양서_20241128.xlsx)
 시방서 | [64B8V2+_시방서_20250802.docx](https://www.emstone.com/data/sales/ko/64B8V2%2B_시방서_20250802.docx)
 출하검사 결과 성적서 | [2UB8V2_EM-64B8V2+_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-64B8V2%2B_출하검사결과성적서_20241015.xlsx)
-인증서 | [2UB8V2(36-64-128CH)_방송통신기자재등의적합등록필증_20250731.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_방송통신기자재등의적합등록필증_20250731.pdf)<br>2UB8V2(36-64-128CH)_방송통신기자재등(전자파적합성)시험성적서_20240520.pdf<br>2UB8V2(36-64-128CH)_방송통신기자재등(유선-영상정보처리기기)시험성적서_20240520.pdf
+인증서 | [2UB8V2(36-64-128CH)_방송통신기자재등의적합등록필증_20250731.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_방송통신기자재등의적합등록필증_20250731.pdf)

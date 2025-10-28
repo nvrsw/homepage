@@ -242,6 +242,6 @@ image:
 사양서 | [EM-IQD(IR2812Z)_사양서_20240625.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(IR2812Z)_사양서_20240625.xlsx)
 시방서 |[EM-IQD(IR2812Z)_시방서_20240625.docx](https://www.emstone.com/data/sales/ko/EM-IQD(IR2812Z)_시방서_20240625.docx)
 출하검사 결과 성적서 | [EM-IQD(IR2812Z)_출하검사성적서_20240625.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(IR2812Z)_출하검사성적서_20240625.xlsx)
-인증서 | [EM-IQD(IR2812Z)_방송통신기자재등의적합등록필증_20191030.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR2812Z)_방송통신기자재등의적합등록필증_20191030.pdf)<br>[EM-IQD(IR2812Z)_TTA인증서_20230728.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR2812Z)_TTA인증서_20230728.pdf)<br>EM-IQD(IR2812Z)_TTA시험성적서_20230718.pdf
+인증서 | [EM-IQD(IR2812Z)_방송통신기자재등의적합등록필증_20191030.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR2812Z)_방송통신기자재등의적합등록필증_20191030.pdf)<br>[EM-IQD(IR2812Z)_TTA인증서_20230728.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR2812Z)_TTA인증서_20230728.pdf)
 매뉴얼 | [EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_Quick_Manual_설명서_20200313.pdf)<br>[EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_카메라_사용자매뉴얼_20200313.pdf)<br>[EM-IHD_IP_Camera_User_Manual_20200313.pdf](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Camera_User_Manual_20200313.pdf)
 소프트웨어 | [EM-IHD_IP_Manager_1.4.8.zip](https://www.emstone.com/data/sales/ko/EM-IHD_IP_Manager_1.4.8.zip)

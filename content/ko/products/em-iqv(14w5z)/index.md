@@ -192,7 +192,7 @@ image:
 사양서 | [EM-IQV(14W5Z)_사양서_20250421.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_사양서_20250421.xlsx)
 시방서 | [EM-IQV(14W5Z)_시방서_20250421.docx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_시방서_20250421.docx)
 출하검사 결과 성적서 | [EM-IQV(14W5Z)_출하검사성적서_20240723.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_출하검사성적서_20240723.xlsx)
-인증서 | [EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240619.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240619.pdf)<br>EM-IQV(14W5Z)_방송통신기자재등(전자파적합성)시험성적서_20240617.pdf<br>EM-IQV(14W5Z)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240617.pdf<br>EM-IQV(14W5Z)_방수방진(IP66등급)시험성적서_20241023.pdf<br>EM-IQV(14W5Z)_정부조달물품표준규격(화질내환경)시험성적서_20241030.pdf<br>[EM-IQV(14W5Z)_TTA인증서_20241018.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_TTA인증서_20241018.pdf)<br>EM-IQV(14W5Z)_TTA시험성적서_20241015.pdf
+인증서 | [EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240619.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240619.pdf)<br>[EM-IQV(14W5Z)_TTA인증서_20241018.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_TTA인증서_20241018.pdf)
 소프트웨어 | [BatchX.zip](https://www.emstone.com/data/sales/ko/BatchX.zip)
 펌웨어 | [EM-IQV(14W5Z)_IPCAM_PD_V6.1.0.22_20250415_09_r3097_ISP_V40A3.bin](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_IPCAM_PD_V6.1.0.22_20250415_09_r3097_ISP_V40A3.bin)
 TTA펌웨어 | [EM-IQV(14W5Z)_TTA_IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_TTA_IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin)

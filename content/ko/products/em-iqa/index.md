@@ -236,5 +236,5 @@ IP67 등급의 방수 / 방진, IK10 등급의 파손 방지를 지원하며 카
 사양서 | [IQA_사양서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IQA_사양서_20200313.xlsx)
 시방서 | [IQA(IRF16)_시방서_20220728.docx](https://www.emstone.com/data/sales/ko/IQA(IRF16)_시방서_20220728.docx)
 출하검사 결과 성적서 | [IQA(IRF16)_출하검사성적서_20200313.xlsx](https://www.emstone.com/data/sales/ko/IQA(IRF16)_출하검사성적서_20200313.xlsx)
-인증서 | [IQA_방송통신기자재등의적합등록필증_20240724.pdf](https://www.emstone.com/data/sales/ko/IQA_방송통신기자재등의적합등록필증_20240724.pdf)<br>IQA_방송통신기자재등(전자파적합성)시험성적서_20191030.pdf<br>IQA_방송통신기자재등(유선-영상정보처리기기)시험성적서_20191029.pdf
+인증서 | [IQA_방송통신기자재등의적합등록필증_20240724.pdf](https://www.emstone.com/data/sales/ko/IQA_방송통신기자재등의적합등록필증_20240724.pdf)
 소프트웨어 | [EM-IHP_Smart_Tools_2.3.0.3_Setup.zip](https://www.emstone.com/data/sales/ko/EM-IHP_Smart_Tools_2.3.0.3_Setup.zip)

@@ -168,6 +168,6 @@ image:
 사양서 | [EM-IQD(F21P)_사양서_20250227.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_사양서_20250227.xlsx)
 시방서 | [EM-IQD(F21P)_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_시방서_20250227.docx)
 출하검사 결과 성적서 | [EM-IQD(F21P)_출하검사성적서_20250227.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_출하검사성적서_20250227.xlsx)
-인증서 | [EM-IQD(F21P)_방송통신기자재등의적합등록필증_20240619.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_방송통신기자재등의적합등록필증_20240619.pdf)<br>EM-IQD(F21P)_방송통신기자재등(전자파적합성)시험성적서_20240614.pdf<br>EM-IQD(F21P)_방송통신기자재등(유선영상정보처리기기)시험성적서_20240614.pdf
+인증서 | [EM-IQD(F21P)_방송통신기자재등의적합등록필증_20240619.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_방송통신기자재등의적합등록필증_20240619.pdf)
 소프트웨어 | [BatchX.zip](https://www.emstone.com/data/sales/ko/BatchX.zip)
 펌웨어 | [EM-IQD(F21P)_QV-IPC-714557G1_004QV056_V2.10.6.R18883.20250418.upf](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_QV-IPC-714557G1_004QV056_V2.10.6.R18883.20250418.upf)

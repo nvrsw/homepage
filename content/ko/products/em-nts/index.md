@@ -145,5 +145,5 @@ image:
 사양서 | [NTS_사양서_20240725.xlsx](https://www.emstone.com/data/sales/ko/NTS_사양서_20240725.xlsx)
 시방서 | [NTS_시방서_20240725.docx](https://www.emstone.com/data/sales/ko/NTS_시방서_20240725.docx)
 출하검사 결과 성적서 | [NTS_출하검사결과성적서_20210224.xlsx](https://www.emstone.com/data/sales/ko/NTS_출하검사결과성적서_20210224.xlsx)
-인증서 | [NTS_방송통신기자재등의적합등록필증_20210224.pdf](https://www.emstone.com/data/sales/ko/NTS_방송통신기자재등의적합등록필증_20210224.pdf)<br>NTS_방송통신기자재등(전자파적합성)시험성적서_20210224.pdf
+인증서 | [NTS_방송통신기자재등의적합등록필증_20210224.pdf](https://www.emstone.com/data/sales/ko/NTS_방송통신기자재등의적합등록필증_20210224.pdf)
 매뉴얼 | [NTS_사용자매뉴얼_20221220.pdf](https://www.emstone.com/data/sales/ko/NTS_사용자매뉴얼_20221220.pdf)
