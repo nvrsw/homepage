@@ -55,7 +55,7 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<!--<th>EM-IQV(IR28P)</th>-->
+<th>EM-IQV(IR28P)</th>
 <th>EM-IQV(IR36P)</th>
 </tr>
 </thead>
@@ -96,12 +96,12 @@ image:
 </tr>
 <tr>
 <th>Focal Length</th>
-<!--<td>2.8 mm</td>-->
+<td>2.8 mm</td>
 <td>3.6 mm</td>
 </tr>
 <tr>
 <th>Field of View</th>
-<!--<td>H : 110˚ / V : 60˚ / D : 133˚</td>-->
+<td>H : 110˚ / V : 60˚ / D : 133˚</td>
 <td>H : 95˚ / V : 48˚ / D : 112˚</td>
 </tr>
 <tr>
