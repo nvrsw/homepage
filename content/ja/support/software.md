@@ -59,9 +59,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - インストレーション・プログラム (*アップグレードのみ/ライセンスキーが必要*)
   - **最新バージョン**
-    - バージョン: **2.9.25.11.19** (2025-11-19)
-    - ダウンロード: [nvr-2.9.25.11.19-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.25.11.19-emstone.iso)
-    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.25.11.19-emstone.iso-sha256.txt)
+    - バージョン: **2.9.25.11.20** (2025-11-20)
+    - ダウンロード: [nvr-2.9.25.11.20-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.25.11.20-emstone.iso)
+    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.25.11.20-emstone.iso-sha256.txt)
     - モデル: 全モデル
 - NVRバックアップ・ビデオ・プレーヤー
   - オペレーティングシステム: [Windows](https://www.emstone.com/data/nvrplay/nvrplay.exe)
