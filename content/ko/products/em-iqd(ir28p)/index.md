@@ -213,5 +213,4 @@ triggering by specified target types (human and vehicle)), Fast Moving, Video Sh
 시방서 | [EM-IQD(IR28P)_시방서_20250407.docx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28P)_시방서_20250407.docx)
 출하검사 결과 성적서 | [EM-IQD(IR28P)_출하검사성적서_20250407.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(IR28P)_출하검사성적서_20250407.xlsx)
 인증서 | [EM-IQD(IR28P)_방송통신기자재등의적합등록필증_20250122.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28P)_방송통신기자재등의적합등록필증_20250122.pdf)
-소프트웨어 | [SECU_IP_Batch_V1.0.1.zip](https://www.emstone.com/data/sales/ko/SECU_IP_Batch_V1.0.1.zip)
 펌웨어 | [EM-IQD(IR28P)_QV-IPC-714557G1_004QV056_V2.10.6.R18883.20250418.upf](https://www.emstone.com/data/sales/ko/EM-IQD(IR28P)_QV-IPC-714557G1_004QV056_V2.10.6.R18883.20250418.upf)

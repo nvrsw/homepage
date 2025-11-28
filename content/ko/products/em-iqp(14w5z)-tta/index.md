@@ -210,5 +210,4 @@ image:
 시방서 | [EM-IQP(14W5Z)_시방서_20250421.docx](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_시방서_20250421.docx)
 출하검사 결과 성적서 | [EM-IQP(14W5Z)_출하검사성적서_20250227.xlsx](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_출하검사성적서_20250227.xlsx)
 인증서 | [EM-IQP(14W5Z)_방송통신기자재등의적합등록필증_20240619.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_방송통신기자재등의적합등록필증_20240619.pdf)<br>[EM-IQP(14W5Z)_TTA인증서_20240830.pdf](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_TTA인증서_20240830.pdf)
-소프트웨어 | [SECU_IP_Batch_V1.0.1.zip](https://www.emstone.com/data/sales/ko/SECU_IP_Batch_V1.0.1.zip)
 TTA펌웨어 | [EM-IQP(14W5Z)_TTA_IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin](https://www.emstone.com/data/sales/ko/EM-IQP(14W5Z)_TTA_IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin)
