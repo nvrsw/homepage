@@ -39,9 +39,9 @@ image:
 *NVR Viewer iOS / Android Apps*
 
 - [Change Log](/docs/nvr-viewer/ChangeLog.html)
-- iOS: Version **1.5.0** (2025-11-21)
+- iOS: Version **1.5.1** (2025-12-01)
   <a href="https://apps.apple.com/kr/app/linux-nvr-mobile-viewer/id561848768" target="_blank"><img width="100px" src="/img/app-store-badge.png" alt="Download on the App Store" class="d-inline-block py-0 my-2"></a>
-- Android: Version **1.5.0** (2025-11-21)
+- Android: Version **1.5.1** (2025-12-01)
   <a href="https://play.google.com/store/apps/details?id=com.emstone.moview" target="_blank"><img width="100px" src="/img/google-play-badge.png" alt="GET IT ON Google Play" class="d-inline-block py-0 my-2"></a>
 
 ## VMS / NVR
@@ -52,9 +52,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - Installation Program (*Upgrade only / License key required*)
   - **Latest Version**
-    - Version: **2.9.25.11.20** (2025-11-20)
-    - Download: [nvr-2.9.25.11.20-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.25.11.20-emstone.iso)
-    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.25.11.20-emstone.iso-sha256.txt)
+    - Version: **2.9.25.12.2** (2025-12-02)
+    - Download: [nvr-2.9.25.12.2-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.25.12.2-emstone.iso)
+    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.25.12.2-emstone.iso-sha256.txt)
     - Model: All Models
 - NVR Backup Video Player
   - Platform: [Windows](https://www.emstone.com/data/nvrplay/nvrplay.exe)
