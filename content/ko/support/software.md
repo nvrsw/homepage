@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 22.04 with modified Linux Kernel
 - 설치 프로그램
   - **최신 버전**
-    - 버전: **2.1.25.11.18** (2025-11-18)
+    - 버전: **2.1.25.12.5** (2025-12-05)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.25.11.18-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.11.18-win32-emstone.exe)
-        - 64비트: [cms-2.1.25.11.18-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.11.18-win64-emstone.exe)
+        - 32비트: [cms-2.1.25.12.5-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.12.5-win32-emstone.exe)
+        - 64비트: [cms-2.1.25.12.5-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.12.5-win64-emstone.exe)
       - Linux
-        - 64비트: [cms-2.1.25.11.18-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.25.11.18-linux-x86_64.tar.gz)
+        - 64비트: [cms-2.1.25.12.5-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.25.12.5-linux-x86_64.tar.gz)
 
   - **TTA 2.1.23.8.8**
     - 버전: **TTA 2.1.23.8.8** (2023.08.08)
