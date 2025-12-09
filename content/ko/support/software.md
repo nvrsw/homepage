@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 22.04 with modified Linux Kernel
 - 설치 프로그램
   - **최신 버전**
-    - 버전: **2.1.25.11.18** (2025-11-18)
+    - 버전: **2.1.25.12.5** (2025-12-05)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.25.11.18-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.11.18-win32-emstone.exe)
-        - 64비트: [cms-2.1.25.11.18-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.11.18-win64-emstone.exe)
+        - 32비트: [cms-2.1.25.12.5-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.12.5-win32-emstone.exe)
+        - 64비트: [cms-2.1.25.12.5-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.25.12.5-win64-emstone.exe)
       - Linux
-        - 64비트: [cms-2.1.25.11.18-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.25.11.18-linux-x86_64.tar.gz)
+        - 64비트: [cms-2.1.25.12.5-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.25.12.5-linux-x86_64.tar.gz)
 
   - **TTA 2.1.23.8.8**
     - 버전: **TTA 2.1.23.8.8** (2023.08.08)
@@ -53,9 +53,9 @@ image:
 *NVR Viewer iOS / Android Apps*
 
 - [Change Log](/docs/nvr-viewer/ChangeLog.html)
-- iOS: 버전 **1.5.2** (2025-12-04)
+- iOS: 버전 **1.5.3** (2025-12-05)
   <a href="https://apps.apple.com/kr/app/linux-nvr-mobile-viewer/id561848768" target="_blank"><img width="100px" src="/img/app-store-badge.png" alt="Download on the App Store" class="d-inline-block py-0 my-2"></a>
-- Android: 버전 **1.5.2** (2025-12-04)
+- Android: 버전 **1.5.3** (2025-12-05)
   <a href="https://play.google.com/store/apps/details?id=com.emstone.moview" target="_blank"><img width="100px" src="/img/google-play-badge.png" alt="GET IT ON Google Play" class="d-inline-block py-0 my-2"></a>
 
 ## VMS / NVR
@@ -66,9 +66,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.25.12.2** (2025-12-02)
-    - 설치 파일: [nvr-2.9.25.12.2-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.25.12.2-emstone.iso)
-    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.25.12.2-emstone.iso-sha256.txt)
+    - 버전: **2.9.25.12.5** (2025-12-05)
+    - 설치 파일: [nvr-2.9.25.12.5-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.25.12.5-emstone.iso)
+    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.25.12.5-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   <!--  - **EM-VMS1024**
     - 버전: **2.9.24.1.31** (2024-01-31)
@@ -135,14 +135,14 @@ image:
 
 *NVR / VMS Management Server*
 
-- 버전: **1.7.0** (2025-09-25)
+- 버전: **1.8.0** (2025-12-05)
   - Linux
-    - redback-manager_1.7.0_amd64.deb
-    - redback-manager-1.7.0-1.x86_64.rpm
-    - redback-manager_1.7.0_amd64.AppImage
+    - redback-manager_1.8.0_amd64.deb
+    - redback-manager-1.8.0-1.x86_64.rpm
+    - redback-manager_1.8.0_amd64.AppImage
   - Windows
-    - REDBACK Manager_1.7.0_x64_en-US.msi
-    - REDBACK Manager_1.7.0_x64-setup.exe
+    - REDBACK Manager_1.8.0_x64_en-US.msi
+    - REDBACK Manager_1.8.0_x64-setup.exe
 
 - [변경사항](/docs/redback/ChangeLog.html)
 
