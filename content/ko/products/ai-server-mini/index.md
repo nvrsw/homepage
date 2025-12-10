@@ -48,6 +48,19 @@ image:
 </div>
 </div>
 
+## 인증
+<div class="container">
+<div class="row align-items-top">
+<div class="col-sm-1">
+{{< figure src="kisa.png" >}} 
+</div>
+<div class="col-sm-11">
+- KISA 지능형CCTV솔루션 - REDBACK AI v1.2(L) - 배회 (KISA-IC-2025-074)<br>
+- KISA 지능형CCTV솔루션 - REDBACK AI V1.2(I) - 침입 (KISA-IC-2025-083)
+</div>
+</div>
+</div>
+
 ## 사양
 
 <div style="overflow-x: auto">
