@@ -194,4 +194,3 @@ image:
 출하검사 결과 성적서 | [EM-IQV(14W5Z)_출하검사성적서_20240723.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_출하검사성적서_20240723.xlsx)
 인증서 | [EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240619.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_방송통신기자재등의적합등록필증_20240619.pdf)<br>[EM-IQV(14W5Z)_TTA인증서_20241018.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_TTA인증서_20241018.pdf)
 TTA펌웨어 | [EM-IQV(14W5Z)_TTA_IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin](https://www.emstone.com/data/sales/ko/EM-IQV(14W5Z)_TTA_IPCAM_PD_V6.1.1.20_20240723_17_r2623.bin)
-소프트웨어 | [SECU_IP_Batch_V1.0.2.zip](https://www.emstone.com/data/sales/ko/SECU_IP_Batch_V1.0.2.zip)
