@@ -216,3 +216,4 @@ triggering by specified target types (human and vehicle)), Fast Moving, Video Sh
 시방서 | [EM-IQV(IR28P)_시방서_20250416.docx](https://www.emstone.com/data/sales/ko/EM-IQV(IR28P)_시방서_20250416.docx)<br>[EM-IQV(IR36P)_시방서_20250407.docx](https://www.emstone.com/data/sales/ko/EM-IQV(IR36P)_시방서_20250407.docx)
 출하검사 결과 성적서 | [EM-IQV(IR28P)_출하검사성적서_20250416.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR28P)_출하검사성적서_20250416.xlsx)<br>[EM-IQV(IR36P)_출하검사성적서_20250407.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR36P)_출하검사성적서_20250407.xlsx)
 인증서 | [EM-IQV(Pseries)_방송통신기자재등의적합등록필증_20250204.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(Pseries)_방송통신기자재등의적합등록필증_20250204.pdf)
+소프트웨어 | [SECU_IP_Batch_V1.0.2.zip](https://www.emstone.com/data/sales/ko/SECU_IP_Batch_V1.0.2.zip)
