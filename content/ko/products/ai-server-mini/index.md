@@ -51,10 +51,17 @@ image:
 ## 인증
 <div class="container">
 <div class="row align-items-top">
-<div class="col-sm-1">
+<div class="col-sm-2">
+{{< figure src="GS1.png" >}}
+</div>
+<div class="col-sm-10">
+- 소프트웨어품질인증 1등급<br>
+- REDBACK AI v1.2
+</div>
+<div class="col-sm-2">
 {{< figure src="kisa.png" >}} 
 </div>
-<div class="col-sm-11">
+<div class="col-sm-10">
 - KISA 지능형CCTV솔루션 - REDBACK AI v1.2(L) - 배회 (KISA-IC-2025-074)<br>
 - KISA 지능형CCTV솔루션 - REDBACK AI V1.2(I) - 침입 (KISA-IC-2025-083)<br>
 - KISA 지능형CCTV솔루션 - REDBACK AI V1.2(M) - 마케팅 (KISA-IC-2025-091)<br>
@@ -252,5 +259,5 @@ image:
 사양서 | [AI-SERVER-mini_사양서_20250428.xlsx](https://www.emstone.com/data/sales/ko/AI-SERVER-mini_사양서_20250428.xlsx)
 시방서 | [EM-AI04mini_시방서_20230429.docx](https://www.emstone.com/data/sales/ko/EM-AI04mini_시방서_20230429.docx)<br>[EM-AI08mini_시방서_20230429.docx](https://www.emstone.com/data/sales/ko/EM-AI08mini_시방서_20230429.docx)<br>[EM-AI16mini_시방서_20230429.docx](https://www.emstone.com/data/sales/ko/EM-AI16mini_시방서_20230429.docx)<br>[EM-AI00mini_시방서_20230429.docx](https://www.emstone.com/data/sales/ko/EM-AI00mini_시방서_20230429.docx)
 출하검사 결과 성적서 | [EM-AI04mini_출하검사결과성적서_20250429.xlsx](https://www.emstone.com/data/sales/ko/EM-AI04mini_출하검사결과성적서_20250429.xlsx)<br>[EM-AI08mini_출하검사결과성적서_20250429.xlsx](https://www.emstone.com/data/sales/ko/EM-AI08mini_출하검사결과성적서_20250429.xlsx)<br>[EM-AI16mini_출하검사결과성적서_20250429.xlsx](https://www.emstone.com/data/sales/ko/EM-AI16mini_출하검사결과성적서_20250429.xlsx)<br>[EM-AI00mini_출하검사결과성적서_20250429.xlsx](https://www.emstone.com/data/sales/ko/EM-AI00mini_출하검사결과성적서_20250429.xlsx)
-인증서 | [AI-SERVER-mini_방송통신기자재등의적합등록필증_20250417.pdf](https://www.emstone.com/data/sales/ko/AI-SERVER-mini_방송통신기자재등의적합등록필증_20250417.pdf)<br>[KISA지능형CCTV인증-REDBACK_AI_v1.2(L)_배회_인증서_251126.pdf](https://www.emstone.com/data/sales/ko/KISA지능형CCTV인증-REDBACK_AI_v1.2(L)_배회_인증서_251126.pdf)<br>[KISA지능형CCTV인증-REDBACK_AI_v1.2(I)_침입_인증서_251204.pdf](https://www.emstone.com/data/sales/ko/KISA지능형CCTV인증-REDBACK_AI_v1.2(I)_침입_인증서_251204.pdf)<br>[KISA지능형CCTV인증-REDBACK_AI_v1.2(M)_마케팅_인증서_251211](https://www.emstone.com/data/sales/ko/KISA지능형CCTV인증-REDBACK_AI_v1.2(M)_마케팅_인증서_251211.pdf)<br>[KISA지능형CCTV인증-REDBACK_AI_v1.2_배회침입마케팅_인증서_251217](https://www.emstone.com/data/sales/ko/KISA지능형CCTV인증-REDBACK_AI_v1.2_배회침입마케팅_인증서_251217.pdf)
+인증서 | [AI-SERVER-mini_방송통신기자재등의적합등록필증_20250417.pdf](https://www.emstone.com/data/sales/ko/AI-SERVER-mini_방송통신기자재등의적합등록필증_20250417.pdf)<br>[KISA지능형CCTV인증-REDBACK_AI_v1.2(L)_배회_인증서_251126.pdf](https://www.emstone.com/data/sales/ko/KISA지능형CCTV인증-REDBACK_AI_v1.2(L)_배회_인증서_251126.pdf)<br>[KISA지능형CCTV인증-REDBACK_AI_v1.2(I)_침입_인증서_251204.pdf](https://www.emstone.com/data/sales/ko/KISA지능형CCTV인증-REDBACK_AI_v1.2(I)_침입_인증서_251204.pdf)<br>[KISA지능형CCTV인증-REDBACK_AI_v1.2(M)_마케팅_인증서_251211](https://www.emstone.com/data/sales/ko/KISA지능형CCTV인증-REDBACK_AI_v1.2(M)_마케팅_인증서_251211.pdf)<br>[KISA지능형CCTV인증-REDBACK_AI_v1.2_배회침입마케팅_인증서_251217](https://www.emstone.com/data/sales/ko/KISA지능형CCTV인증-REDBACK_AI_v1.2_배회침입마케팅_인증서_251217.pdf)<br>[REDBACK_AI_v1.2_GS인증서(1등급).pdf](https://www.emstone.com/data/sales/ko/REDBACK_AI_v1.2_GS인증서(1등급).pdf)
 매뉴얼 | [AI-SERVER_매뉴얼_20250415.pdf](https://www.emstone.com/data/sales/ko/AI-SERVER_매뉴얼_20250415.pdf)
