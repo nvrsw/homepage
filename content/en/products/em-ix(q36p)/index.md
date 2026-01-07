@@ -34,7 +34,6 @@ image:
 - **QHD** 5Mega-pixel @30fps
 - Clear video quality with H.265 / H.264 compression
 - Thermal module installed to measure temperature to detect fire
-- Deep learning to learn data for different types of ignition forms
 - **IP66**
 
 
@@ -92,11 +91,11 @@ image:
 </tr>
 <tr>
 <th>Focal Length</th>
-<td>3.6mm, F1.6</td>
+<td>2.8mm, F1.6</td>
 </tr>
 <tr>
 <th>Field of View</th>
-<td>H : 95˚ / V : 48˚ / D : 112˚</td>
+<td>H : 102˚ / V : 56˚ / D : 121˚</td>
 </tr>
 <tr>
 <th rowspan="2">Video</th>
@@ -108,17 +107,13 @@ image:
 <td>Max. 30 fps</td>
 </tr>
 <tr>
-<th rowspan="3">Function</th>
+<th rowspan="2">Function</th>
 <th>Day/Night</th>
 <td>Auto(CDS/CAM) / Day / Night(ICR)</td>
 </tr>
 <tr>
 <th>BLC/HLC/WDR</th>
 <td>Yes</td>
-</tr>
-<tr>
-<th>Intelligence</th>
-<td>Line Crossing, Region entrance/exiting, Area Intrusion</td>
 </tr>
 <tr>
 <th rowspan="2">Thermal</th>
@@ -186,5 +181,5 @@ image:
 
 Type | File
 ---- | ----
-Catalog | [EM-IX(Q36P)_CATALOG_EN_20250430.pdf](https://www.emstone.com/data/sales/en/EM-IX(Q36P)_CATALOG_EN_20250430.pdf)
+Catalog | [EM-IX(Q36P)_CATALOG_EN_20260106.pdf](https://www.emstone.com/data/sales/en/EM-IX(Q36P)_CATALOG_EN_20260106.pdf)
 

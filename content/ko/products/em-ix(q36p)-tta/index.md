@@ -33,7 +33,6 @@ image:
 
 - **QHD** 5Mega-pixel @30fps
 - 열화상 모듈 탑재로 온도를 측정하여 화재를 감지
-- 딥러닝을 통한 다양한 유형의 점화 형태에 대한 데이터 학습
 - 높은 효율의 H.256, H.264 압축 방식을 통한 선명한 화질
 - **IP66**
 
@@ -105,11 +104,11 @@ image:
 </tr>
 <tr>
 <th>Focal Length</th>
-<td>3.6mm, F1.6</td>
+<td>2.8mm, F1.6</td>
 </tr>
 <tr>
 <th>Field of View</th>
-<td>H : 95˚ / V : 48˚ / D : 112˚</td>
+<td>H : 102˚ / V : 56˚ / D : 121˚</td>
 </tr>
 <tr>
 <th rowspan="2">Video</th>
@@ -121,17 +120,13 @@ image:
 <td>Max. 30 fps</td>
 </tr>
 <tr>
-<th rowspan="3">Function</th>
+<th rowspan="2">Function</th>
 <th>Day/Night</th>
 <td>Auto(CDS/CAM) / Day / Night(ICR)</td>
 </tr>
 <tr>
 <th>BLC/HLC/WDR</th>
 <td>Yes</td>
-</tr>
-<tr>
-<th>Intelligence</th>
-<td>Line Crossing, Region entrance/exiting, Area Intrusion</td>
 </tr>
 <tr>
 <th rowspan="2">Thermal</th>
@@ -199,9 +194,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IX(Q36P)_CATALOG_KO_20250430.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_CATALOG_KO_20250430.pdf)
+카탈로그 | [EM-IX(Q36P)_CATALOG_KO_20260106.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_CATALOG_KO_20260106.pdf)
 외관도 | [EM-IX(Q36P)_외관도_20250430.dxf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_외관도_20250430.dxf)<br>[EM-IX(Q36P)_외관도_20250430.png](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_외관도_20250430.png)
-사양서 | [EM-IX(Q36P)_사양서_20250430.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_사양서_20250430.xlsx)
+사양서 | [EM-IX(Q36P)_사양서_20260106.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_사양서_20260106.xlsx)
 시방서 | [EM-IX(Q36P)_시방서_20250430.docx](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_시방서_20250430.docx)
 출하검사 결과 성적서 | [EM-IX(Q36P)_출하시험성적서_20250430.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_출하시험성적서_20250430.xlsx)
 인증서 | [EM-IX(Q36P)-방송통신기자재등의적합등록필증_20260106.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)-방송통신기자재등의적합등록필증_20260106.pdf)<br>[EM-IX(Q36P)_TTA인증서_20250527.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_TTA인증서_20250527.pdf)
