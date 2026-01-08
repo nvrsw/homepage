@@ -109,7 +109,7 @@ image:
 </tr>
 <tr>
 <th>Video Frame Rate</th>
-<td>Main stream: 2688 × 1520 (1 fps–25/30 fps) /1920 × 1080 (1 fps–50/60 fps)<br>
+<td>Main stream: 2688 × 1520 (1 fps–25/30 fps) /1920 × 1080 (1 fps–25/30 fps)<br>
 Sub stream: D1 (1 fps–25/30 fps) Third stream: 1080p (1 fps–25/30 fps)<br>
 *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.</td>
 </tr>
@@ -219,9 +219,9 @@ Sub stream: D1 (1 fps–25/30 fps) Third stream: 1080p (1 fps–25/30 fps)<br>
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IQV(IR2712LD)_CATALOG_KO_20240527.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR2712LD)_CATALOG_KO_20240527.pdf)
+카탈로그 | [EM-IQV(IR2712LD)_CATALOG_KO_20260108.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR2712LD)_CATALOG_KO_20260108.pdf)
 외관도 | [EM-IQV(IR2712LD)_외관도_20230718.png](https://www.emstone.com/data/sales/ko/EM-IQV(IR2712LD)_외관도_20230718.png)
-사양서 | [EM-IQV(IR2712LD)_사양서_20240527.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR2712LD)_사양서_20240527.xlsx)
+사양서 | [EM-IQV(IR2712LD)_사양서_20260108.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR2712LD)_사양서_20260108.xlsx)
 시방서 | [EM-IQV(IR2712LD)_시방서_20230718.docx](https://www.emstone.com/data/sales/ko/EM-IQV(IR2712LD)_시방서_20230718.docx)
 출하검사 결과 성적서 | [EM-IQV(IR2712LD)_출하검사성적서_20230718.xlsx](https://www.emstone.com/data/sales/ko/EM-IQV(IR2712LD)_출하검사성적서_20230718.xlsx)
 인증서 | [EM-IQV(IR2712LD)_방송통신기자재등의적합등록필증_20230718.pdf](https://www.emstone.com/data/sales/ko/EM-IQV(IR2712LD)_방송통신기자재등의적합등록필증_20230718.pdf)
