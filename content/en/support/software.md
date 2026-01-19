@@ -63,8 +63,8 @@ image:
 
 *Network Display Server for IP Video Wall*
 
-- Version: **1.17.25.12.12** (2025-12-12)
-- [ISO Installation File](https://www.emstone.com/data/nds/nds-1.17.25.12.12.iso)
+- Version: **1.17.26.1.19** (2026-01-19)
+- [ISO Installation File](https://www.emstone.com/data/nds/nds-1.17.26.1.19.iso)
    : *Upgrade only / License key required*
 - [Change Log](/docs/nds/ChangeLog.html)
 
