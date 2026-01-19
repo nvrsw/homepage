@@ -104,7 +104,7 @@ image:
 </tr>
 <tr>
 <th>Focal Length</th>
-<td>3.6mm, F1.6</td>
+<td>2.8mm, F1.6</td>
 </tr>
 <tr>
 <th>Field of View</th>
