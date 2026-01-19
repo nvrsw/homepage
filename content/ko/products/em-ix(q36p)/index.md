@@ -5,7 +5,7 @@ summary: "5MP Thermal Camera"
 authors: []
 tags: []
 categories: [ "camera" ]
-draft: true
+draft: false
 weight: 2014
 
 # Featured Image:
@@ -104,7 +104,7 @@ image:
 </tr>
 <tr>
 <th>Focal Length</th>
-<td>2.8mm, F1.6</td>
+<td>3.6mm, F1.6</td>
 </tr>
 <tr>
 <th>Field of View</th>
@@ -194,7 +194,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [EM-IX(Q36P)_CATALOG_KO_20260106.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_CATALOG_KO_20260106.pdf)
+카탈로그 | [EM-IX(Q36P)_CATALOG_KO_20260119.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_CATALOG_KO_20260119.pdf)
 외관도 | [EM-IX(Q36P)_외관도_20250430.dxf](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_외관도_20250430.dxf)<br>[EM-IX(Q36P)_외관도_20250430.png](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_외관도_20250430.png)
 사양서 | [EM-IX(Q36P)_사양서_20260106.xlsx](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_사양서_20260106.xlsx)
 시방서 | [EM-IX(Q36P)_시방서_20250430.docx](https://www.emstone.com/data/sales/ko/EM-IX(Q36P)_시방서_20250430.docx)

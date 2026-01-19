@@ -181,5 +181,5 @@ image:
 
 Type | File
 ---- | ----
-Catalog | [EM-IX(Q36P)_CATALOG_EN_20260106.pdf](https://www.emstone.com/data/sales/en/EM-IX(Q36P)_CATALOG_EN_20260106.pdf)
+Catalog | [EM-IX(Q36P)_CATALOG_EN_20260119.pdf](https://www.emstone.com/data/sales/en/EM-IX(Q36P)_CATALOG_EN_20260119.pdf)
 
