@@ -2,7 +2,7 @@
 title: "EMSTONE 2025 SECON(세계보안엑스포)"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "EMSTONE" ]
 categories: [ "notice" ]
 date: 2025-04-18

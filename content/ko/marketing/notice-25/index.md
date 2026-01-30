@@ -2,7 +2,7 @@
 title: "EMSTONE 2025 INTERSEC in Dubai"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "EMSTONE" ]
 categories: [ "notice" ]
 date: 2025-02-07

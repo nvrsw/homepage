@@ -2,7 +2,7 @@
 title: "EMSTONE 2024 TSE (The Security Event) in UK/Birmingham"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "TSE" ]
 categories: [ "notice" ]
 date: 2024-05-20

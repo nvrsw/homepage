@@ -2,7 +2,7 @@
 title: "EMSTONE 2025 새해 인사"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "EMSTONE" ]
 categories: [ "notice" ]
 date: 2025-01-27

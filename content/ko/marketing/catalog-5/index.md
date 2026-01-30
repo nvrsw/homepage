@@ -2,7 +2,7 @@
 title: "EMSTONE 2025 공사지명원"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "" ]
 categories: [ "catalog" ]
 date: 2025-04-25

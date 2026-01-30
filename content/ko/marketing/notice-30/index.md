@@ -2,7 +2,7 @@
 title: "EMSTONE 2025 TSE in Birmingham"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "EMSTONE" ]
 categories: [ "notice" ]
 date: 2025-04-28

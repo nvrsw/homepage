@@ -2,7 +2,7 @@
 title: "EMSTONE 2024 ISC West in USA/Las Vegas"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "ISCWEST" ]
 categories: [ "notice" ]
 date: 2024-05-04

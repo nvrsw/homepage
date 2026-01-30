@@ -2,7 +2,7 @@
 title: "EMSTONE 2024 SECON TEASER"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "secon" ]
 categories: [ "notice" ]
 date: 2024-02-26

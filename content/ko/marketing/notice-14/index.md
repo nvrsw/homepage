@@ -2,7 +2,7 @@
 title: "EMSTONE x MTECH 필리핀 출장 Vlog"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "" ]
 categories: [ "notice" ]
 date: 2024-02-16

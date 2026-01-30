@@ -2,7 +2,7 @@
 title: "EMSTONE 2024 SECON"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "secon" ]
 categories: [ "notice" ]
 date: 2024-03-28

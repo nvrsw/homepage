@@ -2,7 +2,7 @@
 title: "EMSTONE 2024 Security Show in Japan/Tokyo"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "Securityshow" ]
 categories: [ "notice" ]
 date: 2024-04-03

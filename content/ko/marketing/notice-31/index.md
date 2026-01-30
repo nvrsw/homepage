@@ -2,7 +2,7 @@
 title: "엠스톤의 사옥이전을 축하해주셔서 감사합니다!"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "EMSTONE" ]
 categories: [ "notice" ]
 date: 2025-04-24

@@ -2,7 +2,7 @@
 title: "EMSTONE 2025 Security Show in Tokyo"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "EMSTONE" ]
 categories: [ "notice" ]
 date: 2025-03-13

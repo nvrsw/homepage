@@ -2,7 +2,7 @@
 title: "EMSTONE 2025 ISC West in Las Vegas"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "EMSTONE" ]
 categories: [ "notice" ]
 date: 2025-04-22

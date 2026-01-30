@@ -2,7 +2,7 @@
 title: "EMSTONE PARROT CAMERA 현장에 적용하기 2탄"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "parrot" ]
 categories: [ "showcase" ]
 date: 2024-08-06

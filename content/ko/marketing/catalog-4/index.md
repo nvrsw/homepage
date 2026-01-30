@@ -2,7 +2,7 @@
 title: "EMSTONE 2025 JP Catalog"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "" ]
 categories: [ "catalog" ]
 date: 2024-12-02

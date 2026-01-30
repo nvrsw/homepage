@@ -2,7 +2,7 @@
 title: "EMSTONE 2025 종합카달로그"
 subtitle: ""
 summary: ""
-authors: [ "joy" ]
+authors: [ "kikim" ]
 tags: [ "" ]
 categories: [ "catalog" ]
 date: 2025-05-07
