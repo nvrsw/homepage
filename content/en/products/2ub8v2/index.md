@@ -110,7 +110,7 @@ image:
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16</td>
 <td>1 / 2 / 4 / 6 / 10 / 13 / 16 / 25</td>
 <td>1 / 2 / 4 / 6 / 10 / 13 / 16 / 25 / 36</td>
-<td>1 / 2 / 4 / 6 / 10 / 13 / 16 / 25 / 36 / 64</td>
+<td>1 / 2 / 4 / 6 / 10 / 13 / 16 / 25 / 36 / 49 / 64</td>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64 / 81 / 100 / 128</td>
 </tr>
 <tr>
@@ -296,4 +296,4 @@ image:
 
 Type | File
 ---- | ----
-Catalog | [2UB8-E_CATALOG_EN_20241108.pdf](https://www.emstone.com/data/sales/en/2UB8-E_CATALOG_EN_20241108.pdf)
+Catalog | [2UB8-E_CATALOG_EN_20260202.pdf](https://www.emstone.com/data/sales/en/2UB8-E_CATALOG_EN_20260202.pdf)

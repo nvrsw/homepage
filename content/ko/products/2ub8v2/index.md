@@ -118,7 +118,7 @@ image:
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16</td>
 <td>1 / 2 / 4 / 6 / 10 / 13 / 16 / 25</td>
 <td>1 / 2 / 4 / 6 / 10 / 13 / 16 / 25 / 36</td>
-<td>1 / 2 / 4 / 6 / 10 / 13 / 16 / 25 / 36 / 64</td>
+<td>1 / 2 / 4 / 6 / 10 / 13 / 16 / 25 / 36 / 49 / 64</td>
 <td>1 / 2 / 4 / 6 / 7 / 9 / 10 / 13 / 16 / 25 / 36 / 49 / 64 / 81 / 100 / 128</td>
 </tr>
 <tr>
@@ -304,9 +304,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB8V2_CATALOG_KO_20250523.pdf](https://www.emstone.com/data/sales/ko/2UB8V2_CATALOG_KO_20250523.pdf)
+카탈로그 | [2UB8V2_CATALOG_KO_20260202.pdf](https://www.emstone.com/data/sales/ko/2UB8V2_CATALOG_KO_20260202.pdf)
 외관도 | [2UB8V2_외관도_20241004.dwg](https://www.emstone.com/data/sales/ko/2UB8V2_외관도_20241004.dwg)<br>[2UB8V2_외관도_20241004.png](https://www.emstone.com/data/sales/ko/2UB8V2_외관도_20241004.png)
-사양서 | [2UB8V2_사양서_20241128.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_사양서_20241128.xlsx)
+사양서 | [2UB8V2_사양서_20260202.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_사양서_20260202.xlsx)
 시방서 | [2UB8V2_EM-16B8V2_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-16B8V2_시방서_20250227.docx)<br>[2UB8V2_EM-25B8V2_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-25B8V2_시방서_20250227.docx)<br>[2UB8V2_EM-36B8V2_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-36B8V2_시방서_20250227.docx)<br>[2UB8V2_EM-64B8V2_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-64B8V2_시방서_20250227.docx)<br>[2UB8V2_EM-128B8V2_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-128B8V2_시방서_20250227.docx)
 출하검사 결과 성적서 | [2UB8V2_EM-16B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-16B8V2_출하검사결과성적서_20241015.xlsx)<br>[2UB8V2_EM-25B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-25B8V2_출하검사결과성적서_20241015.xlsx)<br>[2UB8V2_EM-36B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-36B8V2_출하검사결과성적서_20241015.xlsx)<br>[2UB8V2_EM-64B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-64B8V2_출하검사결과성적서_20241015.xlsx)<br>[2UB8V2_EM-128B8V2_출하검사결과성적서_20241015.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2_EM-128B8V2_출하검사결과성적서_20241015.xlsx)
 인증서 | [2UB8V2(16-25CH)_방송통신기자재등의적합등록필증_20240521.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(16-25CH)_방송통신기자재등의적합등록필증_20240521.pdf)<br>[2UB8V2(36-64-128CH)_방송통신기자재등의적합등록필증_20251124.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_방송통신기자재등의적합등록필증_20251124.pdf)<br>[2UB8V2_UL인증서(CertificateofCompliance(CA))_20240814.pdf](https://www.emstone.com/data/sales/ko/2UB8V2_UL인증서(CertificateofCompliance(CA))_20240814.pdf)<br>[2UB8V2_UL인증서(CertificateofCompliance(US))_20240814.pdf](https://www.emstone.com/data/sales/ko/2UB8V2_UL인증서(CertificateofCompliance(US))_20240814.pdf)<br>[2UB8V2(16-25CH)_TTA인증서_241206.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(16-25CH)_TTA인증서_241206.pdf)<br>[2UB8V2(36-64-128CH)_TTA인증서_241206.pdf](https://www.emstone.com/data/sales/ko/2UB8V2(36-64-128CH)_TTA인증서_241206.pdf)
