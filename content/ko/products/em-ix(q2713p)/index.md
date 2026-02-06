@@ -206,3 +206,4 @@ image:
 인증서 | [EM-IX(Q2713P)_방송통신기자재등의적합등록필증_20241025.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q2713P)_방송통신기자재등의적합등록필증_20241025.pdf)<br>[EM-IX(Q2713P)_TTA인증서_20241129.pdf](https://www.emstone.com/data/sales/ko/EM-IX(Q2713P)_TTA인증서_20241129.pdf)
 펌웨어 | [EM-IX(Q2713P)_IPCAM_PD_V6.1.0.26_20250902_16_r3381.bin](https://www.emstone.com/data/sales/ko/EM-IX(Q2713P)_IPCAM_PD_V6.1.0.26_20250902_16_r3381.bin)
 TTA펌웨어 | [EM-IX(Q2713P)_IPCAM_PD_V6.1.1.15_20231026_18_r1874.bin](https://emstone.com/data/sales/ko/EM-IX(Q2713P)_IPCAM_PD_V6.1.1.15_20231026_18_r1874.bin)
+소프트웨어 | [SECU_IP_Batch.zip](https://www.emstone.com/data/sales/ko/SECU_IP_Batch.zip)

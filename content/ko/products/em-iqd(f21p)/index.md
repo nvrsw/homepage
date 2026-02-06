@@ -170,3 +170,4 @@ image:
 출하검사 결과 성적서 | [EM-IQD(F21P)_출하검사성적서_20250227.xlsx](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_출하검사성적서_20250227.xlsx)
 인증서 | [EM-IQD(F21P)_방송통신기자재등의적합등록필증_20240619.pdf](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_방송통신기자재등의적합등록필증_20240619.pdf)
 펌웨어 | [EM-IQD(F21P)_QV-IPC-714557G1_004QV056_V2.10.6.R18883.20250418.upf](https://www.emstone.com/data/sales/ko/EM-IQD(F21P)_QV-IPC-714557G1_004QV056_V2.10.6.R18883.20250418.upf)
+소프트웨어 | [SECU_IP_Batch.zip](https://www.emstone.com/data/sales/ko/SECU_IP_Batch.zip)

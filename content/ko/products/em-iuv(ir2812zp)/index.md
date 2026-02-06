@@ -169,3 +169,4 @@ image:
 출하검사 결과 성적서 | [EM-IUV(IR2812ZP)_출하검사성적서_20250826.xlsx](https://www.emstone.com/data/sales/ko/EM-IUV(IR2812ZP)_출하검사성적서_20250826.xlsx)
 인증서 | [EM-IUV(IR2812ZP)_방송통신기자재등의적합등록필증_20250514.pdf](https://www.emstone.com/data/sales/ko/EM-IUV(IR2812ZP)_방송통신기자재등의적합등록필증_20250514.pdf)
 펌웨어 | [EM-IUV(IR2812ZP)_004QV056_V2.10.6.R22941.20250718.upf](https://www.emstone.com/data/sales/ko/EM-IUV(IR2812ZP)_004QV056_V2.10.6.R22941.20250718.upf)
+소프트웨어 | [SECU_IP_Batch.zip](https://www.emstone.com/data/sales/ko/SECU_IP_Batch.zip)
