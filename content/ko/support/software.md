@@ -128,6 +128,11 @@ image:
     - 다운로드: [nvr-2.9.20.7.8.iso](https://www.emstone.com/data/tta/emstone/2020/nvr-2.9.20.7.8.iso)
                 / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2020/nvr-2.9.20.7.8.iso-sha256.txt)
     - 모델: EM-25B2, EM-16B2, EM-09B2, EM-04B2
+  - **REDBACK-C**
+    - 버전 : **2.9.26.1.28** (2026-01-28)  
+    - 다운로드: [redback-c-2.9.26.1.28.iso](https://www.emstone.com/data/tta/emstone/2026/redback-c-2.9.26.1.28.iso)
+                / [SHA-256 Checksum](https://www.emstone.com/data/tta/emstone/2026/redback-c-2.9.26.1.28.iso-sha256.txt)
+    - 모델: EM-36B8V2, EM-64B8V2, EM-64B8V2+, EM-128B8V2
 - NVR 백업 동영상 재생기
   - 운영체제: [Windows](https://www.emstone.com/data/nvrplay/nvrplay.exe)
 
