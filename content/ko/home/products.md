@@ -70,10 +70,16 @@ align = "end"
   name = "ESTS-SERVER"
   description = "Streaming Server"
 
+# [[feature]]
+#  image = "products/cms-station/featured.png"
+#  url = "products/cms-station/"
+#  name = "EM-CMS 스테이션 H"
+#  description = "Central Monitoring Server"
+
 [[feature]]
-  image = "products/cms-station/featured.png"
-  url = "products/cms-station/"
-  name = "EM-CMS 스테이션 H"
+  image = "products/cms-pro/featured.png"
+  url = "products/cms-pro/"
+  name = "CMS-PRO"
   description = "Central Monitoring Server"
 
 [[feature]]
@@ -88,12 +94,17 @@ align = "end"
   name = "EM-NDS-mini-4k"
   description = "Network Display Server"
 
-  [[feature]]
-  image = "products/em-isvir2712zd/featured.png"
-  url = "products/em-isvir2712zd/"
-  name = "EMSTONE_D_AI SHD 스카이뷰카메라"
-  description = "EMSTONE_D_AI 12MP Sky View Camera"
+ # [[feature]]
+ # image = "products/em-isvir2712zd/featured.png"
+ # url = "products/em-isvir2712zd/"
+ # name = "EMSTONE_D_AI SHD 스카이뷰카메라"
+ # description = "EMSTONE_D_AI 12MP Sky View Camera"
 
+[[feature]]
+  image = "products/em-iqv14w5z/featured.png"
+  url = "products/em-iqv14w5z/"
+  name = "EM-IQV(14W5Z) 패럿 카메라"
+  description = "5MP Parrot Camera"
 
 # [[feature]]
 #  image = "products/em-iufl17d/featured.png"
