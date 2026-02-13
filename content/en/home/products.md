@@ -38,8 +38,8 @@ align = "end"
 
 
 [[feature]]
-  image = "products/redbackvms-performance/featured.png"
-  url = "products/redbackvms/"
+  image = "products/redbackvms-vmsb8/featured.png"
+  url = "categories/redback"
   name = "REDBACK VMS Series"
   description = "Video Management System"
 
