@@ -1,5 +1,5 @@
 ---
-title: "CMS Pro"
+title: "CMS-Pro"
 subtitle: "통합 모니터링 시스템"
 summary: "통합 모니터링 시스템"
 authors: []
@@ -62,7 +62,7 @@ image:
 <thead>
 <tr>
 <th colspan="2">모델명</th>
-<th>CMS Pro</th>
+<th>CMS-Pro</th>
 </tr>
 </thead>
 <tbody>
@@ -171,10 +171,10 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [CMS_PRO_CATALOG_KO_20260213.pdf](https://www.emstone.com/data/sales/ko/CMS_PRO_CATALOG_KO_20260213.pdf)
-외관도 | [CMS_PRO_외관도_20260213.dwg](https://www.emstone.com/data/sales/ko/CMS_PRO_외관도_20260213.dwg)<br>[CMS_PRO_외관도_20260213.png](https://www.emstone.com/data/sales/ko/CMS_PRO_외관도_20260213.png)
-사양서 | [CMS_PRO_사양서_20260213.xlsx](https://www.emstone.com/data/sales/ko/CMS_PRO_사양서_20260213.xlsx)
-시방서 | [CMS_PRO_시방서_20260213.docx](https://www.emstone.com/data/sales/ko/CMS_PRO_시방서_20260213.docx)
-출하검사 결과 성적서 | [CMS_PRO_출하검사결과성적서_20260213.xlsx](https://www.emstone.com/data/sales/ko/CMS_PRO_출하검사결과성적서_20260213.xlsx)
-인증서 | [CMS_PRO_방송통신기자재등의적합등록필증_20260211.pdf](https://www.emstone.com/data/sales/ko/CMS_PRO_방송통신기자재등의적합등록필증_20260211.pdf)
+카탈로그 | [CMS-PRO_CATALOG_KO_20260213.pdf](https://www.emstone.com/data/sales/ko/CMS-PRO_CATALOG_KO_20260213.pdf)
+외관도 | [CMS-PRO_외관도_20260213.dwg](https://www.emstone.com/data/sales/ko/CMS-PRO_외관도_20260213.dwg)<br>[CMS-PRO_외관도_20260213.png](https://www.emstone.com/data/sales/ko/CMS-PRO_외관도_20260213.png)
+사양서 | [CMS-PRO_사양서_20260213.xlsx](https://www.emstone.com/data/sales/ko/CMS-PRO_사양서_20260213.xlsx)
+시방서 | [CMS-PRO_시방서_20260213.docx](https://www.emstone.com/data/sales/ko/CMS-PRO_시방서_20260213.docx)
+출하검사 결과 성적서 | [CMS-PRO_출하검사결과성적서_20260213.xlsx](https://www.emstone.com/data/sales/ko/CMS-PRO_출하검사결과성적서_20260213.xlsx)
+인증서 | [CMS-PRO_방송통신기자재등의적합등록필증_20260211.pdf](https://www.emstone.com/data/sales/ko/CMS-PRO_방송통신기자재등의적합등록필증_20260211.pdf)
 매뉴얼 | [CMS_사용자매뉴얼_20250416.pdf](https://www.emstone.com/data/sales/ko/CMS_사용자매뉴얼_20250416.pdf)<br>[CMS_작업매뉴얼_20230106.pdf](https://www.emstone.com/data/sales/ko/CMS_작업매뉴얼_20230106.pdf)<br>[CMS_단축키매뉴얼_20220110.pdf](https://www.emstone.com/data/sales/ko/CMS_단축키매뉴얼_20220110.pdf)
