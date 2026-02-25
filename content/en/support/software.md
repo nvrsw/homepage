@@ -26,7 +26,7 @@ image:
   - Linux : Ubuntu 22.04 with modified Linux Kernel
 - Installation Program
   - **Latest Version**
-    - Version: **2.1.26.2.25** (2026-01-19)
+    - Version: **2.1.26.2.25** (2026-02-25)
     - Download
       - Windows
         - 32 bits: [cms-2.1.26.2.25-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.26.2.25-win32-emstone.exe)
