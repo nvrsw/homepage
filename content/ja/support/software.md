@@ -43,9 +43,9 @@ image:
 
 ## モバイルアプリ
 
-*NVR Viewer iOS / Android Apps*
+*NVR Viewer Apps for iOS / Android*
 
-- [Change Log](/docs/nvr-viewer/ChangeLog.html)
+- [Change Log](/docs/nvrapp/ChangeLog.html)
 - iOS: バージョン **1.5.4** (2025-12-22)
   <a href="https://apps.apple.com/kr/app/linux-nvr-mobile-viewer/id561848768" target="_blank"><img width="100px" src="/img/app-store-badge.png" alt="Download on the App Store" class="d-inline-block py-0 my-2"></a>
 - Android: バージョン **1.5.4** (2025-12-22)
