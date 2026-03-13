@@ -109,7 +109,7 @@ image:
 </tr>
 <tr>
 <th>동작 온도 / 습도</th>
-<td>온도 - ASHRAE A3, 5°C to 40°C (41°F to 104°F)<br>습도 - –12°C DP 및 10% RH에서 21°C DP 및 80% RH까지, 최대 DP 21°C</td>
+<td>5℃~40℃ / 0%~90%</td>
 </tr>
 <tr>
 <th>사용전원 / 소비전력</th>
