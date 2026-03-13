@@ -55,7 +55,7 @@ image:
 - [Change Log](/docs/nvrapp/ChangeLog.html)
 - iOS: 버전 **1.5.4** (2025-12-22)
   <a href="https://apps.apple.com/kr/app/linux-nvr-mobile-viewer/id561848768" target="_blank"><img width="100px" src="/img/app-store-badge.png" alt="Download on the App Store" class="d-inline-block py-0 my-2"></a>
-- Android: 버전 **2.0.0** (2026-03-11)
+- Android: 버전 **2.0.1** (2026-03-13)
   <a href="https://play.google.com/store/apps/details?id=com.emstone.moview" target="_blank"><img width="100px" src="/img/google-play-badge.png" alt="GET IT ON Google Play" class="d-inline-block py-0 my-2"></a>
 
 ## VMS / NVR
