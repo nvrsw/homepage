@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 22.04 with modified Linux Kernel
 - 설치 프로그램
   - **최신 버전**
-    - 버전: **2.1.26.2.25** (2026-02-25)
+    - 버전: **2.1.26.3.11** (2026-03-11)
     - 다운로드
       - Windows
-        - 32비트: [cms-2.1.26.2.25-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.26.2.25-win32-emstone.exe)
-        - 64비트: [cms-2.1.26.2.25-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.26.2.25-win64-emstone.exe)
+        - 32비트: [cms-2.1.26.3.11-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.26.3.11-win32-emstone.exe)
+        - 64비트: [cms-2.1.26.3.11-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.26.3.11-win64-emstone.exe)
       - Linux
-        - 64비트: [cms-2.1.26.2.25-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.26.2.25-linux-x86_64.tar.gz)
+        - 64비트: [cms-2.1.26.3.11-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.26.3.11-linux-x86_64.tar.gz)
 
   - **TTA 2.1.23.8.8**
     - 버전: **TTA 2.1.23.8.8** (2023.08.08)
@@ -50,12 +50,12 @@ image:
 
 ## 모바일 앱
 
-*NVR Viewer iOS / Android Apps*
+*NVR Viewer Apps for iOS / Android*
 
-- [Change Log](/docs/nvr-viewer/ChangeLog.html)
+- [Change Log](/docs/nvrapp/ChangeLog.html)
 - iOS: 버전 **1.5.4** (2025-12-22)
   <a href="https://apps.apple.com/kr/app/linux-nvr-mobile-viewer/id561848768" target="_blank"><img width="100px" src="/img/app-store-badge.png" alt="Download on the App Store" class="d-inline-block py-0 my-2"></a>
-- Android: 버전 **1.5.4** (2025-12-22)
+- Android: 버전 **2.0.0** (2026-03-11)
   <a href="https://play.google.com/store/apps/details?id=com.emstone.moview" target="_blank"><img width="100px" src="/img/google-play-badge.png" alt="GET IT ON Google Play" class="d-inline-block py-0 my-2"></a>
 
 ## VMS / NVR
@@ -66,9 +66,9 @@ image:
 - [HTTP API](/docs/dvr/http/)
 - 설치파일 (*업그레이드 전용 / 제품키 필요*)
   - **최신 버전**
-    - 버전: **2.9.26.2.25** (2026-02-25)
-    - 설치 파일: [nvr-2.9.26.2.25-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.26.2.25-emstone.iso)
-    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.26.2.25-emstone.iso-sha256.txt)
+    - 버전: **2.9.26.3.11** (2026-03-11)
+    - 설치 파일: [nvr-2.9.26.3.11-emstone.iso](https://www.emstone.com/data/dvr/nvr-2.9.26.3.11-emstone.iso)
+    / [SHA-256 Checksum](https://www.emstone.com/data/dvr/nvr-2.9.26.3.11-emstone.iso-sha256.txt)
     - 모델: 모든 모델
   <!--  - **EM-VMS1024**
     - 버전: **2.9.24.1.31** (2024-01-31)
