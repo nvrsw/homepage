@@ -5,7 +5,7 @@ summary: "EMSTONE_D_AI 5MP Full-color Fixed-focal warm LED Bullet Type Camera"
 authors: []
 tags: []
 categories: [ "camera" ]
-draft: false
+draft: true
 weight: 2022
 
 # Featured Image:
