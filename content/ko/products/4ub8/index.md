@@ -52,7 +52,6 @@ image:
 - 양방향 음성 기능 지원
 - 최대 192TB의 넉넉한 자체 저장 공간
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
-- **화재/연기 감지** 라이선스 1CH 기본 제공
 - 모델 라인업 : 16, 25, 36, 49(F/H), 64(F/H), 81H, 100H, 128H CH
 
 </div>
@@ -346,7 +345,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [4UB8_CATALOG_KO_20240717.pdf](https://www.emstone.com/data/sales/ko/4UB8_CATALOG_KO_20240717.pdf)
+카탈로그 | [4UB8_CATALOG_KO_20260406.pdf](https://www.emstone.com/data/sales/ko/4UB8_CATALOG_KO_20260406.pdf)
 외관도 | [4UB8_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/4UB8_외관도_20201022.dwg)<br>[4UB8_외관도_20201022.png](https://www.emstone.com/data/sales/ko/4UB8_외관도_20201022.png)
 사양서 | [4UB8_사양서_20240717.xlsx](https://www.emstone.com/data/sales/ko/4UB8_사양서_20240717.xlsx)
 시방서 | [4UB8_EM-N16B8_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB8_EM-N16B8_시방서_20240717.docx)<br>[4UB8_EM-N25B8_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB8_EM-N25B8_시방서_20240717.docx)<br>[4UB8_EM-N36B8_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB8_EM-N36B8_시방서_20240717.docx)<br>[4UB8_EM-N49B8F_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB8_EM-N49B8F_시방서_20240717.docx)<br>[4UB8_EM-N49B8H_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB8_EM-N49B8H_시방서_20240717.docx)<br>[4UB8_EM-N64B8F_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB8_EM-N64B8F_시방서_20240717.docx)<br>[4UB8_EM-N64B8H_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB8_EM-N64B8H_시방서_20240717.docx)<br>[4UB8_EM-N81B8H_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB8_EM-N81B8H_시방서_20240717.docx)<br>[4UB8_EM-N100B8H_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB8_EM-N100B8H_시방서_20240717.docx)<br>[4UB8_EM-N128B8H_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB8_EM-N128B8H_시방서_20240717.docx)

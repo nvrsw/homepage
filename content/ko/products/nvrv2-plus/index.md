@@ -50,7 +50,6 @@ image:
 - Failover 지원 : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
 - 양방향 음성 기능 지원
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
-- **화재/연기 감지** 라이선스 1CH 기본 제공
 - 모델 라인업 : 64+ CH 
 </div>
 <div class="col-12 col-sm-4 pl-0">
@@ -281,7 +280,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [64B8V2+_CATALOG_KO_20251001.pdf](https://www.emstone.com/data/sales/ko/64B8V2%2B_CATALOG_KO_20251001.pdf)
+카탈로그 | [64B8V2+_CATALOG_KO_20260406.pdf](https://www.emstone.com/data/sales/ko/64B8V2%2B_CATALOG_KO_20260406.pdf)
 외관도 | [2UB8V2+_외관도_20241004.dwg](https://www.emstone.com/data/sales/ko/2UB8V2%2B_외관도_20241004.dwg)<br>[2UB8V2+_외관도_20241004.png](https://www.emstone.com/data/sales/ko/2UB8V2%2B_외관도_20241004.png)
 사양서 | [2UB8V2+_사양서_20241128.xlsx](https://www.emstone.com/data/sales/ko/2UB8V2%2B_사양서_20241128.xlsx)
 시방서 | [64B8V2+_시방서_20250802.docx](https://www.emstone.com/data/sales/ko/64B8V2%2B_시방서_20250802.docx)

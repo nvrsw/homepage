@@ -50,7 +50,6 @@ image:
 - Failover 지원 : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
 - 양방향 음성 기능 지원
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
-- **화재/연기 감지** 라이선스 1CH 기본 제공
 - 모델 라인업 : 4, 9, 16, 25 CH
 
 </div>
@@ -297,7 +296,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [1UB2_CATALOG_KO_20241127.pdf](https://www.emstone.com/data/sales/ko/1UB2_CATALOG_KO_20241127.pdf)
+카탈로그 | [1UB2_CATALOG_KO_20260406.pdf](https://www.emstone.com/data/sales/ko/1UB2_CATALOG_KO_20260406.pdf)
 외관도 | [1UB2_외관도_20210106.dwg](https://www.emstone.com/data/sales/ko/1UB2_외관도_20210106.dwg)<br>[1UB2_외관도_20210106.png](https://www.emstone.com/data/sales/ko/1UB2_외관도_20210106.png)
 사양서 | [1UB2_사양서_20241127.xlsx](https://www.emstone.com/data/sales/ko/1UB2_사양서_20241127.xlsx)
 시방서 | [1UB2_EM-04B2_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2_시방서_20241127.docx)<br>[1UB2_EM-09B2_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2_시방서_20241127.docx)<br>[1UB2_EM-16B2_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2_시방서_20241127.docx)<br>[1UB2_EM-25B2_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/1UB2_EM-25B2_시방서_20241127.docx)

@@ -44,7 +44,6 @@ image:
 - **생체 정보**를 이용한 사용자 인증 지원
 - **Failover 지원** : 시스템이 정지되면 예비 장치가 자동으로 대체 작동
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
-- **화재/연기 감지** 라이선스 1CH 기본 제공
 - 모델 라인업 : 36, 64, 128 CH
 
 </div>
@@ -295,7 +294,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [3UB16V2_CATALOG_KO_20250228.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_CATALOG_KO_20250228.pdf)
+카탈로그 | [3UB16V2_CATALOG_KO_20260406.pdf](https://www.emstone.com/data/sales/ko/3UB16V2_CATALOG_KO_20260406.pdf)
 외관도 | [3UB16V2_외관도_20241004.dwg](https://www.emstone.com/data/sales/ko/3UB16V2_외관도_20241004.dwg)<br>[3UB16V2_외관도_20241004.png](https://www.emstone.com/data/sales/ko/3UB16V2_외관도_20241004.png)
 사양서 | [3UB16V2_사양서_20241004.xlsx](https://www.emstone.com/data/sales/ko/3UB16V2_사양서_20241004.xlsx)
 시방서 | [3UB16V2_EM-36B16V2_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-36B16V2_시방서_20250227.docx)<br>[3UB16V2_EM-64B16V2_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-64B16V2_시방서_20250227.docx)<br>[3UB16V2_EM-128B16V2_시방서_20250227.docx](https://www.emstone.com/data/sales/ko/3UB16V2_EM-128B16V2_시방서_20250227.docx)

@@ -52,7 +52,6 @@ image:
 - 양방향 음성 기능 지원
 - 최대 96TB의 넉넉한 자체 저장 공간
 - **LPR(방향성 차량번호 추출)** 라이선스 1CH 기본 제공
-- **화재/연기 감지** 라이선스 1CH 기본 제공
 - 모델 라인업 : 16, 25, 36, 49, 64CH
 
 </div>
@@ -290,7 +289,7 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB4_CATALOG_KO_20240716.pdf](https://www.emstone.com/data/sales/ko/2UB4_CATALOG_KO_20240716.pdf)
+카탈로그 | [2UB4_CATALOG_KO_20260406.pdf](https://www.emstone.com/data/sales/ko/2UB4_CATALOG_KO_20260406.pdf)
 외관도 | [2UB4_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/2UB4_외관도_20201022.dwg)<br>[2UB4_외관도_20201022.png](https://www.emstone.com/data/sales/ko/2UB4_외관도_20201022.png)
 사양서 | [2UB4_사양서_20240716.xlsx](https://www.emstone.com/data/sales/ko/2UB4_사양서_20240716.xlsx)
 시방서 | [2UB4_EM-16B4_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB4_EM-16B4_시방서_20240716.docx)<br>[2UB4_EM-25B4_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB4_EM-25B4_시방서_20240716.docx)<br>[2UB4_EM-36B4_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB4_EM-36B4_시방서_20240716.docx)<br>[2UB4_EM-49B4F_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB4_EM-49B4F_시방서_20240716.docx)<br>[2UB4_EM-64B4F_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB4_EM-64B4F_시방서_20240716.docx)
