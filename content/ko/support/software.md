@@ -140,14 +140,13 @@ image:
 
 *NVR / VMS Management Server*
 
-- 버전: **1.8.4** (2026-04-01)
+- 버전: **1.9.0** (2026-04-16)
   - Linux
-    - redback-manager_1.8.4_amd64.deb
-    - redback-manager-1.8.4-1.x86_64.rpm
-    - redback-manager_1.8.4_amd64.AppImage
+    - redback-manager_1.9.0_amd64.deb
+    - redback-manager_1.9.0_amd64.AppImage
   - Windows
-    - REDBACK Manager_1.8.4_x64_en-US.msi
-    - REDBACK Manager_1.8.4_x64-setup.exe
+    - REDBACK Manager_1.9.0_x64_en-US.msi
+    - REDBACK Manager_1.9.0_x64-setup.exe
 
 - [변경사항](/docs/redback/ChangeLog.html)
 
