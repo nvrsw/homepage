@@ -244,7 +244,7 @@ image:
 <tr>
 <th rowspan="2">지능형<br>솔루션</th>
 <th>내장 SW</th>
-<td>EMSTONE 영상분석 AI 기반 LPR 및 불꽃/연기 감지 각 1채널 기본 탑재 (※ 추가 라이선스 옵션)</td>
+<td>EMSTONE 영상분석 AI 기반 LPR 1채널 기본 탑재</td>
 </tr>
 <tr>
 <th>외부 연동</th>
@@ -277,9 +277,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [4UB24_CATALOG_KO_20260406.pdf](https://www.emstone.com/data/sales/ko/4UB24_CATALOG_KO_20260406.pdf)
+카탈로그 | [4UB24_CATALOG_KO_20260506.pdf](https://www.emstone.com/data/sales/ko/4UB24_CATALOG_KO_20260506.pdf)
 외관도 | [4UB24_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/4UB24_외관도_20201022.dwg)<br>[4UB24_외관도_20201022.png](https://www.emstone.com/data/sales/ko/4UB24_외관도_20201022.png)
-사양서 | [4UB24_사양서_20240717.xlsx](https://www.emstone.com/data/sales/ko/4UB24_사양서_20240717.xlsx)
+사양서 | [4UB24_사양서_20260506.xlsx](https://www.emstone.com/data/sales/ko/4UB24_사양서_20260506.xlsx)
 시방서 | [4UB24_EM-64B24F_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB24_EM-64B24F_시방서_20240717.docx)<br>[4UB24_EM-81B24H_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB24_EM-81B24H_시방서_20240717.docx)<br>[4UB24_EM-100B24H_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB24_EM-100B24H_시방서_20240717.docx)<br>[4UB24_EM-128B24H_시방서_20240717.docx](https://www.emstone.com/data/sales/ko/4UB24_EM-128B24H_시방서_20240717.docx)
 출하검사 결과 성적서 | [4UB24_EM-64B24F_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/4UB24_EM-64B24F_출하검사결과성적서_20201022.xlsx)<br>[4UB24_EM-81B24H_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/4UB24_EM-81B24H_출하검사결과성적서_20201022.xlsx)<br>[4UB24_EM-100B24H_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/4UB24_EM-100B24H_출하검사결과성적서_20201022.xlsx)<br>[4UB24_EM-128B24H_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/4UB24_EM-128B24H_출하검사결과성적서_20201022.xlsx)
 인증서 | [4UB24_방송통신기자재등의적합등록필증_20250929.pdf](https://www.emstone.com/data/sales/ko/4UB24_방송통신기자재등의적합등록필증_20250929.pdf)

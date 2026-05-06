@@ -248,7 +248,7 @@ image:
 <tr>
 <th rowspan="3">지능형<br>솔루션</th>
 <th>내장 SW</th>
-<td>EMSTONE 영상분석 AI 기반 LPR 및 불꽃/연기 감지 각 1채널 기본 탑재 (※ 추가 라이선스 옵션)</td>
+<td>EMSTONE 영상분석 AI 기반 LPR 1채널 기본 탑재</td>
 </tr>
 <tr>
 <th>외부 시스템 연동</th>
@@ -285,9 +285,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [REDBACKVMSPerformance_CATALOG_KO_20260429.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSPerformance_CATALOG_KO_20260429.pdf)
+카탈로그 | [REDBACKVMSPerformance_CATALOG_KO_20260506.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSPerformance_CATALOG_KO_20260506.pdf)
 외관도 | [REDBACKVMSPerformance_외관도_20241128.dwg](https://www.emstone.com/data/sales/ko/REDBACKVMSPerformance_외관도_20241128.dwg)<br>[REDBACKVMSPerformance_외관도_20241128.png](https://www.emstone.com/data/sales/ko/REDBACKVMSPerformance_외관도_20241128.png)
-사양서 | [REDBACKVMSPerformance_사양서_20260429.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSPerformance_사양서_20260429.xlsx)
+사양서 | [REDBACKVMSPerformance_사양서_20260506.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSPerformance_사양서_20260506.xlsx)
 시방서 | [REDBACKVMSPerformance_EM-VMS256B8+_시방서_20241128.docx](https://www.emstone.com/data/sales/ko/REDBACKVMSPerformance_EM-VMS256B8%2B_시방서_20241128.docx)<br>[REDBACKVMSPerformance_EM-VMS512B8+_시방서_20241128.docx](https://www.emstone.com/data/sales/ko/REDBACKVMSPerformance_EM-VMS512B8%2B_시방서_20241128.docx)
 출하검사 결과 성적서 | [REDBACKVMSPerformance_EM-VMS256B8+_출하검사결과성적서_20241128.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSPerformance_EM-VMS256B8%2B_출하검사결과성적서_20241128.xlsx)<br>[REDBACKVMSPerformance_EM-VMS512B8+_출하검사결과성적서_20241128.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSPerformance_EM-VMS512B8%2B_출하검사결과성적서_20241128.xlsx)
 인증서 | [REDBACKVMSPerformance_방송통신가자재등의적합등록필증_20241128.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSPerformance_방송통신가자재등의적합등록필증_20241128.pdf)

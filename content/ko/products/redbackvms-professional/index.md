@@ -275,7 +275,7 @@ image:
 <tr>
 <th rowspan="3">지능형<br>솔루션</th>
 <th>내장 SW</th>
-<td>EMSTONE 영상분석 AI 기반 LPR 및 불꽃/연기 감지 각 1채널 기본 탑재 (※ 추가 라이선스 옵션)</td>
+<td>EMSTONE 영상분석 AI 기반 LPR 1채널 기본 탑재</td>
 </tr>
 <tr>
 <th>외부 연동</th>
@@ -283,7 +283,7 @@ image:
 </tr>
 <tr>
 <th>분석서버 연동</th>
-<td>Intellivix, UDP, Neton, IVS, Anyvision, Techwin/Truen/ITX/Neotech</td>
+<td>Intellivix, UDP, Neton, IVS, Anyvision, Techwin, Truen, ITX, Neotech, Rexgen</td>
 </tr>
 <tr>
 <th colspan="2">동작 온도 / 습도</th>
@@ -312,9 +312,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [REDBACKVMSProfessional_CATALOG_KO_20241127.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_CATALOG_KO_20241127.pdf)
+카탈로그 | [REDBACKVMSProfessional_CATALOG_KO_20260506.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_CATALOG_KO_20260506.pdf)
 외관도 | [REDBACKVMSProfessional_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_외관도_20201022.dwg)<br>[REDBACKVMSProfessional_외관도_20201022.png](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_외관도_20201022.png)
-사양서 | [REDBACKVMSProfessional_사양서_20241127.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_사양서_20241127.xlsx)
+사양서 | [REDBACKVMSProfessional_사양서_20260506.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_사양서_20260506.xlsx)
 시방서 | [REDBACKVMSProfessional_EM-VMS128+_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS128%2B_시방서_20241127.docx)<br>[REDBACKVMSProfessional_EM-VMS256+_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS256%2B_시방서_20241127.docx)<br>[REDBACKVMSProfessional_EM-VMS512+_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS512%2B_시방서_20241127.docx)<br>[REDBACKVMSProfessional_EM-VMS1024_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS1024_시방서_20241127.docx)<br>
 출하검사 결과 성적서 | [REDBACKVMSProfessional_EM-VMS128+_출하검사결과성적서_20220915.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS128%2B_출하검사결과성적서_20220915.xlsx)<br>[REDBACKVMSProfessional_EM-VMS256+_출하검사결과성적서_20201025.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS256%2B_출하검사결과성적서_20201025.xlsx)<br>[REDBACKVMSProfessional_EM-VMS512+_출하검사결과성적서_20201025.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS512%2B_출하검사결과성적서_20201025.xlsx)<br>[REDBACKVMSProfessional_EM-VMS1024_출하검사결과성적서_20201025.xlsx](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_EM-VMS1024_출하검사결과성적서_20201025.xlsx)<br>
 인증서 | [REDBACKVMSProfessionalv2.9_GS인증(1등급)_20210330.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessionalv2.9_GS인증(1등급)_20210330.pdf)<br>[REDBACKVMSProfessional_TTA인증서_20240605.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_TTA인증서_20240605.pdf)<br>[REDBACKVMSProfessional_방송통신기자재등의적합등록필증_20240123.pdf](https://www.emstone.com/data/sales/ko/REDBACKVMSProfessional_방송통신기자재등의적합등록필증_20240123.pdf)

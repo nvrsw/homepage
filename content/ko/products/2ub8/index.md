@@ -325,7 +325,7 @@ image:
 <tr>
 <th rowspan="2">지능형<br>솔루션</th>
 <th>내장 SW</th>
-<td>EMSTONE 영상분석 AI 기반 LPR 및 불꽃/연기 감지 각 1채널 기본 탑재 (※ 추가 라이선스 옵션)</td>
+<td>EMSTONE 영상분석 AI 기반 LPR 1채널 기본 탑재</td>
 </tr>
 <tr>
 <th>외부 연동</th>
@@ -358,9 +358,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [2UB8_CATALOG_KO_20260406.pdf](https://www.emstone.com/data/sales/ko/2UB8_CATALOG_KO_20260406.pdf)
+카탈로그 | [2UB8_CATALOG_KO_20260506.pdf](https://www.emstone.com/data/sales/ko/2UB8_CATALOG_KO_20260506.pdf)
 외관도 | [2UB8_외관도_20201022.dwg](https://www.emstone.com/data/sales/ko/2UB8_외관도_20201022.dwg)<br>[2UB8_외관도_20201022.png](https://www.emstone.com/data/sales/ko/2UB8_외관도_20201022.png)
-사양서 | [2UB8_사양서_20240716.xlsx](https://www.emstone.com/data/sales/ko/2UB8_사양서_20240716.xlsx)
+사양서 | [2UB8_사양서_20260506.xlsx](https://www.emstone.com/data/sales/ko/2UB8_사양서_20260506.xlsx)
 시방서 | [2UB8_EM-16B8_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-16B8_시방서_20240716.docx)<br>[2UB8_EM-25B8_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-25B8_시방서_20240716.docx)<br>[2UB8_EM-36B8_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8_시방서_20240716.docx)<br>[2UB8_EM-49B8F_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F_시방서_20240716.docx)<br>[2UB8_EM-49B8H_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8H_시방서_20240716.docx)<br>[2UB8_EM-64B8F_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F_시방서_20240716.docx)<br>[2UB8_EM-64B8H_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8H_시방서_20240716.docx)<br>[2UB8_EM-81B8H_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H_시방서_20240716.docx)<br>[2UB8_EM-100B8H_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H_시방서_20240716.docx)<br>[2UB8_EM-128B8H_시방서_20240716.docx](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H_시방서_20240716.docx)
 출하검사 결과 성적서 | [2UB8_EM-16B8_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-16B8_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-25B8_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-25B8_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-36B8_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-36B8_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-49B8F_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8F_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-49B8H_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-49B8H_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-64B8F_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8F_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-64B8H_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-64B8H_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-81B8H_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-81B8H_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-100B8H_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-100B8H_출하검사결과성적서_20201022.xlsx)<br>[2UB8_EM-128B8H_출하검사결과성적서_20201022.xlsx](https://www.emstone.com/data/sales/ko/2UB8_EM-128B8H_출하검사결과성적서_20201022.xlsx)
 인증서 | [2UB8_방송통신기자재등의적합등록필증_20250909.pdf](https://www.emstone.com/data/sales/ko/2UB8_방송통신기자재등의적합등록필증_20250909.pdf)<br>[2UB8-T_16-25(2.9.24.1.31)_TTA인증서_20241010.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_16-25(2.9.24.1.31)_TTA인증서_20241010.pdf)<br>[2UB8-T_36-128(2.9.24.1.31)_TTA인증서_20241010.pdf](https://www.emstone.com/data/sales/ko/2UB8-T_36-128(2.9.24.1.31)_TTA인증서_20241010.pdf)

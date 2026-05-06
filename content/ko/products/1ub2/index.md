@@ -263,7 +263,7 @@ image:
 <tr>
 <th rowspan="2">지능형<br>솔루션</th>
 <th>내장 SW</th>
-<td>EMSTONE 영상분석 AI 기반 LPR 및 불꽃/연기 감지 각 1채널 기본 탑재 (※ 추가 라이선스 옵션)</td>
+<td>EMSTONE 영상분석 AI 기반 LPR 1채널 기본 탑재</td>
 </tr>
 <tr>
 <th>외부 연동</th>
@@ -296,9 +296,9 @@ image:
 
 종류 | 파일
 ---- | ----
-카탈로그 | [1UB2_CATALOG_KO_20260406.pdf](https://www.emstone.com/data/sales/ko/1UB2_CATALOG_KO_20260406.pdf)
+카탈로그 | [1UB2_CATALOG_KO_20260506.pdf](https://www.emstone.com/data/sales/ko/1UB2_CATALOG_KO_20260506.pdf)
 외관도 | [1UB2_외관도_20210106.dwg](https://www.emstone.com/data/sales/ko/1UB2_외관도_20210106.dwg)<br>[1UB2_외관도_20210106.png](https://www.emstone.com/data/sales/ko/1UB2_외관도_20210106.png)
-사양서 | [1UB2_사양서_20241127.xlsx](https://www.emstone.com/data/sales/ko/1UB2_사양서_20241127.xlsx)
+사양서 | [1UB2_사양서_20260506.xlsx](https://www.emstone.com/data/sales/ko/1UB2_사양서_20260506.xlsx)
 시방서 | [1UB2_EM-04B2_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2_시방서_20241127.docx)<br>[1UB2_EM-09B2_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2_시방서_20241127.docx)<br>[1UB2_EM-16B2_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2_시방서_20241127.docx)<br>[1UB2_EM-25B2_시방서_20241127.docx](https://www.emstone.com/data/sales/ko/1UB2_EM-25B2_시방서_20241127.docx)
 출하검사 결과 성적서 | [1UB2_EM-04B2_출하검사결과성적서_20220613.xlsx](https://www.emstone.com/data/sales/ko/1UB2_EM-04B2_출하검사결과성적서_20220613.xlsx)<br>[1UB2_EM-09B2_출하검사결과성적서_20220613.xlsx](https://www.emstone.com/data/sales/ko/1UB2_EM-09B2_출하검사결과성적서_20220613.xlsx)<br>[1UB2_EM-16B2_출하검사결과성적서_20220613.xlsx](https://www.emstone.com/data/sales/ko/1UB2_EM-16B2_출하검사결과성적서_20220613.xlsx)<br>[1UB2_EM-25B2_출하검사결과성적서_20220613.xlsx](https://www.emstone.com/data/sales/ko/1UB2_EM-25B2_출하검사결과성적서_20220613.xlsx)
 인증서 | [1UB2_방송통신기자재등의적합등록필증_20251001.pdf](https://www.emstone.com/data/sales/ko/1UB2_방송통신기자재등의적합등록필증_20251001.pdf)<br>[1UB2_TTA인증서_20240131.pdf](https://www.emstone.com/data/sales/ko/1UB2_TTA인증서_20240131.pdf)
