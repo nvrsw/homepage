@@ -26,13 +26,13 @@ image:
   - Linux : Ubuntu 22.04 with modified Linux Kernel
 - Installation Program
   - **Latest Version**
-    - Version: **2.1.26.4.17** (2026-04-17)
+    - Version: **2.1.26.5.7** (2026-05-07)
     - Download
       - Windows
-        - 32 bits: [cms-2.1.26.4.17-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.26.4.17-win32-emstone.exe)
-        - 64 bits: [cms-2.1.26.4.17-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.26.4.17-win64-emstone.exe)
+        - 32 bits: [cms-2.1.26.5.7-win32-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.26.5.7-win32-emstone.exe)
+        - 64 bits: [cms-2.1.26.5.7-win64-emstone.exe](https://www.emstone.com/data/cms/cms-2.1.26.5.7-win64-emstone.exe)
       - Linux
-        - 64 bits: [cms-2.1.26.4.17-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.26.4.17-linux-x86_64.tar.gz)
+        - 64 bits: [cms-2.1.26.5.7-linux-x86_64.tar.gz](https://www.emstone.com/data/cms/cms-2.1.26.5.7-linux-x86_64.tar.gz)
 
 ## Mobile App
 
